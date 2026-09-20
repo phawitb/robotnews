@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {englishStory,localizeEnglish} from './english.mjs';
+const articles=JSON.parse(await readFile('content/articles.json','utf8'));
+const translations=JSON.parse(await readFile('content/english.json','utf8'));
+const media=JSON.parse(await readFile('content/media.json','utf8'));
+test('every story has full English text and identical media URLs',()=>{for(const a of articles){const en=englishStory(a,media[a.id],translations[a.id]);assert.ok(en.detail.sections.length>=3);assert.ok(!/[ก-๙]/u.test(JSON.stringify(en)));assert.deepEqual(en.media.images.map(x=>x.url),media[a.id].images.map(x=>x.url));assert.deepEqual(en.media.videos.map(x=>x.url),media[a.id].videos.map(x=>x.url))}});
+test('missing translations fail rather than publishing mixed-language pages',()=>{assert.throws(()=>englishStory(articles[0],media[articles[0].id],undefined),/English/);assert.throws(()=>localizeEnglish('ข้อความที่ไม่มีคำแปล'),/Untranslated/)});
+test('English build contains navigation and equivalent story links',async()=>{const home=await readFile('dist/en/index.html','utf8');assert.ok(home.includes('lang="en"'));assert.ok(home.includes('/en/news-data.js'));assert.ok(!/[ก-๙]/u.test(home));for(const a of articles){const html=await readFile(`dist/en/articles/${a.id}.html`,'utf8');assert.ok(html.includes('lang="en"'));assert.ok(html.includes(`href="/articles/${a.id}.html"`));assert.ok(html.includes('hreflang="th"'));assert.ok(!/[ก-๙]/u.test(html));const th=await readFile(`dist/articles/${a.id}.html`,'utf8');assert.ok(th.includes(`href="/en/articles/${a.id}.html"`))}});

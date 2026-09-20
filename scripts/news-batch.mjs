@@ -1,3 +1,4 @@
+import {englishStory} from './english.mjs';
 import {readFile,writeFile,rename,mkdir,open,unlink} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {pathToFileURL} from 'node:url';
@@ -48,6 +49,7 @@ export function validateBatch(batch,state,now=new Date()){
   const includedImages=new Set(m.images.map(i=>canonicalUrl(i.url))),includedVideos=new Set(m.videos.flatMap(v=>[v.url,v.sourceUrl].filter(Boolean)).map(canonicalUrl));
   const exclusions=new Set();for(const x of r.excludedMedia){requireThat(https(x.url)&&['advertisement','related-story','avatar','duplicate','tracking','site-decoration'].includes(x.reason),'Invalid media exclusion');exclusions.add(canonicalUrl(x.url))}
   for(const [list,included] of [[r.discoveredImages,includedImages],[r.discoveredVideos,includedVideos]])for(const u of list)requireThat(https(u)&&(included.has(canonicalUrl(u))||exclusions.has(canonicalUrl(u))),'Discovered media is missing from article: '+u);
+  englishStory(a,m,item.english);
   const host=new URL(canonicalUrl(a.url)).hostname;sources.set(host,(sources.get(host)||0)+1);
  }
  requireThat(sources.size>=3&&[...sources.values()].every(n=>n<=4),'Use at least 3 independent source domains, at most 4 stories each');
@@ -55,7 +57,7 @@ export function validateBatch(batch,state,now=new Date()){
 }
 export async function loadState(root='.'){
  const read=async file=>JSON.parse(await readFile(path.join(root,'content',file),'utf8'));
- return {articles:await read('articles.json'),details:await read('details.json'),media:await read('media.json'),history:await read('news-history.json')};
+ return {articles:await read('articles.json'),details:await read('details.json'),media:await read('media.json'),history:await read('news-history.json'),english:await read('english.json')};
 }
 export const batchHash=batch=>createHash('sha256').update(JSON.stringify(batch)).digest('hex');
 export function planBatch(batch,state,now=new Date()){
@@ -63,14 +65,14 @@ export function planBatch(batch,state,now=new Date()){
  if(previous){requireThat(previous.batchHash===hash,'Run ID already exists with different content; reconcile publication before selecting another batch');return {alreadyApplied:true,run:previous}}
  validateBatch(batch,state,now);
  const next=structuredClone(state),record={runId:batch.runId,batchHash:hash,preparedAt:now.toISOString(),articleIds:batch.items.map(i=>i.article.id)};
- for(const {article,detail,media,editorial} of batch.items){const a={...article,addedAt:record.preparedAt};next.articles.push(a);next.details[a.id]=detail;next.media[a.id]=media;next.history.stories.push({id:a.id,storyKey:editorial.storyKey,originalTitle:editorial.originalTitle,urls:[...new Set([a.url,...(editorial.identityUrls||[])])],references:editorial.sourceUrls,publishedAt:editorial.publishedAt,addedAt:a.addedAt,runId:batch.runId,reason:editorial.reason,score:editorial.score,mediaAudit:{images:media.images.length,videos:media.videos.length,excluded:editorial.excludedMedia}})}
+ for(const {article,detail,media,editorial,english} of batch.items){const a={...article,addedAt:record.preparedAt};next.articles.push(a);next.details[a.id]=detail;next.media[a.id]=media;next.english[a.id]=english;next.history.stories.push({id:a.id,storyKey:editorial.storyKey,originalTitle:editorial.originalTitle,urls:[...new Set([a.url,...(editorial.identityUrls||[])])],references:editorial.sourceUrls,publishedAt:editorial.publishedAt,addedAt:a.addedAt,runId:batch.runId,reason:editorial.reason,score:editorial.score,mediaAudit:{images:media.images.length,videos:media.videos.length,excluded:editorial.excludedMedia}})}
  next.history.runs.push(record);return {alreadyApplied:false,next,run:record};
 }
 export async function applyBatch(batch,root='.',now=new Date()){
  const dir=path.join(root,'.news-work');await mkdir(dir,{recursive:true});const lock=path.join(dir,'import.lock');const handle=await open(lock,'wx');
  const originals=new Map();
  try{const state=await loadState(root),plan=planBatch(batch,state,now);if(plan.alreadyApplied)return plan;
-  const files={'articles.json':plan.next.articles,'details.json':plan.next.details,'media.json':plan.next.media,'news-history.json':plan.next.history};
+  const files={'articles.json':plan.next.articles,'details.json':plan.next.details,'media.json':plan.next.media,'news-history.json':plan.next.history,'english.json':plan.next.english};
   for(const [name,value] of Object.entries(files)){const target=path.join(root,'content',name);originals.set(target,await readFile(target));await writeFile(target+'.tmp',JSON.stringify(value,null,2)+'\n');await rename(target+'.tmp',target)}
   return {alreadyApplied:false,run:plan.run};
  }catch(error){for(const [target,bytes] of originals)await writeFile(target,bytes);throw error}finally{await handle.close();await unlink(lock)}

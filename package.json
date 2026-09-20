@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node server.mjs",
     "start": "node server.mjs",
-    "check": "node --check server.mjs && node --check dist/app.js && node --check dist/article.js && node --check dist/news-data.js && node --test scripts/*.test.mjs",
+    "check": "node --check server.mjs && node --check dist/app.js && node --check dist/article.js && node --check dist/news-data.js && node --check dist/en/app.js && node --check dist/en/article.js && node --check dist/en/news-data.js && node --test scripts/*.test.mjs",
     "build": "node scripts/build-articles.mjs",
     "news:check": "node scripts/news-batch.mjs check",
     "news:apply": "node scripts/news-batch.mjs apply"

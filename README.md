@@ -54,3 +54,8 @@ npm run check
 ```
 
 สคริปต์ตรวจ/นำเข้าไม่ push เอง ขั้นตอน skill ตรวจผลและ commit/push หลังผ่านการตรวจทั้งหมด ดูรูปแบบข้อมูลใน `skills/robotnews-daily/references/batch-format.md`
+
+
+## English edition
+
+Open `/en` (or `/en/`) for the English edition. Each story has a corresponding `/en/articles/<id>.html` page and an EN/TH language switch. English titles, summaries, sections and media captions live in `content/english.json`; images and video sources are shared with the Thai edition. `npm run build` generates both editions, and daily batches must contain complete English translations before import. Interface translations are maintained in `scripts/english.mjs`; missing translations stop the build.

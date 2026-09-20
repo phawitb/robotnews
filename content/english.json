@@ -1,0 +1,697 @@
+{
+  "hirebotics": {
+    "title": "Hirebotics adds line tracking and linear rails to extend cobot capabilities",
+    "summary": "New features help cobots paint moving parts and reach larger workpieces, bringing more flexibility to production lines.",
+    "sections": [
+      {
+        "heading": "Moving parts and larger workpieces",
+        "paragraphs": [
+          "Hirebotics introduced line tracking for conveyor-based painting and a modular linear rail at IMTS 2026 in Chicago. Both use the Beacon platform as their main interface, extending the range of tasks its cobots can handle."
+        ]
+      },
+      {
+        "heading": "Painting without stopping the conveyor",
+        "paragraphs": [
+          "Sensors detect the workpiece and an encoder tracks conveyor movement. The system adjusts the painting path as the part moves. Operators teach the direction and configure the task in Beacon; the company says conventional programming is not required."
+        ]
+      },
+      {
+        "heading": "Extending the working envelope",
+        "paragraphs": [
+          "The cobot has a reach of about 1.75 metres. Rail sections add roughly 1.5 metres at a time, with custom lengths also available. This can help with long structures or difficult-to-move parts in welding, plasma cutting and painting applications."
+        ]
+      },
+      {
+        "heading": "Available features and future plans",
+        "paragraphs": [
+          "At the time of publication, operators repositioned the rail manually. Hirebotics planned to add position confirmation in Beacon and targeted automatic rail movement for late 2026. Those planned capabilities should be distinguished from features already available."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/hirebotics-featured.jpg",
+        "alt": "A welding cobot on a linear rail",
+        "caption": "A linear rail extends the cobot’s working reach. Image: Hirebotics."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=sUbm33OHSAI",
+        "title": "How Tate Gets 12× Welding Output Across 3 Plants",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MRfTxSNwe0k",
+        "title": "Beacon Platform in Action | MIG Welding, Plasma Cutting & Cobot Automation | Hirebotics",
+        "note": ""
+      },
+      {
+        "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGdUqlpsNfrTQ/mp4-360p-30fp-crf28/B4EaCsN4PdKEBg-/0/1789595723726?e=2147483647&v=beta&t=x6tvYQTCMBKmw648I9jxAsc3vigzFnhctwxFpnl6jIM",
+        "title": "Line tracking: a cobot follows a moving conveyor",
+        "note": ""
+      }
+    ]
+  },
+  "locus": {
+    "title": "Locus Robotics and Kimball Midwest win supply-chain robotics award",
+    "summary": "A deployment across three distribution centres has supported more than 13.2 million picks, with the companies reporting productivity gains and payback within a year.",
+    "sections": [
+      {
+        "heading": "Recognition for a working warehouse deployment",
+        "paragraphs": [
+          "Locus Robotics and Kimball Midwest received the Best Use of Robotics award at the 2026 Supply Chain Excellence Awards USA. The project started in Columbus in January 2024 and expanded to three sites within 14 months without major changes to existing shelving."
+        ]
+      },
+      {
+        "heading": "A fleet of more than 100 robots",
+        "paragraphs": [
+          "Autonomous mobile robots support picking and putaway at distribution centres in Ohio, Texas and Nevada. According to the companies, the deployment has supported more than 13.2 million robot-assisted picks and approximately one million putaway transactions."
+        ]
+      },
+      {
+        "heading": "Productivity and payback",
+        "paragraphs": [
+          "Picking rates rose from around 110 to more than 160 lines per hour, while putaway increased from about 30 to 91–96 lines per hour. The companies report payback within a year, shorter employee training and less reliance on temporary labour."
+        ]
+      },
+      {
+        "heading": "Moving staff between changing priorities",
+        "paragraphs": [
+          "Using the same platform for both picking and putaway allows staff to move between tasks as demand changes. The aim is to support growth while maintaining the promise to ship orders received before 4 p.m. on the same day."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "abz": {
+    "title": "ABZ Innovation opens a larger European drone factory",
+    "summary": "The new Szentendre facility in Hungary expands manufacturing for agricultural spraying, industrial cleaning and transport drones.",
+    "sections": [
+      {
+        "heading": "A new manufacturing base in Hungary",
+        "paragraphs": [
+          "ABZ Innovation opened a facility in Szentendre around four times the size of its previous factory. The company aims to triple output in 2026 and double it again in 2027 as it responds to commercial drone demand."
+        ]
+      },
+      {
+        "heading": "Four product families",
+        "paragraphs": [
+          "The range comprises L-Series spraying drones, S-Series seed and granular-material spreaders, C-Series high-pressure cleaning drones and M-Series multipurpose transport drones. The company reports deployments in more than 40 countries across six continents."
+        ]
+      },
+      {
+        "heading": "Production and after-sales support",
+        "paragraphs": [
+          "The facility is intended to serve as a global manufacturing hub. ABZ emphasises European production, data control, training, spare parts and after-sales service for customers who use drones in their day-to-day operations."
+        ]
+      },
+      {
+        "heading": "The expansion behind the announcement",
+        "paragraphs": [
+          "The investment follows a €7 million funding round in January 2026. ABZ says industrial cleaning is its fastest-growing product line. Its production targets remain plans whose eventual delivery will need to be assessed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/ABZ-Innovation-drone-manufacturing-europe.jpg?quality=82&strip=all&w=1200",
+        "alt": "ABZ Innovation’s new drone factory in Hungary",
+        "caption": "The new Hungarian manufacturing facility. Image via DroneDJ."
+      }
+    ],
+    "videos": []
+  },
+  "light": {
+    "title": "Control ambient light before tuning a robotic inspection camera",
+    "summary": "Windows, overhead fixtures and nearby work areas can change inspection images. The lighting environment needs attention before camera settings are finalised.",
+    "sections": [
+      {
+        "heading": "External light makes images inconsistent",
+        "paragraphs": [
+          "EVST recommends checking windows, overhead lighting and adjacent work areas before adjusting an inspection camera. Light that changes during the day can make settings that work at one time unreliable at another."
+        ]
+      },
+      {
+        "heading": "Start with the real inspection cell",
+        "paragraphs": [
+          "The accompanying video shows a part inside a cell with transparent panels and a window behind it, while a local light moves with the end device. This illustrates the layout but does not establish image quality or defect-detection accuracy."
+        ]
+      },
+      {
+        "heading": "Match light control to its source",
+        "paragraphs": [
+          "The article discusses panels or enclosures, short light pulses and optical filters. Each measure should be linked to the source it addresses, including reflections from guarding and the workpiece itself."
+        ]
+      },
+      {
+        "heading": "Test under changing conditions",
+        "paragraphs": [
+          "When a light or camera moves with the robot, shielding effectiveness can vary with position. Images need to be checked at times with different levels of interfering light before the inspection view can be treated as reliable."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.evsint.com/wp-content/uploads/2026/09/04-egy263-e263-t05-blog-video-19s.jpg",
+        "alt": "A robot moves a local light above a part in an inspection cell",
+        "caption": "A local light moves with the end device; this view does not demonstrate detection performance. Image: EVST."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Z_B8ziCOby8",
+        "title": "Lighting in a robotic inspection cell",
+        "note": ""
+      }
+    ]
+  },
+  "a3": {
+    "title": "A3 adds the business case for automation to its robotics course",
+    "summary": "A new investment-assessment module helps learners decide where industrial robotics can create value and how to evaluate a project.",
+    "sections": [
+      {
+        "heading": "Connecting robotics with business decisions",
+        "paragraphs": [
+          "The Association for Advancing Automation, or A3, added a business-case module to its Introduction to Industrial Robotics course. It is intended to help learners identify where automation is appropriate and assess the value of a proposed investment."
+        ]
+      },
+      {
+        "heading": "Designed for newcomers",
+        "paragraphs": [
+          "The self-paced course does not require a technical background. It is aimed at people entering the field, operations staff and others involved in business decisions about deploying robotics."
+        ]
+      },
+      {
+        "heading": "Looking beyond the robot purchase price",
+        "paragraphs": [
+          "The new material covers project costs, returns and payback periods, opportunities to improve productivity and quality, and workforce implications. It also addresses early project planning, requests for proposals and selecting an integrator."
+        ]
+      },
+      {
+        "heading": "Applying the ideas to a real project",
+        "paragraphs": [
+          "Learners can use A3’s Robot System Value Calculator to assess a system they are considering. The central idea is to begin with the problem that needs solving and then examine how technology could deliver a return."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "digit": {
+    "title": "From Cassie to Digit 5: Agility Robotics’ path to workplace robots",
+    "summary": "Agility’s robot generations trace a shift from bipedal locomotion research to practical warehouse work, safety and production readiness.",
+    "sections": [
+      {
+        "heading": "From walking research to useful work",
+        "paragraphs": [
+          "Agility Robotics began with Cassie, which took its first steps in 2016 and focused on bipedal movement. The first Digit followed in 2017 for researchers. The development path reflects a shift from walking performance to tasks that businesses need done."
+        ]
+      },
+      {
+        "heading": "Digit reaches commercial applications",
+        "paragraphs": [
+          "Digit 3 in 2019 targeted package delivery and box handling, with a lifting capacity of about 18 kilograms. Ford bought the first two robots to explore deliveries from a vehicle to a doorstep. Digit 4, introduced in 2023, focused on warehouses and distribution centres."
+        ]
+      },
+      {
+        "heading": "Workplace lessons inform Digit 5",
+        "paragraphs": [
+          "The fifth generation changes the leg structure to favour force over speed and updates the battery and systems for operating near people. According to Agility, the robot assesses risk and slows down or stops when a person approaches."
+        ]
+      },
+      {
+        "heading": "Company scale and plans",
+        "paragraphs": [
+          "The report describes a workforce of more than 400 and a factory capable of producing up to 10,000 robots per year. That figure is capacity, not actual deliveries. It also discusses a proposed SPAC transaction that had not been completed at the time of reporting."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Digitthroughtheyears.jpg",
+        "alt": "Cassie and successive generations of Digit",
+        "caption": "Cassie and Digit through the years. Image: Agility Robotics."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/Ford-Digit-Agility-Robotics-3-1280x853-1-1024x682.jpeg",
+        "alt": "An early Digit places a box on a doorstep",
+        "caption": "An early Digit during a delivery trial. Image: Agility Robotics."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=qV-92Bq96Co",
+        "title": "Cassie: Dynamic Planning on Stairs",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Jycdks836bY",
+        "title": "Made for Work",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rnFZAB9ogEE",
+        "title": "The Next Generation of Digit: Enabling Humans to be More Human",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=oyq9BOwK5XI",
+        "title": "Introducing Digit 5",
+        "note": ""
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/The-Evolution-of-Digit-3.mp4?_=1",
+        "title": "The evolution of Digit",
+        "note": "The source restricts access to this video file. Open it from the original article."
+      }
+    ]
+  },
+  "gen7": {
+    "title": "Universal Robots introduces its AI-ready Gen 7 platform",
+    "summary": "The new generation combines PolyScope X, updated robot arms, controllers and teaching interfaces for industrial automation.",
+    "sections": [
+      {
+        "heading": "A platform-wide update",
+        "paragraphs": [
+          "Universal Robots introduced its seventh-generation platform at IMTS, with PolyScope X at its core. The update spans the controller, teach pendant and tool connections to support industrial applications that use AI."
+        ]
+      },
+      {
+        "heading": "New arms and controller hardware",
+        "paragraphs": [
+          "The g-Series includes UR10g-1750, UR17g-1300 and UR18g-950 arms, with the names indicating payload and reach. Universal Robots says its CB7 Core controller provides 40% more processing power in a package 30% smaller, with support for multiple factory networks."
+        ]
+      },
+      {
+        "heading": "Connections for vision and AI",
+        "paragraphs": [
+          "The tool flange provides data, power and connections needed for cameras and sensors. Force and torque sensing, APIs and ROS2 communication are intended to help integrators develop additional applications."
+        ]
+      },
+      {
+        "heading": "Making teaching easier",
+        "paragraphs": [
+          "The TP7 Core pendant is more than 20% lighter, while the SP7 Smart Panel supports teaching close to the task. More than 20 partners contributed demonstrations. Users still need to select hardware and software suited to each application."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "perciva": {
+    "title": "Teledyne e2v adds Perciva ToF to its 3D imaging range",
+    "summary": "The new industrial depth camera combines a Hydra3D+ sensor and onboard processing for robotics, logistics and inspection.",
+    "sections": [
+      {
+        "heading": "Industrial depth sensing",
+        "paragraphs": [
+          "Teledyne e2v introduced Perciva ToF for applications that need depth information, including logistics, robotics and inspection. The camera brings the sensor and processing together in a single device."
+        ]
+      },
+      {
+        "heading": "The Hydra3D+ sensor",
+        "paragraphs": [
+          "Perciva uses an 832 × 600-pixel Hydra3D+ CMOS sensor with HiRho technology. The manufacturer says its pixel design supports near-infrared sensitivity and low-reflectivity materials while reducing imaging problems with fast-moving objects."
+        ]
+      },
+      {
+        "heading": "Ready-to-use data over GigE",
+        "paragraphs": [
+          "Factory calibration and onboard processing allow the camera to deliver depth maps and 3D point clouds directly over GigE. This is intended to simplify integration for developers and system integrators."
+        ]
+      },
+      {
+        "heading": "Demonstrations and supporting information",
+        "paragraphs": [
+          "The announcement says Teledyne plans to demonstrate the camera at VISION in Stuttgart on 6–8 October 2026 and offers documentation or product samples on request. The performance statements are manufacturer claims rather than independent tests in this report."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "coating": {
+    "title": "Define coating requirements before configuring a painting robot",
+    "summary": "Corners, recesses, rear surfaces and suspension points need explicit requirements before a robot’s spray path can be assessed.",
+    "sections": [
+      {
+        "heading": "Specify each surface region",
+        "paragraphs": [
+          "EVST recommends separate coating requirements for broad surfaces, corners, recesses, rear faces and hanging points. A single description of the desired finish for the whole part can leave important areas undefined."
+        ]
+      },
+      {
+        "heading": "Motion footage does not prove coating quality",
+        "paragraphs": [
+          "The video shows a robot approaching a suspended part, but cannot establish film thickness or coverage outside the camera’s view. Contact points with the hanging fixture may have different permitted exceptions for different products."
+        ]
+      },
+      {
+        "heading": "Separate general principles from actual settings",
+        "paragraphs": [
+          "Spray angle and nozzle distance affect coverage, but example settings from other spraying methods should not be transferred directly to a robot. The installed nozzle and actual system must be considered."
+        ]
+      },
+      {
+        "heading": "Test the unresolved requirement",
+        "paragraphs": [
+          "If the question concerns a deep recess, a front-face inspection will not answer it. Tests need to match the location under review and the real hanging orientation. Validating the robot path and assessing coating quality are separate steps."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.evsint.com/wp-content/uploads/2026/09/01-egy00-e00-t07-blog-video-05s.jpg",
+        "alt": "A painting robot approaches a suspended workpiece",
+        "caption": "The view does not establish coating coverage behind the part or at support contacts. Image: EVST."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Wz2LIpq2TWg",
+        "title": "Robotic painting of a suspended part",
+        "note": ""
+      }
+    ]
+  },
+  "softbank": {
+    "title": "SoftBank agrees to acquire the Robotics and AI Institute",
+    "summary": "The reported agreement would bring Marc Raibert’s research institute into SoftBank’s robotics portfolio, subject to review.",
+    "sections": [
+      {
+        "heading": "An agreement still under review",
+        "paragraphs": [
+          "The Robot Report says SoftBank agreed to buy the Robotics and AI Institute from Hyundai. Financial terms were not disclosed. The transaction was undergoing CFIUS review, with the precise review status unclear at the time of reporting."
+        ]
+      },
+      {
+        "heading": "Marc Raibert’s research institute",
+        "paragraphs": [
+          "Based in Cambridge, Massachusetts, RAI was founded in 2022 with more than $400 million in initial investment from Hyundai. Its work spans control, perception, manipulation, navigation and AI for physical tasks."
+        ]
+      },
+      {
+        "heading": "An existing relationship in robotics",
+        "paragraphs": [
+          "Marc Raibert founded both Boston Dynamics and RAI. SoftBank owned Boston Dynamics from 2017 to 2021 before Hyundai acquired a controlling stake, connecting the organisations through a longer history in robotics."
+        ]
+      },
+      {
+        "heading": "Questions that remain open",
+        "paragraphs": [
+          "Raibert’s role after a completed deal was unclear. The report suggests RAI’s research could complement SoftBank’s robotics and AI portfolio, but the outcome still depends on approval and subsequent implementation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
+        "alt": "Marc Raibert at the 2023 Robotics Summit & Expo",
+        "caption": "Marc Raibert speaking with Steve Crowe at the 2023 Robotics Summit & Expo. Image via The Robot Report."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2021/01/marc-raibert-atlas-dancing.jpg",
+        "alt": "Marc Raibert with Atlas",
+        "caption": "Boston Dynamics founder Marc Raibert with Atlas. Credit: Associated Press."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YA_TlJv0Uro",
+        "title": "Acrobatic Atlas Walks like a Human",
+        "note": ""
+      }
+    ]
+  },
+  "birotor": {
+    "title": "Two birotor robots join forces as a four-propeller aerial platform",
+    "summary": "IEEE Spectrum’s weekly video collection features connected flying robots alongside humanoids, unusual locomotion and automated laboratories.",
+    "sections": [
+      {
+        "heading": "A weekly collection of robotics videos",
+        "paragraphs": [
+          "IEEE Spectrum’s Video Friday gathers demonstrations from multiple research and development teams. A highlight is a pair of connected two-propeller flying robots from CLIMB Lab, alongside developments in humanoids and automation."
+        ]
+      },
+      {
+        "heading": "Movement and working near people",
+        "paragraphs": [
+          "The collection includes Digit 5 and work from Figure, as well as NYU’s WorMa. That robot transfers water between its front and rear to shift its weight distribution and help it negotiate obstacles."
+        ]
+      },
+      {
+        "heading": "A broad range of research",
+        "paragraphs": [
+          "Other projects include an underwater quadruped, MIT’s automated optics laboratory and NASA’s Lunabotics competition, where students test robotic vehicles in simulated lunar-surface conditions."
+        ]
+      },
+      {
+        "heading": "How to read the collection",
+        "paragraphs": [
+          "This is a set of videos from different projects, rather than a test of one product. Technical details and experimental results should be checked against the development teams and materials referenced by the original article."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://spectrum.ieee.org/media-library/two-small-dual-propeller-robots-facing-each-other-connected-by-a-loose-green-cord.png?id=67790149&width=1200&height=602",
+        "alt": "Two connected birotor flying robots",
+        "caption": "A connected aerial platform. Image: CLIMB Lab / IEEE Spectrum."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=2o41K1NlO1Y",
+        "title": "A transformable tethered aerial platform for robot-environment interactions",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HsNNIqSk2VU",
+        "title": "Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lJpM_2a1zrE",
+        "title": "Helix 2.5 30-Home Generalization",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=2dbyg67EtUA",
+        "title": "Agility Foundations: Functional Safety",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sETzFVdTc7I",
+        "title": "A Robot That Shifts Its Own Weight to Cross Land, Steps, and Water",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=n3obxR3Law0",
+        "title": "【EN】kubi 2.0 Official Promotional Video",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BaELSmhwmNI",
+        "title": "DEEP Robotics | Guarding the Oasis",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=RpkqZO1VsHU",
+        "title": "Design and Attitude Control of an Underwater Quadruped Robot",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4ehRWhJw5hA",
+        "title": "Introducing ugo Nova",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tPj1xTGl1nc",
+        "title": "Daimon-TWM World Model | Powering Robotic Dexterous Manipulation",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hUlfQOrvPxA",
+        "title": "Robots Building Robots: World's First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=AO1u9JoXLpk",
+        "title": "This robotic lab builds experiments on demand",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NlbIjwHuQX4",
+        "title": "Built for the Moon. Driven to Win. | Lunabotics at Kennedy Space Center",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=gSOci0alw6g",
+        "title": "RI Seminar: Erol Şahin : Augmenting Bee Colonies with Robotics and AI Tech...",
+        "note": ""
+      }
+    ]
+  },
+  "anscer": {
+    "title": "ANSCER reports conditional FCC approval for three mobile robots",
+    "summary": "The company says its AR250, AR650 and AR1250 models received conditional approval as it works toward US market access.",
+    "sections": [
+      {
+        "heading": "Three models named in the announcement",
+        "paragraphs": [
+          "ANSCER Robotics says the AR250, AR650 and AR1250 received conditional FCC approval effective 18 September 2026. The report is a company announcement distributed through RoboticsTomorrow."
+        ]
+      },
+      {
+        "heading": "What it means for US operations",
+        "paragraphs": [
+          "According to the announcement, the approval allows the company to pursue the equipment authorisations needed for US import and sales, subject to domestic manufacturing and supply-chain transparency conditions."
+        ]
+      },
+      {
+        "heading": "The approval remains conditional",
+        "paragraphs": [
+          "The announcement distinguishes conditional approval from unconditional equipment authorisation and ties it to manufacturing commitments and continuing reporting. It should not be interpreted as an exemption from all requirements."
+        ]
+      },
+      {
+        "heading": "Applications for the robots",
+        "paragraphs": [
+          "The AR family moves materials in warehouses, factories and intralogistics operations. The parent company is based in Bengaluru, India, while its Plano, Texas operation handles North American sales and service."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "cassie": {
+    "title": "Tutor Intelligence introduces the next generation of Cassie and Sonny",
+    "summary": "The company combines updated robot hardware and AI for case handling and individual-item picking in warehouses.",
+    "sections": [
+      {
+        "heading": "Tutor Intelligence’s robots",
+        "paragraphs": [
+          "MassRobotics shared news of Tutor Intelligence’s next-generation Cassie and Sonny, covering hardware, AI models and deployments. This Cassie is Tutor’s robot, not Agility Robotics’ biped of the same name."
+        ]
+      },
+      {
+        "heading": "Cassie gains mobility on the factory floor",
+        "paragraphs": [
+          "Cassie is a single-arm robot on a wheeled base for case picking, depalletising and stacking. The company says the new version can travel between stations autonomously, has an integrated vacuum system and adds two 3D LiDAR units for environmental sensing."
+        ]
+      },
+      {
+        "heading": "Sonny targets individual-item picking",
+        "paragraphs": [
+          "Sonny uses a form focused on human-like dexterity and is intended to use the 4.5-billion-parameter Ti0 vision-language-action model. Initial tasks include warehouse navigation, shelf picking and delivering orders to packing stations."
+        ]
+      },
+      {
+        "heading": "Business model and claims",
+        "paragraphs": [
+          "Tutor offers usage-based pricing and says the new robots have already been deployed at US facilities. Claims about deployment speed and returns come from the developer and do not guarantee the same results at every warehouse."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaaa801ad210ffbe1b6bb70_sonny-blog-1.png",
+        "alt": "Sonny picks an item from shelving",
+        "caption": "The next-generation Sonny robot. Image: Tutor Intelligence."
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaaa867ad210ffbe1b71aef_Platform%20Architecture.png",
+        "alt": "The robotics and AI platform architecture",
+        "caption": "Platform architecture. Image: Tutor Intelligence."
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaab39e0547b7df16be31d0_sonny-poster.jpg",
+        "alt": "Sonny in a warehouse setting",
+        "caption": "Sonny for warehouse tasks. Image: Tutor Intelligence."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=csr8RZ-R1H8",
+        "title": "Case-Picking with Cassie - Tutor Intelligence",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=xWR6e3Qh3uQ",
+        "title": "Meet Cassie: The Robot Transforming Case Picking",
+        "note": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=JVvczLQdqYs",
+        "title": "Each-Picking with Sonny - Tutor Intelligence",
+        "note": ""
+      }
+    ]
+  },
+  "marines": {
+    "title": "US Marines share footage of drone training",
+    "summary": "The footage shows training with Skydio X2D reconnaissance drones and a separate exercise using heavy-lift drones for medical supplies.",
+    "sections": [
+      {
+        "heading": "Bringing drones into regular units",
+        "paragraphs": [
+          "DroneDJ reports on US Marine Corps training with Skydio X2D drones. The footage reflects efforts to build drone skills in regular units rather than relying solely on specialist teams."
+        ]
+      },
+      {
+        "heading": "The small-drone operator role",
+        "paragraphs": [
+          "The article discusses the sUAS Operator role, with trained personnel returning to share skills with their home units. It describes the X2D as a small reconnaissance drone equipped with visible-light and thermal imaging."
+        ]
+      },
+      {
+        "heading": "An example of medical logistics",
+        "paragraphs": [
+          "A separate video from an August exercise shows a heavy-lift drone delivering medical supplies to a simulated casualty-care location. It illustrates a logistics and medical-support application for drones."
+        ]
+      },
+      {
+        "heading": "Image and video sources",
+        "paragraphs": [
+          "The report references two DVIDS videos and credits images to the US Marine Corps. These depict training exercises as described by the source, not combat operations during an actual incident."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-2.jpg?quality=82&strip=all&w=1000",
+        "alt": "Skydio X2D training",
+        "caption": "Image: US Marine Corps / Cpl. Salvador Flores Perez."
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-3.webp?w=800",
+        "alt": "US Marines conduct drone training",
+        "caption": "Image: US Marine Corps / Cpl. Salvador Flores Perez."
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-5.jpg?quality=82&strip=all",
+        "alt": "Training with a Skydio X2D",
+        "caption": "Image: US Marine Corps / Cpl. Salvador Flores Perez."
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/CleanShot-2026-09-19-at-16.54.49@2x-2.jpg?quality=82&strip=all",
+        "alt": "Heavy-lift drone medical-supply training",
+        "caption": "US Navy corpsmen with the 4th Medical Battalion use heavy-lift drones in an exercise. Image: US Marine Corps / Lance Cpl. Carlo SouzaDeluca."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.dvidshub.net/video/1023602/us-marines-train-with-skydio-x2d-small-unmanned-aircraft-systems",
+        "title": "US Marines train with Skydio X2D",
+        "note": "The source video site did not respond during collection. Try the original link below."
+      },
+      {
+        "url": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111934347/DOD_111934347.mp4",
+        "title": "Medical-supply delivery during casualty-care training",
+        "note": ""
+      }
+    ]
+  }
+}

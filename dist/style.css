@@ -2,3 +2,6 @@
 /* Keep Thai reading text comfortable on both desktop and mobile. */
 .summary{font-size:14px}.metadata{font-size:12px}.tag{font-size:12px}.fresh{font-size:12px}.read-more,.copy{font-size:13px}.categories button,select{font-size:14px}.intro p{font-size:16px}.category-head{font-size:14px}
 @media(max-width:600px){.header-inner{height:auto;min-height:74px;flex-wrap:wrap;padding-top:14px;padding-bottom:10px;gap:8px 14px}.brand{flex:1}nav{order:3;width:100%;justify-content:center;gap:30px}nav a,nav button{display:block;font-size:13px;padding:7px 0}.intro p{font-size:14px}.categories button{font-size:12px}select{font-size:13px}.summary{font-size:16px}}
+
+.language-switch{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;min-width:40px;min-height:40px;border:1px solid var(--line,#dce3e6);border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;color:inherit}.language-switch:hover{background:var(--soft,#edf4f6)}
+html[lang="en"] .intro h1{line-height:1.15}html[lang="en"] .intro h1 span{display:block}

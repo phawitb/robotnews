@@ -1,6 +1,6 @@
 ---
 name: robotnews-daily
-description: Curate and publish exactly 10 fresh, interesting robotics news stories in Thai to the robotnews website, with semantic deduplication, detailed original summaries, complete article-media inventories, and automatic GitHub push. Use when asked to update หุ่นยนต์ครับ, run daily robot news, fetch ten robot stories, or execute a scheduled robotnews update.
+description: Curate and publish exactly 10 fresh, interesting robotics news stories in Thai and English to the robotnews website, with semantic deduplication, detailed original summaries, complete article-media inventories, and automatic GitHub push. Use when asked to update หุ่นยนต์ครับ, run daily robot news, fetch ten robot stories, or execute a scheduled robotnews update.
 ---
 
 # Robotnews daily publishing
@@ -9,7 +9,7 @@ Publish to `https://github.com/phawitb/robotnews.git`, branch `main`; production
 
 ## Establish a safe run
 
-1. Locate the repository (usual local path `/Users/phawit/Documents/ChatGPT/Robot News 2`). Read applicable AGENTS.md, repository README, `content/{articles,details,media,news-history}.json`, and this skill's [batch contract](references/batch-format.md).
+1. Locate the repository (usual local path `/Users/phawit/Documents/ChatGPT/Robot News 2`). Read applicable AGENTS.md, repository README, `content/{articles,details,media,news-history,english}.json`, and this skill's [batch contract](references/batch-format.md).
 2. Verify origin is exactly this GitHub repository. Fetch main. Use a clean main checkout updated with `git pull --ff-only`; if the workspace has unrelated changes or diverged commits, clone remote main into a temporary directory and work there. Never discard user changes, force-push, or include unrelated files.
 3. Use the current actual time, not a date copied from an example. Default runId is the calendar date in the runtime's configured timezone. Record that timezone in the final report. Use one run per day; suffixes require an explicit extra-run request. Before research, inspect the remote history ledger for that runId. If it already exists, verify its existing commit/deployment and report it; do not collect a second batch.
 4. Keep candidates, raw HTML, media audits and batch JSON in ignored `.news-work/`. The import lock protects writes only, not the entire editorial run. Remote push rejection is the final concurrency guard.
@@ -34,17 +34,21 @@ Use existing renderer formats: images, YouTube click-to-play, native video, or `
 
 **Do not run the legacy `extract-media.py` or `enrich-media.py` for daily updates:** they target the initial import and can overwrite existing inventories. Add only this batch via the importer.
 
+## English edition
+
+Publish every story in both Thai and English. Include `item.english` using the batch contract: an original English title, summary, at least three substantial sections, and localized text for every image and video. Translate the verified Thai synthesis faithfully, preserving qualifications, numbers and credits; do not introduce extra claims. The same story ID and shared media URLs power `/articles/<id>.html` and `/en/articles/<id>.html`. Both editions must be complete before publication; never fall back silently to Thai on `/en`.
+
 ## Validate, publish and verify
 
 1. Prepare `.news-work/<runId>.json` using the batch contract. Set `duplicateReviewed` and `mediaReviewed` only after completing those reviews.
 2. Run `npm run news:check -- .news-work/<runId>.json`, then `npm run news:apply -- .news-work/<runId>.json`. The importer requires exactly 10, freshness, source diversity, detailed text, no recorded duplicate, and a reconciled media inventory. Review the changed data and generated pages; validation flags are evidence of your review, not a substitute.
-3. Run `npm run build` and `npm run check`. Check the homepage and all ten detail pages locally, including images, players/fallbacks, Thai text, links, and mobile layout on representative pages. Ensure original news remains intact and the homepage dataset contains all ten new IDs. Fix errors before publishing.
-4. Inspect `git diff --check`, status and diff. Stage only this batch's four content JSON files, `dist/news-data.js`, its ten `dist/articles/<id>.html` files and any intentionally added assets. Never stage credentials, caches, drafts or unrelated work. Commit as `news: publish <runId> (10 stories)` and `git push origin HEAD:main`.
+3. Run `npm run build` and `npm run check`. Check the Thai and English homepages and all ten detail pages in both languages locally, including images, players/fallbacks, Thai text, links, and mobile layout on representative pages. Ensure original news remains intact and the homepage dataset contains all ten new IDs. Fix errors before publishing.
+4. Inspect `git diff --check`, status and diff. Stage only this batch’s five content JSON files (including `content/english.json`), `dist/news-data.js`, `dist/en/news-data.js`, its ten Thai `dist/articles/<id>.html` and ten English `dist/en/articles/<id>.html` files and any intentionally added assets. Never stage credentials, caches, drafts or unrelated work. Commit as `news: publish <runId> (10 stories)` and `git push origin HEAD:main`.
 5. If push rejects because remote main advanced, fetch and inspect its ledger. If this run is already there, use that run. Otherwise rebase/reconcile in a clean checkout, repeat dedupe and validation against the new state, rebuild and review; do not blindly resolve ledger conflicts or force-push.
-6. Capture the pushed SHA. Verify GitHub's Vercel status for that SHA using `gh api repos/phawitb/robotnews/commits/<sha>/status`. Wait in bounded intervals (20–30 seconds, about 10 minutes total). Then fetch production `/news-data.js` and each new article URL, verifying actual IDs/titles and successful responses. A GitHub push alone is not deployment success. If Vercel fails or times out, report the exact state and available logs, preserving the published commit; don't publish another batch as a retry.
+6. Capture the pushed SHA. Verify GitHub's Vercel status for that SHA using `gh api repos/phawitb/robotnews/commits/<sha>/status`. Wait in bounded intervals (20–30 seconds, about 10 minutes total). Then fetch production `/news-data.js`, `/en/news-data.js`, `/en` and each new article URL in both languages, verifying actual IDs/titles and successful responses. A GitHub push alone is not deployment success. If Vercel fails or times out, report the exact state and available logs, preserving the published commit; don't publish another batch as a retry.
 
 ## Retry and recovery
 
-The ledger records prepared batches, not deployment success. Identical batch+runId imports are no-ops even after the freshness window; a changed batch with the same runId is rejected. On restart always inspect remote main first, then local status and ledger. Recover the existing commit/run rather than starting over. An interrupted multi-file import may leave a lock or partial changes: inspect git diff and all four data files, restore only this run's uncommitted changes from its known clean base, then reapply the saved batch. Do not delete locks while another importer is active. Keep unrelated edits untouched.
+The ledger records prepared batches, not deployment success. Identical batch+runId imports are no-ops even after the freshness window; a changed batch with the same runId is rejected. On restart always inspect remote main first, then local status and ledger. Recover the existing commit/run rather than starting over. An interrupted multi-file import may leave a lock or partial changes: inspect git diff and all five data files, restore only this run's uncommitted changes from its known clean base, then reapply the saved batch. Do not delete locks while another importer is active. Keep unrelated edits untouched.
 
 Report in Thai: run date/timezone, 10 headlines or a compact linked list, source diversity, image/video totals and any unavailable media, commit link, and verified deployment URL/status. If blocked, state the exact stage and preserved draft location. Never say published when only prepared. No scheduled job is created by this skill itself.
