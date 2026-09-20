@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robotnews Daily"
+  short_description: "คัดข่าวหุ่นยนต์ไทย 10 ข่าว พร้อมเผยแพร่เว็บ"
+  default_prompt: "ใช้ $robotnews-daily คัดข่าวหุ่นยนต์ใหม่ที่น่าสนใจ 10 ข่าวจากหลายแหล่ง ตรวจข่าวซ้ำ รวบรวมรายละเอียด รูปและวิดีโอ ตรวจเว็บ แล้ว push ขึ้น GitHub และตรวจผล Vercel"

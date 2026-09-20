@@ -8,3 +8,4 @@ node_modules/
 content/publishing-log.md
 content/assets/
 .vercel/
+.news-work/

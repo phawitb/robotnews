@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "stories": [
+    {
+      "id": "hirebotics",
+      "storyKey": "hirebotics-line-tracking-linear-rail-2026",
+      "urls": [
+        "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots"
+      ],
+      "publishedAt": "2026-09-19",
+      "title": "Hirebotics เพิ่มระบบติดตามสายพานและรางเลื่อน ให้โคบอททำงานได้ไกลกว่าเดิม",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "locus",
+      "storyKey": "locus-kimball-supply-chain-excellence-award-2026",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/09/18/locus-robotics-and-kimball-midwest-win-2026-supply-chain-excellence-award-for-best-use-of-robotics/27122"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "Locus Robotics และ Kimball Midwest คว้ารางวัลด้านหุ่นยนต์ในซัพพลายเชน",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "abz",
+      "storyKey": "abz-szentendre-drone-factory-2026",
+      "urls": [
+        "https://dronedj.com/2026/09/18/abz-innovation-drone-manufacturing-europe"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "ABZ Innovation เปิดโรงงานโดรนแห่งใหม่ในยุโรป รองรับงานเกษตรและอุตสาหกรรม",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "light",
+      "storyKey": "evst-inspection-cell-ambient-light-guide",
+      "urls": [
+        "https://www.evsint.com/before-the-image-control-ambient-light-in-inspection-cells"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "ก่อนปรับกล้องตรวจสอบ อย่าลืมจัดการแสงรอบพื้นที่ทำงาน",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "a3",
+      "storyKey": "a3-industrial-robotics-roi-course-2026",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/09/17/a3-expands-introduction-to-industrial-robotics-course-with-business-case-for-automation/27116"
+      ],
+      "publishedAt": "2026-09-17",
+      "title": "A3 เพิ่มบทเรียนประเมินความคุ้มค่า ในหลักสูตรหุ่นยนต์อุตสาหกรรม",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "digit",
+      "storyKey": "agility-cassie-to-digit5-evolution-2026",
+      "urls": [
+        "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5"
+      ],
+      "publishedAt": "2026-09-16",
+      "title": "จาก Cassie สู่ Digit 5 เส้นทางพัฒนาหุ่นยนต์ของ Agility Robotics",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "gen7",
+      "storyKey": "universal-robots-gen7-launch-2026",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/09/15/universal-robots-unveils-gen-7-a-new-platform-for-industrial-automation-and-physical-ai-deployment/27099"
+      ],
+      "publishedAt": "2026-09-15",
+      "title": "Universal Robots เปิดตัว Gen 7 แพลตฟอร์มพร้อมใช้ AI ในภาคอุตสาหกรรม",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "perciva",
+      "storyKey": "teledyne-e2v-perciva-tof-launch-2026",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/09/15/teledyne-e2v-expands-3d-imaging-portfolio-with-new-perciva-tof-camera/27097"
+      ],
+      "publishedAt": "2026-09-15",
+      "title": "Teledyne e2v เพิ่มกล้อง Perciva ToF ในกลุ่มผลิตภัณฑ์ภาพสามมิติ",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "coating",
+      "storyKey": "evst-robotic-coating-requirements-guide",
+      "urls": [
+        "https://www.evsint.com/around-the-corners-specify-robotic-coating-requirements"
+      ],
+      "publishedAt": "2026-09-17",
+      "title": "กำหนดโจทย์งานเคลือบผิวให้ครบ ก่อนตั้งค่าหุ่นยนต์พ่นสี",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "softbank",
+      "storyKey": "softbank-acquires-robotics-ai-institute-2026",
+      "urls": [
+        "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "SoftBank ตกลงซื้อ Robotics and AI Institute",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "birotor",
+      "storyKey": "ieee-video-friday-birotor-2026-09-18",
+      "urls": [
+        "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "เมื่อหุ่นยนต์สองใบพัดสองตัว รวมกันเป็นโดรนสี่ใบพัด",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "anscer",
+      "storyKey": "anscer-fcc-conditional-approval-2026",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/09/18/anscer-robotics-secures-fcc-conditional-approval-for-its-ar250-ar650-and-ar1250-autonomous-mobile-robots/27123"
+      ],
+      "publishedAt": "2026-09-18",
+      "title": "ANSCER Robotics ได้รับอนุมัติแบบมีเงื่อนไขจาก FCC สำหรับหุ่นยนต์เคลื่อนที่ 3 รุ่น",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "cassie",
+      "storyKey": "tutor-cassie-sonny-next-generation-2026",
+      "urls": [
+        "https://www.massrobotics.org/announcing-the-next-generation-of-robot-workers-cassie-and-sonny"
+      ],
+      "publishedAt": "2026-09-16",
+      "title": "เปิดตัว Cassie และ Sonny หุ่นยนต์ทำงานรุ่นใหม่",
+      "runId": "legacy-import"
+    },
+    {
+      "id": "marines",
+      "storyKey": "us-marines-skydio-training-medical-drone-2026",
+      "urls": [
+        "https://dronedj.com/2026/09/19/us-marine-corps-share-videos-of-what-training-with-drones-looks-like"
+      ],
+      "publishedAt": "2026-09-19",
+      "title": "นาวิกโยธินสหรัฐฯ เผยวิดีโอการฝึกใช้งานโดรน",
+      "runId": "legacy-import"
+    }
+  ],
+  "runs": []
+}

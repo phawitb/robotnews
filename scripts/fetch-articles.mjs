@@ -1,10 +1,9 @@
-import {readFile,writeFile} from 'node:fs/promises';
-import vm from 'node:vm';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {existsSync} from 'node:fs';
 import {execFile} from 'node:child_process';
 import {promisify} from 'node:util';
-const text=await readFile('dist/app.js','utf8');
-const articles=vm.runInNewContext(text.split('const $=')[0]+';articles');
+const articles=JSON.parse(await readFile('content/articles.json','utf8'));
+await mkdir('.firecrawl/articles',{recursive:true});
 await writeFile('.firecrawl/articles/index.json',JSON.stringify(articles,null,2));
 const queue=articles.filter(a=>!existsSync(`.firecrawl/articles/${a.id}.json`));
 await Promise.all(Array.from({length:4},async()=>{while(queue.length){const a=queue.shift();try{await promisify(execFile)('firecrawl',['scrape',a.url,'--format','markdown,html','--only-main-content','-o',`.firecrawl/articles/${a.id}.json`],{timeout:180000,maxBuffer:1024*1024});console.log(a.id,'OK')}catch(e){console.log(a.id,'FAILED',e.message.slice(0,180))}}}));
