@@ -7,3 +7,4 @@ node_modules/
 !.env.example
 content/publishing-log.md
 content/assets/
+.vercel/
