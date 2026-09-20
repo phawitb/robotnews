@@ -1,0 +1,357 @@
+{
+  "a3": {
+    "images": [],
+    "videos": []
+  },
+  "locus": {
+    "images": [],
+    "videos": []
+  },
+  "hirebotics": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/hirebotics-featured.jpg",
+        "alt": "โคบอทงานเชื่อมที่ขยายระยะทำงานด้วยรางเลื่อน",
+        "caption": "โคบอทงานเชื่อมที่ขยายระยะทำงานด้วยรางเลื่อน | ภาพ: Hirebotics",
+        "originalCaption": "With a new linear rail, Hirebotics cobots, like ones used for welding above, can extend beyond a 68.9-in. reach. | Source: Hirebotics",
+        "local": "/assets/hirebotics.jpg"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=sUbm33OHSAI",
+        "embed": "https://www.youtube-nocookie.com/embed/sUbm33OHSAI",
+        "title": "How Tate Gets 12× Welding Output Across 3 Plants"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=MRfTxSNwe0k",
+        "embed": "https://www.youtube-nocookie.com/embed/MRfTxSNwe0k",
+        "title": "Beacon Platform in Action | MIG Welding, Plasma Cutting & Cobot Automation | Hirebotics"
+      },
+      {
+        "kind": "video",
+        "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGdUqlpsNfrTQ/mp4-360p-30fp-crf28/B4EaCsN4PdKEBg-/0/1789595723726?e=2147483647&v=beta&t=x6tvYQTCMBKmw648I9jxAsc3vigzFnhctwxFpnl6jIM",
+        "title": "สาธิต Line Tracking ให้โคบอทเคลื่อนตามสายพาน",
+        "poster": "https://media.licdn.com/dms/image/v2/D4E10AQGdUqlpsNfrTQ/videocover-high/B4EaCsN4PdKEAo-/0/1789595720885?e=2147483647&v=beta&t=1tT5YSDk5CkVhNFSK_yt67lj44YH7gQPAaxbmn3vMtQ",
+        "sourceUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7506108969061445632"
+      }
+    ]
+  },
+  "softbank": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
+        "alt": "Marc Raibert บนเวที Robotics Summit & Expo ปี 2023",
+        "caption": "Marc Raibert บนเวที Robotics Summit & Expo ปี 2023 | ภาพจาก The Robot Report",
+        "originalCaption": "Marc Raibert (center) spoke with editor Steve Crowe in a 2023 Robotics Summit & Expo keynote."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2021/01/marc-raibert-atlas-dancing.jpg",
+        "alt": "Marc Raibert กับหุ่นยนต์ Atlas",
+        "caption": "Marc Raibert กับหุ่นยนต์ Atlas | เครดิตต้นฉบับ: Associated Press",
+        "originalCaption": "Boston Dynamics founder Marc Raibert standing with the Atlas humanoid. | Credit: Associated Press"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=YA_TlJv0Uro",
+        "embed": "https://www.youtube-nocookie.com/embed/YA_TlJv0Uro",
+        "title": "Acrobatic Atlas Walks like a Human"
+      }
+    ]
+  },
+  "birotor": {
+    "images": [
+      {
+        "url": "https://spectrum.ieee.org/media-library/two-small-dual-propeller-robots-facing-each-other-connected-by-a-loose-green-cord.png?id=67790149&width=1200&height=602",
+        "alt": "หุ่นยนต์สองใบพัดสองตัวที่เชื่อมต่อกัน",
+        "caption": "หุ่นยนต์สองใบพัดสองตัวที่เชื่อมต่อกัน | ภาพ: CLIMB Lab / IEEE Spectrum",
+        "originalCaption": ""
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=2o41K1NlO1Y",
+        "embed": "https://www.youtube-nocookie.com/embed/2o41K1NlO1Y",
+        "title": "A transformable tethered aerial platform for robot-environment interactions"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=HsNNIqSk2VU",
+        "embed": "https://www.youtube-nocookie.com/embed/HsNNIqSk2VU",
+        "title": "Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=lJpM_2a1zrE",
+        "embed": "https://www.youtube-nocookie.com/embed/lJpM_2a1zrE",
+        "title": "Helix 2.5 30-Home Generalization"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=2dbyg67EtUA",
+        "embed": "https://www.youtube-nocookie.com/embed/2dbyg67EtUA",
+        "title": "Agility Foundations: Functional Safety"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=sETzFVdTc7I",
+        "embed": "https://www.youtube-nocookie.com/embed/sETzFVdTc7I",
+        "title": "A Robot That Shifts Its Own Weight to Cross Land, Steps, and Water"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=n3obxR3Law0",
+        "embed": "https://www.youtube-nocookie.com/embed/n3obxR3Law0",
+        "title": "【EN】kubi 2.0 Official Promotional Video"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=BaELSmhwmNI",
+        "embed": "https://www.youtube-nocookie.com/embed/BaELSmhwmNI",
+        "title": "DEEP Robotics | Guarding the Oasis"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=RpkqZO1VsHU",
+        "embed": "https://www.youtube-nocookie.com/embed/RpkqZO1VsHU",
+        "title": "Design and Attitude Control of an Underwater Quadruped Robot"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=4ehRWhJw5hA",
+        "embed": "https://www.youtube-nocookie.com/embed/4ehRWhJw5hA",
+        "title": "Introducing ugo Nova"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=tPj1xTGl1nc",
+        "embed": "https://www.youtube-nocookie.com/embed/tPj1xTGl1nc",
+        "title": "Daimon-TWM World Model | Powering Robotic Dexterous Manipulation"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=hUlfQOrvPxA",
+        "embed": "https://www.youtube-nocookie.com/embed/hUlfQOrvPxA",
+        "title": "Robots Building Robots: World's First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=AO1u9JoXLpk",
+        "embed": "https://www.youtube-nocookie.com/embed/AO1u9JoXLpk",
+        "title": "This robotic lab builds experiments on demand"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=NlbIjwHuQX4",
+        "embed": "https://www.youtube-nocookie.com/embed/NlbIjwHuQX4",
+        "title": "Built for the Moon. Driven to Win. | Lunabotics at Kennedy Space Center"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=gSOci0alw6g",
+        "embed": "https://www.youtube-nocookie.com/embed/gSOci0alw6g",
+        "title": "RI Seminar: Erol Şahin : Augmenting Bee Colonies with Robotics and AI Tech..."
+      }
+    ]
+  },
+  "digit": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Digitthroughtheyears.jpg",
+        "alt": "Cassie และหุ่นยนต์ Digit ในแต่ละช่วงการพัฒนา",
+        "caption": "Cassie และหุ่นยนต์ Digit ในแต่ละช่วงการพัฒนา | ภาพ: Agility Robotics",
+        "originalCaption": "From left to right: Cassie and Digit through the years. | Source: Agility Robotics"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/Ford-Digit-Agility-Robotics-3-1280x853-1-1024x682.jpeg",
+        "alt": "Digit รุ่นแรกระหว่างการทดลองส่งกล่องถึงหน้าบ้าน",
+        "caption": "Digit รุ่นแรกระหว่างการทดลองส่งกล่องถึงหน้าบ้าน | ภาพ: Agility Robotics",
+        "originalCaption": "An early version of Digit places a box on a doorstep during a delivery trial. | Credit: Agility"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=qV-92Bq96Co",
+        "embed": "https://www.youtube-nocookie.com/embed/qV-92Bq96Co",
+        "title": "Cassie: Dynamic Planning on Stairs"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=Jycdks836bY",
+        "embed": "https://www.youtube-nocookie.com/embed/Jycdks836bY",
+        "title": "Made for Work"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=rnFZAB9ogEE",
+        "embed": "https://www.youtube-nocookie.com/embed/rnFZAB9ogEE",
+        "title": "The Next Generation of Digit: Enabling Humans to be More Human"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=oyq9BOwK5XI",
+        "embed": "https://www.youtube-nocookie.com/embed/oyq9BOwK5XI",
+        "title": "Introducing Digit 5"
+      },
+      {
+        "kind": "link",
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/The-Evolution-of-Digit-3.mp4?_=1",
+        "title": "วิวัฒนาการของ Digit จากรุ่นแรกถึงรุ่นปัจจุบัน",
+        "poster": "",
+        "sourceUrl": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5",
+        "note": "เว็บต้นทางจำกัดการเข้าถึงไฟล์วิดีโอนี้ กรุณาเปิดจากหน้าบทความต้นฉบับ"
+      }
+    ]
+  },
+  "light": {
+    "images": [
+      {
+        "url": "https://www.evsint.com/wp-content/uploads/2026/09/04-egy263-e263-t05-blog-video-19s.jpg",
+        "alt": "หุ่นยนต์เคลื่อนแสงเฉพาะจุดเหนือชิ้นงานภายในเซลล์ตรวจสอบ",
+        "caption": "หุ่นยนต์เคลื่อนแสงเฉพาะจุดเหนือชิ้นงานภายในเซลล์ตรวจสอบ | ภาพ: EVST",
+        "originalCaption": "At 00:19, a local light moves with the end device. The view does not show image quality, ambient light levels or any detection result."
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=Z_B8ziCOby8",
+        "embed": "https://www.youtube-nocookie.com/embed/Z_B8ziCOby8",
+        "title": "การจัดแสงในเซลล์ตรวจสอบด้วยหุ่นยนต์"
+      }
+    ]
+  },
+  "coating": {
+    "images": [
+      {
+        "url": "https://www.evsint.com/wp-content/uploads/2026/09/01-egy00-e00-t07-blog-video-05s.jpg",
+        "alt": "หุ่นยนต์พ่นสีเข้าหาชิ้นงานที่แขวนอยู่",
+        "caption": "หุ่นยนต์พ่นสีเข้าหาชิ้นงานที่แขวนอยู่ | ภาพ: EVST",
+        "originalCaption": "At 00:05, the hanging part and side approach are visible. The view does not establish coverage behind the part or at its support contacts."
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=Wz2LIpq2TWg",
+        "embed": "https://www.youtube-nocookie.com/embed/Wz2LIpq2TWg",
+        "title": "ตัวอย่างการพ่นสีบนชิ้นงานที่แขวน"
+      }
+    ]
+  },
+  "marines": {
+    "images": [
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-2.jpg?quality=82&strip=all&w=1000",
+        "alt": "การฝึกใช้งานโดรน Skydio X2D",
+        "caption": "การฝึกใช้งานโดรน Skydio X2D | ภาพ: US Marine Corps / Cpl. Salvador Flores Perez",
+        "originalCaption": "Image: US Marine Corps / Cpl. Salvador Flores Perez"
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-3.webp?w=800",
+        "alt": "ภาพการฝึกโดรนของนาวิกโยธินสหรัฐฯ",
+        "caption": "ภาพการฝึกโดรนของนาวิกโยธินสหรัฐฯ | ภาพ: US Marine Corps / Cpl. Salvador Flores Perez",
+        "originalCaption": "Image: US Marine Corps / Cpl. Salvador Flores Perez"
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/1000w_q95.jpg-5.jpg?quality=82&strip=all",
+        "alt": "การฝึกกับ Skydio X2D",
+        "caption": "การฝึกกับ Skydio X2D | ภาพ: US Marine Corps / Cpl. Salvador Flores Perez",
+        "originalCaption": ""
+      },
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/CleanShot-2026-09-19-at-16.54.49@2x-2.jpg?quality=82&strip=all",
+        "alt": "การฝึกส่งเวชภัณฑ์ด้วยโดรนยกของหนัก",
+        "caption": "การฝึกส่งเวชภัณฑ์ด้วยโดรนยกของหนัก | ภาพ: US Marine Corps / Lance Cpl. Carlo SouzaDeluca",
+        "originalCaption": "US Navy Corpsman with the 4th Medical Battalion, 4th Marine Logistic Group use heavy lift drones, in recent training exercise. Image: Us Marine Corps / Lance Cpl. Carlo SouzaDeluca"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "title": "การฝึกใช้ Skydio X2D ของนาวิกโยธินสหรัฐฯ",
+        "url": "https://www.dvidshub.net/video/1023602/us-marines-train-with-skydio-x2d-small-unmanned-aircraft-systems",
+        "sourceUrl": "https://www.dvidshub.net/video/1023602/us-marines-train-with-skydio-x2d-small-unmanned-aircraft-systems",
+        "note": "เว็บวิดีโอต้นทางไม่ตอบสนองขณะรวบรวมข้อมูล สามารถลองเปิดต้นฉบับได้จากลิงก์ด้านล่าง"
+      },
+      {
+        "kind": "video",
+        "title": "การฝึกส่งเวชภัณฑ์เพื่อดูแลผู้บาดเจ็บ",
+        "url": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111934347/DOD_111934347.mp4",
+        "sourceUrl": "https://www.dvidshub.net/video/1021076/b-roll-us-navy-corpsman-with-4th-medical-battalion-participate-prolonged-casualty-care",
+        "note": ""
+      }
+    ]
+  },
+  "gen7": {
+    "images": [],
+    "videos": []
+  },
+  "perciva": {
+    "images": [],
+    "videos": []
+  },
+  "abz": {
+    "images": [
+      {
+        "url": "https://dronedj.com/wp-content/uploads/sites/2/2026/09/ABZ-Innovation-drone-manufacturing-europe.jpg?quality=82&strip=all&w=1200",
+        "alt": "โรงงานผลิตโดรนแห่งใหม่ของ ABZ Innovation ในฮังการี",
+        "caption": "โรงงานผลิตโดรนแห่งใหม่ของ ABZ Innovation ในฮังการี | ภาพจาก DroneDJ",
+        "originalCaption": ""
+      }
+    ],
+    "videos": []
+  },
+  "anscer": {
+    "images": [],
+    "videos": []
+  },
+  "cassie": {
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaaa801ad210ffbe1b6bb70_sonny-blog-1.png",
+        "alt": "Sonny รุ่นใหม่กำลังหยิบสินค้าจากชั้นวาง",
+        "caption": "Sonny รุ่นใหม่กำลังหยิบสินค้าจากชั้นวาง | ภาพ: Tutor Intelligence",
+        "originalCaption": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaaa867ad210ffbe1b71aef_Platform%20Architecture.png",
+        "alt": "โครงสร้างแพลตฟอร์มหุ่นยนต์และ AI",
+        "caption": "โครงสร้างแพลตฟอร์มหุ่นยนต์และ AI | ภาพ: Tutor Intelligence",
+        "originalCaption": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/68fa203fe60162c631624fe0/6aaab39e0547b7df16be31d0_sonny-poster.jpg",
+        "alt": "หุ่นยนต์ Sonny สำหรับงานในคลังสินค้า",
+        "caption": "หุ่นยนต์ Sonny สำหรับงานในคลังสินค้า | ภาพ: Tutor Intelligence",
+        "originalCaption": ""
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=csr8RZ-R1H8",
+        "embed": "https://www.youtube-nocookie.com/embed/csr8RZ-R1H8",
+        "title": "Case-Picking with Cassie - Tutor Intelligence"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=xWR6e3Qh3uQ",
+        "embed": "https://www.youtube-nocookie.com/embed/xWR6e3Qh3uQ",
+        "title": "Meet Cassie: The Robot Transforming Case Picking"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=JVvczLQdqYs",
+        "embed": "https://www.youtube-nocookie.com/embed/JVvczLQdqYs",
+        "title": "Each-Picking with Sonny - Tutor Intelligence"
+      }
+    ]
+  }
+}
