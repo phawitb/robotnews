@@ -140,7 +140,500 @@
       "publishedAt": "2026-09-19",
       "title": "นาวิกโยธินสหรัฐฯ เผยวิดีโอการฝึกใช้งานโดรน",
       "runId": "legacy-import"
+    },
+    {
+      "id": "amazon-greenwood-manufacturing-investment-2026",
+      "storyKey": "amazon-greenwood-manufacturing-investment-2026",
+      "originalTitle": "Amazon to invest $100M in new Indiana manufacturing facility - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+        "https://press.aboutamazon.com/job-creation-and-investment/2026/9/amazon-to-create-300-high-paying-jobs-at-new-advanced-manufacturing-facility-in-greenwood-indiana"
+      ],
+      "references": [
+        "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+        "https://press.aboutamazon.com/job-creation-and-investment/2026/9/amazon-to-create-300-high-paying-jobs-at-new-advanced-manufacturing-facility-in-greenwood-indiana"
+      ],
+      "publishedAt": "2026-09-25T18:59:01Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "การลงทุนมีสถานที่ งบประมาณ กระบวนการ และกำหนดเปิดชัดเจน เชื่อมโยงงานเชื่อมและการผลิตอัตโนมัติ",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anymal-secure-door-access-whitegate-2026",
+      "storyKey": "anymal-secure-door-access-whitegate-2026",
+      "originalTitle": "ANYbotics opens the door for inspections with ANYmal robots - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots/"
+      ],
+      "publishedAt": "2026-09-24T13:27:58Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "แก้ข้อจำกัดจริงของหุ่นยนต์ตรวจโรงงาน มีการทดลองในโรงไฟฟ้าและอธิบายสิทธิ์เข้าถึงชัดเจน",
+      "score": 19,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://yt3.ggpht.com/5ikCfzlbEYsC9AG3NDf5xf1GpSzG3CnECGrKWLI-0XDVhbSv2kLNV4tmumv-6YdM-cOblUTM=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agility-confirms-wheeled-robot-exploration-2026",
+      "storyKey": "agility-confirms-wheeled-robot-exploration-2026",
+      "originalTitle": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+      "urls": [
+        "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+        "https://robotnews.vercel.app/articles/digit.html"
+      ],
+      "publishedAt": "2026-09-25T14:08:27Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "คำยืนยันใหม่จากผู้บริหารต่อคำถามของผู้สื่อข่าวเรื่องล้อ แตกต่างจากประวัติและการเปิดตัว Digit 5 ที่เคยลงแล้ว",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/My3LWPkoqnJ5OSnKDD0UTSEII9Otkp2Y9XMvchWIt6HOS6TChp8k8AATe1as0uqxGU0CDSVh3VA=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "asi-softbank-construction-joint-venture-2026",
+      "storyKey": "asi-softbank-construction-joint-venture-2026",
+      "originalTitle": "ASI And SoftBank Group Form Joint Venture To Advance Autonomous Construction At Scale - ASI Robots",
+      "urls": [
+        "https://asirobots.com/asi-and-softbank-group-form-joint-venture-to-advance-autonomous-construction-at-scale/"
+      ],
+      "references": [
+        "https://asirobots.com/asi-and-softbank-group-form-joint-venture-to-advance-autonomous-construction-at-scale/"
+      ],
+      "publishedAt": "2026-09-24T18:00:00Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "ลงทุนในกองเครื่องจักรอัตโนมัติที่เชื่อมโยงงานก่อสร้าง มีข้อตกลงและแยกแหล่งเงินทุนตรวจสอบได้",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/asi-logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/25years-innovation-asi.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/social/linkedin.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/social/x.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/social/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2026/08/asi-hero-videos@2x-e1788387678941.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2026/07/GPTW-Banner-portrait-1.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2026/04/ASI-whitepaper-playbook.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2026/05/USSugarPressrelease.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2026/03/Image-6.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/11/home-hero-slideshow-251015-02.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/09/Fira-event-banner.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/08/0Q6A7850-Edit.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-9.06.00-AM.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/07/Amazing_Culture_US-e1752604413990.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/06/LehiOfficeGrandOpening-1.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/06/WeWorkPressReleaseIMG-e1750799777646.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/04/asi-construciton-komatsu-truck-hauling-01-e1758664848186.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2024/10/AutomotiveSunsetPressReleaseImage2.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://asirobots.com//wp-content/uploads/2025/10/trend-report@2x-squashed.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/icon-book-demo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/uploads/2025/08/group77.jpeg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/asi-logo-25th-greatwork.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/social/instagram.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://asirobots.com/wp-content/themes/asi/img/social/youtube.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "leopard-lumotive-sirius-max-launch-2026",
+      "storyKey": "leopard-lumotive-sirius-max-launch-2026",
+      "originalTitle": "Leopard Imaging® and Lumotive Introduce \"Sirius Max\" -- A Long-Range Software-Defined 3D Perception Platform for Robotics and AI",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/leopard-imaging-and-lumotive-introduce-sirius-max--a-long-range-software-defined-3d-perception-platform-for-robotics-and-ai-302889658.html",
+        "https://www.roboticstomorrow.com/news/2026/09/25/leopard-imaging-and-lumotive-introduce-sirius-max-a-long-range-software-defined-3d-perception-platform-for-robotics-and-ai/27162/"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/leopard-imaging-and-lumotive-introduce-sirius-max--a-long-range-software-defined-3d-perception-platform-for-robotics-and-ai-302889658.html",
+        "https://www.roboticstomorrow.com/news/2026/09/25/leopard-imaging-and-lumotive-introduce-sirius-max-a-long-range-software-defined-3d-perception-platform-for-robotics-and-ai/27162/"
+      ],
+      "publishedAt": "2026-09-24T19:00:00Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "เซนเซอร์ใหม่มีรายละเอียดสถาปัตยกรรมและการเชื่อมต่อ เหมาะกับผู้พัฒนาหุ่นยนต์และแมชชีนวิชัน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1243453/Leopard-Imaging-Logo.jpg?id=OA2970402",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=SF56607&Transmission_Id=202609241500PR_NEWS_USPR_____SF56607&DateId=20260924",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1990314/Leopard-Imaging-Inc-Product-Image.jpg?id=OA2954847",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1980099/Leopard-Imaging-Inc-DragonFire-Photo.jpg?id=OA2924929",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/SEM.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/ARO.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AUT.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ifr-world-robotics-2026-five-million",
+      "storyKey": "ifr-world-robotics-2026-five-million",
+      "originalTitle": "5 million robots are now at work in factories worldwide, reports the IFR - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+        "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
+      ],
+      "references": [
+        "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+        "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
+      ],
+      "publishedAt": "2026-09-24T20:15:51Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "รายงานสถิติใหม่ช่วยประเมินทิศทางอุตสาหกรรมและแยกตลาดที่เติบโตจากตลาดที่ชะลอ",
+      "score": 19,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skyebrowse-crush-claims-impact-crowd-2026",
+      "storyKey": "skyebrowse-crush-claims-impact-crowd-2026",
+      "originalTitle": "SkyeBrowse Releases Crush Analysis and Claims Tool",
+      "urls": [
+        "https://www.skyebrowse.com/news/posts/skyebrowse-crush-analysis-claims-crowd-counter",
+        "https://dronelife.com/2026/09/25/skyebrowse-crash-analysis-crowd-counter/"
+      ],
+      "references": [
+        "https://www.skyebrowse.com/news/posts/skyebrowse-crush-analysis-claims-crowd-counter",
+        "https://dronelife.com/2026/09/25/skyebrowse-crash-analysis-crowd-counter/"
+      ],
+      "publishedAt": "2026-09-24T23:27:27.828Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "เพิ่มเครื่องมือใช้ภาพโดรนในงานกู้ภัยและตรวจอุบัติเหตุ มีขอบเขตการประเมินและเงื่อนไขใช้งานชัดเจน",
+      "score": 17,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.skyebrowse.com/logotypes/skyebrowse/logo_black_horizontal.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/bob_headshot_84c5755c33.png",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/tiers_bare_bcce215a43.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/02_crowd_counter_fcf6a6cb_769c294513.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/accident_reconstruction_training_1b6382a601.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.skyebrowse.com/logotypes/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.skyebrowse.com/logotypes/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.skyebrowse.com/logotypes/instagram.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.skyebrowse.com/logotypes/linkedin.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.skyebrowse.com/logotypes/youtube.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skyfireai-dbox-us-autonomy-mou-2026",
+      "storyKey": "skyfireai-dbox-us-autonomy-mou-2026",
+      "originalTitle": "Beyond the Drone and Dock: Building a System for Autonomous Operations",
+      "urls": [
+        "https://dronelife.com/2026/09/25/autonomous-drone-operations-skyfireai-dbox/"
+      ],
+      "references": [
+        "https://dronelife.com/2026/09/25/autonomous-drone-operations-skyfireai-dbox/"
+      ],
+      "publishedAt": "2026-09-25T16:04:00Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "เชื่อมส่วนประกอบที่จำเป็นต่อโดรนอัตโนมัติ มีผู้ร่วมงานและแผนสาธิตชัดเจน แยก MOU จากการใช้งานจริง",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-1024x683.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-195x130.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-768x512.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-1536x1024.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-600x400.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/11/Miriam-McNabb-headshot-scaled.jpg",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "polyumi-vista-multimodal-demonstrations-2026",
+      "storyKey": "polyumi-vista-multimodal-demonstrations-2026",
+      "originalTitle": "PolyUMI: Accessible Visual–Tactile–Audio Data Collection",
+      "urls": [
+        "https://polyumi-vista.github.io/"
+      ],
+      "references": [
+        "https://polyumi-vista.github.io/",
+        "https://arxiv.org/abs/2609.29760",
+        "https://github.com/polyumi/PolyUMI-platform"
+      ],
+      "publishedAt": "2026-09-24T13:09:50Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "อุปกรณ์เปิดเผยต้นทุนและโค้ด ผลทดลองแสดงว่าข้อมูลสัมผัสและเสียงช่วยงานที่กล้องมองไม่เห็น พร้อมข้อจำกัดจำนวนทดลอง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 9,
+        "videos": 6,
+        "excluded": [
+          {
+            "url": "https://polyumi-vista.github.io/assets/polyumi-logo.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "self-adaptive-vla-hardware-shifts-2026",
+      "storyKey": "self-adaptive-vla-hardware-shifts-2026",
+      "originalTitle": "Self-Adaptive VLA for Robust Robot Deployment",
+      "urls": [
+        "https://icefoxzhx.github.io/self-adaptive-vla/"
+      ],
+      "references": [
+        "https://icefoxzhx.github.io/self-adaptive-vla/",
+        "https://arxiv.org/abs/2609.30092"
+      ],
+      "publishedAt": "2026-09-24T16:37:46Z",
+      "addedAt": "2026-09-27T07:45:36.405Z",
+      "runId": "2026-09-27",
+      "reason": "แนวทางใหม่ใช้ข้อมูลการลองชดเชยความต่างของฮาร์ดแวร์ มีตัวอย่างย้ายสถานีและวิดีโอทั้งสำเร็จและล้มเหลว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 37,
+        "excluded": []
+      }
     }
   ],
-  "runs": []
+  "runs": [
+    {
+      "runId": "2026-09-27",
+      "batchHash": "0d3cbe6fe00080c6f059ea3788dd673e65abbe7b0b9569d9f7a29267d0bdb0af",
+      "preparedAt": "2026-09-27T07:45:36.405Z",
+      "articleIds": [
+        "amazon-greenwood-manufacturing-investment-2026",
+        "anymal-secure-door-access-whitegate-2026",
+        "agility-confirms-wheeled-robot-exploration-2026",
+        "asi-softbank-construction-joint-venture-2026",
+        "leopard-lumotive-sirius-max-launch-2026",
+        "ifr-world-robotics-2026-five-million",
+        "skyebrowse-crush-claims-impact-crowd-2026",
+        "skyfireai-dbox-us-autonomy-mou-2026",
+        "polyumi-vista-multimodal-demonstrations-2026",
+        "self-adaptive-vla-hardware-shifts-2026"
+      ]
+    }
+  ]
 }

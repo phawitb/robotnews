@@ -353,5 +353,486 @@
         "title": "Each-Picking with Sonny - Tutor Intelligence"
       }
     ]
+  },
+  "amazon-greenwood-manufacturing-investment-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/amazon-robotics-manufacturing-line-featured.jpg",
+        "alt": "หุ่นยนต์ Proteus บนสายการผลิตเดิมของ Amazon",
+        "caption": "หุ่นยนต์ Proteus บนสายการผลิตเดิมของ Amazon · ภาพ: Amazon / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=r98fdSJ9lfw",
+        "title": "ชมงานหุ่นยนต์ของ Amazon ในแมสซาชูเซตส์",
+        "note": "วิดีโอ: Associated Press",
+        "embed": "https://www.youtube-nocookie.com/embed/r98fdSJ9lfw"
+      }
+    ]
+  },
+  "anymal-secure-door-access-whitegate-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ANYbotics-Door-Opening-Inspection_02.jpg",
+        "alt": "ANYmal ตรวจสอบพื้นที่อุตสาหกรรม",
+        "caption": "ANYmal ตรวจสอบพื้นที่อุตสาหกรรม · ภาพ: ANYbotics"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ANYbotics-doors-copy.jpg",
+        "alt": "ระบบประตูและการยืนยันสิทธิ์สำหรับ ANYmal",
+        "caption": "ระบบประตูและการยืนยันสิทธิ์สำหรับ ANYmal · ภาพ: ANYbotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=_zxNuQnY92w",
+        "title": "ANYmal ผ่านประตูที่ควบคุมสิทธิ์ร่วมกับ LEGIC และ dormakaba",
+        "note": "วิดีโอ: LEGIC / ANYbotics / dormakaba",
+        "embed": "https://www.youtube-nocookie.com/embed/_zxNuQnY92w"
+      }
+    ]
+  },
+  "agility-confirms-wheeled-robot-exploration-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
+        "alt": "ภาพแนวคิดหุ่นยนต์ล้อเลื่อนในวิดีโอ Digit 5 ไม่ใช่ภาพยืนยันผลิตภัณฑ์พร้อมขาย",
+        "caption": "ภาพแนวคิดหุ่นยนต์ล้อเลื่อนในวิดีโอ Digit 5 ไม่ใช่ภาพยืนยันผลิตภัณฑ์พร้อมขาย · ภาพ: Agility Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=oyq9BOwK5XI",
+        "title": "วิดีโอเปิดตัว Digit 5 เดิมที่มีภาพแนวคิดหุ่นยนต์ล้อเลื่อน",
+        "note": "วิดีโอ: Agility Robotics",
+        "embed": "https://www.youtube-nocookie.com/embed/oyq9BOwK5XI"
+      }
+    ]
+  },
+  "asi-softbank-construction-joint-venture-2026": {
+    "images": [
+      {
+        "url": "https://asirobots.com/wp-content/uploads/2026/09/2026-09-24-at-09.25.08@2x.png",
+        "alt": "ภาพประกอบประกาศความร่วมมือระหว่าง ASI และ SoftBank",
+        "caption": "ภาพประกอบประกาศความร่วมมือระหว่าง ASI และ SoftBank · ภาพ: ASI"
+      }
+    ],
+    "videos": []
+  },
+  "leopard-lumotive-sirius-max-launch-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1996192/Leopard-Imaging-Inc-Lumotive-Sirius-Max-A-Long-Range-Software-Defined-3D-Perception-Platform.jpg?id=OA2970403",
+        "alt": "โมดูล Sirius Max สำหรับการรับรู้ภาพสีและความลึก",
+        "caption": "โมดูล Sirius Max สำหรับการรับรู้ภาพสีและความลึก · ภาพ: Leopard Imaging / Lumotive / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "ifr-world-robotics-2026-five-million": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_GLOBAL.webp",
+        "alt": "ยอดติดตั้งหุ่นยนต์อุตสาหกรรมทั่วโลกในแต่ละปี",
+        "caption": "ยอดติดตั้งหุ่นยนต์อุตสาหกรรมทั่วโลกในแต่ละปี · ภาพ: IFR / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_CHINA.png",
+        "alt": "แนวโน้มการติดตั้งหุ่นยนต์อุตสาหกรรมในจีน",
+        "caption": "แนวโน้มการติดตั้งหุ่นยนต์อุตสาหกรรมในจีน · ภาพ: IFR / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_Top_Market_USA.png",
+        "alt": "ตลาดหุ่นยนต์อุตสาหกรรมหลักในปี 2025",
+        "caption": "ตลาดหุ่นยนต์อุตสาหกรรมหลักในปี 2025 · ภาพ: IFR / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_EU-27.png",
+        "alt": "ยอดติดตั้งหุ่นยนต์อุตสาหกรรมในสหภาพยุโรป",
+        "caption": "ยอดติดตั้งหุ่นยนต์อุตสาหกรรมในสหภาพยุโรป · ภาพ: IFR / The Robot Report"
+      }
+    ],
+    "videos": []
+  },
+  "skyebrowse-crush-claims-impact-crowd-2026": {
+    "images": [
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/crush-analysis-heatmap-2026.webp",
+        "alt": "ตัวอย่างการวัดความยุบและแผนภาพสีแสดงความเสียหายของรถ",
+        "caption": "ตัวอย่างการวัดความยุบและแผนภาพสีแสดงความเสียหายของรถ · ภาพ: SkyeBrowse"
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/claims-total-loss-prescreen-2026.webp",
+        "alt": "หน้าคัดกรองการซ่อมและความเสียหายรวม ซึ่งยังต้องให้ผู้ประเมินตรวจ",
+        "caption": "หน้าคัดกรองการซ่อมและความเสียหายรวม ซึ่งยังต้องให้ผู้ประเมินตรวจ · ภาพ: SkyeBrowse"
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/impact-factual-diagram-2026.webp",
+        "alt": "แผนผังตำแหน่งรถและเส้นทางเข้าชนที่ปรับแก้ได้",
+        "caption": "แผนผังตำแหน่งรถและเส้นทางเข้าชนที่ปรับแก้ได้ · ภาพ: SkyeBrowse"
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/crowd-counter-dji-rc-pro-aerial.jpg",
+        "alt": "ภาพโดรนที่ทำเครื่องหมายบุคคลสำหรับประมาณจำนวนคน",
+        "caption": "ภาพโดรนที่ทำเครื่องหมายบุคคลสำหรับประมาณจำนวนคน · ภาพ: SkyeBrowse"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=grGKTVPxUEI",
+        "title": "แนะนำเครื่องมือวิเคราะห์ความยุบและการคัดกรองเคลม",
+        "note": "วิดีโอ: SkyeBrowse",
+        "embed": "https://www.youtube-nocookie.com/embed/grGKTVPxUEI",
+        "sourceUrl": "https://www.youtube.com/embed/grGKTVPxUEI?rel=0&modestbranding=1"
+      }
+    ]
+  },
+  "skyfireai-dbox-us-autonomy-mou-2026": {
+    "images": [
+      {
+        "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-2048x1365.jpg",
+        "alt": "การลงนามความร่วมมือด้านระบบโดรนอัตโนมัติที่ไมอามี",
+        "caption": "การลงนามความร่วมมือด้านระบบโดรนอัตโนมัติที่ไมอามี · ภาพ: DRONELIFE / ภาพเผยแพร่ประกอบข่าว"
+      }
+    ],
+    "videos": []
+  },
+  "polyumi-vista-multimodal-demonstrations-2026": {
+    "images": [
+      {
+        "url": "https://polyumi-vista.github.io/assets/hero.jpg",
+        "alt": "ชุดรับรู้ภาพ สัมผัส และเสียงของ PolyUMI ทั้งแบบถือและติดหุ่นยนต์",
+        "caption": "ชุดรับรู้ภาพ สัมผัส และเสียงของ PolyUMI ทั้งแบบถือและติดหุ่นยนต์ · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/system.jpg",
+        "alt": "ส่วนประกอบมือจับ นิ้วรับสัมผัส กล้อง และไมโครโฟนสัมผัส",
+        "caption": "ส่วนประกอบมือจับ นิ้วรับสัมผัส กล้อง และไมโครโฟนสัมผัส · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/vista-model.png",
+        "alt": "โครงสร้าง VisTA ที่รวมข้อมูลหลายเซนเซอร์เพื่อสร้างคำสั่ง",
+        "caption": "โครงสร้าง VisTA ที่รวมข้อมูลหลายเซนเซอร์เพื่อสร้างคำสั่ง · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/tactile-shapes.png",
+        "alt": "ภาพสัมผัสของรูปทรงพื้นผิวห้าแบบ",
+        "caption": "ภาพสัมผัสของรูปทรงพื้นผิวห้าแบบ · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/shape-confusion.png",
+        "alt": "ผลจำแนกรูปทรงจากเซนเซอร์สัมผัส",
+        "caption": "ผลจำแนกรูปทรงจากเซนเซอร์สัมผัส · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/shake-setup.png",
+        "alt": "การทดลองเขย่ากล่องและสัญญาณเสียงจากวัตถุภายใน",
+        "caption": "การทดลองเขย่ากล่องและสัญญาณเสียงจากวัตถุภายใน · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/audio-confusion.png",
+        "alt": "ผลจำแนกวัตถุในกล่องจากการใช้ชุดเซนเซอร์ต่างกัน",
+        "caption": "ผลจำแนกวัตถุในกล่องจากการใช้ชุดเซนเซอร์ต่างกัน · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/slip-setup.png",
+        "alt": "ขั้นตอนปล่อยไขควงหมุนแล้วจับไว้ใกล้แนวดิ่ง",
+        "caption": "ขั้นตอนปล่อยไขควงหมุนแล้วจับไว้ใกล้แนวดิ่ง · ภาพ: PolyUMI Research Team"
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/success-rates.png",
+        "alt": "ผลการเช็ดกระดานและหมุนหลอดไฟในชุดทดลอง",
+        "caption": "ผลการเช็ดกระดานและหมุนหลอดไฟในชุดทดลอง · ภาพ: PolyUMI Research Team"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/polyumi-overview.mp4",
+        "title": "ภาพรวมแพลตฟอร์ม PolyUMI และการทดลอง",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/video-poster.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/PolyTouch_finger_transfer.mp4",
+        "title": "ย้ายนิ้วเซนเซอร์จากมือจับไปยังหุ่นยนต์",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/poster-transfer.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/polyumi_shaking_1.mp4",
+        "title": "เขย่ากล่องเพื่อรับเสียงของวัตถุภายใน",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/poster-shaking.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/Slip_control_w6x.mp4",
+        "title": "ควบคุมการลื่นของไขควงในมือจับ",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/poster-slip.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/polyumi_board_wiping_1.mp4",
+        "title": "ทดลองเช็ดเส้นบนกระดาน",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/poster-boardwiping.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://polyumi-vista.github.io/assets/polyumi_lightbulb.mp4",
+        "title": "ทดลองหมุนหลอดไฟให้เข้าที่",
+        "note": "วิดีโอ: PolyUMI Research Team",
+        "poster": "https://polyumi-vista.github.io/assets/poster-lightbulb.jpg"
+      }
+    ]
+  },
+  "self-adaptive-vla-hardware-shifts-2026": {
+    "images": [
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/teaser_poster.jpg",
+        "alt": "ภาพปกวิดีโอสาธิต Self-Adaptive VLA",
+        "caption": "ภาพปกวิดีโอสาธิต Self-Adaptive VLA · ภาพ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/method_poster.jpg",
+        "alt": "ภาพปกวิดีโออธิบายขั้นตอนปรับตัวของโมเดล",
+        "caption": "ภาพปกวิดีโออธิบายขั้นตอนปรับตัวของโมเดล · ภาพ: Self-Adaptive VLA Research Team"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/teaser.mp4",
+        "title": "วิดีโอภาพรวมพร้อมคำบรรยายเสียง",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team",
+        "poster": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/teaser_poster.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/method.mp4",
+        "title": "ขั้นตอนใช้ข้อมูลจากการลองเพื่อปรับคำสั่ง",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team",
+        "poster": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/method_poster.jpg"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial0.mp4",
+        "title": "ประกอบวงแหวน รอบ 0: จับไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial1.mp4",
+        "title": "ประกอบวงแหวน รอบ 1: ประกอบไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial2.mp4",
+        "title": "ประกอบวงแหวน รอบ 2: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station1_base.mp4",
+        "title": "สถานีเดิม: โมเดลพื้นฐาน สำเร็จ 5 จาก 5",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_base.mp4",
+        "title": "สถานีใหม่: โมเดลพื้นฐาน สำเร็จ 0 จาก 5",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_ours_1trial.mp4",
+        "title": "สถานีใหม่: บริบทหนึ่งรอบ สำเร็จ 2 จาก 5",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_ours_2trials.mp4",
+        "title": "สถานีใหม่: บริบทสองรอบ สำเร็จ 5 จาก 5",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep6_t0.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 1 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep6_t1.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 1 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep3_t0.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 2 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep3_t1.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 2 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep4_t0.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 3 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep4_t1.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 3 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t0.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 4 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t1.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 4 รอบ 1: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t2.mp4",
+        "title": "ขนย้ายข้าวโพด ชุด 4 รอบ 2: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep1_t0.mp4",
+        "title": "ปิดฝาปากกา ชุด 1 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep1_t1.mp4",
+        "title": "ปิดฝาปากกา ชุด 1 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep6_t0.mp4",
+        "title": "ปิดฝาปากกา ชุด 2 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep6_t1.mp4",
+        "title": "ปิดฝาปากกา ชุด 2 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t1.mp4",
+        "title": "ปิดฝาปากกา ชุด 3 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t2.mp4",
+        "title": "ปิดฝาปากกา ชุด 3 รอบ 1: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t3.mp4",
+        "title": "ปิดฝาปากกา ชุด 3 รอบ 2: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t1.mp4",
+        "title": "ปิดฝาปากกา ชุด 4 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t2.mp4",
+        "title": "ปิดฝาปากกา ชุด 4 รอบ 1: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t3.mp4",
+        "title": "ปิดฝาปากกา ชุด 4 รอบ 2: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep5_t0.mp4",
+        "title": "สอดท่อ ชุด 1 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep5_t1.mp4",
+        "title": "สอดท่อ ชุด 1 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep8_t0.mp4",
+        "title": "สอดท่อ ชุด 2 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep8_t1.mp4",
+        "title": "สอดท่อ ชุด 2 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep10_t0.mp4",
+        "title": "สอดท่อ ชุด 3 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep10_t1.mp4",
+        "title": "สอดท่อ ชุด 3 รอบ 1: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t0.mp4",
+        "title": "สอดท่อ ชุด 4 รอบ 0: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t1.mp4",
+        "title": "สอดท่อ ชุด 4 รอบ 1: ไม่สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      },
+      {
+        "kind": "video",
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t2.mp4",
+        "title": "สอดท่อ ชุด 4 รอบ 2: สำเร็จ",
+        "note": "วิดีโอ: Self-Adaptive VLA Research Team"
+      }
+    ]
   }
 }

@@ -693,5 +693,706 @@
         "note": ""
       }
     ]
+  },
+  "amazon-greenwood-manufacturing-investment-2026": {
+    "title": "Amazon plans a $100 million-plus factory to support its robotics network",
+    "summary": "The Greenwood, Indiana facility will combine fabrication, robotic welding, coating and assembly, with a planned 2028 launch and 300 jobs.",
+    "sections": [
+      {
+        "heading": "A factory for the fulfillment network",
+        "paragraphs": [
+          "Amazon announced on September 24 that it plans to invest more than $100 million in a roughly 585,000-square-foot advanced manufacturing facility in Greenwood, Indiana. It will supply the North American fulfillment and robotics network, with a launch expected by 2028."
+        ]
+      },
+      {
+        "heading": "Several processes under one roof",
+        "paragraphs": [
+          "Planned capabilities include fabrication, robotic welding, automated powder coating and assembly, supported by AWS, AI manufacturing systems and robotics. The announcement does not identify a particular robot model that the facility will manufacture."
+        ]
+      },
+      {
+        "heading": "Manufacturing and engineering jobs",
+        "paragraphs": [
+          "Amazon expects 300 manufacturing and engineering positions, including CNC operators, welders, coating technicians, assemblers and controls engineers. The project combines automation investment with the people needed to operate and maintain production."
+        ]
+      },
+      {
+        "heading": "An announced investment, not an operating plant",
+        "paragraphs": [
+          "The facility and opening date remain plans. The accompanying images and video illustrate Amazon’s existing robotics work. The Indiana project is separate from the Texas manufacturing investment announced earlier."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/amazon-robotics-manufacturing-line-featured.jpg",
+        "alt": "A Proteus robot on an existing Amazon manufacturing line",
+        "caption": "A Proteus robot on an existing Amazon manufacturing line. Credit: Amazon / The Robot Report."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=r98fdSJ9lfw",
+        "title": "Inside Amazon’s robotics lab in Massachusetts",
+        "note": "Video: Associated Press."
+      }
+    ]
+  },
+  "anymal-secure-door-access-whitegate-2026": {
+    "title": "ANYmal gains secure door access for industrial inspection",
+    "summary": "ANYbotics, dormakaba and LEGIC tested automated access at Whitegate power station, combining robot credentials with existing site permissions.",
+    "sections": [
+      {
+        "heading": "Removing a route barrier",
+        "paragraphs": [
+          "ANYbotics, dormakaba and LEGIC are enabling ANYmal to pass through industrial doors, including access-controlled areas. The aim is to extend inspection routes without staff opening doors, while retaining the site’s safety barriers."
+        ]
+      },
+      {
+        "heading": "Two access mechanisms",
+        "paragraphs": [
+          "At unlocked doors, radar triggers a dormakaba ED 100 or ED 250 operator. For locked doors, LEGIC digital credentials let the exos access system check authorization before unlocking. Operators can restrict permissions by zone, time window and task."
+        ]
+      },
+      {
+        "heading": "Tested in an operating power station",
+        "paragraphs": [
+          "The companies report several weeks of testing at GE Vernova’s Whitegate power station in County Cork, Ireland. ANYmal requested access, crossed controlled doors and completed inspection routes without manual intervention in those steps, with timestamped records for auditing."
+        ]
+      },
+      {
+        "heading": "Existing security still matters",
+        "paragraphs": [
+          "The system does not replace measures against people following an authorized user through a door. Existing site protections remain necessary. The access-control add-on is planned for later in 2026 for installed systems and future ANYmal hardware."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ANYbotics-Door-Opening-Inspection_02.jpg",
+        "alt": "ANYmal inspecting an industrial facility",
+        "caption": "ANYmal inspecting an industrial facility. Credit: ANYbotics."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ANYbotics-doors-copy.jpg",
+        "alt": "Door automation and access authentication for ANYmal",
+        "caption": "Door automation and access authentication for ANYmal. Credit: ANYbotics."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=_zxNuQnY92w",
+        "title": "ANYmal passes controlled doors using LEGIC and dormakaba",
+        "note": "Video: LEGIC / ANYbotics / dormakaba."
+      }
+    ]
+  },
+  "agility-confirms-wheeled-robot-exploration-2026": {
+    "title": "Agility confirms early exploration of wheeled robots",
+    "summary": "Jonathan Hurst says the Digit developer is studying additional form factors. The wheeled design remains exploratory, with no product or launch date confirmed.",
+    "sections": [
+      {
+        "heading": "A new confirmation after the Digit 5 video",
+        "paragraphs": [
+          "The Robot Report asked Jonathan Hurst about a wheeled robot rendering near the end of the Digit 5 launch video. His email confirmed that Agility is exploring several designs, including wheels. The new development is that confirmation, rather than another announcement of Digit 5."
+        ]
+      },
+      {
+        "heading": "Matching the form to the environment",
+        "paragraphs": [
+          "Hurst said alternative approaches could bring robots to more environments sooner. The report contrasts wheels’ suitability for predictable, flat surfaces with the usefulness of legs around stairs, obstacles and uneven terrain."
+        ]
+      },
+      {
+        "heading": "No product definition yet",
+        "paragraphs": [
+          "Asked whether this would be a wheeled Digit or a differently named and shaped robot, Hurst said it was too early to say and the work was just starting. Specifications, payload, reach, pricing and a market launch have not been confirmed."
+        ]
+      },
+      {
+        "heading": "A rendering is not a deployed prototype",
+        "paragraphs": [
+          "The illustration comes from the existing launch video. It does not establish that a commercially ready wheeled prototype exists. Target tasks, physical testing and a decision to turn the exploration into a product remain developments to watch."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
+        "alt": "A wheeled robot rendering in the Digit 5 video, not evidence of a market-ready product",
+        "caption": "A wheeled robot rendering in the Digit 5 video, not evidence of a market-ready product. Credit: Agility Robotics."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=oyq9BOwK5XI",
+        "title": "The original Digit 5 launch video containing the wheeled concept",
+        "note": "Video: Agility Robotics."
+      }
+    ]
+  },
+  "asi-softbank-construction-joint-venture-2026": {
+    "title": "ASI and SoftBank form an autonomous construction joint venture",
+    "summary": "The venture targets mixed-brand equipment coordinated through Mobius. SoftBank also invested $225 million in ASI separately from the venture.",
+    "sections": [
+      {
+        "heading": "A venture for commercial expansion",
+        "paragraphs": [
+          "ASI announced a joint venture with SoftBank Group to develop and commercialize autonomous construction equipment for large infrastructure projects. SoftBank is capitalizing the venture, but the announcement does not disclose that investment amount."
+        ]
+      },
+      {
+        "heading": "The $225 million is separate",
+        "paragraphs": [
+          "SoftBank also invested $225 million in ASI to expand its commercial operations in construction. That investment is separate from the joint venture and should not be presented as the venture’s disclosed budget."
+        ]
+      },
+      {
+        "heading": "Coordinating mixed fleets",
+        "paragraphs": [
+          "ASI’s Mobius platform is intended to coordinate equipment from different manufacturers, including haul trucks, dozers, loaders and compactors. Target applications include civil construction and material handling for infrastructure such as roads, airports and railways."
+        ]
+      },
+      {
+        "heading": "Deployment details remain open",
+        "paragraphs": [
+          "The release describes the business expansion and platform capabilities, but does not identify a committed machine count, specific venture customers or a delivery timetable. Cost and productivity outcomes will need evidence from actual deployments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://asirobots.com/wp-content/uploads/2026/09/2026-09-24-at-09.25.08@2x.png",
+        "alt": "Image accompanying the ASI and SoftBank partnership announcement",
+        "caption": "Image accompanying the ASI and SoftBank partnership announcement. Credit: ASI."
+      }
+    ],
+    "videos": []
+  },
+  "leopard-lumotive-sirius-max-launch-2026": {
+    "title": "Sirius Max combines color and depth with programmable beam steering",
+    "summary": "Leopard Imaging and Lumotive introduced an RGB-D module for robotics, claiming depth sensing beyond 20 meters and one-megapixel depth resolution.",
+    "sections": [
+      {
+        "heading": "An integrated perception module",
+        "paragraphs": [
+          "Leopard Imaging and Lumotive introduced Sirius Max, combining RGB imaging, indirect time-of-flight depth sensing and processing for robots and automation. The module is intended to supply synchronized color and depth information in real time."
+        ]
+      },
+      {
+        "heading": "Software controls where light goes",
+        "paragraphs": [
+          "Lumotive’s TX10 transmitter and LCM technology steer illumination toward software-selected regions. The developers describe a fully solid-state design without moving mechanical parts, allowing sensing priorities to change instead of relying on fixed flood illumination."
+        ]
+      },
+      {
+        "heading": "One connection for imaging and control",
+        "paragraphs": [
+          "The module uses an onsemi AF0130 depth sensor and GMSL2 to carry synchronized RGB video, depth and control over a coaxial cable. Proposed uses include navigation, mapping, cliff detection, collision avoidance and object handling."
+        ]
+      },
+      {
+        "heading": "Performance remains a manufacturer claim",
+        "paragraphs": [
+          "Lumotive reports iToF operation beyond 20 meters indoors and outdoors with one-megapixel depth resolution. The announcement does not provide independent benchmarks, pricing or a delivery date. Performance still needs assessment with the actual materials, lighting and motion of a deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1996192/Leopard-Imaging-Inc-Lumotive-Sirius-Max-A-Long-Range-Software-Defined-3D-Perception-Platform.jpg?id=OA2970403",
+        "alt": "Sirius Max module for color and depth perception",
+        "caption": "Sirius Max module for color and depth perception. Credit: Leopard Imaging / Lumotive / PR Newswire."
+      }
+    ],
+    "videos": []
+  },
+  "ifr-world-robotics-2026-five-million": {
+    "title": "IFR reports five million industrial robots operating worldwide",
+    "summary": "World Robotics 2026 puts 2025 installations above 600,000, with China accounting for 59% and the United States becoming the second-largest market.",
+    "sections": [
+      {
+        "heading": "Installed stock and annual additions differ",
+        "paragraphs": [
+          "IFR’s World Robotics 2026 report puts operational industrial-robot stock in 2025 at about five million, up 9%. New installations during that year exceeded 600,000, up 11%. These measure different things and should not be used interchangeably."
+        ]
+      },
+      {
+        "heading": "Asia’s markets moved in different directions",
+        "paragraphs": [
+          "China installed about 354,000 robots, up 20%, representing 59% of global additions. Japan installed 36,219, down 19%; South Korea about 30,000, down 1%; and India nearly 10,500, up 15%. Growth was not uniform across the region."
+        ]
+      },
+      {
+        "heading": "The US moves into second place",
+        "paragraphs": [
+          "US installations rose 12% to nearly 38,500, overtaking Japan to become the second-largest market after China. Germany remained Europe’s largest market, but additions fell 8% to fewer than 25,000. Italy, France and Spain also declined."
+        ]
+      },
+      {
+        "heading": "Forecasts are not completed installations",
+        "paragraphs": [
+          "IFR forecasts 655,000 installations in 2026 and 806,000 in 2029, with labor shortages and supply-chain changes supporting demand. Those figures are projections rather than already recorded deployments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_GLOBAL.webp",
+        "alt": "Annual industrial robot installations worldwide",
+        "caption": "Annual industrial robot installations worldwide. Credit: IFR / The Robot Report."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_CHINA.png",
+        "alt": "Industrial robot installation trends in China",
+        "caption": "Industrial robot installation trends in China. Credit: IFR / The Robot Report."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_Top_Market_USA.png",
+        "alt": "Leading industrial robot markets in 2025",
+        "caption": "Leading industrial robot markets in 2025. Credit: IFR / The Robot Report."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Graphic_World_Robotics_2026_EU-27.png",
+        "alt": "Industrial robot installations in the European Union",
+        "caption": "Industrial robot installations in the European Union. Credit: IFR / The Robot Report."
+      }
+    ],
+    "videos": []
+  },
+  "skyebrowse-crush-claims-impact-crowd-2026": {
+    "title": "SkyeBrowse adds crash analysis and drone-based crowd counting",
+    "summary": "New workflows connect 3D scans to vehicle-damage measurements, editable collision scenes and estimated headcounts, while retaining human review.",
+    "sections": [
+      {
+        "heading": "From capture to reviewable measurements",
+        "paragraphs": [
+          "SkyeBrowse released Crush Analysis, Claims and Crowd Counter to extend drone and phone capture beyond 3D model creation. Measurements and reports remain linked to the model so reviewers can inspect where damage measurements originated."
+        ]
+      },
+      {
+        "heading": "Vehicle damage and collision scenes",
+        "paragraphs": [
+          "Crush Analysis aligns a scanned vehicle with a reference model and measures six crush stations. Impact combines multiple vehicles in an editable diagram with speed estimates and an animated collision replay. Evidence and assumptions still need review; the animation is not footage of the actual crash."
+        ]
+      },
+      {
+        "heading": "Claims supports screening",
+        "paragraphs": [
+          "Claims assesses up to eight images to suggest parts for repair, replacement or further inspection, with cost and total-loss screening. The company says licensed adjusters and policy terms determine claim outcomes."
+        ]
+      },
+      {
+        "heading": "Crowd counting and access",
+        "paragraphs": [
+          "Crowd Counter in the SkyeBrowse Flight App on DJI RC Pro estimates people visible in a drone photograph. Standard users receive three daily counts; Public Safety & Enterprise customers receive unlimited counts. Crush Analysis and Claims are free on all plans through October 31, 2026, then included with Public Safety & Enterprise models."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/crush-analysis-heatmap-2026.webp",
+        "alt": "Example vehicle crush measurements and damage heat map",
+        "caption": "Example vehicle crush measurements and damage heat map. Credit: SkyeBrowse."
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/claims-total-loss-prescreen-2026.webp",
+        "alt": "Repair and total-loss screening that still requires adjuster review",
+        "caption": "Repair and total-loss screening that still requires adjuster review. Credit: SkyeBrowse."
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/impact-factual-diagram-2026.webp",
+        "alt": "An editable diagram of vehicle positions and approach paths",
+        "caption": "An editable diagram of vehicle positions and approach paths. Credit: SkyeBrowse."
+      },
+      {
+        "url": "https://skyebrowse-prod-web-assets.s3.us-east-2.amazonaws.com/press/2026-09-22-crush-claims/crowd-counter-dji-rc-pro-aerial.jpg",
+        "alt": "A drone image with detected people marked for an estimated headcount",
+        "caption": "A drone image with detected people marked for an estimated headcount. Credit: SkyeBrowse."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=grGKTVPxUEI",
+        "title": "Introduction to crush analysis and claims screening",
+        "note": "Video: SkyeBrowse."
+      }
+    ]
+  },
+  "skyfireai-dbox-us-autonomy-mou-2026": {
+    "title": "SkyfireAI and DBOX plan an integrated autonomous drone system",
+    "summary": "An MOU supported by Drone Nerds and XTI Aerospace targets US integration, with a demonstration planned for the fourth quarter of 2026.",
+    "sections": [
+      {
+        "heading": "A framework for joint development",
+        "paragraphs": [
+          "DRONELIFE reports that SkyfireAI and DBOX signed an MOU at the Lithuania–US Business Forum in Miami. XTI Aerospace and its Drone Nerds subsidiary helped establish the collaboration, aiming to integrate an autonomous drone operating system for the US market."
+        ]
+      },
+      {
+        "heading": "Complementary components",
+        "paragraphs": [
+          "SkyfireAI contributes mission control, autonomy and multi-aircraft orchestration. DBOX, developed by Lithuania’s IT Logika, supplies autonomous docking infrastructure. XTI Aerospace and Drone Nerds support program leadership, integration and commercialization."
+        ]
+      },
+      {
+        "heading": "Testing comes before deployment",
+        "paragraphs": [
+          "Initial work covers integration, testing, safety systems, relevant approvals and operator training. The companies plan a combined demonstration in the fourth quarter of 2026, targeting applications such as public safety and critical infrastructure."
+        ]
+      },
+      {
+        "heading": "An MOU is not a completed installation",
+        "paragraphs": [
+          "The agreement supports further technical and commercial work. It does not establish that commercial deployment or beyond-visual-line-of-sight permissions are complete everywhere. The planned tests and demonstration will provide the next evidence of progress."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://dronelife.com/wp-content/uploads/2026/09/RDackus_DSC_9114-2048x1365.jpg",
+        "alt": "The autonomous drone collaboration signing in Miami",
+        "caption": "The autonomous drone collaboration signing in Miami. Image supplied with the DRONELIFE report."
+      }
+    ],
+    "videos": []
+  },
+  "polyumi-vista-multimodal-demonstrations-2026": {
+    "title": "PolyUMI teaches robots with vision, touch and contact sound",
+    "summary": "The open-source demonstration platform transfers a sensing finger from a wireless handheld gripper to a robot, supporting slip control and contact-rich tasks.",
+    "sections": [
+      {
+        "heading": "Recording more than camera images",
+        "paragraphs": [
+          "The PolyUMI team released a preprint on September 24 describing a wireless handheld gripper that synchronizes wrist vision, optical touch, contact audio and motion state. It captures interaction details that an external camera may miss."
+        ]
+      },
+      {
+        "heading": "Sharing sensing between teaching and execution",
+        "paragraphs": [
+          "The sensing finger transfers from the demonstration gripper to the robot in about ten minutes, preserving sensing geometry. Its reported parts cost is roughly $236; that is not the price of a complete robot or collection system."
+        ]
+      },
+      {
+        "heading": "Combining signals with VisTA",
+        "paragraphs": [
+          "VisTA combines observations across sensors and time to generate actions. In a task that lets a screwdriver rotate downward before catching it, vision, touch and audio succeeded in eight of ten trials, versus two of ten with vision alone."
+        ]
+      },
+      {
+        "heading": "Limits of the evidence",
+        "paragraphs": [
+          "Extra sensors did not improve every task. All compared methods reached at least 80% on lightbulb turning, and the slip-control comparison used only ten trials per configuration. The results do not establish long-term industrial reliability. The project provides code, explanatory figures and experiment videos for inspection."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://polyumi-vista.github.io/assets/hero.jpg",
+        "alt": "PolyUMI vision, touch and audio sensing in handheld and robot configurations",
+        "caption": "PolyUMI vision, touch and audio sensing in handheld and robot configurations. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/system.jpg",
+        "alt": "The gripper, sensing finger, camera and contact microphone",
+        "caption": "The gripper, sensing finger, camera and contact microphone. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/vista-model.png",
+        "alt": "VisTA architecture combining sensor information to generate actions",
+        "caption": "VisTA architecture combining sensor information to generate actions. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/tactile-shapes.png",
+        "alt": "Tactile images of five surface patterns",
+        "caption": "Tactile images of five surface patterns. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/shape-confusion.png",
+        "alt": "Tactile shape-classification results",
+        "caption": "Tactile shape-classification results. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/shake-setup.png",
+        "alt": "Box-shaking experiment and sounds from its contents",
+        "caption": "Box-shaking experiment and sounds from its contents. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/audio-confusion.png",
+        "alt": "Object-in-box classification with different sensor combinations",
+        "caption": "Object-in-box classification with different sensor combinations. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/slip-setup.png",
+        "alt": "Letting a screwdriver rotate before catching it near vertical",
+        "caption": "Letting a screwdriver rotate before catching it near vertical. Credit: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/success-rates.png",
+        "alt": "Board-wiping and lightbulb-turning results in the experiment",
+        "caption": "Board-wiping and lightbulb-turning results in the experiment. Credit: PolyUMI Research Team."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://polyumi-vista.github.io/assets/polyumi-overview.mp4",
+        "title": "PolyUMI platform and experiment overview",
+        "note": "Video: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/PolyTouch_finger_transfer.mp4",
+        "title": "Transferring the sensing finger from the handheld gripper to the robot",
+        "note": "Video: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/polyumi_shaking_1.mp4",
+        "title": "Shaking a box to sense its contents through sound",
+        "note": "Video: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/Slip_control_w6x.mp4",
+        "title": "Controlling screwdriver slip in the gripper",
+        "note": "Video: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/polyumi_board_wiping_1.mp4",
+        "title": "Wiping a line from a board",
+        "note": "Video: PolyUMI Research Team."
+      },
+      {
+        "url": "https://polyumi-vista.github.io/assets/polyumi_lightbulb.mp4",
+        "title": "Turning a lightbulb into its socket",
+        "note": "Video: PolyUMI Research Team."
+      }
+    ]
+  },
+  "self-adaptive-vla-hardware-shifts-2026": {
+    "title": "Self-Adaptive VLA uses earlier failures to handle hardware shifts",
+    "summary": "UMass Amherst and Genesis AI researchers condition robot policies on previous attempts to compensate for deployment-time hardware differences.",
+    "sections": [
+      {
+        "heading": "When deployment hardware differs",
+        "paragraphs": [
+          "Self-Adaptive VLA, released as a preprint on September 24, addresses hardware shifts such as joint-encoder offsets and actuation bias. These differences can make a trained policy fail at precision manipulation."
+        ]
+      },
+      {
+        "heading": "Using previous attempts as context",
+        "paragraphs": [
+          "Training deliberately injects shifts and pairs rollout information with compensated expert demonstrations. A small encoder summarizes images, robot state and actions into context. Combining context from successive attempts helps condition the next attempt; correct expert demonstrations remain the training target."
+        ]
+      },
+      {
+        "heading": "A new-workstation demonstration",
+        "paragraphs": [
+          "In a five-episode ring-assembly demonstration, the base policy succeeded five times at the original station and zero times after transfer. One failed trial as context produced two successes; two failed trials produced five. These are results for that demonstration, not guaranteed rates at other facilities."
+        ]
+      },
+      {
+        "heading": "A research method with deployment limits",
+        "paragraphs": [
+          "Demonstrations cover ring assembly, corn transport, marker capping and tube insertion. Adaptation occurs across attempts, rather than repairing hardware or guaranteeing immediate recovery from every failure. Deployment still requires evaluating acceptable errors and task safety."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/teaser_poster.jpg",
+        "alt": "Poster for the Self-Adaptive VLA demonstration",
+        "caption": "Poster for the Self-Adaptive VLA demonstration. Credit: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/images/method_poster.jpg",
+        "alt": "Poster for the model adaptation method video",
+        "caption": "Poster for the model adaptation method video. Credit: Self-Adaptive VLA Research Team."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/teaser.mp4",
+        "title": "Narrated research overview",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/method.mp4",
+        "title": "How previous attempts condition new actions",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial0.mp4",
+        "title": "Ring assembly, trial 0: grasp failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial1.mp4",
+        "title": "Ring assembly, trial 1: assembly failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/ring/trial2.mp4",
+        "title": "Ring assembly, trial 2: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station1_base.mp4",
+        "title": "Original station: base policy, 5 of 5 successes",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_base.mp4",
+        "title": "New station: base policy, 0 of 5 successes",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_ours_1trial.mp4",
+        "title": "New station: one context trial, 2 of 5 successes",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/cross/station2_ours_2trials.mp4",
+        "title": "New station: two context trials, 5 of 5 successes",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep6_t0.mp4",
+        "title": "Transport corn, episode 1, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep6_t1.mp4",
+        "title": "Transport corn, episode 1, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep3_t0.mp4",
+        "title": "Transport corn, episode 2, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep3_t1.mp4",
+        "title": "Transport corn, episode 2, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep4_t0.mp4",
+        "title": "Transport corn, episode 3, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep4_t1.mp4",
+        "title": "Transport corn, episode 3, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t0.mp4",
+        "title": "Transport corn, episode 4, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t1.mp4",
+        "title": "Transport corn, episode 4, trial 1: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/corn/ep1_t2.mp4",
+        "title": "Transport corn, episode 4, trial 2: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep1_t0.mp4",
+        "title": "Cap marker, episode 1, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep1_t1.mp4",
+        "title": "Cap marker, episode 1, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep6_t0.mp4",
+        "title": "Cap marker, episode 2, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep6_t1.mp4",
+        "title": "Cap marker, episode 2, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t1.mp4",
+        "title": "Cap marker, episode 3, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t2.mp4",
+        "title": "Cap marker, episode 3, trial 1: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep0_t3.mp4",
+        "title": "Cap marker, episode 3, trial 2: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t1.mp4",
+        "title": "Cap marker, episode 4, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t2.mp4",
+        "title": "Cap marker, episode 4, trial 1: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/marker/ep9_t3.mp4",
+        "title": "Cap marker, episode 4, trial 2: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep5_t0.mp4",
+        "title": "Insert tube, episode 1, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep5_t1.mp4",
+        "title": "Insert tube, episode 1, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep8_t0.mp4",
+        "title": "Insert tube, episode 2, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep8_t1.mp4",
+        "title": "Insert tube, episode 2, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep10_t0.mp4",
+        "title": "Insert tube, episode 3, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep10_t1.mp4",
+        "title": "Insert tube, episode 3, trial 1: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t0.mp4",
+        "title": "Insert tube, episode 4, trial 0: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t1.mp4",
+        "title": "Insert tube, episode 4, trial 1: failure",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      },
+      {
+        "url": "https://icefoxzhx.github.io/self-adaptive-vla/static/videos/tasks/tube/ep3_t2.mp4",
+        "title": "Insert tube, episode 4, trial 2: success",
+        "note": "Video: Self-Adaptive VLA Research Team."
+      }
+    ]
   }
 }
