@@ -834,5 +834,158 @@
         "note": "วิดีโอ: Self-Adaptive VLA Research Team"
       }
     ]
+  },
+  "agibot-vietnam-nic-education-raas-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001419/Summit-Opening-Photo.jpg?id=OA2984368",
+        "alt": "พิธีเปิดการประชุมที่ฮานอย",
+        "caption": "พิธีเปิดการประชุมที่ฮานอย · ภาพ: AGIBOT"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001420/Award-Ceremony-Photo.jpg?id=OA2984367",
+        "alt": "พิธีมอบรางวัลภายในงาน",
+        "caption": "พิธีมอบรางวัลภายในงาน · ภาพ: AGIBOT"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-atlas-four-finger-hand-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg",
+        "alt": "Atlas จัดการดอกสว่านและสว่าน",
+        "caption": "Atlas จัดการดอกสว่านและสว่าน · ภาพ: Boston Dynamics / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-1.jpg",
+        "alt": "เปรียบเทียบมือ Atlas กับมือมนุษย์",
+        "caption": "เปรียบเทียบมือ Atlas กับมือมนุษย์ · ภาพ: Boston Dynamics / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+        "embed": "https://www.youtube-nocookie.com/embed/4whgw2gLBS8",
+        "title": "สาธิตมือรุ่นใหม่ของ Atlas โดย Boston Dynamics"
+      }
+    ]
+  },
+  "runway-praxis1-world-action-model-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/runway-featured.jpg",
+        "alt": "แขนหุ่นยนต์จัดการกระป๋องบนโต๊ะ",
+        "caption": "แขนหุ่นยนต์จัดการกระป๋องบนโต๊ะ · ภาพ: Runway / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/env-kitchen.jpeg",
+        "alt": "การสาธิตแขนหุ่นยนต์ในครัว",
+        "caption": "การสาธิตแขนหุ่นยนต์ในครัว · ภาพ: Runway / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
+        "embed": "https://www.youtube-nocookie.com/embed/sXiLq_3TaAI",
+        "title": "วิดีโอแนะนำ Praxis-1 โดย Runway"
+      }
+    ]
+  },
+  "innodata-vicon-motion-capture-lab-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/0827_LabPicture.png",
+        "alt": "ห้องปฏิบัติการเก็บข้อมูลการเคลื่อนไหว",
+        "caption": "ห้องปฏิบัติการเก็บข้อมูลการเคลื่อนไหว · ภาพ: Innodata / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ViconCameras-copy.jpg",
+        "alt": "กล้องติดตามการเคลื่อนไหว Vicon",
+        "caption": "กล้องติดตามการเคลื่อนไหว Vicon · ภาพ: Innodata / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=peSv0RFdKso",
+        "embed": "https://www.youtube-nocookie.com/embed/peSv0RFdKso",
+        "title": "วิดีโอประกอบระบบจับการเคลื่อนไหวในข่าว Innodata"
+      }
+    ]
+  },
+  "anybotics-shift-platform-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=1002&height=564&bgcolor=White&v=1dd5243a12e3770",
+        "alt": "หน้าจอจัดการฝูงหุ่นยนต์ ANYbotics",
+        "caption": "หน้าจอจัดการฝูงหุ่นยนต์ ANYbotics · ภาพ: ANYbotics / New Electronics · ต้นทางปฏิเสธการโหลดภาพระหว่างตรวจสอบ (HTTP 403) เปิดลิงก์ภาพหรือต้นฉบับเพื่อดู"
+      }
+    ],
+    "videos": []
+  },
+  "lulu-odigo-62-robots-30-stores-network-2026": {
+    "images": [
+      {
+        "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/2/c6bbb7e9-52e7-4f09-9824-b850b9527e78.jpeg",
+        "alt": "ภาพประกอบการเปิดเครือข่ายหุ่นยนต์ของ LuLu",
+        "caption": "ภาพประกอบการเปิดเครือข่ายหุ่นยนต์ของ LuLu · ภาพ: Supplied / Aletihad"
+      }
+    ],
+    "videos": []
+  },
+  "mfr-posco-plate-dunnage-robot-contract-2026": {
+    "images": [
+      {
+        "url": "https://img.etnews.com/news/article/2026/10/02/news-p.v1.20261002.5a47ea81894e41cf813d1d6654130a58_P1.png",
+        "alt": "แผนผังระบบหุ่นยนต์วางไม้รองแผ่นเหล็ก",
+        "caption": "แผนผังระบบหุ่นยนต์วางไม้รองแผ่นเหล็ก · ภาพ: MFR / Electronic Times"
+      },
+      {
+        "url": "https://img.etnews.com/news/article/2026/10/02/news-p.v1.20261002.f2ae1f5f1bfb414280b80198c28ce2b9_P1.jpg",
+        "alt": "Lee Seung-yeol ผู้บริหาร MFR",
+        "caption": "Lee Seung-yeol ผู้บริหาร MFR · ภาพ: Electronic Times"
+      }
+    ],
+    "videos": []
+  },
+  "primech-vision-multi-robot-platform-2026": {
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/45c05876-232d-4ff2-88b8-8179bd20f0f0/picture1.png",
+        "alt": "HYTRON และหุ่นยนต์งานอาคารที่สำนักงานใหญ่สิงคโปร์",
+        "caption": "HYTRON และหุ่นยนต์งานอาคารที่สำนักงานใหญ่สิงคโปร์ · ภาพ: Primech Holdings"
+      }
+    ],
+    "videos": []
+  },
+  "harpak-ulma-hygienic-robotic-loading-2026": {
+    "images": [
+      {
+        "url": "https://media.zenfs.com/en/business-wire.com/b124763d04c9b1422734bf3c4ab18e03.jpg",
+        "alt": "โมดูลหุ่นยนต์โหลดสินค้าสำหรับสายบรรจุ",
+        "caption": "โมดูลหุ่นยนต์โหลดสินค้าสำหรับสายบรรจุ · ภาพ: Harpak-ULMA / Business Wire"
+      }
+    ],
+    "videos": []
+  },
+  "doordash-air-custom-delivery-drone-2026": {
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW.jpg",
+        "alt": "ภาพเปรียบเทียบโดรน Amazon และ DoorDash ในข่าวต้นฉบับ",
+        "caption": "ภาพเปรียบเทียบโดรน Amazon และ DoorDash ในข่าวต้นฉบับ · ภาพ: Getty Images / Bloomberg / Amazon via TechRadar"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=e3K_CP1ONoc",
+        "embed": "https://www.youtube-nocookie.com/embed/e3K_CP1ONoc",
+        "title": "DoorDash Air แสดงระบบส่งอาหารด้วยโดรน"
+      }
+    ]
   }
 }

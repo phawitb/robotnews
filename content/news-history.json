@@ -615,6 +615,1708 @@
         "videos": 37,
         "excluded": []
       }
+    },
+    {
+      "id": "agibot-vietnam-nic-education-raas-2026",
+      "storyKey": "agibot-vietnam-nic-education-raas-2026",
+      "originalTitle": "AGIBOT Partners with Vietnam National Innovation Center (NIC) to Advance Embodied AI Industry and Talent Ecosystem",
+      "urls": [
+        "https://www.prnewswire.com/apac/news-releases/agibot-partners-with-vietnam-national-innovation-center-nic-to-advance-embodied-ai-industry-and-talent-ecosystem-302897081.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/apac/news-releases/agibot-partners-with-vietnam-national-innovation-center-nic-to-advance-embodied-ai-industry-and-talent-ecosystem-302897081.html"
+      ],
+      "publishedAt": "2026-10-02T10:46:00+01:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับAGIBOT ร่วม NIC เวียดนาม เปิดโครงการสร้างคนและบริการหุ่นยนต์ มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=AE61734&Transmission_Id=202610020546PR_NEWS_ASPR_____AE61734&DateId=20261002",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1995639/20260924004956EDT_image_2.jpg?id=OA2968822",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1976936/20260827082433EDT_image_1.jpg?id=OA2916397",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AWD.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TDS.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boston-dynamics-atlas-four-finger-hand-2026",
+      "storyKey": "boston-dynamics-atlas-four-finger-hand-2026",
+      "originalTitle": "Boston Dynamics drops pinkie on new humanoid hand",
+      "urls": [
+        "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/"
+      ],
+      "publishedAt": "2026-10-01T17:52:51+00:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับAtlas ได้มือสี่นิ้ว 13 องศาอิสระ เพิ่มความคล่องตัวในการจับเครื่องมือ มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_l_9S2MlIXZn2AUVHjznsbGST36FUd9vq_8bX8saLfT2g=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/trrtop10-sept26-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Innodata_LabFront-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/forceNsensors-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.therobotreport.com",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "runway-praxis1-world-action-model-2026",
+      "storyKey": "runway-praxis1-world-action-model-2026",
+      "originalTitle": "Runway introduces Praxis-1 world action model for robotics - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+        "https://runway.com/research/introducing-praxis-1"
+      ],
+      "publishedAt": "2026-10-02T18:32:13+00:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับRunway เปิดตัว Praxis-1 ใช้ความรู้จากวิดีโอฝึกหุ่นยนต์ มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://yt3.ggpht.com/8rii4_E859zg6NzZAeJId6j2Worzbc8R-RY4as2OCZzHuP_RZPZssOZTHe3dvFx8gj2_TCfEBw=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/trrtop10-sept26-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/AI_conference-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Innodata_LabFront-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://open.spotify.com/embed/show/07RByN6D8aJ68QjuspmeFs?theme=0",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6eb40cce5033a590e803d5fa",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.therobotreport.com",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "innodata-vicon-motion-capture-lab-2026",
+      "storyKey": "innodata-vicon-motion-capture-lab-2026",
+      "originalTitle": "Innodata opens motion-capture lab to help humanoids move more like people - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people/",
+        "https://investor.innodata.com/news/news-details/2026/Innodata-Opens-Motion-Capture-AI-Lab-to-Help-Humanoids-Move-Like-Humans/default.aspx"
+      ],
+      "publishedAt": "2026-09-30T12:59:12+00:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับInnodata เปิดแล็บจับการเคลื่อนไหวสามมิติสำหรับฝึกหุ่นยนต์ มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ViconCameras-copy-169x300.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lrKymUXNiPVdWhtO3wzoJGzDzAW21VYkpnoelCOOeN-w=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/020723ddd4a8e541cb56c8ed603ea68bd1761d71da3bfec92d87e085504b4112?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/AI_conference-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Gecko_NVIDIA-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Asimov-Article-Image-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.therobotreport.com",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anybotics-shift-platform-launch-2026",
+      "storyKey": "anybotics-shift-platform-launch-2026",
+      "originalTitle": "ANYbotics introduces Shift Platform to support large-scale autonomous industrial inspections - New Electronics",
+      "urls": [
+        "https://www.newelectronics.co.uk/content/news/anybotics-introduces-shift-platform-to-support-large-scale-autonomous-industrial-inspections"
+      ],
+      "references": [
+        "https://www.newelectronics.co.uk/content/news/anybotics-introduces-shift-platform-to-support-large-scale-autonomous-industrial-inspections",
+        "https://www.roboticstomorrow.com/news/2026/10/01/anybotics-launches-shift-to-streamline-robot-fleet-operations-and-power-autonomous-industrial-inspection-at-scale-/27188/"
+      ],
+      "publishedAt": "2026-10-02T09:15:00+00:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับANYbotics เปิด Shift เชื่อมการตรวจโรงงานกับงานซ่อมบำรุง มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-5TG5CX9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/wm0o42hm/new-electronics.svg?height=50",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/dkifjsoo/260914rm02-ele26-newelectronics-300x250-e-stat.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/phpdaw40/engineer-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/xx3ogc3h/eureka-logo-black.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/2lkhwx0v/mm-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/qzzh5stz/machinery-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/seydh1qq/fast-logo-2020-colour.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/iuwlf5te/made-in-ireland_logo_bw.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=160&height=90&format=webp&quality=80&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=320&height=180&format=webp&quality=80&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=480&height=270&format=webp&quality=80&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=160&height=90&quality=90&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=320&height=180&quality=90&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=480&height=270&quality=90&bgcolor=White&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=10&quality=10&v=1dd5243a12e3770",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.newelectronics.co.uk/media/wm0o42hm/new-electronics.svg?width=240",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lulu-odigo-62-robots-30-stores-network-2026",
+      "storyKey": "lulu-odigo-62-robots-30-stores-network-2026",
+      "originalTitle": "LuLu Retail launches UAE’s first in-store robotic advertising network",
+      "urls": [
+        "https://en.aletihad.ae/news/ai/4696141/lulu-retail-launches-uae-s-first-in-store-robotic-advertisin"
+      ],
+      "references": [
+        "https://en.aletihad.ae/news/ai/4696141/lulu-retail-launches-uae-s-first-in-store-robotic-advertisin",
+        "https://kodyrobots.com/press-release/kody-technolab-joint-venture-falcon-tech-robotics-deploy-odigo-lulu-group-uae/"
+      ],
+      "publishedAt": "2026-10-02T17:34:09Z",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับLuLu เปิดเครือข่ายหุ่นยนต์ Odigo 62 ตัวใน 30 สาขา UAE มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/dropdown.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/menu-button.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-mobile.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-ipad.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-ipad-pro.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-desktop.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-ar.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/bluebar.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/lightMode.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/lightMode2.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/avatar.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/search.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/homeicon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/home-icons-dark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/menu-button.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/arrowdown-economics.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/bell.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/search/clear.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/close.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/avatar-light.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/avatar-dark.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/whitehome.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/logo-ar-dark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/facebook.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/twitter.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/instagram.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/facebook-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/twitter.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/instgram-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/Apple%20Badge.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/google.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/rec-right.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/8/25/c008e9bc-75c9-43e5-8aa5-31733c044e19.jpg?width=98&height=176&mode=crop",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/2/c6bbb7e9-52e7-4f09-9824-b850b9527e78.jpeg?width=1300",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/zoom-in.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/zoom-out.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/whatsapp.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/share.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/sharingbtn/linked-in%20Icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/sharingbtn/Pintrest.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/sharingbtn/Telegram.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/envelop.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/sharingbtn/Vector.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/1d4be40e-edcd-4107-bf61-a02757fdf0a9.jpeg?width=145&height=81&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/2/aa884ad0-6159-43f6-a94c-024ea68e6f86.jpg?width=145&height=81&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/9/28/f5b113fd-ecb6-432c-9362-cb5131616919.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/9/28/23404e01-6433-4046-96a3-aba820ae810d.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/9/29/06d9419a-b1b3-4a46-a7d5-f9e8a17894ef.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/c4c17608-05b0-4d17-9ed1-9b124adc44cb.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/3588166d-2461-43c9-91de-7c0e93391d52.jpeg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/c2592f7f-8018-446e-a94a-0a549a0fc42d.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/1d4be40e-edcd-4107-bf61-a02757fdf0a9.jpeg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/3/ff8805d8-3bde-4636-adf0-f7e2e09747b0.jpg?format=jpg&height=175&width=310&mode=crop&scale=both",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/up-arrow-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://en.aletihad.ae/Content/AlittihadEnglish/img/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/facebook_light.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/facebook-grey.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/twitter-grey.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.alittihad.ae/front/Content/AlittihadEnglish/img/instagram-grey.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-W3N6KB3K",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mfr-posco-plate-dunnage-robot-contract-2026",
+      "storyKey": "mfr-posco-plate-dunnage-robot-contract-2026",
+      "originalTitle": "DGIST 창업기업 엠에프알, 포스코 제철소 출하장에 투입될 '무인자동화로봇' 수주",
+      "urls": [
+        "https://www.etnews.com/20261002000003"
+      ],
+      "references": [
+        "https://www.etnews.com/20261002000003"
+      ],
+      "publishedAt": "2026-10-02T08:10:00+09:00",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับPOSCO เลือก MFR พัฒนาหุ่นยนต์วางไม้รองแผ่นเหล็กในคลัง มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-P8B2ZWL",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/logo_etnews.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/logo_et.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/junior/images/logo_jr_menu.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/search.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/remove.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/reorder.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/icon_google.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/share.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/remove_thin.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/sns_facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/sns_x.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/sns_email.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/sns_url.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/bookmark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/ga.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/print.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/news/reporter/2024/07/09/cms_temp_reporter_09124905553204.png",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/gt_regular.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/08/24/cms_conference_list_24100301528126.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/08/26/cms_conference_list_26171635535598.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/09/14/cms_conference_list_14145135807559.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/09/15/cms_conference_list_15100436517752.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/08/25/cms_conference_list_25093738114706.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/09/28/cms_conference_list_28095938893420.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/09/15/cms_conference_list_15160640933693.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/photo_main/conference/2026/09/28/cms_conference_list_28100017584979.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://img.etnews.com/news/article/2026/09/30/news-p.v1.20260930.7f50818b6ee6416498b13e754f413587_T1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.26d14824325642afbe37b31bb0716e20_T1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.97fe5163f4bc46729e1d020a4497ab86_T1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.9f30287115724744994fca9498e2defa_T1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img.etnews.com/2024/etnews/images/gt_light.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "primech-vision-multi-robot-platform-2026",
+      "storyKey": "primech-vision-multi-robot-platform-2026",
+      "originalTitle": "Primech Holdings (Nasdaq: PMEC) Unveils Primech Vision, Integrating a Multi-Robot Facility Fleet and Workforce on One Platform; Live Customer Demonstrations Begin October 2026",
+      "urls": [
+        "https://markets.businessinsider.com/news/stocks/primech-holdings-nasdaq-pmec-unveils-primech-vision-integrating-a-multi-robot-facility-fleet-and-workforce-on-one-platform-live-customer-demonstrations-begin-october-2026-1036589330"
+      ],
+      "references": [
+        "https://markets.businessinsider.com/news/stocks/primech-holdings-nasdaq-pmec-unveils-primech-vision-integrating-a-multi-robot-facility-fleet-and-workforce-on-one-platform-live-customer-demonstrations-begin-october-2026-1036589330"
+      ],
+      "publishedAt": "2026-10-01T14:45:00Z",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับPrimech เปิด Vision รวมงานคนและหุ่นยนต์อาคารในแพลตฟอร์มเดียว มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MBTPXX",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/54caf5f0-c465-4970-974c-31b7f9c4e745/small/primech-holdings-png.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.businessinsider.com/public/assets/MI/logos/markets-insider-stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.businessinsider.com/public/assets/social/social-facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.businessinsider.com/public/assets/social/social-x.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.businessinsider.com/public/assets/logos/stacked-black.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.businessinsider.com/public/assets/INSIDER/US/logos/Insider-logo-dark-opt.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MP6F46L",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "harpak-ulma-hygienic-robotic-loading-2026",
+      "storyKey": "harpak-ulma-hygienic-robotic-loading-2026",
+      "originalTitle": "Harpak-ULMA Launches Hygienic Robotic Loading Platform with Integrated Rockwell Automation Controls",
+      "urls": [
+        "https://finance.yahoo.com/technology/articles/harpak-ulma-launches-hygienic-robotic-144300449.html"
+      ],
+      "references": [
+        "https://finance.yahoo.com/technology/articles/harpak-ulma-launches-hygienic-robotic-144300449.html",
+        "https://www.businesswire.com/news/home/20260930122911/en/"
+      ],
+      "publishedAt": "2026-10-01T14:43:00Z",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับHarpak-ULMA เปิดหุ่นยนต์โหลดอาหาร ใช้ระบบควบคุมร่วมกับเครื่องบรรจุ มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/b7974fed2b377070a77f0de068603d7453701c20b04714e6c2f48d38bf25afe4/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/IE00B4BNMY34/light/7bb3e994.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/12bb8674dfdab2336500bf41e80d517c4ed65b1772e6c44bebcb79c9390738b2/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US5951121038/light/2085e72c.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/2c706daa8cf5c01f60ea1b51b2fb8e346e26077d9b74ab45d77df7e42585d246/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US4592001014/light/a064babe.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/01c0455a575b4ed2967319352098de9bf04783024f02fbf18ca11a91da2a4fd8/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US53635D2027/light/5b97bcfe.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/2bf6aee3dd12bd302256d4ac64d489fceef6ca9bd9985172e4db5de4c4dc7715/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US22052L1044/light/dbb0eca3.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/a434150eeab9eaa53d0820d57e3678e30850f335eb15977de3e82d879d7d7c9b/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbusiness-wire-logo-primarywhite-regular_7008.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/2fa5f385d0037bc7aede65c283ef04ae613bac7feff78cb0bd2638af07387f9d/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbusiness-wire-logo-primarynavy-regular_2905.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/03516ee96be38cd531c114848af51f306da130ad1020fb581d0ec9fb9ce495d4/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Fb124763d04c9b1422734bf3c4ab18e03.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/cv/apiv2/finance/ai/ai_loading_loop_v3.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.zenfs.com/en/business-wire.com/ac31b102ff20a7cc47ff2f444015b8f3.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doordash-air-custom-delivery-drone-2026",
+      "storyKey": "doordash-air-custom-delivery-drone-2026",
+      "originalTitle": "DoorDash promises its new drones can deliver by air 'without being disruptive' — but Amazon's Prime Air is already attracting noise complaints",
+      "urls": [
+        "https://www.techradar.com/cameras/drones/doordash-says-its-new-drone-can-get-food-to-you-in-under-five-minutes-but-texas-residents-are-already-calling-amazon-drone-noise-a-big-problem"
+      ],
+      "references": [
+        "https://www.techradar.com/cameras/drones/doordash-says-its-new-drone-can-get-food-to-you-in-under-five-minutes-but-texas-residents-are-already-calling-amazon-drone-noise-a-big-problem",
+        "https://about.doordash.com/en-us/news/doordash-drone-delivery"
+      ],
+      "publishedAt": "2026-10-03T00:00:00Z",
+      "addedAt": "2026-10-03T07:35:21.848Z",
+      "runId": "2026-10-03",
+      "reason": "ข่าวใหม่เกี่ยวกับDoorDash Air เผยโดรนส่งอาหารหกใบพัด เตรียมทดลองในแคลิฟอร์เนีย มีรายละเอียดการทำงานและสถานะการนำไปใช้ที่ตรวจสอบกับต้นฉบับแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://sb.scorecardresearch.com/p/?c1=2&c2=10055482&cv=4.4.0&cj=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/zdve3chhhn1770884186.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/zdve3chhhn1770884186.jpg?width=1024",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/zdve3chhhn1770884186.jpg?width=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/ay9ub1r1gc1775132364.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/dguzmo7zgs1770884431.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/bmmrou9qte1770884450.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/qt8r3iglph1770885239.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/a5se7egktb1770885207.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-800-80.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-400-80.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2lfo9jmvho1765179166.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/vbtd3vndqp1770887431.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/cegtrmmdzd1770887455.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/img/techradar_logo_v2.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/US.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/SG.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/DK.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/FI.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/NO.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/SE.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/GB.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/IT.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/NL.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/BE.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/FR.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/DE.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/ES.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/CA.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/MX.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/AU.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vanilla.futurecdn.net/techradar/media/shared/img/flags/nosize/NZ.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-1920-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-1600-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-1200-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-1024-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-970-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-750-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-650-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-480-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW-320-80.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://img.youtube.com/vi/e3K_CP1ONoc/maxresdefault.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-250-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-150-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-250-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-150-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-250-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-150-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78-676-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78-480-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/diM9tpwF2Lz85R8q85CT78.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/41dzW10VkDL._SL500_.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/41KVUgJvVpL._SL500_.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://images.fie.futurecdn.net/logos/merchants/gdfcojlm6jgtjadx-15870339069083-100-80.png.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://images.fie.futurecdn.net/r0jlzwovlcd23xlh-1784215234395-100-80.jpg.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://images.fie.futurecdn.net/buviol6f8uklrcxr-16951316376681-100-80.png.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mbi9b6isV6ML9Tr4bSPhyR-140-80.jpg.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mbi9b6isV6ML9Tr4bSPhyR.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-840-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-650-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-500-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-450-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/zhGQwiyQRBUmvuit4hjFpg-320-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/96u53nfWkFGeKu8KfbEGY8-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/yZUYT3tixSJGXKNfPuYYH6.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4-840-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4-650-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4-500-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4-450-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4-320-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/hWQHaVmcgc54fjkeSUz7B4.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-840-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-650-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-500-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-450-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-320-80.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/eennMoa4UZUUkaTh3oEcaC.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/g2jMwTMb95UAjejp9nSuU7.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/6pfCuhHQJsajTC3P9vVvXR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Qvn6G6V2KjhLQZbaoGKDUY.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/wje6R2NEE3T2MMyc8VWdrF.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/f7cPeNHL3zjWPJb2WGMrAY.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-840-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-650-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-500-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-450-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-320-80.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/mednnv697g1760357120-280-100.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/mednnv697g1760357120.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://news.google.com/swg/ui/v1/serviceiframe?_=1790987056596&publicationId=publication-id-free",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -633,6 +2335,23 @@
         "skyfireai-dbox-us-autonomy-mou-2026",
         "polyumi-vista-multimodal-demonstrations-2026",
         "self-adaptive-vla-hardware-shifts-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-03",
+      "batchHash": "31145aa830343ddda2d0264f3de7d53bddf37f8be87a9066787f02c710698574",
+      "preparedAt": "2026-10-03T07:35:21.848Z",
+      "articleIds": [
+        "agibot-vietnam-nic-education-raas-2026",
+        "boston-dynamics-atlas-four-finger-hand-2026",
+        "runway-praxis1-world-action-model-2026",
+        "innodata-vicon-motion-capture-lab-2026",
+        "anybotics-shift-platform-launch-2026",
+        "lulu-odigo-62-robots-30-stores-network-2026",
+        "mfr-posco-plate-dunnage-robot-contract-2026",
+        "primech-vision-multi-robot-platform-2026",
+        "harpak-ulma-hygienic-robotic-loading-2026",
+        "doordash-air-custom-delivery-drone-2026"
       ]
     }
   ]

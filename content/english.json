@@ -1394,5 +1394,374 @@
         "note": "Video: Self-Adaptive VLA Research Team."
       }
     ]
+  },
+  "agibot-vietnam-nic-education-raas-2026": {
+    "title": "AGIBOT and Vietnam NIC launch robotics education and service initiatives",
+    "summary": "A Hanoi conference connected education, research labs and robot services to support Vietnam’s embodied AI ecosystem.",
+    "sections": [
+      {
+        "heading": "Building local capacity",
+        "paragraphs": [
+          "AGIBOT and Vietnam’s National Innovation Center held a Hanoi conference on October 2, 2026 with ECOLIV and Great Education. The company reported more than 550 participants representing over 50 educational institutions and more than 20 research organizations. The initiative focuses on skills and the support needed to put robots to work locally."
+        ]
+      },
+      {
+        "heading": "Education meets robot services",
+        "paragraphs": [
+          "The YuanSheng program connects teaching and research through curriculum development, shared laboratories, faculty training and student practice. A Robot-as-a-Service offering involves ECOLIV in local project delivery and after-sales support. The event displayed humanoid, quadruped and wheeled platforms for education and industrial applications."
+        ]
+      },
+      {
+        "heading": "What remains to be demonstrated",
+        "paragraphs": [
+          "Combining imported robotics technology with local skills and service providers is relevant to automation adoption across Southeast Asia. Education, retail, hospitality and manufacturing are target sectors. The announcement does not establish a commercial installed fleet or measured customer returns in Vietnam; these remain outcomes to watch as the initiatives develop."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001419/Summit-Opening-Photo.jpg?id=OA2984368",
+        "alt": "Opening of the Hanoi conference",
+        "caption": "Opening of the Hanoi conference · Image: AGIBOT"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001420/Award-Ceremony-Photo.jpg?id=OA2984367",
+        "alt": "Award ceremony during the event",
+        "caption": "Award ceremony during the event · Image: AGIBOT"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-atlas-four-finger-hand-2026": {
+    "title": "Atlas gains a four-finger hand with 13 degrees of freedom",
+    "summary": "Boston Dynamics trades a little finger for more articulated control, tactile sensing and simulation-based training.",
+    "sections": [
+      {
+        "heading": "More articulation in four fingers",
+        "paragraphs": [
+          "Boston Dynamics has presented an Atlas hand with four fingers and 13 degrees of freedom, up from seven in the previous design. The thumb has four degrees of freedom and the other fingers have three each. Removing the little finger reduces size, power demand and complexity while targeting a large human-hand form factor."
+        ]
+      },
+      {
+        "heading": "Actuation and contact sensing",
+        "paragraphs": [
+          "Direct joint actuation uses a common actuator type without transmission cables crossing joints. Pressure sensors in the fingertips and palm complement joint feedback to detect contact and slipping. Demonstrations include picking, reorienting objects within the hand and operating tool triggers, capabilities that matter when a robot handles equipment built for people."
+        ]
+      },
+      {
+        "heading": "Learning before deployment",
+        "paragraphs": [
+          "Reinforcement learning in simulation varies torque, friction and geometry to help transfer control to real hardware. The announcement concerns an improved hand and its control approach. It does not provide standardized task success rates or long-term service-life evidence demonstrating readiness for every industrial job."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg",
+        "alt": "Atlas handling a drill and drill bit",
+        "caption": "Atlas handling a drill and drill bit · Image: Boston Dynamics / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-1.jpg",
+        "alt": "The Atlas hand beside a human hand",
+        "caption": "The Atlas hand beside a human hand · Image: Boston Dynamics / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+        "title": "Boston Dynamics demonstrates the new Atlas hands",
+        "note": ""
+      }
+    ]
+  },
+  "runway-praxis1-world-action-model-2026": {
+    "title": "Runway introduces Praxis-1 to turn video learning into robot actions",
+    "summary": "The model is being tested with robotics partners, with a public open-weight release planned in the coming months.",
+    "sections": [
+      {
+        "heading": "Video knowledge becomes robot control",
+        "paragraphs": [
+          "Runway’s Praxis-1 builds on large-scale video pretraining to select actions for physical robots. The premise is that general footage can teach object behavior and motion before adaptation to a particular task and body. This could reduce dependence on costly demonstrations collected directly with robot hardware."
+        ]
+      },
+      {
+        "heading": "Testing across different bodies",
+        "paragraphs": [
+          "Early partners Noble Machines, Standard Bots and Ultra are testing the model on their own hardware. The examples cover two-arm manipulation, robot arms and mobile platforms, including interactions with cans and kitchen objects. These demonstrations do not establish that the policy can handle every task or unfamiliar environment."
+        ]
+      },
+      {
+        "heading": "Public weights are still planned",
+        "paragraphs": [
+          "Access currently targets selected pre-launch partners, with a public open-weight release planned in the coming months. A cited 0.95 correlation comes from related world-model policy evaluation comparing simulated and physical results; it is not a 95% task-success rate for Praxis-1. Task-specific evidence and release conditions remain important before adoption."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/runway-featured.jpg",
+        "alt": "Robot arms handling a can on a table",
+        "caption": "Robot arms handling a can on a table · Image: Runway / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/env-kitchen.jpeg",
+        "alt": "Robot-arm demonstration in a kitchen",
+        "caption": "Robot-arm demonstration in a kitchen · Image: Runway / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
+        "title": "Runway introduces Praxis-1",
+        "note": ""
+      }
+    ]
+  },
+  "innodata-vicon-motion-capture-lab-2026": {
+    "title": "Innodata opens a 3D motion-capture lab for robot training",
+    "summary": "The New Jersey facility uses Vicon cameras to track people, robots and objects for training data and evaluation services.",
+    "sections": [
+      {
+        "heading": "Capturing motion directly in 3D",
+        "paragraphs": [
+          "Innodata has opened a New Jersey laboratory developed with Vicon for humanoid and physical-AI data. Infrared optical cameras measure three-dimensional movement directly instead of inferring it from two-dimensional footage. The company describes sub-millimeter measurement accuracy and millisecond latency."
+        ]
+      },
+      {
+        "heading": "A shared frame for people and robots",
+        "paragraphs": [
+          "Tracking humans, robots and handled objects in the same space connects demonstrations with object positions and machine responses. Customers can buy existing datasets, commission custom capture or bring robots for evaluation under scripted scenarios. External measurements also provide a reference against a robot’s own sensor reports."
+        ]
+      },
+      {
+        "heading": "Measurement is only part of validation",
+        "paragraphs": [
+          "The service offers developers reference data for model training and evaluation. Camera accuracy is a measurement specification, not a robot task-success rate. Real operating conditions, differences between robot bodies and failure cases still require testing beyond the laboratory before the resulting behavior can be relied upon in deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/0827_LabPicture.png",
+        "alt": "The motion-capture laboratory",
+        "caption": "The motion-capture laboratory · Image: Innodata / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ViconCameras-copy.jpg",
+        "alt": "A Vicon motion-capture camera",
+        "caption": "A Vicon motion-capture camera · Image: Innodata / The Robot Report"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=peSv0RFdKso",
+        "title": "Motion-capture video accompanying the Innodata report",
+        "note": ""
+      }
+    ]
+  },
+  "anybotics-shift-platform-launch-2026": {
+    "title": "ANYbotics launches Shift to connect robot inspections with maintenance",
+    "summary": "The platform combines fleet missions, contextual analysis and connections to plant maintenance systems.",
+    "sections": [
+      {
+        "heading": "Turning inspection into action",
+        "paragraphs": [
+          "ANYbotics has introduced Shift to connect robot inspection rounds with equipment-maintenance decisions. It brings mission management, data interpretation and business-system handoffs into a common workflow. This is a separate platform launch from the previously covered ANYmal secure-door deployment at Whitegate power station."
+        ]
+      },
+      {
+        "heading": "Four connected modules",
+        "paragraphs": [
+          "Fleet schedules and monitors missions. Insight evaluates visual, thermal, acoustic and gas readings alongside operating context such as motor load and ambient temperature. Connect sends confirmed anomalies into maintenance systems through connectors and APIs. Maps associates readings with asset identifiers and the plant hierarchy, helping teams locate the equipment requiring attention."
+        ]
+      },
+      {
+        "heading": "Migration and present scope",
+        "paragraphs": [
+          "ANYbotics says Data Navigator will become Shift through a regular update while retaining existing data and settings. Deployment options include managed regional cloud, a customer’s cloud and on-premise installations where needed. Support for other manufacturers’ robots is a future expansion, rather than evidence of immediate compatibility with every robot brand."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.newelectronics.co.uk/media/mkudfayh/anybotics-fleets.png?width=1002&height=564&bgcolor=White&v=1dd5243a12e3770",
+        "alt": "ANYbotics fleet-management interface",
+        "caption": "ANYbotics fleet-management interface · Image: ANYbotics / New Electronics · The source refused the image request during verification (HTTP 403); use the image or source link to view it."
+      }
+    ],
+    "videos": []
+  },
+  "lulu-odigo-62-robots-30-stores-network-2026": {
+    "title": "LuLu activates an Odigo robot media network across 30 UAE stores",
+    "summary": "The live network uses 62 mobile robots for shopper assistance and advertising tailored to individual stores.",
+    "sections": [
+      {
+        "heading": "A network now in operation",
+        "paragraphs": [
+          "LuLu Retail and Kody Middle East Holding signed a retail-media partnership in Abu Dhabi. The network puts 62 AI-enabled Odigo robots across 30 LuLu stores in the United Arab Emirates. Aletihad reports that it is live, providing a concrete deployment count rather than treating an earlier rollout ambition as a newly completed fleet."
+        ]
+      },
+      {
+        "heading": "Shopper help and mobile advertising",
+        "paragraphs": [
+          "Odigo moves autonomously through stores to support navigation, product discovery and promotions. Campaigns can be updated in real time and tailored by location, store or market. The arrangement combines customer assistance with advertising near the point of purchase and is available to brands, agencies and media buyers."
+        ]
+      },
+      {
+        "heading": "Results still to measure",
+        "paragraphs": [
+          "The deployment offers retailers an example of robot use beyond moving goods. However, the report does not disclose advertising revenue, conversion rates or effects on store congestion. The installed fleet is evidence of adoption; it should be distinguished from unproven claims about marketing effectiveness."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn1-m.alittihad.ae/store/archive/image/2026/10/2/c6bbb7e9-52e7-4f09-9824-b850b9527e78.jpeg",
+        "alt": "Launch of LuLu’s robotic retail-media network",
+        "caption": "Launch of LuLu’s robotic retail-media network · Image: Supplied / Aletihad"
+      }
+    ],
+    "videos": []
+  },
+  "mfr-posco-plate-dunnage-robot-contract-2026": {
+    "title": "MFR wins POSCO contract for robotic steel-plate spacer placement",
+    "summary": "The system combines autonomous travel, 3D vision and manipulation to place wooden spacers around heavy steel plates.",
+    "sections": [
+      {
+        "heading": "Automating a hazardous handling step",
+        "paragraphs": [
+          "MFR, a company founded by a DGIST researcher, announced on October 2 that it won a POSCO supply project for placing wooden spacers between thick steel-plate products during warehouse shipping operations. The work brings people close to heavy plates. The company describes the project as nearing final preparation for introduction at the site."
+        ]
+      },
+      {
+        "heading": "Navigation followed by manipulation",
+        "paragraphs": [
+          "Sensor fusion and optical tracking support travel and obstacle avoidance. At the work position, AI and 3D vision identify the plate geometry and location before the arm places a spacer. An adjustable lifting mechanism and multi-axis control address higher positions. Automatic charging and wireless supervision let operators monitor from outside the hazardous area."
+        ]
+      },
+      {
+        "heading": "Site performance remains to be proven",
+        "paragraphs": [
+          "The contract is a significant step, but it is not evidence of completed full-scale operation. MFR plans to validate safety and usefulness in the steelworks before extending the approach to heavy-load handling, large plants and specialized manufacturing. The report supplies no measured cycle time, placement-success rate or accident reduction."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://img.etnews.com/news/article/2026/10/02/news-p.v1.20261002.5a47ea81894e41cf813d1d6654130a58_P1.png",
+        "alt": "System diagram for robotic steel-plate spacer placement",
+        "caption": "System diagram for robotic steel-plate spacer placement · Image: MFR / Electronic Times"
+      },
+      {
+        "url": "https://img.etnews.com/news/article/2026/10/02/news-p.v1.20261002.f2ae1f5f1bfb414280b80198c28ce2b9_P1.jpg",
+        "alt": "MFR chief executive Lee Seung-yeol",
+        "caption": "MFR chief executive Lee Seung-yeol · Image: Electronic Times"
+      }
+    ],
+    "videos": []
+  },
+  "primech-vision-multi-robot-platform-2026": {
+    "title": "Primech Vision coordinates facility workers and multiple robot types",
+    "summary": "A Singapore headquarters pilot brings delivery, reception and cleaning robots together with HYTRON.",
+    "sections": [
+      {
+        "heading": "Beyond a single-purpose robot",
+        "paragraphs": [
+          "Primech Holdings introduced Primech Vision on October 1, 2026 to coordinate facility personnel and multiple robot types. A pilot at its Singapore headquarters expands the company’s approach beyond HYTRON, its restroom-cleaning robot, to include delivery, reception and other cleaning robots."
+        ]
+      },
+      {
+        "heading": "From an issue to a tracked task",
+        "paragraphs": [
+          "Robots, cameras or staff can identify facility issues. The platform converts these into tasks, assigns them to people or robotic systems, and follows execution and completion through a central interface. The aim is to give managers a site-wide view of work rather than separate status displays for individual machines."
+        ]
+      },
+      {
+        "heading": "Internal testing before broader rollout",
+        "paragraphs": [
+          "Primech plans live demonstrations for visiting customers from Asia, Europe and the United States starting in October. Its internal pilot evaluates workflow integration and human-robot collaboration. The announcement supplies no measured savings or broad deployment results. Exception handling and handoffs to people remain practical points to assess."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/45c05876-232d-4ff2-88b8-8179bd20f0f0/picture1.png",
+        "alt": "HYTRON and facility robots at the Singapore headquarters",
+        "caption": "HYTRON and facility robots at the Singapore headquarters · Image: Primech Holdings"
+      }
+    ],
+    "videos": []
+  },
+  "harpak-ulma-hygienic-robotic-loading-2026": {
+    "title": "Harpak-ULMA launches hygienic robot loading with shared packaging controls",
+    "summary": "Washdown-oriented construction and Rockwell PLC motion control target simpler integration in food packaging lines.",
+    "sections": [
+      {
+        "heading": "A platform for food packaging",
+        "paragraphs": [
+          "Harpak-ULMA introduced robotic loading for cheese, fresh meat and snacks on October 1. It locates, inspects, picks and loads products for thermoforming, flow wrapping and tray sealing. The company describes configurations reaching hundreds of packages per minute, depending on the product and layout, rather than guaranteeing that rate for every application."
+        ]
+      },
+      {
+        "heading": "Washdown and product handling",
+        "paragraphs": [
+          "The food configuration uses open bent-plate stainless construction instead of tubular framing, with sloped drainage surfaces and accessible components. IP69K-rated components support demanding washdown. Application-specific tooling and 2D or 3D vision guide handling; product-presence, feature and defect inspection are selected according to the job."
+        ]
+      },
+      {
+        "heading": "A common maintenance environment",
+        "paragraphs": [
+          "Robot motion is programmed directly in a Rockwell Automation PLC using Logix, shared with the packaging machines. Modular dimensions are configured during manufacture for the available space. Demonstrations are planned for PACK EXPO on October 18–21 and Automation Fair on November 16–19, 2026. Actual products and cleaning requirements still need application testing."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://media.zenfs.com/en/business-wire.com/b124763d04c9b1422734bf3c4ab18e03.jpg",
+        "alt": "Modular robot loading platform for packaging lines",
+        "caption": "Modular robot loading platform for packaging lines · Image: Harpak-ULMA / Business Wire"
+      }
+    ],
+    "videos": []
+  },
+  "doordash-air-custom-delivery-drone-2026": {
+    "title": "DoorDash Air reveals a six-propeller delivery drone ahead of a California trial",
+    "summary": "The system covers aircraft, loading and dispatch; the sub-five-minute estimate comes from early testing.",
+    "sections": [
+      {
+        "heading": "Designing the whole delivery chain",
+        "paragraphs": [
+          "DoorDash introduced its DoorDash Air system on September 30, ahead of this TechRadar report. A custom six-propeller aircraft is paired with loading infrastructure, packaging and dispatch software. A limited Northern California trial is planned with restaurants including Chipotle and Popeyes; this is not a general launch across all markets."
+        ]
+      },
+      {
+        "heading": "Lowering food without landing",
+        "paragraphs": [
+          "The aircraft lowers packages on a line instead of routinely landing at the destination. DoorDash describes emergency-landing safeguards and slower propellers intended to reduce noise. Air-delivery eligibility also depends on weight, distance, weather and delivery conditions, rather than package dimensions alone."
+        ]
+      },
+      {
+        "heading": "The limits behind the headline figures",
+        "paragraphs": [
+          "DoorDash estimates that about 80% of typical US restaurant orders in its studied sample meet size and weight requirements, not that 80% are deliverable every day. The sub-five-minute average comes from early restaurant-to-recipient tests and is not a guarantee including food preparation. The passing-car noise comparison is a company claim rather than an independent measurement for every neighborhood."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/DGG6FmGJYYhS6A3yMButpW.jpg",
+        "alt": "Amazon and DoorDash aircraft pictured in the source report",
+        "caption": "Amazon and DoorDash aircraft pictured in the source report · Image: Getty Images / Bloomberg / Amazon via TechRadar"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=e3K_CP1ONoc",
+        "title": "DoorDash Air demonstrates its drone delivery system",
+        "note": ""
+      }
+    ]
   }
 }
