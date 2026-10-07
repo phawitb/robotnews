@@ -2081,5 +2081,359 @@
     ],
     "images": [],
     "videos": []
+  },
+  "sereact-zalando-ceva-live-returns-2026": {
+    "title": "Sereact robots enter live Zalando returns operations in Germany and Poland",
+    "summary": "Cortex-powered dual-arm systems are operating with CEVA in Greven and Świebodzin under a RaaS model, handling unpredictable fashion returns.",
+    "sections": [
+      {
+        "heading": "Two operational sites",
+        "paragraphs": [
+          "On October 7, Sereact, Zalando and CEVA Logistics announced that dual-arm robots had entered live operations at Greven in Germany and Świebodzin in Poland. These sites are the first operational step in a broader European returns initiative. The development is a production deployment, following Zalando’s participation as a strategic investor in Sereact’s Series B in July."
+        ]
+      },
+      {
+        "heading": "Handling unfamiliar returns",
+        "paragraphs": [
+          "Fashion returns often arrive crumpled or poorly packed, making fixed picking sequences difficult to apply. According to the partners, Cortex identifies, grasps and sorts unfamiliar objects without training separately for each article or relying on a predefined SKU set. The focus is adapting manipulation to the condition of each incoming item, rather than assuming identical presentation."
+        ]
+      },
+      {
+        "heading": "Service model and evidence limits",
+        "paragraphs": [
+          "The deployment uses Robotics-as-a-Service, with the aim of reducing repetitive handling and physical strain. Employees remain responsible for station supervision, exceptions and quality control. The announcement does not provide robot counts, hourly throughput or independently measured error rates, so it does not establish a quantified cost saving or readiness for every warehouse environment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.cevalogistics.com/_ipx/w_5120&f_jpeg/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+        "alt": "Dual-arm robot handling clothing",
+        "caption": "Dual-arm robot handling clothing · Image: Sereact / CEVA Logistics"
+      },
+      {
+        "url": "https://www.cevalogistics.com/_ipx/w_5120&f_jpeg/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+        "alt": "Another view of robotic clothing handling",
+        "caption": "Another view of robotic clothing handling · Image: Sereact / CEVA Logistics"
+      }
+    ],
+    "videos": []
+  },
+  "ncsu-feather-star-two-actuator-swimmer-2026": {
+    "title": "Feather-star robot moves through 3D space underwater with two actuators",
+    "summary": "NC State researchers use flexible wings for swimming, hovering and turning, demonstrating camera exploration and lifting while a wireless version remains future work.",
+    "sections": [
+      {
+        "heading": "Structure does part of the work",
+        "paragraphs": [
+          "NC State reported research published in Science Advances on October 7. Four flexible wings surround a central disk containing two actuators. Each wing returns to its original shape after bending. This mechanical design produces several motion patterns from a small number of inputs, reducing the need for a separate actuator for every direction."
+        ]
+      },
+      {
+        "heading": "Three modes enable maneuvering",
+        "paragraphs": [
+          "Driving both actuators makes the wings pulse to raise the robot; slower flapping enables hovering and stopping lets it descend. Driving one actuator creates fish-like propulsion, while rapidly alternating the two produces rotation. The paper’s abstract reports a maximum swimming speed of 1.64 body lengths per second and a peak rotation rate of 90 degrees per second."
+        ]
+      },
+      {
+        "heading": "Demonstrations and remaining work",
+        "paragraphs": [
+          "The researchers demonstrated underwater camera exploration and object lifting, both individually and with multiple robots. These experiments show platform capabilities rather than commercial performance at sea. A fully wireless version is a future direction, and the team is seeking collaboration with specialists in other fields to develop suitable applications."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://news.ncsu.edu/wp-content/uploads/2026/10/Jie-Yin-Feather-Star-HEADER-1500.jpg",
+        "alt": "Composite showing the underwater robot moving in a test tank",
+        "caption": "Composite showing the underwater robot moving in a test tank · Image: NC State University"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=UHdcii-Icjs",
+        "title": "Feather-star-inspired underwater robot demonstration · Video: NC State University"
+      }
+    ]
+  },
+  "mecka-series-b-60m-data-deployment-2026": {
+    "title": "Mecka raises $60 million to expand robotics data and deployment",
+    "summary": "Sequoia leads the Series B with NVIDIA, M12, Qualcomm Ventures and Samsung among the new investors, supporting human-demonstration capture and robot integration.",
+    "sections": [
+      {
+        "heading": "Funding the data and deployment stack",
+        "paragraphs": [
+          "Mecka announced a $60 million Series B on October 7, led by Sequoia Capital. New investors include NVIDIA, Microsoft’s M12, Qualcomm Ventures and Samsung, alongside continued support from Kindred, Framework Ventures and Neo. The funding will expand data infrastructure, the internal research lab and commercial robot deployment."
+        ]
+      },
+      {
+        "heading": "Recording physical experience",
+        "paragraphs": [
+          "Mecka designs its own multisensor capture hardware and runs recording operations in homes and commercial settings. Its models turn those recordings into motion information, 3D reconstruction and aligned signals. The company focuses on physical experience, including grasping and contact, that robotics teams need to train machines for real tasks."
+        ]
+      },
+      {
+        "heading": "Integration and financial qualifications",
+        "paragraphs": [
+          "Its integration approach combines hardware, on-site data capture, post-training and ongoing operation. Mecka says it exceeded a $100 million annualized revenue run rate in June and projects $300 million by year-end. These are company-reported figures and forecasts; a run rate is not a full year of recognized revenue. The announcement also does not independently verify robot improvement across every task."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.mecka.ai/news/series-b.jpg",
+        "alt": "Mecka funding-announcement illustration with investor logos",
+        "caption": "Mecka funding-announcement illustration with investor logos · Image: Mecka"
+      }
+    ],
+    "videos": []
+  },
+  "kuka-td-synnex-amr-distribution-europe-2026": {
+    "title": "KUKA and TD SYNNEX open a European AMR distribution channel",
+    "summary": "The rollout starts in the UK, France, Spain and Benelux, with training to help IT partners integrate robotics into customer operations.",
+    "sections": [
+      {
+        "heading": "AMRs lead the rollout",
+        "paragraphs": [
+          "A joint announcement dated October 7 describes a distribution agreement giving TD SYNNEX partners access to KUKA Group’s autonomous mobile robots. The rollout starts in the UK, France, Spain and Benelux, with more markets planned in subsequent quarters. Collaborative robots, education packages and industrial software are expected to follow as the relationship develops."
+        ]
+      },
+      {
+        "heading": "Connecting IT partners with operations",
+        "paragraphs": [
+          "The agreement targets partners already serving manufacturing, logistics, e-commerce, healthcare and automotive customers. The companies want to connect operational equipment with AI, cloud, edge computing and data infrastructure. Its main significance is broadening the channel that can deliver automation projects; it is not an announcement of a new robot model."
+        ]
+      },
+      {
+        "heading": "Support and current scope",
+        "paragraphs": [
+          "Partner engagement begins immediately in the launch markets, including business briefings, technical workshops and training online and through KUKA Colleges. Local-language sessions and learning paths will be supported through PartnerFirst. No pricing, installation count or Thailand rollout date is given, so local distribution coverage and support still need to be established."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.kuka.com/-/media/kuka-corporate/images/press/news/2026/10/webimagekuka-group-automation-20.jpg?rev=-1&w=1900&hash=7A621642A12E4CAEF9C6FE7D651B3899",
+        "alt": "KUKA Group automation partnership illustration",
+        "caption": "KUKA Group automation partnership illustration · Image: KUKA Group"
+      }
+    ],
+    "videos": []
+  },
+  "danaher-abcam-autonomous-lab-plan-2026": {
+    "title": "Danaher plans an AI and robotics lab for iterative reagent development",
+    "summary": "The Abcam-based lab targets scaled operation in early 2027, with Automata supporting orchestration and robotics; the claimed eightfold speedup is a design goal.",
+    "sections": [
+      {
+        "heading": "Starting with research reagents",
+        "paragraphs": [
+          "Danaher announced its first planned AI-powered autonomous lab on October 7. Based at Abcam, it is expected to operate at scale in early 2027. The initial focus is affinity reagents, including antibodies and other molecular research tools that bind specific biological targets. This is a research-infrastructure announcement, not the launch of a patient-ready medicine."
+        ]
+      },
+      {
+        "heading": "A connected experimental loop",
+        "paragraphs": [
+          "AI helps propose molecules, after which the lab builds and tests them and feeds results into the next design cycle. The workflow combines technologies from Beckman Coulter Life Sciences, Cytiva, Genedata, Integrated DNA Technologies and Molecular Devices. Automata collaborates on instrument orchestration and robotic automation, while scientists continue to make the key decisions."
+        ]
+      },
+      {
+        "heading": "Targets remain to be demonstrated",
+        "paragraphs": [
+          "The lab is designed to move from an idea to a validated reagent up to eight times faster and increase annual reagent generation by up to tenfold, from tens to hundreds as it scales. These are forward-looking targets rather than a completed year of operating results. Each design is intended to be tested and verified so that speed does not replace scientific rigor."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "overview-ov-spark-agentic-inspection-launch-2026": {
+    "title": "Overview AI launches OV Spark inspection cameras with an onboard assistant",
+    "summary": "Ten inspection tools and the Sparky assistant help configure checks, with on-device production inspection and an early deployment at MEC.",
+    "sections": [
+      {
+        "heading": "Setup built around the part",
+        "paragraphs": [
+          "Overview AI launched OV Spark and Spark Pro on October 6 with Sparky, an assistant for choosing inspection tools and explaining results in English. Ten tools cover tasks such as counting, OCR, segmentation, anomaly detection, measurement and barcodes. Alignment makes inspection regions follow a shifting or rotating part, and an absent part causes capture failure rather than an empty-frame pass."
+        ]
+      },
+      {
+        "heading": "On-camera operation",
+        "paragraphs": [
+          "Spark provides 1.2-megapixel imaging and Pro provides 5 megapixels, using Qualcomm Dragonwing processing in a 70 × 116 × 53 mm IP66-rated body. Model training, inference, the operator interface and PLC communication run on the device. The product documentation says production inspection and Sparky do not require cloud connectivity, while optional Defect Studio synthetic-image generation uses the cloud."
+        ]
+      },
+      {
+        "heading": "Early factory use and validation",
+        "paragraphs": [
+          "Mansfield Engineered Components uses the camera at an end-of-line station previously checked visually, where a missing washer is a frequent defect. The products are available directly and through partners. Users still need to train applicable tools and validate lighting, cycle time and result integration. Product documentation also excludes instance segmentation for separating overlapping objects and judging them individually."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-in-production-at-MEC-featured.jpg",
+        "alt": "OV Spark operating on a MEC production line",
+        "caption": "OV Spark operating on a MEC production line · Image: Overview AI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Spark-explains.jpg",
+        "alt": "Sparky interface explaining an inspection",
+        "caption": "Sparky interface explaining an inspection · Image: Overview AI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-on-a-production-line.jpg",
+        "alt": "OV Spark mounted on a production line",
+        "caption": "OV Spark mounted on a production line · Image: Overview AI"
+      }
+    ],
+    "videos": []
+  },
+  "teradyne-bright-machines-investment-integration-2026": {
+    "title": "Teradyne invests in Bright Machines to connect robotics and AI hardware testing",
+    "summary": "The planned collaboration links assembly, inspection, material movement and electrical test data, without a timeline for a fully integrated system.",
+    "sections": [
+      {
+        "heading": "Investment accompanies collaboration",
+        "paragraphs": [
+          "Teradyne and Bright Machines announced a strategic investment on October 5 alongside plans to integrate Teradyne robotics and testing technologies with Bright Machines’ manufacturing platform. The target is AI and data-center infrastructure production. The reviewed announcements do not disclose an investment amount, so this is not a funding round with a stated monetary size."
+        ]
+      },
+      {
+        "heading": "Following each unit through production",
+        "paragraphs": [
+          "Areas under evaluation include precision assembly, robotic loading and unloading of test equipment, and autonomous material movement. Universal Robots cobots, board testers and Bright Machines’ platform would contribute different data streams to a unit’s production history. The aim is to connect design choices with assembly execution and measured electrical performance."
+        ]
+      },
+      {
+        "heading": "A phased integration effort",
+        "paragraphs": [
+          "Bright Machines told The Robot Report that it had begun adding Universal Robots to its lines and identifying technical integration areas. Work will proceed in phases tied to customer applications and requirements; no complete-system timeline has been announced. Its record of more than 130 microfactory deployments in over 10 countries predates this deal and is not a deployment count for the new collaboration."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/brightmachines-teradyne-featured.jpg",
+        "alt": "Bright Factory connects design, automation and manufacturing data",
+        "caption": "Bright Factory connects design, automation and manufacturing data · Image: Bright Machines"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=wQYq1IcWmSg",
+        "title": "Teradyne explains system-level testing for data centers · Video: Teradyne"
+      }
+    ]
+  },
+  "twelvelabs-pegasus16-egocentric-video-launch-2026": {
+    "title": "Pegasus 1.6 turns first-person video into robotics training data",
+    "summary": "TwelveLabs adds action segmentation, descriptions and clip assessment to support behavioral datasets, without replacing tactile sensors or robot control.",
+    "sections": [
+      {
+        "heading": "Understanding the operator’s viewpoint",
+        "paragraphs": [
+          "TwelveLabs released Pegasus 1.6 on October 6 with support for video captured from the viewpoint of the person or machine doing a task, such as assembly, cooking or robot teleoperation. It also improves entity recognition and handles still images through the same API as video. The company does not require a proprietary capture camera."
+        ]
+      },
+      {
+        "heading": "Preparing reviewable datasets",
+        "paragraphs": [
+          "Supported workflows include timed action labels, detailed captions, quality scoring, search for rare events or duplicate clips, and flagging faces, bystanders or sensitive data. These tools help teams organize raw footage for review and training selection. Flagging is an aid to review; it does not itself establish consent or guarantee compliance in every situation."
+        ]
+      },
+      {
+        "heading": "Video analysis has a defined role",
+        "paragraphs": [
+          "Pegasus identifies visible behavior, such as what each hand is doing and how a scene changes, for teams to combine with their own sensor data. It does not replace tactile or actuator-level sensing or make a robot execute a task simply by reading footage. The reviewed announcement provides no independent, across-task measurement of improved robot success rates."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TwelveLabs_Pegasus.jpg",
+        "alt": "Example analysis of first-person food-preparation footage",
+        "caption": "Example analysis of first-person food-preparation footage · Image: TwelveLabs"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Egocentric_fails.jpg",
+        "alt": "Illustration of challenges in head-mounted footage",
+        "caption": "Illustration of challenges in head-mounted footage · Image: TwelveLabs"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=v3t0_b0uN0M",
+        "title": "Introducing the general availability of Pegasus 1.6 · Video: TwelveLabs"
+      }
+    ]
+  },
+  "wing-walmart-denver-seattle-expansion-plan-2026": {
+    "title": "Wing and Walmart plan Denver and Seattle drone deliveries in 2027",
+    "summary": "Two new metro areas join a network plan approaching 20 markets and more than 270 stores; service has not yet launched in the new regions.",
+    "sections": [
+      {
+        "heading": "Two additional metropolitan markets",
+        "paragraphs": [
+          "Wing and Walmart announced on October 5 that Denver and Seattle will join their delivery network in 2027, bringing the expansion plan close to 20 major US metro areas. The partners say more than three million customers already have access in markets including Dallas–Fort Worth, Atlanta, Houston and Orlando. Access is not the same as a count of actual ordering customers."
+        ]
+      },
+      {
+        "heading": "Network scale and different climates",
+        "paragraphs": [
+          "The broader plan targets more than 270 Walmart locations and access for over 40 million customers. Seattle’s rain and Denver’s wintry conditions extend the range of operating environments. Wing says its aircraft can travel up to 60 mph and carry up to five pounds. The announcement does not imply unrestricted operation in every weather condition."
+        ]
+      },
+      {
+        "heading": "Ordering when service becomes available",
+        "paragraphs": [
+          "Eligible customers will see drone delivery in Walmart’s app and website, with ordering also available through Wing’s app. Supported items include groceries and household goods, subject to local availability. The 2027 timing remains a rollout plan and does not establish that every home in Denver or Seattle will be within range from the first day."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/xCjD776bJpR2heliWKeCns3vhs.jpg?width=3304&height=2261",
+        "alt": "Illustration accompanying Wing and Walmart’s expansion announcement",
+        "caption": "Illustration accompanying Wing and Walmart’s expansion announcement · Image: Wing"
+      },
+      {
+        "url": "https://framerusercontent.com/images/dWB0l1GwTJNe4cJ9sMGXGIkjuAU.png?width=1367&height=946",
+        "alt": "Graphic showing the drone-delivery network",
+        "caption": "Graphic showing the drone-delivery network · Image: Wing"
+      }
+    ],
+    "videos": []
+  },
+  "munson-blueflite-phase-two-medical-drone-pilot-2026": {
+    "title": "Munson expands medical drone trials to multiple aircraft and longer flights",
+    "summary": "Phase two in Michigan runs October 6–30, simulating transport of supplies, lab samples and medicines to gather evidence for rural healthcare logistics.",
+    "sections": [
+      {
+        "heading": "Linking healthcare facilities in a trial",
+        "paragraphs": [
+          "An October 5 announcement describes the second project phase led by Traverse Connect, Munson Healthcare, blueflite and Central Michigan University’s Rural Health Excellence Institute. Flights between Munson Medical Center and Crystal Lake Health Center are scheduled for October 6–30. They simulate supplies, laboratory samples and medication transport rather than constitute a complete routine medical-delivery network."
+        ]
+      },
+      {
+        "heading": "Building beyond the first phase",
+        "paragraphs": [
+          "The May 9–20, 2025 phase completed nearly 70 flights within a one-mile radius of Munson Medical Center. The new phase extends flight duration and introduces multiple aircraft and sensor technology. The partners report FAA approval, but the announcement does not list every operational condition and should not be read as permission for unrestricted flights anywhere."
+        ]
+      },
+      {
+        "heading": "Evidence before broader deployment",
+        "paragraphs": [
+          "The pilot collects operating data to assess how air transport can connect rural healthcare facilities. Support comes from Michigan’s Advanced Aerial Mobility Activation Fund and Newlab. Phase-two results are intended to inform scaling decisions; there are not yet reported outcome figures from this phase showing reductions in treatment time, cost or errors."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/munson-healthcare.jpeg?fit=678%2C452&ssl=1",
+        "alt": "Image accompanying the Munson medical drone project announcement",
+        "caption": "Image accompanying the Munson medical drone project announcement · Image: Munson press release / sUAS News"
+      }
+    ],
+    "videos": []
   }
 }

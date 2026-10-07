@@ -1088,5 +1088,147 @@
   "boston-dynamics-rohit-prasad-ceo-2026": {
     "images": [],
     "videos": []
+  },
+  "sereact-zalando-ceva-live-returns-2026": {
+    "images": [
+      {
+        "url": "https://www.cevalogistics.com/_ipx/w_5120&f_jpeg/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+        "alt": "หุ่นยนต์สองแขนจัดการเสื้อผ้า",
+        "caption": "หุ่นยนต์สองแขนจัดการเสื้อผ้า · ภาพ: Sereact / CEVA Logistics"
+      },
+      {
+        "url": "https://www.cevalogistics.com/_ipx/w_5120&f_jpeg/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+        "alt": "มุมการทำงานของระบบจับเสื้อผ้า",
+        "caption": "มุมการทำงานของระบบจับเสื้อผ้า · ภาพ: Sereact / CEVA Logistics"
+      }
+    ],
+    "videos": []
+  },
+  "ncsu-feather-star-two-actuator-swimmer-2026": {
+    "images": [
+      {
+        "url": "https://news.ncsu.edu/wp-content/uploads/2026/10/Jie-Yin-Feather-Star-HEADER-1500.jpg",
+        "alt": "ภาพรวมการเคลื่อนที่ของหุ่นยนต์ใต้น้ำในถังทดลอง",
+        "caption": "ภาพรวมการเคลื่อนที่ของหุ่นยนต์ใต้น้ำในถังทดลอง · ภาพ: NC State University"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=UHdcii-Icjs",
+        "embed": "https://www.youtube-nocookie.com/embed/UHdcii-Icjs",
+        "title": "การทดลองหุ่นยนต์ใต้น้ำเลียนแบบดาวขนนก · วิดีโอ: NC State University"
+      }
+    ]
+  },
+  "mecka-series-b-60m-data-deployment-2026": {
+    "images": [
+      {
+        "url": "https://www.mecka.ai/news/series-b.jpg",
+        "alt": "ภาพประกอบประกาศระดมทุน Mecka พร้อมรายชื่อนักลงทุน",
+        "caption": "ภาพประกอบประกาศระดมทุน Mecka พร้อมรายชื่อนักลงทุน · ภาพ: Mecka"
+      }
+    ],
+    "videos": []
+  },
+  "kuka-td-synnex-amr-distribution-europe-2026": {
+    "images": [
+      {
+        "url": "https://www.kuka.com/-/media/kuka-corporate/images/press/news/2026/10/webimagekuka-group-automation-20.jpg?rev=-1&w=1900&hash=7A621642A12E4CAEF9C6FE7D651B3899",
+        "alt": "ภาพประกอบความร่วมมือด้านระบบอัตโนมัติ KUKA Group",
+        "caption": "ภาพประกอบความร่วมมือด้านระบบอัตโนมัติ KUKA Group · ภาพ: KUKA Group"
+      }
+    ],
+    "videos": []
+  },
+  "danaher-abcam-autonomous-lab-plan-2026": {
+    "images": [],
+    "videos": []
+  },
+  "overview-ov-spark-agentic-inspection-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-in-production-at-MEC-featured.jpg",
+        "alt": "OV Spark ในสายการผลิตของ MEC",
+        "caption": "OV Spark ในสายการผลิตของ MEC · ภาพ: Overview AI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Spark-explains.jpg",
+        "alt": "หน้าจอผู้ช่วย Sparky อธิบายการตรวจสอบ",
+        "caption": "หน้าจอผู้ช่วย Sparky อธิบายการตรวจสอบ · ภาพ: Overview AI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-on-a-production-line.jpg",
+        "alt": "กล้อง OV Spark ติดตั้งบนสายการผลิต",
+        "caption": "กล้อง OV Spark ติดตั้งบนสายการผลิต · ภาพ: Overview AI"
+      }
+    ],
+    "videos": []
+  },
+  "teradyne-bright-machines-investment-integration-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/brightmachines-teradyne-featured.jpg",
+        "alt": "แพลตฟอร์ม Bright Factory เชื่อมงานออกแบบ ระบบอัตโนมัติและข้อมูล",
+        "caption": "แพลตฟอร์ม Bright Factory เชื่อมงานออกแบบ ระบบอัตโนมัติและข้อมูล · ภาพ: Bright Machines"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=wQYq1IcWmSg",
+        "embed": "https://www.youtube-nocookie.com/embed/wQYq1IcWmSg",
+        "title": "Teradyne อธิบายการทดสอบระดับระบบสำหรับศูนย์ข้อมูล · วิดีโอ: Teradyne",
+        "sourceUrl": "https://www.youtube.com/embed/wQYq1IcWmSg?feature=oembed"
+      }
+    ]
+  },
+  "twelvelabs-pegasus16-egocentric-video-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TwelveLabs_Pegasus.jpg",
+        "alt": "ตัวอย่างการวิเคราะห์วิดีโอมุมมองผู้เตรียมอาหาร",
+        "caption": "ตัวอย่างการวิเคราะห์วิดีโอมุมมองผู้เตรียมอาหาร · ภาพ: TwelveLabs"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Egocentric_fails.jpg",
+        "alt": "ภาพอธิบายความท้าทายของวิดีโอจากกล้องติดศีรษะ",
+        "caption": "ภาพอธิบายความท้าทายของวิดีโอจากกล้องติดศีรษะ · ภาพ: TwelveLabs"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=v3t0_b0uN0M",
+        "embed": "https://www.youtube-nocookie.com/embed/v3t0_b0uN0M",
+        "title": "แนะนำ Pegasus 1.6 รุ่นเปิดใช้งานทั่วไป · วิดีโอ: TwelveLabs",
+        "sourceUrl": "https://www.youtube.com/embed/v3t0_b0uN0M?feature=oembed"
+      }
+    ]
+  },
+  "wing-walmart-denver-seattle-expansion-plan-2026": {
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/xCjD776bJpR2heliWKeCns3vhs.jpg?width=3304&height=2261",
+        "alt": "ภาพประกอบแผนขยายบริการ Wing และ Walmart",
+        "caption": "ภาพประกอบแผนขยายบริการ Wing และ Walmart · ภาพ: Wing"
+      },
+      {
+        "url": "https://framerusercontent.com/images/dWB0l1GwTJNe4cJ9sMGXGIkjuAU.png?width=1367&height=946",
+        "alt": "กราฟิกเครือข่ายบริการส่งของด้วยโดรน",
+        "caption": "กราฟิกเครือข่ายบริการส่งของด้วยโดรน · ภาพ: Wing"
+      }
+    ],
+    "videos": []
+  },
+  "munson-blueflite-phase-two-medical-drone-pilot-2026": {
+    "images": [
+      {
+        "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/munson-healthcare.jpeg?fit=678%2C452&ssl=1",
+        "alt": "ภาพประกอบโครงการโดรนขนส่งการแพทย์ Munson",
+        "caption": "ภาพประกอบโครงการโดรนขนส่งการแพทย์ Munson · ภาพ: ข่าวประชาสัมพันธ์ Munson / sUAS News"
+      }
+    ],
+    "videos": []
   }
 }

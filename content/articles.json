@@ -468,5 +468,115 @@
     "url": "https://www.roboticstomorrow.com/news/2026/10/06/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/27216/",
     "image": "",
     "addedAt": "2026-10-07T09:43:54.670Z"
+  },
+  {
+    "id": "sereact-zalando-ceva-live-returns-2026",
+    "category": "industrial-robots",
+    "title": "Sereact เริ่มใช้หุ่นยนต์สองแขนคัดสินค้าคืนของ Zalando ในเยอรมนีและโปแลนด์",
+    "summary": "ระบบ Cortex เข้าปฏิบัติงานจริงกับ CEVA ใน Greven และ Świebodzin ใช้รูปแบบ RaaS จัดการเสื้อผ้าที่สภาพไม่แน่นอน",
+    "source": "CEVA Logistics",
+    "date": "2026-10-07",
+    "url": "https://www.cevalogistics.com/en/news-and-media/newsroom/press-release/sereact-zalando-ceva-start-ai-powered-automated-returns",
+    "image": "https://www.cevalogistics.com/_ipx/w_5120&f_jpeg/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "ncsu-feather-star-two-actuator-swimmer-2026",
+    "category": "research",
+    "title": "หุ่นยนต์เลียนแบบดาวขนนก เคลื่อนที่ใต้น้ำสามมิติด้วยตัวขับเพียงสองตัว",
+    "summary": "งานวิจัย NC State ใช้ปีกยืดหยุ่นสลับโหมดว่าย ลอยตัวและหมุน ทดสอบสำรวจด้วยกล้องและยกวัตถุ โดยระบบไร้สายยังเป็นงานขั้นต่อไป",
+    "source": "NC State News",
+    "date": "2026-10-07",
+    "url": "https://news.ncsu.edu/2026/10/feather-star-robot/",
+    "image": "https://news.ncsu.edu/wp-content/uploads/2026/10/Jie-Yin-Feather-Star-HEADER-1500.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "mecka-series-b-60m-data-deployment-2026",
+    "category": "ai-automation",
+    "title": "Mecka ระดมทุน Series B 60 ล้านดอลลาร์ ขยายข้อมูลสอนหุ่นยนต์และงานติดตั้ง",
+    "summary": "Sequoia นำการลงทุนร่วมกับ NVIDIA, M12, Qualcomm Ventures และ Samsung บริษัทเน้นบันทึกการทำงานจริงของคนเพื่อนำไปฝึกและปรับระบบหุ่นยนต์",
+    "source": "Mecka",
+    "date": "2026-10-07",
+    "url": "https://www.mecka.ai/news/series-b",
+    "image": "https://www.mecka.ai/news/series-b.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "kuka-td-synnex-amr-distribution-europe-2026",
+    "category": "industry-news",
+    "title": "KUKA จับมือ TD SYNNEX เปิดช่องทางขายหุ่นยนต์เคลื่อนที่ในยุโรป",
+    "summary": "เริ่มสหราชอาณาจักร ฝรั่งเศส สเปนและเบเนลักซ์ พร้อมอบรมผู้ให้บริการไอทีให้เชื่อมระบบหุ่นยนต์กับงานลูกค้า",
+    "source": "KUKA",
+    "date": "2026-10-07",
+    "url": "https://www.kuka.com/en-us/company/press/news/2026/10/kuka-group-and-td-synnex-partner-to-advance-physical-ai",
+    "image": "https://www.kuka.com/-/media/kuka-corporate/images/press/news/2026/10/webimagekuka-group-automation-20.jpg?rev=-1&w=1900&hash=7A621642A12E4CAEF9C6FE7D651B3899",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "danaher-abcam-autonomous-lab-plan-2026",
+    "category": "ai-automation",
+    "title": "Danaher เตรียมเปิดแล็บ AI และหุ่นยนต์ ออกแบบและทดสอบสารวิจัยเป็นวงจร",
+    "summary": "ตั้งเป้าดำเนินงานเต็มขนาดต้นปี 2027 ที่ Abcam โดย Automata ร่วมพัฒนาระบบควบคุมเครื่องมือและหุ่นยนต์ ตัวเลขเร็วขึ้นแปดเท่ายังเป็นเป้าหมาย",
+    "source": "Danaher",
+    "date": "2026-10-07",
+    "url": "https://investors.danaher.com/2026-10-07-Danaher-Accelerates-Life-Sciences-Research-with-New-AI-powered-Autonomous-Lab",
+    "image": "",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "overview-ov-spark-agentic-inspection-launch-2026",
+    "category": "industrial-robots",
+    "title": "Overview AI เปิด OV Spark กล้องตรวจชิ้นงานพร้อมผู้ช่วย AI ในตัว",
+    "summary": "กล้องมีเครื่องมือตรวจสอบสิบแบบและ Sparky ช่วยตั้งค่างาน ใช้ได้โดยไม่พึ่งคลาวด์ในงานตรวจผลิต พร้อมกรณีใช้งานที่ MEC",
+    "source": "The Robot Report",
+    "date": "2026-10-06",
+    "url": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-in-production-at-MEC-featured.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "teradyne-bright-machines-investment-integration-2026",
+    "category": "industrial-robots",
+    "title": "Teradyne ลงทุนใน Bright Machines เชื่อมหุ่นยนต์ประกอบกับการทดสอบฮาร์ดแวร์ AI",
+    "summary": "ความร่วมมือจะเชื่อมข้อมูลประกอบ ตรวจสอบ ขนย้ายและทดสอบไฟฟ้าให้ติดตามการผลิตรายชิ้น โดยยังไม่กำหนดวันรวมระบบเสร็จทั้งหมด",
+    "source": "The Robot Report",
+    "date": "2026-10-05",
+    "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/brightmachines-teradyne-featured.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "twelvelabs-pegasus16-egocentric-video-launch-2026",
+    "category": "ai-automation",
+    "title": "Pegasus 1.6 อ่านวิดีโอมุมมองคนทำงาน ช่วยจัดข้อมูลสำหรับฝึกหุ่นยนต์",
+    "summary": "TwelveLabs เพิ่มการแบ่งช่วงการกระทำ คำบรรยายและการประเมินคลิป เน้นเตรียมข้อมูลพฤติกรรม ไม่ได้แทนเซนเซอร์สัมผัสหรือระบบควบคุมหุ่นยนต์",
+    "source": "The Robot Report",
+    "date": "2026-10-06",
+    "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/TwelveLabs_Pegasus.jpg",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "wing-walmart-denver-seattle-expansion-plan-2026",
+    "category": "drones",
+    "title": "Wing และ Walmart เตรียมขยายส่งของด้วยโดรนสู่ Denver และ Seattle ปี 2027",
+    "summary": "เพิ่มสองเขตเมืองในแผนเครือข่ายเกือบ 20 เมือง เป้าหมายระยะยาวมากกว่า 270 สาขา โดยยังไม่ใช่บริการที่เปิดแล้วในสองพื้นที่ใหม่",
+    "source": "Wing",
+    "date": "2026-10-05",
+    "url": "https://wing.com/news/wing-walmart-new-metros-nations-largest-drone-delivery-network",
+    "image": "https://framerusercontent.com/images/xCjD776bJpR2heliWKeCns3vhs.jpg?width=3304&height=2261",
+    "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "munson-blueflite-phase-two-medical-drone-pilot-2026",
+    "category": "drones",
+    "title": "Munson ขยายการทดลองโดรนขนส่งการแพทย์ ใช้หลายลำและเส้นทางยาวขึ้น",
+    "summary": "โครงการระยะสองใน Michigan มีกำหนด 6–30 ตุลาคม จำลองส่งเวชภัณฑ์ ตัวอย่างแล็บและยา เพื่อเก็บข้อมูลด้านโลจิสติกส์ชนบท",
+    "source": "sUAS News",
+    "date": "2026-10-05",
+    "url": "https://www.suasnews.com/2026/10/second-phase-of-medical-drone-delivery-pilot-flights-to-begin-october-6/",
+    "image": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/munson-healthcare.jpeg?fit=678%2C452&ssl=1",
+    "addedAt": "2026-10-07T22:12:35.417Z"
   }
 ]

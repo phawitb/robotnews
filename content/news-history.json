@@ -3468,6 +3468,691 @@
           }
         ]
       }
+    },
+    {
+      "id": "sereact-zalando-ceva-live-returns-2026",
+      "storyKey": "sereact-zalando-ceva-live-returns-2026",
+      "originalTitle": "Sereact, Zalando and CEVA Logistics start AI-powered, automated returns handling in Germany and Poland  | CEVA Logistics",
+      "urls": [
+        "https://www.cevalogistics.com/en/news-and-media/newsroom/press-release/sereact-zalando-ceva-start-ai-powered-automated-returns"
+      ],
+      "references": [
+        "https://www.cevalogistics.com/en/news-and-media/newsroom/press-release/sereact-zalando-ceva-start-ai-powered-automated-returns"
+      ],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "ระบบ Cortex เข้าปฏิบัติงานจริงกับ CEVA ใน Greven และ Świebodzin ใช้รูปแบบ RaaS จัดการเสื้อผ้าที่สภาพไม่แน่นอน",
+      "score": 20,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_320&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_640&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_768&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_992&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1200&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1280&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1536&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1920&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1984&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_2400&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_2560&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_3840&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_5120&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_320&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_640&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_768&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_992&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1200&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1280&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1536&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1920&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_1984&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_2400&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_2560&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_3840&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.cevalogistics.com/_ipx/w_5120&f_webp/images-spx/x_large_picture/Dual%20Arm%20Fashion%20Handling_2.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncsu-feather-star-two-actuator-swimmer-2026",
+      "storyKey": "ncsu-feather-star-two-actuator-swimmer-2026",
+      "originalTitle": "Feather Star-inspired Underwater Robot Gets 3D Maneuverability From Only Two Actuators",
+      "urls": [
+        "https://news.ncsu.edu/2026/10/feather-star-robot/"
+      ],
+      "references": [
+        "https://news.ncsu.edu/2026/10/feather-star-robot/",
+        "https://www.science.org/doi/10.1126/sciadv.aeg9211"
+      ],
+      "publishedAt": "2026-10-07T14:51:55-04:00",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "งานวิจัย NC State ใช้ปีกยืดหยุ่นสลับโหมดว่าย ลอยตัวและหมุน ทดสอบสำรวจด้วยกล้องและยกวัตถุ โดยระบบไร้สายยังเป็นงานขั้นต่อไป",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TBHMXZ",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://news.ncsu.edu/wp-content/uploads/2016/01/cdiff700.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://news.ncsu.edu/wp-content/uploads/2021/05/Untitled-design-57.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://news.ncsu.edu/wp-content/uploads/2026/10/Franzon-laser-antenna-HEADER-1500.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mecka-series-b-60m-data-deployment-2026",
+      "storyKey": "mecka-series-b-60m-data-deployment-2026",
+      "originalTitle": "Mecka raises $60M Series B led by Sequoia Capital",
+      "urls": [
+        "https://www.mecka.ai/news/series-b"
+      ],
+      "references": [
+        "https://www.mecka.ai/news/series-b"
+      ],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "Sequoia นำการลงทุนร่วมกับ NVIDIA, M12, Qualcomm Ventures และ Samsung บริษัทเน้นบันทึกการทำงานจริงของคนเพื่อนำไปฝึกและปรับระบบหุ่นยนต์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.mecka.ai/assets/a6864d4c-5bb7-4d7e-a089-0441f73a608f.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kuka-td-synnex-amr-distribution-europe-2026",
+      "storyKey": "kuka-td-synnex-amr-distribution-europe-2026",
+      "originalTitle": "KUKA Group and TD SYNNEX Partner to Advance Physical AI | KUKA Global",
+      "urls": [
+        "https://www.kuka.com/en-us/company/press/news/2026/10/kuka-group-and-td-synnex-partner-to-advance-physical-ai"
+      ],
+      "references": [
+        "https://www.kuka.com/en-us/company/press/news/2026/10/kuka-group-and-td-synnex-partner-to-advance-physical-ai"
+      ],
+      "publishedAt": "2026-10-06T16:19:15Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "เริ่มสหราชอาณาจักร ฝรั่งเศส สเปนและเบเนลักซ์ พร้อมอบรมผู้ให้บริการไอทีให้เชื่อมระบบหุ่นยนต์กับงานลูกค้า",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/home/logos/kuka_logo.svg?rev=b6777e96fb614606b2f7bcf154547e20&hash=C9E845D11207339406F0B376D96CF4B6",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/press/news/2026/10/webimagekuka-group-automation-20.jpg?rev=-1&w=767&hash=49A8355A34C9FF7558C6EC77D82EF468",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/contact_images/wolfgang-meisen_2025.jpg?rev=-1&w=250&hash=BB54D5A4C75AFF6A498F7066A64D2061",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/youtube.png?rev=2eab325a2f254f4fb99de6ce984f4a40&hash=58A07B76D03728736640866A2C8D7111",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/linkedin.png?rev=ec67a7c4483449d9b70bebf422143c20&hash=CEC895931EC8798A5F2B4CB5BC1A3C28",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/facebook1.png?rev=b2461e5d134a4584aca53ff180026bdb&hash=6E989668A7A47DDC1CDAEA3F2F27CDFB",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/x_social-media1.png?rev=-1&hash=CA4FAA3C5C2513D5BB1361EF6D9C23CE",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/instragram.png?rev=9c7ab1658abc48099af50cd38d50051a&hash=57BBB75E92D8785C040949901E1A456F",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/footer/kuka_bm_srgb_hellgrau_151026_scz.svg?rev=73ca63416ea54aaab7497622599ccae0&hash=837A74B381EEFE2C2B4EFE2B3BEDBC74",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/facebook_pos_g100.png?rev=-1&hash=ED796D5EDC5BCFF57781232D0272256B",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.kuka.com/-/media/kuka-corporate/images/system/social-media-icons/linkedin_pos_g100.png?rev=-1&hash=70A607C654BAF106C27824F2A8DD7869",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "danaher-abcam-autonomous-lab-plan-2026",
+      "storyKey": "danaher-abcam-autonomous-lab-plan-2026",
+      "originalTitle": "Danaher Accelerates Life Sciences Research with New AI-powered Autonomous Lab",
+      "urls": [
+        "https://investors.danaher.com/2026-10-07-Danaher-Accelerates-Life-Sciences-Research-with-New-AI-powered-Autonomous-Lab"
+      ],
+      "references": [
+        "https://investors.danaher.com/2026-10-07-Danaher-Accelerates-Life-Sciences-Research-with-New-AI-powered-Autonomous-Lab"
+      ],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "ตั้งเป้าดำเนินงานเต็มขนาดต้นปี 2027 ที่ Abcam โดย Automata ร่วมพัฒนาระบบควบคุมเครื่องมือและหุ่นยนต์ ตัวเลขเร็วขึ้นแปดเท่ายังเป็นเป้าหมาย",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://investors.danaher.com/images/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://investors.danaher.com/images/acrobat_24.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://investors.danaher.com/images/logo(1).svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "overview-ov-spark-agentic-inspection-launch-2026",
+      "storyKey": "overview-ov-spark-agentic-inspection-launch-2026",
+      "originalTitle": "Overview AI launches OV Spark line of AI inspection cameras - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
+        "https://www.overview.ai/products/ov-spark/"
+      ],
+      "publishedAt": "2026-10-06T14:51:48Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "กล้องมีเครื่องมือตรวจสอบสิบแบบและ Sparky ช่วยตั้งค่างาน ใช้ได้โดยไม่พึ่งคลาวด์ในงานตรวจผลิต พร้อมกรณีใช้งานที่ MEC",
+      "score": 19,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/krisna-azie-G2U1TMFELZA-unsplash-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/flourish-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/CNHR4-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Re-Teck-Humanoid-Robots-Stacked-in-a-Section-of-a-Warehouse-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "teradyne-bright-machines-investment-integration-2026",
+      "storyKey": "teradyne-bright-machines-investment-integration-2026",
+      "originalTitle": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+        "https://www.globenewswire.com/news-release/2026/10/05/3374581/0/en/teradyne-makes-strategic-investment-in-bright-machines-to-advance-ai-infrastructure-manufacturing.html"
+      ],
+      "publishedAt": "2026-10-05T13:00:00Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "ความร่วมมือจะเชื่อมข้อมูลประกอบ ตรวจสอบ ขนย้ายและทดสอบไฟฟ้าให้ติดตามการผลิตรายชิ้น โดยยังไม่กำหนดวันรวมระบบเสร็จทั้งหมด",
+      "score": 19,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nI_uIlZl2czxrA2Fh5tqai91kT8Fr5CQdXWkqhctdspiw=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/HuggingFace_repos-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/trrtop10-sept26-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/asi-softbank-featured-1-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Helicon-Facility-2-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "twelvelabs-pegasus16-egocentric-video-launch-2026",
+      "storyKey": "twelvelabs-pegasus16-egocentric-video-launch-2026",
+      "originalTitle": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+        "https://www.twelvelabs.io/blog/what%E2%80%99s-new-pegasus-1.6"
+      ],
+      "publishedAt": "2026-10-06T20:07:48Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "TwelveLabs เพิ่มการแบ่งช่วงการกระทำ คำบรรยายและการประเมินคลิป เน้นเตรียมข้อมูลพฤติกรรม ไม่ได้แทนเซนเซอร์สัมผัสหรือระบบควบคุมหุ่นยนต์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://yt3.ggpht.com/oExxHyBnNmE67oDAKqHToGg266n9wynIz3F9NyOgq2BFi_1L5aeZCj6UiVkcxaDoan_jzCITZQ=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/020723ddd4a8e541cb56c8ed603ea68bd1761d71da3bfec92d87e085504b4112?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/HuggingFace_repos-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-in-production-at-MEC-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/brightmachines-teradyne-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wing-walmart-denver-seattle-expansion-plan-2026",
+      "storyKey": "wing-walmart-denver-seattle-expansion-plan-2026",
+      "originalTitle": "Wing and Walmart name new metros to expand the nation’s largest drone delivery network",
+      "urls": [
+        "https://wing.com/news/wing-walmart-new-metros-nations-largest-drone-delivery-network"
+      ],
+      "references": [
+        "https://wing.com/news/wing-walmart-new-metros-nations-largest-drone-delivery-network"
+      ],
+      "publishedAt": "2026-10-05T00:00:00Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "เพิ่มสองเขตเมืองในแผนเครือข่ายเกือบ 20 เมือง เป้าหมายระยะยาวมากกว่า 270 สาขา โดยยังไม่ใช่บริการที่เปิดแล้วในสองพื้นที่ใหม่",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://framerusercontent.com/images/66QHRSLMFLUuKfYCgxZr57w0y34.svg?width=11&height=11",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://framerusercontent.com/images/vM3cyeNrx0yZUv5fNPv9NoKGSg.svg?width=12&height=12",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://framerusercontent.com/images/JERCLrYEAIsVK4Td1EhMM2Dyc.jpg?width=3600&height=2025",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/u7JQiKwVYc3pbNs5JvqrGSjaQSY.jpg?width=4024&height=2516",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/vbvlViHI0SVNJ4gJgLyqMGMWbck.jpg?width=2752&height=1772",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/O4QdU9lCPYV3lXa8yHTN1rla0.jpg?width=2400&height=1600",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-NZC8FLH",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "munson-blueflite-phase-two-medical-drone-pilot-2026",
+      "storyKey": "munson-blueflite-phase-two-medical-drone-pilot-2026",
+      "originalTitle": "Second Phase of Medical Drone Delivery Pilot Flights to Begin October 6",
+      "urls": [
+        "https://www.suasnews.com/2026/10/second-phase-of-medical-drone-delivery-pilot-flights-to-begin-october-6/"
+      ],
+      "references": [
+        "https://www.suasnews.com/2026/10/second-phase-of-medical-drone-delivery-pilot-flights-to-begin-october-6/",
+        "https://dronelife.com/2026/10/05/medical-drone-delivery-michigan/"
+      ],
+      "publishedAt": "2026-10-05T17:42:56Z",
+      "addedAt": "2026-10-07T22:12:35.417Z",
+      "runId": "2026-10-08",
+      "reason": "โครงการระยะสองใน Michigan มีกำหนด 6–30 ตุลาคม จำลองส่งเวชภัณฑ์ ตัวอย่างแล็บและยา เพื่อเก็บข้อมูลด้านโลจิสติกส์ชนบท",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2024/07/skyports-mdot.jpg?fit=800%2C450&ssl=1&resize=350%2C200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2022/09/Nice-Swoop-Aero-Scotland.jpg?fit=1149%2C755&ssl=1&resize=350%2C200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2016/05/zipline-team.jpg?fit=1200%2C732&ssl=1&resize=350%2C200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/ec53995d61277bc5f7d35181f0665923a4eb459b59410c4abe3dfdc70bc1fac4?s=300&d=wp_user_avatar&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/04/flyby-delivery.jpg?resize=800%2C450&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2011/12/Predator_C.jpg?resize=440%2C293&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/zing-oregon.webp?resize=450%2C299&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2016/12/FAA-Puma1-OPTIMIZED.jpg?resize=800%2C450&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/powerus.webp?resize=400%2C268&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/xmx.webp?resize=450%2C287&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.suasnews.com/wp-content/uploads/2026/02/Just-cube-big.jpg",
+            "reason": "advertisement"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -3520,6 +4205,23 @@
         "exotec-first-supply-next-morning-results-2026",
         "robco-billion-valuation-alfie-launch-plan-2026",
         "boston-dynamics-rohit-prasad-ceo-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-08",
+      "batchHash": "23696a907de9bc7c75d7d14d8ae45c98311df700ccdc0a6cf36b78cfdd4ef7f1",
+      "preparedAt": "2026-10-07T22:12:35.417Z",
+      "articleIds": [
+        "sereact-zalando-ceva-live-returns-2026",
+        "ncsu-feather-star-two-actuator-swimmer-2026",
+        "mecka-series-b-60m-data-deployment-2026",
+        "kuka-td-synnex-amr-distribution-europe-2026",
+        "danaher-abcam-autonomous-lab-plan-2026",
+        "overview-ov-spark-agentic-inspection-launch-2026",
+        "teradyne-bright-machines-investment-integration-2026",
+        "twelvelabs-pegasus16-egocentric-video-launch-2026",
+        "wing-walmart-denver-seattle-expansion-plan-2026",
+        "munson-blueflite-phase-two-medical-drone-pilot-2026"
       ]
     }
   ]
