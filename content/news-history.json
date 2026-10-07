@@ -2317,6 +2317,1157 @@
           }
         ]
       }
+    },
+    {
+      "id": "safeworld-seed-safety-simulation-launch-2026",
+      "storyKey": "safeworld-seed-safety-simulation-launch-2026",
+      "originalTitle": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "urls": [
+        "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+      ],
+      "references": [
+        "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+        "https://www.safeworld.ai/"
+      ],
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "บริษัทออกจากช่วงพัฒนาแบบไม่เปิดเผย พร้อมทุนกว่า 12 ล้านดอลลาร์ มุ่งทดสอบพฤติกรรมหุ่นยนต์เมื่อเจอคนในสถานการณ์คาดเดายาก",
+      "score": 19,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2015/09/ae1f79a1ec4335fb3af512a1c31d3f3f.jpg?w=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/01/7a9bd5727569147c3025b40e3775fc64.png?w=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/04/Disrupt2026-Color.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?w=1024",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?w=1024",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?w=680",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?w=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?w=680",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?w=1024",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?w=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/07/Together-AI-founders-Percy-Liang-CEO-Vipul-Ved-Prakash-CTO-Ce-Zhang.jpg?w=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?w=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/hackerrank-chakra-assessment.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "orbital-robotics-arkisys-iss-arm-demo-2026",
+      "storyKey": "orbital-robotics-arkisys-iss-arm-demo-2026",
+      "originalTitle": "Orbital Robotics gets set to send up a pair of arms for International Space Station’s robots",
+      "urls": [
+        "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/"
+      ],
+      "references": [
+        "https://www.geekwire.com/2026/orbital-robotics-arms-international-space-station/"
+      ],
+      "publishedAt": "2026-10-05T13:00:00Z",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "แผนร่วมกับ Arkisys ตั้งเป้าส่งแขนขนาดย่อมในไตรมาส 3 ปี 2027 เพื่อทดสอบกับหุ่นยนต์ Astrobee ในสภาวะไร้น้ำหนัก",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2015/10/alan-boyle-150x150.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/01/260114-rendezvous-300x163.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/01/260114-rendezvous.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/03/260319-portal-300x160.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/04/geekwire-nav-logo-200-1.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/04/hardware-300x169.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/06/260626-bluemoonmk2-300x181.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/26711_Geekwire_225x225-1_x4.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/gw-startups-mobile.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/gw-startups.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/225-x-225-200x200.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/225x225-SP-200x200.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/225x225_centered-200x200.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/Geekwire-SponsoredPost-225x225px-200x200.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/X-BAT-Flyby-300x169.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/XBAT-SHI16_LaunchPad_v07_16k_00000-2-300x169.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Kindle-Click_Lifestyle-01-300x224.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Lee-and-Roslansky-300x151.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/08/brinc-300x69.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/08/echodyne-300x53.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/08/readai-300x91.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/LP-Favicon-300x300.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/aurelian-images-300x70.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/flexe-300x108.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/gradial-300x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-nav-logo.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "coco-deliveroo-uk-rollout-partnership-2026",
+      "storyKey": "coco-deliveroo-uk-rollout-partnership-2026",
+      "originalTitle": "COCO ROBOTICS AND DELIVEROO ANNOUNCE EXCLUSIVE PARTNERSHIP TO SCALE ROBOT DELIVERIES ACROSS THE UK",
+      "urls": [
+        "https://www.stocktitan.net/news/DASH/coco-robotics-and-deliveroo-announce-exclusive-partnership-to-scale-8lxyd5m3dirp.html"
+      ],
+      "references": [
+        "https://www.stocktitan.net/news/DASH/coco-robotics-and-deliveroo-announce-exclusive-partnership-to-scale-8lxyd5m3dirp.html"
+      ],
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "เริ่ม Canary Wharf ในเดือนตุลาคม ก่อนขยายสู่สี่เมือง พร้อมจุดชาร์จและทีมดูแล โดยคำสั่งซื้อส่วนใหญ่ยังใช้ไรเดอร์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://edge.prnewswire.com/c/img/favicon.png?sn=SF63273&sd=2026-10-05",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/alec-md-ext.png?v=f9d3d6d00b",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/alec-md-ext.webp?v=f9d3d6d00b",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/alvo-md-ext.png?v=9fc27d011f",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/alvo-md-ext.webp?v=9fc27d011f",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/apus-md-ext.png?v=2de9670b70",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/apus-md-ext.webp?v=2de9670b70",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/dash.png?v=f8f203da89",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/dash.webp?v=f8f203da89",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/dvlt-md-ext.png?v=c96a6cd62a",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/dvlt-md-ext.webp?v=c96a6cd62a",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/pcvx-md-ext.png?v=110d47dca9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/pcvx-md-ext.webp?v=110d47dca9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/rxo-md-ext.png?v=306ec9e399",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/rxo-md-ext.webp?v=306ec9e399",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/Google_News_icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/facebook-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/link-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/reddit-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/x-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/logo/stock-titan-logo-header-free.webp",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff-eai-september-265-units-report-2026",
+      "storyKey": "ff-eai-september-265-units-report-2026",
+      "originalTitle": "FF reports 265 robotics-device sales and shipments in September",
+      "urls": [
+        "https://investors.ff.com/news-releases/news-release-details/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-ffai-weekly-investor-update-record-265-units-september/"
+      ],
+      "references": [
+        "https://investors.ff.com/news-releases/news-release-details/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-ffai-weekly-investor-update-record-265-units-september/",
+        "https://app-us.ff.com/ff-v3/news/1653?lang=en-US"
+      ],
+      "publishedAt": "2026-10-05T08:00:56-04:00",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "รายงานบริษัทระบุยอดสะสม 817 หน่วย พร้อมแผนเปิดตัวผลิตภัณฑ์การศึกษา 14 ตุลาคม ตัวเลขครอบคลุมอุปกรณ์หลายรูปแบบ",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://investors.ff.com/sites/g/files/knoqqb108031/themes/site/client_site/dist/images/aixc-banner.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://investors.ff.com/sites/g/files/knoqqb108031/themes/site/client_site/dist/images/aixc-logo.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "arc-singapore-asean-chapters-launch-2026",
+      "storyKey": "arc-singapore-asean-chapters-launch-2026",
+      "originalTitle": "ARC Singapore launches with chapters set for four ASEAN markets",
+      "urls": [
+        "https://www.bastillepost.com/global/article/6222145-arc-singapore-launches-with-chapters-set-for-four-asean-markets"
+      ],
+      "references": [
+        "https://www.bastillepost.com/global/article/6222145-arc-singapore-launches-with-chapters-set-for-four-asean-markets"
+      ],
+      "publishedAt": "2026-10-05T18:29:00+08:00",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "องค์กรอุตสาหกรรมใหม่ลงนาม MoU สำหรับสาขาในสี่ประเทศ ตั้งเป้าพัฒนาความร่วมมือและแนวทางความเชื่อมั่นของระบบอัตโนมัติ",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://image.bastillepost.com/600x/wp-content/uploads/global/2026/10/media_MS2002204_20261005060450EDT_image_1.jpg.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://image.bastillepost.com/600x/wp-content/uploads/global/2026/10/media_MS2002460_Kongsberg-Satellite-Services-The-Norwegian-Minister-of-Trade-and-Industry.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/08/FB_Image_Mao-Paishou-3.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/237ebcf4d1cda2811cecd9f8c27b2dab_Presley_Gerber_3179__FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8497909_1788688008003_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8498267_1788889636002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8498420_1788972616002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8499962_1789844268003_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8500096_1789916416002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8501080_1790461112002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/8501509_1790689112002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/IMG_202609072614_704x369.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/IMG_202609211573_704x369-1.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/WhatsApp-Image-2026-01-07-at-12.20.15-1.jpeg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/WhatsApp-Image-2026-09-17-at-2.18.36-PM-e1789626085341.jpeg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/a35878b814406c3c81b385aabbfe7493_Presidents_Cup_Golf_67116_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/ab44b2d1dedc388beb5f480e15fbb1ef_Vikings_Buccaneers_Football_75524_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/ai-image-20260929-201317_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/cover-1789980217771.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/cover-1790648282024.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/09/e2ab22b380a69f7024352c1eefa5baf6_Britain_Champions_League_Soccer_47234_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/1108c7c080e5848f7ac9654ea8de30cc_Liberty_Dream_Basketball_75959_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/202601003_SP_GOAL_Final11_source_web_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/23fab012abb5ee66597debacc02fa92a_Jets_Lions_Football_75165_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/288047d65a0de05628ac60125cc44f56_Zimbabwe_Helicopter_Crash_25194_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/2aaea4259e3cd9bf8b324899d87576a2_Chiefs_Raiders_Football_11581_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/3cf53238562ad33f2546c59aad5ca2f4_American_Idol_ContestantWife_Killed_345_1_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/5d29169cb0ea41b340bf48a600e3fd00_Argentina_Burkina_Faso_Soccer_97_26_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8501671_1790825100002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8501685_1790831476003_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502205_1791119596002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502216_1791152748003_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502231_1791163740002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502248_1791178696002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502259_1791180316003_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/8502273_1791188328002_a_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/9285c6156179bf4b1af191982a652245_Blackhawks_Golden_Knights_Hockey_5_768_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/9e2008cc9f7fdd21f6a2e9e1bcf03be6_APTOPIX_Thailand_Extreme_Weather_Floods_736_5_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/P2026100200655_photo_1340134_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/a06a6a7b80a53fa334438d1d7c7473fe_Georgia_Party_Shooting_764_4_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/b21640348a807f248f78c861b585aae4_Argentina_Bolivia_Soccer_29_4_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/cdc111f15cfe4f9dba7e0cd7e0798d9a_APTOPIX_Israel_Mideast_Emergency_Landing_74856_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/e7affcf8f301ece8e1deb0431971f22a_Portugal_Norway_Nations_League_Soccer_47519_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/ec3b4f2824eb795fb4346557a19819fb_Broncos_49ers_Football_58194_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/lo%E5%B0%81%E9%9D%A2-1.png.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS1995875_UMIA-auction-participants_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002177_IMG_4950_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002200_20261005060046EDT_image_5_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002216_20261005072037EDT_image_1_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002222_1-Binance-AI_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002273_20261005082157EDT_image_1_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/704x369/wp-content/uploads/global/2026/10/media_MS2002327_Royal-Caribbean-Group-Naha-Port-Groundbreaking_FB.jpg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image.bastillepost.com/wp-content/uploads/hongkong/2026/02/sponsor-btn-20260216.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/global/2024/04/businessicon.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/global/2024/04/hongkong_icon.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/global/2024/04/news.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/global/2026/01/asia-pacific.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2016/09/icon_0.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2016/09/icon_blog.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2016/09/icon_ent.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2016/09/icon_hottopic.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2016/09/icon_sport.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2018/01/tech_appIcon_01-1.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/2018/12/new_icon_china.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.bastillepost.com/wp-content/uploads/hongkong/static/20230718-default-feature-704x369.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/email.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/print.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/twitter.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/wechat.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/weibo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/whatsapp.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.bastillepost.com/global/images/bp_logo_114x29.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.bastillepost.com/global/images/footer_ic_x.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.bastillepost.com/global/images/logo_global.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.facebook.com/tr?id=2014126905534741&ev=PageView&noscript=1",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://image.bastillepost.com/1200x/wp-content/uploads/global/2026/10/media_MS2002204_20261005060450EDT_image_1_FB.jpg.webp",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minerva-roger-preseed-hazardous-work-2026",
+      "storyKey": "minerva-roger-preseed-hazardous-work-2026",
+      "originalTitle": "Minerva Humanoids Emerges From Stealth With $10M Pre-Seed Round Led by General Catalyst to Build Humanoid Robots for the World's Most Dangerous Jobs",
+      "urls": [
+        "https://www.manilatimes.net/2026/10/06/tmt-newswire/globenewswire/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-worlds-most-dangerous-jobs/2439782"
+      ],
+      "references": [
+        "https://www.manilatimes.net/2026/10/06/tmt-newswire/globenewswire/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-worlds-most-dangerous-jobs/2439782"
+      ],
+      "publishedAt": "2026-10-06T18:22:09+08:00",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "Roger ใช้ AI ดูแลการทรงตัวและการเคลื่อนที่ ขณะที่ผู้เชี่ยวชาญควบคุมงานสำคัญผ่าน VR เตรียมเริ่มโครงการทดลองแบบมีค่าจ้าง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdnx.premiumread.com/?url=https://manilatimes.net/manilatimes/uploads/images/2026/10/06/1247793.jpg&w=700&q=75&f=webp&t=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=75&f=webp&v=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/ZDY5YmI3MmItZThhMi00YzI1LThjMzctZmE0MGY3NGMyODkxLTUwMDE2ODg3My0yMDI2LTEwLTA2LWVu/tiny/Minerva-Humanoids.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/The_Manila_Times_400x53.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/The_Manila_Times_529x70.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/manila-logo-footer-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/manila-logo-header-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/manila-logo-header-web-new.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/manila-logo-header-web.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/manila-logo-main.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net//theme_manilatimes/images/scroll-up.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/Twitter-new.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/app-store-small.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/dailymotion-footer.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/facebook-footer.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/font-large.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/font-medium.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/font-small.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/google-play-small.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/google-preferred-source.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/grey-right-arrow.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/facebook.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/messenger.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/threads.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/tiktok.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/x.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/header-icons/yt.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/huawei-gallery-small.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/instagram-footer.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/spotify-footer.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/user-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.manilatimes.net/theme_manilatimes/images/youtube-footer.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/e241da4b-194c-44f4-96d7-250493781b14?size=3",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yyforce-singapore-robotics-training-center-2026",
+      "storyKey": "yyforce-singapore-robotics-training-center-2026",
+      "originalTitle": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment",
+      "urls": [
+        "https://www.morningstar.com/news/pr-newswire/20261006cn64858/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment"
+      ],
+      "references": [
+        "https://www.morningstar.com/news/pr-newswire/20261006cn64858/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment"
+      ],
+      "publishedAt": "2026-10-06T15:10:00-05:00",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "ศูนย์ใหม่เก็บข้อมูลและจำลองขั้นตอนงานร่วมกับคน เพื่อประเมินโอกาสให้เช่าหุ่นยนต์และบริการแบบ RaaS",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://edge.prnewswire.com/c/img/favicon.png?sn=CN64858&sd=2026-10-06",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://media.morningstar.com/resizer/v2/GLGN3USXHRASJFJX5IBKMRATJE.png?auth=bcd40707e9d45226121d7b76c8a75f4cc025edc608b25ffcc880cf9febe9f49a&quality=80&height=2401&width=2401&crop=525,0:1351,1351",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.morningstar.com/resizer/v2/M4XBYMDQXZCA3FKDMAX6WADX2I.png?auth=5c2c3e80b32af8c5d63c77e5e637b281eafd31d5e2a65c0ecbb70b8b130bce48&quality=80&height=2400&width=2400&crop=525,0:1350,1350",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.morningstar.com/resizer/v2/UV66CK4CE5CWPF3DM42MZRNCHE.jpg?auth=bfaa3e451a8431ef2d2e496d36d9e4b197b5fd2852077adb294c82a271a9f08b&quality=80&height=2400&width=2400&focal=920,754",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.morningstar.com/resizer/v2/https%3A%2F%2Fd10o6nnig0wrdw.cloudfront.net%2F10-01-2026%2Ft_047a1fdb8fcc462bb7297a1d407e15ec_name_file_960x540_1600_v4_.jpg?auth=a1f6694ddb6a27f910745e99e17a0200353626f6d7eda73f1f976804ceedf6ed&quality=80&height=2000&width=2000&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.morningstar.com/resizer/v2/https%3A%2F%2Fd10o6nnig0wrdw.cloudfront.net%2F10-02-2026%2Ft_f30b3bdcf62d480f85e8cef4f221fc90_name_The_Morning_Filter_Thumbnail___Earnings_scaled.jpg?auth=2e90d9e5f96d653d8a587788c8fc5394e803a5165ab7c6dc74aeb24be93ef72b&quality=80&height=2000&width=2000&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN64858&Transmission_Id=202610061610PR_NEWS_USPR_____CN64858&DateId=20261006",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/editorial-content.717b26b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/make-money.6fa4530.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/morningstar-70px.0ea2b33.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/morningstar.d826858.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/personal-data.8c2b614.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/pr-newswire.11029de.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/transparency.25d6319.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.morningstar.com/assets/img/us_flag_20x20.34273bf.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "exotec-first-supply-next-morning-results-2026",
+      "storyKey": "exotec-first-supply-next-morning-results-2026",
+      "originalTitle": "First Supply Leverages Exotec’s Robotic Solution to Guarantee Next-Morning Delivery on Orders Placed by 5:00PM in New Distribution Center",
+      "urls": [
+        "https://www.exotec.com/news/first-supply-leverages-exotecs-robotic-solution-to-guarantee-next-morning-delivery-on-orders-placed-by-500pm-in-new-distribution-center/"
+      ],
+      "references": [
+        "https://www.exotec.com/news/first-supply-leverages-exotecs-robotic-solution-to-guarantee-next-morning-delivery-on-orders-placed-by-500pm-in-new-distribution-center/"
+      ],
+      "publishedAt": "2026-10-06T13:00:00Z",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "รายงานผลหลังใช้งานกว่าหนึ่งปีระบุการหยิบเร็วขึ้น 10 เท่า และรองรับสินค้าเกิน 14,000 SKU โดยเป็นตัวเลขจากผู้ให้บริการและลูกค้า",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.exotec.com/app/themes/exotec/src/assets/images/svg/search-black.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robco-billion-valuation-alfie-launch-plan-2026",
+      "storyKey": "robco-billion-valuation-alfie-launch-plan-2026",
+      "originalTitle": "Autonomous robot company RobCo hits $1 billion valuation",
+      "urls": [
+        "https://www.mmh.com/article/autonomous_robot_company_robco_hits_1_billion_valuation"
+      ],
+      "references": [
+        "https://www.mmh.com/article/autonomous_robot_company_robco_hits_1_billion_valuation",
+        "https://www.reuters.com/legal/transactional/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-2026-10-05/"
+      ],
+      "publishedAt": "2026-10-05T13:02:55Z",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "ดีลใหม่รวมเงินลงทุนและการขายหุ้นของพนักงาน บริษัทเตรียมขยายงานในสหรัฐฯ พร้อมหุ่นยนต์สำหรับงานโรงงานที่หลากหลาย",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://px.ads.linkedin.com/collect/?pid=402754&fmt=gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scg-de.s3.amazonaws.com/images/made/images/2022_images/Ergo_logos_Gorbel_copy_300_129_60.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-de.s3.amazonaws.com/images/made/images/papers/9ced5cbc-turck-io-link-for-intralogistics-ebook-cover-090826_384_269_380.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-de.s3.amazonaws.com/images/made/images/papers/kardex_wp_cover_092226b_384_300_135.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-de.s3.amazonaws.com/images/made/images/papers/knapp_wp_walmart_case_study_cover_081226v384_300_126.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-de.s3.amazonaws.com/images/made/images/papers/mmh_sfi_cover_092426_387_285_380.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-lm.s3.amazonaws.com/images/lm_footer_covers.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/2026_article/MMH2610-Medline-System-Report_450_220_60_s_c1.JPG",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/papers/kardex_wp_cover_092226b_384_200_90_s_c1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/papers/mmh_sfi_cover_092426_387_200_267.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/papers/mmh_sfi_cover_092426_387_200_267_s_c1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/photos/mmh-salary-survey-2022-1_400_250_66_c1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/photos/mmh-salary-survey-2022-2_400_250_66_c1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/photos/mmh-salary-survey-2022-3_400_250_66_c1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/photos/mmh-salary-survey-2022-4a_400_250_66_c1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/site/mmh-102026cover_200_268.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-mmh.s3.amazonaws.com/images/made/images/site/mmh-102026cover_200_268_60_s_c1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/mag_promo_graphic_white.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/mmh-logo-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/mmh_end_bat.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/subscribe-digital.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/subscribe-email.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.mmh.com/images/site/subscribe-print.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boston-dynamics-rohit-prasad-ceo-2026",
+      "storyKey": "boston-dynamics-rohit-prasad-ceo-2026",
+      "originalTitle": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/06/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/27216/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/06/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/27216/"
+      ],
+      "publishedAt": "2026-10-06",
+      "addedAt": "2026-10-07T09:43:54.670Z",
+      "runId": "2026-10-07",
+      "reason": "อดีตผู้นำ AI ของ Amazon จะดูแลทิศทางผสาน AI กับหุ่นยนต์และขยายการใช้งานเชิงพาณิชย์",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/onlogic-helix-511-fanless-edge-computer.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -2352,6 +3503,23 @@
         "primech-vision-multi-robot-platform-2026",
         "harpak-ulma-hygienic-robotic-loading-2026",
         "doordash-air-custom-delivery-drone-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-07",
+      "batchHash": "9ce154373803101624973740b18ed5360354af3e01af280e82fbbc3a8435e5cc",
+      "preparedAt": "2026-10-07T09:43:54.670Z",
+      "articleIds": [
+        "safeworld-seed-safety-simulation-launch-2026",
+        "orbital-robotics-arkisys-iss-arm-demo-2026",
+        "coco-deliveroo-uk-rollout-partnership-2026",
+        "ff-eai-september-265-units-report-2026",
+        "arc-singapore-asean-chapters-launch-2026",
+        "minerva-roger-preseed-hazardous-work-2026",
+        "yyforce-singapore-robotics-training-center-2026",
+        "exotec-first-supply-next-morning-results-2026",
+        "robco-billion-valuation-alfie-launch-plan-2026",
+        "boston-dynamics-rohit-prasad-ceo-2026"
       ]
     }
   ]

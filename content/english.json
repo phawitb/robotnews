@@ -1763,5 +1763,323 @@
         "note": ""
       }
     ]
+  },
+  "safeworld-seed-safety-simulation-launch-2026": {
+    "title": "Safeworld launches human simulation for robot safety testing",
+    "summary": "The startup emerges with more than $12 million in seed funding to test how robots respond to unpredictable human encounters.",
+    "sections": [
+      {
+        "heading": "A launch focused on deployment risk",
+        "paragraphs": [
+          "Safeworld emerged on October 5 with more than $12 million in seed funding led by Shine Capital and a16z Speedrun. Its founders are Carnegie Mellon Safe AI researcher Ding Zhao, Kyle Wong and Simo Rachidi. Their premise is that generative robot controllers require evaluation of variable behavior, beyond checking whether a machine follows a fixed instruction."
+        ]
+      },
+      {
+        "heading": "Simulating people around working robots",
+        "paragraphs": [
+          "The company recreates settings such as factory blind corners in tools including Genesis or MuJoCo, then runs the robot’s actual control software against simulated human encounters. Scenarios can involve people carrying boxes, kneeling, running or falling. Gritt Robotics, which develops robots for construction and solar installations, is collaborating on these safety simulations."
+        ]
+      },
+      {
+        "heading": "Testing is not a blanket safety guarantee",
+        "paragraphs": [
+          "Operators still need to understand how well test scenarios represent their own sites and how findings inform speed, stopping distances and operating limits. Simulation can expose weaknesses without putting people at risk, but cannot establish safety in every possible situation. Safeworld is still considering a platform versus services model; the launch is not a completed certification scheme."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg",
+        "alt": "Safeworld co-founders",
+        "caption": "Safeworld co-founders · Image: Safeworld"
+      }
+    ],
+    "videos": []
+  },
+  "orbital-robotics-arkisys-iss-arm-demo-2026": {
+    "title": "Orbital Robotics plans ISS capture and servicing demonstrations",
+    "summary": "The Arkisys collaboration targets a Q3 2027 launch of scaled robotic arms for Astrobee experiments in microgravity.",
+    "sections": [
+      {
+        "heading": "Three demonstrations are planned",
+        "paragraphs": [
+          "Seattle startup Orbital Robotics announced on October 5 that it plans to send robotic arms to the International Space Station in Q3 2027. Three demonstrations would take place roughly a month apart. Partner Arkisys would support integration and the Astrobee platform. These are future experiments, not completed satellite repairs."
+        ]
+      },
+      {
+        "heading": "One Astrobee would service another",
+        "paragraphs": [
+          "Astronauts would install scaled versions of the company’s ORA-A arms on one free-flying Astrobee. It would capture a second Astrobee and replace a simple compute module launched for the experiment. The aim is to evaluate capture hardware and autonomous control software together in microgravity, extending laboratory testing into real spaceflight conditions."
+        ]
+      },
+      {
+        "heading": "A useful proxy with clear limits",
+        "paragraphs": [
+          "The company says it is funding launch and demonstrations internally, with Arkisys implementing them through its NASA agreement. The arms could remain aboard for cargo handling and further research. Success would support confidence in robotic servicing, but an experiment inside the station is not equivalent to an operational mission repairing a satellite outside it."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
+        "alt": "Astrobee arm concept and Astrobees aboard the ISS",
+        "caption": "Astrobee arm concept and Astrobees aboard the ISS · Image: Orbital Robotics / NASA"
+      },
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261004-ora-arm-1260x841.jpg",
+        "alt": "ORA-A arm in the laboratory",
+        "caption": "ORA-A arm in the laboratory · Image: Orbital Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "coco-deliveroo-uk-rollout-partnership-2026": {
+    "title": "Coco and Deliveroo announce a UK robot-delivery rollout",
+    "summary": "The rollout starts with Canary Wharf in October and plans four further cities, while riders continue to handle most orders.",
+    "sections": [
+      {
+        "heading": "A staged UK introduction",
+        "paragraphs": [
+          "Coco Robotics and Deliveroo announced an exclusive UK robot-delivery partnership on October 5. Canary Wharf is scheduled first in October, followed by Milton Keynes, Leeds, Stockton on Tees and Nottingham over subsequent weeks and months. The announcement describes a phased rollout, not service already operating across all five locations."
+        ]
+      },
+      {
+        "heading": "Local trips need local support",
+        "paragraphs": [
+          "The electric sidewalk robots travel at walking pace and target short delivery journeys. Initial participating businesses include Patty&Bun, Signorelli and Beam. Expansion includes local depots, charging and maintenance operations. Deliveroo says its rider network will continue fulfilling most orders, with robots providing another option for suitable trips."
+        ]
+      },
+      {
+        "heading": "Sharing the sidewalk",
+        "paragraphs": [
+          "Coco also plans to share detected sidewalk hazards with BlindSquare to support alerts for blind and partially sighted pedestrians. Coverage, delivery consistency and responses to blocked routes will matter as service begins. The release does not yet provide independent performance results from the planned UK operation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001268/THP_DELIVEROO_COCO_07-1.jpg?id=OA2986069",
+        "alt": "Coco delivery robot in London",
+        "caption": "Coco delivery robot in London · Image: Coco Robotics / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "ff-eai-september-265-units-report-2026": {
+    "title": "FF reports 265 robotics-device sales and shipments in September",
+    "summary": "The company reports 817 cumulative units and plans an October 14 education-product event; the totals cover multiple device forms.",
+    "sections": [
+      {
+        "heading": "Company-reported monthly totals",
+        "paragraphs": [
+          "An October 5 investor release reports 265 robotics-device sales and shipments in September, 575 during Q3 and 817 from late February through September. The release combines sales and shipments in its wording. These are company-reported figures across device forms, not a count exclusively of humanoids or independently audited totals in this article."
+        ]
+      },
+      {
+        "heading": "Applications are at different stages",
+        "paragraphs": [
+          "FF describes education and research as entering early scaled growth, security and inspection as initial proof-of-concept deployments, and industrial and logistics work as channel expansion and internal development. Commercial services are still validating operating revenue. Those stages matter: aggregate device totals do not establish mature deployment in every application."
+        ]
+      },
+      {
+        "heading": "An event and a proposed transaction",
+        "paragraphs": [
+          "FFAI and FFR plan an October 14 Pacific Time event for education-related EAI Brain, Skills and device products, including the Physical AI Spark Program. The transfer of the robotics business to FFR remains a proposed transaction subject to completion. Planned products and restructuring should be distinguished from reported activity; the company’s market-ranking claims are not independently verified here."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://app-cdn-us.faradayfuturecn.com/storage/2026/10/04/jOyb0x1CMdMXGlmPMmbCQICWyu5hZ8b3aYNpQApMFET0G2iVtbPnrNoEC1sE8ws1.jpg",
+        "alt": "Image accompanying FF’s weekly investor report",
+        "caption": "Image accompanying FF’s weekly investor report · Image: Faraday Future"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://app-cdn-us.faradayfuturecn.com/storage/2026/10/04/m7rcUWXTI9dlux60eyUPKfoyPxnJ3dHX8Ztd1aCnzUozn3Uk113sJj0dKE7PWd5x.mp4",
+        "title": "FF investor report on September totals and education-product plans"
+      }
+    ]
+  },
+  "arc-singapore-asean-chapters-launch-2026": {
+    "title": "ARC Singapore launches a regional secure-automation network",
+    "summary": "The new industry body signs MoUs for four country chapters and plans collaboration on trusted automation.",
+    "sections": [
+      {
+        "heading": "Connecting three disciplines",
+        "paragraphs": [
+          "ARC Singapore launched on October 5 to connect AI developers, robotics suppliers, cybersecurity specialists, researchers and enterprise users. Its premise is that decision software, physical machines and connected networks must be assessed together when AI controls work in real environments."
+        ]
+      },
+      {
+        "heading": "A regional network is planned",
+        "paragraphs": [
+          "The body signed MoUs with chapter leads in Cambodia, Indonesia, Malaysia and Vietnam. Planned work covers policy input, cross-sector collaboration, digital trust and skills development. First-year working groups include an AI risk framework jointly led by a solution provider and an enterprise user."
+        ]
+      },
+      {
+        "heading": "Implications for system buyers",
+        "paragraphs": [
+          "For Thai businesses, the potential value is closer regional alignment between automation procurement and security evaluation. However, these agreements do not create binding standards or certify products. Proposed trust baselines and procurement guidance remain development goals whose practical value will depend on published documents and implementation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://image.bastillepost.com/wp-content/uploads/global/2026/10/media_MS2002204_20261005060450EDT_image_1.jpg.webp",
+        "alt": "ARC Singapore launch and regional collaboration",
+        "caption": "ARC Singapore launch and regional collaboration · Image: ARC Singapore / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "minerva-roger-preseed-hazardous-work-2026": {
+    "title": "Minerva unveils Roger for hazardous work with $10 million in funding",
+    "summary": "Roger combines AI-assisted mobility with specialist control through VR, with paid pilots planned for the fall.",
+    "sections": [
+      {
+        "heading": "Funding supports initial field pilots",
+        "paragraphs": [
+          "Minerva Humanoids emerged on October 6 with approximately $10 million in pre-seed funding led by General Catalyst, with Long Journey Ventures and Credo Ventures as co-leads. Roger targets hazardous onshore and offshore energy work and public-safety applications. The company plans its first paid pilots for the fall."
+        ]
+      },
+      {
+        "heading": "Specialists retain critical control",
+        "paragraphs": [
+          "Roger is semi-autonomous. Minerva Intelligence manages balance, fall recovery and navigation while translating remote operator input into movement. A specialist uses a VR headset to see through the robot and perform fine manipulation. The intended model preserves human judgment for critical actions rather than giving a robot independent authority over hazardous work."
+        ]
+      },
+      {
+        "heading": "A prototype is not broad deployment",
+        "paragraphs": [
+          "Minerva says it developed a walking prototype in five months. Initial units are manufactured and assembled in Germany, with production planned in Germany and the US. Rapid development does not establish reliability in every field condition. Pilot results will need to demonstrate communication quality, controllability and resilience as operating environments change."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://manilatimes.net/manilatimes/uploads/images/2026/10/06/1247793.jpg",
+        "alt": "Minerva’s semi-autonomous Roger robot",
+        "caption": "Minerva’s semi-autonomous Roger robot · Image: Minerva Humanoids / GlobeNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "yyforce-singapore-robotics-training-center-2026": {
+    "title": "YYForce opens Singapore center for service-robot training",
+    "summary": "The center collects operational data and tests human–robot workflows while evaluating leasing and robotics-as-a-service models.",
+    "sections": [
+      {
+        "heading": "A service-workflow test center",
+        "paragraphs": [
+          "YYForce announced the opening of its Robotics Training, Data and Experience Center in Singapore on October 6. It supports humanoid training, operational data collection, workflow testing and customer demonstrations for hospitality, cleaning, security, delivery and facility management, drawing on the company’s existing workforce services."
+        ]
+      },
+      {
+        "heading": "Learning from simulated workplaces",
+        "paragraphs": [
+          "Test environments cover housekeeping, restroom cleaning, banqueting and hospitality support. Data includes navigation, motion, object interaction and environmental conditions. The center evaluates collaboration between people, humanoids and specialized robots. A security command center also demonstrates patrol robots integrated with cameras, sensors and central monitoring."
+        ]
+      },
+      {
+        "heading": "Commercial capability remains under evaluation",
+        "paragraphs": [
+          "YYForce explicitly says training does not establish autonomous completion of full housekeeping or restroom-cleaning duties. It is assessing RaaS, leasing and managed-service arrangements but has not announced material robotics orders or recurring revenue from these proposed models. Viability depends on productivity, service quality, maintenance costs and required human intervention."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1982800/20260907040718EDT_image_2.jpg?id=OA2989911",
+        "alt": "Image accompanying YYForce’s robotics-center announcement",
+        "caption": "Image accompanying YYForce’s robotics-center announcement · Image: YYForce / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "exotec-first-supply-next-morning-results-2026": {
+    "title": "First Supply reports Skypod results supporting next-morning delivery",
+    "summary": "The company-reported results describe 10-times-faster picking and more than 14,000 SKUs after over a year of operation.",
+    "sections": [
+      {
+        "heading": "Results after more than a year",
+        "paragraphs": [
+          "Exotec published First Supply’s Skypod operating results on October 6, after more than a year of use. The reported service milestone is next-morning delivery for orders placed by 5 p.m. First Supply distributes HVAC, plumbing, lighting and industrial products whose availability affects contractors’ schedules."
+        ]
+      },
+      {
+        "heading": "Picking performance and storage headroom",
+        "paragraphs": [
+          "The release reports more than 14,000 SKUs in the system and picking speeds ten times those of previous manual processes. Vertical storage reduces operator travel. Fourfold storage-capacity growth within the existing racking footprint is expansion potential, not an already completed fourfold increase. These figures are supplier-and-customer claims rather than an independent benchmark."
+        ]
+      },
+      {
+        "heading": "Service outcomes matter alongside speed",
+        "paragraphs": [
+          "First Supply says next-day demand can represent up to 20% of daily distribution-center volume, making overnight replenishment operationally important. However, the announcement does not detail the tenfold comparison methodology or total costs needed for a payback calculation. Other operators should compare the case with their own product mix and peak-demand patterns."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "robco-billion-valuation-alfie-launch-plan-2026": {
+    "title": "RobCo reaches billion-dollar valuation ahead of planned Alfie launch",
+    "summary": "The transaction combines new investment with an employee secondary sale as RobCo expands US operations and prepares its industrial robot.",
+    "sections": [
+      {
+        "heading": "Valuation is different from capital raised",
+        "paragraphs": [
+          "RobCo’s valuation exceeded $1 billion in a transaction first reported on October 5 and covered by Modern Materials Handling on October 6. It combines investment in the company with a secondary share sale for employees. The valuation is not a billion-dollar fundraising amount. Participants include existing investors such as Sequoia and Lightspeed and new investors including Cherry Ventures."
+        ]
+      },
+      {
+        "heading": "Alfie is scheduled for 2027",
+        "paragraphs": [
+          "RobCo plans Alfie’s commercial launch at its RobCoN summit in Munich on March 4, 2027. The company describes an industrial robot combining perception, reasoning and execution for variable factory tasks. That is a product positioning and development goal, not independent proof that it can handle every industrial workflow without preparation."
+        ]
+      },
+      {
+        "heading": "US operations are expanding",
+        "paragraphs": [
+          "The company reports customer operations across more than a dozen states, manufacturing and assembly in Austin, and a San Francisco lab. CEO Roman Hölzl has relocated to the US. Local operations may support deployment and service, but practical value still depends on application reliability, safety and total costs. The announced commercial launch remains a future milestone."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.mmh.com/images/2026_article/RobCo-Alfie.jpg",
+        "alt": "Alfie, RobCo’s planned industrial robot",
+        "caption": "Alfie, RobCo’s planned industrial robot · Image: RobCo"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-rohit-prasad-ceo-2026": {
+    "title": "Boston Dynamics appoints Rohit Prasad CEO effective October 7",
+    "summary": "The former Amazon AI leader will guide the company’s integration of AI and robotics and its commercialization efforts.",
+    "sections": [
+      {
+        "heading": "A leadership change takes effect",
+        "paragraphs": [
+          "Boston Dynamics announced on October 6 that Rohit Prasad will become chief executive officer effective October 7, 2026. The stated focus is integrating advanced AI with robotics and expanding commercial applications. This is a distinct corporate development from the previously covered Atlas hand announcement."
+        ]
+      },
+      {
+        "heading": "Experience in AI product development",
+        "paragraphs": [
+          "Prasad previously served as an Amazon senior vice president and head scientist for Alexa and Artificial General Intelligence. During twelve years there he helped develop Alexa and later the Amazon Nova foundation-model family. Earlier, he spent nearly fourteen years at Raytheon BBN Technologies working on machine learning and its applications."
+        ]
+      },
+      {
+        "heading": "Strategy does not establish new capabilities",
+        "paragraphs": [
+          "Boston Dynamics identifies Spot for inspection, Stretch for box handling and electric Atlas as a platform in development. The leadership announcement gives no new product delivery schedule or demonstrated technical capability. Prasad’s expected board appointment remains subject to approval. Commercial and technical progress must therefore be assessed separately from the strategic intent of the hire."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
   }
 }

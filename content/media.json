@@ -987,5 +987,106 @@
         "title": "DoorDash Air แสดงระบบส่งอาหารด้วยโดรน"
       }
     ]
+  },
+  "safeworld-seed-safety-simulation-launch-2026": {
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg",
+        "alt": "ผู้ร่วมก่อตั้ง Safeworld",
+        "caption": "ผู้ร่วมก่อตั้ง Safeworld · ภาพ: Safeworld"
+      }
+    ],
+    "videos": []
+  },
+  "orbital-robotics-arkisys-iss-arm-demo-2026": {
+    "images": [
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261005-astrobees.jpg",
+        "alt": "ภาพแนวคิด Astrobee ติดแขนหุ่นยนต์ และ Astrobee บน ISS",
+        "caption": "ภาพแนวคิด Astrobee ติดแขนหุ่นยนต์ และ Astrobee บน ISS · ภาพ: Orbital Robotics / NASA"
+      },
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261004-ora-arm-1260x841.jpg",
+        "alt": "แขน ORA-A ในห้องปฏิบัติการ",
+        "caption": "แขน ORA-A ในห้องปฏิบัติการ · ภาพ: Orbital Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "coco-deliveroo-uk-rollout-partnership-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2001268/THP_DELIVEROO_COCO_07-1.jpg?id=OA2986069",
+        "alt": "หุ่นยนต์ส่งของ Coco ในลอนดอน",
+        "caption": "หุ่นยนต์ส่งของ Coco ในลอนดอน · ภาพ: Coco Robotics / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "ff-eai-september-265-units-report-2026": {
+    "images": [
+      {
+        "url": "https://app-cdn-us.faradayfuturecn.com/storage/2026/10/04/jOyb0x1CMdMXGlmPMmbCQICWyu5hZ8b3aYNpQApMFET0G2iVtbPnrNoEC1sE8ws1.jpg",
+        "alt": "ภาพประกอบรายงานนักลงทุนประจำสัปดาห์ของ FF",
+        "caption": "ภาพประกอบรายงานนักลงทุนประจำสัปดาห์ของ FF · ภาพ: Faraday Future"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://app-cdn-us.faradayfuturecn.com/storage/2026/10/04/m7rcUWXTI9dlux60eyUPKfoyPxnJ3dHX8Ztd1aCnzUozn3Uk113sJj0dKE7PWd5x.mp4",
+        "title": "รายงานนักลงทุน FF เรื่องยอดเดือนกันยายนและแผนผลิตภัณฑ์การศึกษา",
+        "sourceUrl": "https://app-us.ff.com/ff-v3/news/1653?lang=en-US",
+        "poster": "https://app-cdn-us.faradayfuturecn.com/storage/2026/10/04/0gAv3T5MzlipGaL18Gmiwpuwv9PgVEXWbTi3vooMK3IdFEU9BGNXYVrR6fjAwHGb.png"
+      }
+    ]
+  },
+  "arc-singapore-asean-chapters-launch-2026": {
+    "images": [
+      {
+        "url": "https://image.bastillepost.com/wp-content/uploads/global/2026/10/media_MS2002204_20261005060450EDT_image_1.jpg.webp",
+        "alt": "งานเปิดตัว ARC Singapore และความร่วมมือระดับภูมิภาค",
+        "caption": "งานเปิดตัว ARC Singapore และความร่วมมือระดับภูมิภาค · ภาพ: ARC Singapore / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "minerva-roger-preseed-hazardous-work-2026": {
+    "images": [
+      {
+        "url": "https://manilatimes.net/manilatimes/uploads/images/2026/10/06/1247793.jpg",
+        "alt": "Roger หุ่นยนต์กึ่งอัตโนมัติของ Minerva",
+        "caption": "Roger หุ่นยนต์กึ่งอัตโนมัติของ Minerva · ภาพ: Minerva Humanoids / GlobeNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "yyforce-singapore-robotics-training-center-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1982800/20260907040718EDT_image_2.jpg?id=OA2989911",
+        "alt": "ภาพประกอบประกาศศูนย์ฝึกหุ่นยนต์ YYForce",
+        "caption": "ภาพประกอบประกาศศูนย์ฝึกหุ่นยนต์ YYForce · ภาพ: YYForce / PR Newswire"
+      }
+    ],
+    "videos": []
+  },
+  "exotec-first-supply-next-morning-results-2026": {
+    "images": [],
+    "videos": []
+  },
+  "robco-billion-valuation-alfie-launch-plan-2026": {
+    "images": [
+      {
+        "url": "https://www.mmh.com/images/2026_article/RobCo-Alfie.jpg",
+        "alt": "Alfie หุ่นยนต์อุตสาหกรรมที่ RobCo เตรียมเปิดขาย",
+        "caption": "Alfie หุ่นยนต์อุตสาหกรรมที่ RobCo เตรียมเปิดขาย · ภาพ: RobCo"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-rohit-prasad-ceo-2026": {
+    "images": [],
+    "videos": []
   }
 }
