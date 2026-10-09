@@ -578,5 +578,115 @@
     "url": "https://www.suasnews.com/2026/10/second-phase-of-medical-drone-delivery-pilot-flights-to-begin-october-6/",
     "image": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/10/munson-healthcare.jpeg?fit=678%2C452&ssl=1",
     "addedAt": "2026-10-07T22:12:35.417Z"
+  },
+  {
+    "id": "aws-physical-ai-toolchain-launch-2026",
+    "category": "ai-automation",
+    "title": "AWS เปิด Physical AI Toolchain เชื่อมข้อมูล ฝึกโมเดล และส่ง AI ลงหุ่นยนต์",
+    "summary": "ชุดเครื่องมือโอเพนซอร์สรวมบริการ AWS กับ NVIDIA เพื่อให้ทีมพัฒนาทดสอบในโลกจำลองและปรับโมเดลจากข้อมูลการใช้งานจริง",
+    "source": "The Robot Report",
+    "date": "2026-10-08",
+    "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/aws-physical-ai-reference-architecture.png",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "helm-ai-70m-contracts-milestone-2026",
+    "category": "industry-news",
+    "title": "Helm.ai เผยสัญญาเชิงพาณิชย์ 70 ล้านดอลลาร์ ขยาย AI จากรถสู่เครื่องจักร",
+    "summary": "มูลค่ารวมในช่วง 12 เดือนครอบคลุมผู้ผลิตรถ ซัพพลายเออร์และระบบอุตสาหกรรม โดยยังเป็นข้อมูลที่บริษัทประกาศเอง",
+    "source": "The Robot Report",
+    "date": "2026-10-08",
+    "url": "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/helmai-featured.jpg",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "doe-four-lab-robotics-testbeds-selection-2026",
+    "category": "research",
+    "title": "DOE เลือก 4 โครงการหุ่นยนต์แล็บ เน้นทักษะและระบบที่นำกลับใช้ร่วมกันได้",
+    "summary": "โครงการนำโดย Argonne, Brookhaven, Oak Ridge และ SLAC จะพัฒนาการทดลองอัตโนมัติ โดยเงินสนับสนุนยังมีเงื่อนไขการเจรจาและงบประมาณ",
+    "source": "DOE / Newswise",
+    "date": "2026-10-08",
+    "url": "https://www.newswise.com/doescience/doe-announces-four-national-laboratory-led-selections-to-advance-robotics-and-automation-for-autonomous-scientific-discovery/?article_id=856192",
+    "image": "",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "tecnalia-zutik-industrial-humanoid-research-2026",
+    "category": "humanoids",
+    "title": "ZUTIK วิจัยซอฟต์แวร์ให้หุ่นยนต์ฮิวแมนนอยด์ทำงานร่วมกับระบบโรงงาน",
+    "summary": "TECNALIA นำเครือข่ายวิจัยหกองค์กร พัฒนาการเดิน การจับและการเชื่อม OT/IT โดยตั้งเป้าทดสอบระดับห้องแล็บ TRL 4",
+    "source": "TECNALIA",
+    "date": "2026-10-07",
+    "url": "https://www.tecnalia.com/noticias/preparar-industria-proxima-revolucion-robotica",
+    "image": "https://cms.tecnalia.com/uploads/2026/10/zutik-robots-humanoides-tecnalia.jpg",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "zipline-round-rock-delivery-zone-launch-2026",
+    "category": "drones",
+    "title": "Zipline เปิดเขตส่งของด้วยโดรนที่ Round Rock เริ่มรับคำสั่งซื้อ 9 ตุลาคม",
+    "summary": "บริษัทสาธิตส่งของที่โรงเรียน Stony Point และกำหนดพื้นที่เริ่มต้นราวสามไมล์ โดยยังต้องตรวจว่าที่อยู่ของลูกค้าอยู่ในเขตบริการ",
+    "source": "Community Impact",
+    "date": "2026-10-09",
+    "url": "https://communityimpact.com/round-rock/business/zipline-launches-drone-delivery-zone-in-round-rock/",
+    "image": "https://assets.communityimpact.com/uploads/images/2026/10/08/dd49c7fb654793ed82b2706cf349c55d9a85b1f7d9affa204c94a3b56505c370.jpg",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "elmo-secure-development-ml2-certification-2026",
+    "category": "industrial-robots",
+    "title": "Elmo ได้รับรองกระบวนการพัฒนาปลอดภัย IEC 62443-4-1 ระดับ ML2",
+    "summary": "TÜV SÜD รับรองแนวทางพัฒนาและดูแลผลิตภัณฑ์ของผู้ผลิตระบบควบคุมการเคลื่อนไหว ครอบคลุมการตรวจโค้ดและจัดการช่องโหว่",
+    "source": "RoboticsTomorrow",
+    "date": "2026-10-07",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/07/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development/27218/",
+    "image": "",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "scouts-vidullanka-first-solar-deployment-disclosure-2026",
+    "category": "drones",
+    "title": "Scouts เผยติดตั้งโดรนเฝ้าระวังอัตโนมัติในโรงไฟฟ้าแสงอาทิตย์ Vidullanka",
+    "summary": "รายงานใหม่เปิดเผยการติดตั้งที่เสร็จในเดือนกันยายน ใช้กล้อง 4K และความร้อนช่วยทีมรักษาความปลอดภัยในสองโรงไฟฟ้าศรีลังกา",
+    "source": "Colombo Gazette",
+    "date": "2026-10-08",
+    "url": "https://colombogazette.com/2026/10/09/scouts-deploys-autonomous-drone-monitoring-at-vidullanka-solar-plants",
+    "image": "https://storage.ghost.io/c/aa/12/aa12aff5-1107-4b56-84af-21cee1731220/content/images/2026/10/scouts.webp",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "robotx-xmind-robot-brain-launch-2026",
+    "category": "ai-automation",
+    "title": "RobotX AI เปิด Xmind หน่วยประมวลผลเชื่อมเซนเซอร์ โมเดล AI และการควบคุมหุ่นยนต์",
+    "summary": "บริษัทเตรียมสาธิตการใช้งานวันที่ 13–15 ตุลาคม แต่ยังไม่เปิดเผยเกณฑ์ทดสอบ ประสิทธิภาพหรือรายชื่อฮาร์ดแวร์ที่รองรับครบถ้วน",
+    "source": "RobotX AI / GlobeNewswire",
+    "date": "2026-10-08",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377477/0/en/robotx-ai-launches-its-first-robot-brain-xmind-ahead-of-techcrunch-disrupt-2026.html",
+    "image": "",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "kawasaki-cp110l-north-america-launch-plan-2026",
+    "category": "industrial-robots",
+    "title": "Kawasaki เตรียมนำ CP110L สู่ตลาดอเมริกาเหนือ รองรับยก 110 กิโลกรัม",
+    "summary": "หุ่นยนต์จัดพาเลตจะเปิดตัวในภูมิภาคที่ PACK EXPO โดยสเปกความเร็ว 2,200 กล่องต่อชั่วโมงมีเงื่อนไขน้ำหนักและระยะเคลื่อนที่",
+    "source": "Kawasaki Robotics",
+    "date": "2026-10-08",
+    "url": "https://kawasakirobotics.com/news/cp110l-palletizing-robot-pack-expo-2026/",
+    "image": "https://kawasakirobotics.com/tachyon/2026/08/CP110L-Web-1.png",
+    "addedAt": "2026-10-09T06:09:58.387Z"
+  },
+  {
+    "id": "tecnalia-autis-inspection-mask-validation-2026",
+    "category": "ai-automation",
+    "title": "TECNALIA และ AUTIS ใช้ AI สร้างขอบเขตตรวจสีรถ ลดงานตั้งค่าด้วยมือ",
+    "summary": "งานพัฒนาใช้ภาพมากกว่า 650 ภาพจากรถ 20 รุ่นและ 13 สายการผลิต เพื่อประเมินการปรับใช้ระบบตรวจผิวในโรงงานต่างกัน",
+    "source": "TECNALIA",
+    "date": "2026-10-07",
+    "url": "https://www.tecnalia.com/noticias/vision-artificial-ia-acelerar-inspeccion-automatica",
+    "image": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias.jpg",
+    "addedAt": "2026-10-09T06:09:58.387Z"
   }
 ]

@@ -1230,5 +1230,100 @@
       }
     ],
     "videos": []
+  },
+  "aws-physical-ai-toolchain-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/aws-physical-ai-reference-architecture.png",
+        "alt": "แผนผังสถาปัตยกรรม Physical AI บน AWS",
+        "caption": "แผนผังสถาปัตยกรรม Physical AI บน AWS · ภาพ: AWS / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-vulcan-teasr.jpg",
+        "alt": "Vulcan ตัวอย่างหุ่นยนต์ Amazon ที่ใช้ข้อมูลสัมผัส",
+        "caption": "Vulcan ตัวอย่างหุ่นยนต์ Amazon ที่ใช้ข้อมูลสัมผัส · ภาพ: Amazon"
+      }
+    ],
+    "videos": []
+  },
+  "helm-ai-70m-contracts-milestone-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/helmai-featured.jpg",
+        "alt": "ภาพจำลองถนนและยานพาหนะสำหรับระบบ Helm.ai",
+        "caption": "ภาพจำลองถนนและยานพาหนะสำหรับระบบ Helm.ai · ภาพ: Helm.ai"
+      }
+    ],
+    "videos": []
+  },
+  "doe-four-lab-robotics-testbeds-selection-2026": {
+    "images": [],
+    "videos": []
+  },
+  "tecnalia-zutik-industrial-humanoid-research-2026": {
+    "images": [
+      {
+        "url": "https://cms.tecnalia.com/uploads/2026/10/zutik-robots-humanoides-tecnalia.jpg",
+        "alt": "ภาพประกอบโครงการวิจัยฮิวแมนนอยด์ ZUTIK",
+        "caption": "ภาพประกอบโครงการวิจัยฮิวแมนนอยด์ ZUTIK · ภาพ: TECNALIA"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=yrCrZ7Sfpnc",
+        "embed": "https://www.youtube-nocookie.com/embed/yrCrZ7Sfpnc",
+        "title": "วิดีโอภาพรวมงานหุ่นยนต์ฮิวแมนนอยด์ที่ต้นฉบับอ้างอิง · วิดีโอ: TECNALIA",
+        "sourceUrl": "https://www.youtube.com/watch?v=yrCrZ7Sfpnc&list=PLA0D61AEED6A4BEF3&index=34"
+      }
+    ]
+  },
+  "zipline-round-rock-delivery-zone-launch-2026": {
+    "images": [
+      {
+        "url": "https://assets.communityimpact.com/uploads/images/2026/10/08/dd49c7fb654793ed82b2706cf349c55d9a85b1f7d9affa204c94a3b56505c370.jpg",
+        "alt": "การสาธิตส่งของของ Zipline ที่โรงเรียน Stony Point เมื่อ 8 ตุลาคม",
+        "caption": "การสาธิตส่งของของ Zipline ที่โรงเรียน Stony Point เมื่อ 8 ตุลาคม · ภาพ: Brooke Sjoberg / Community Impact"
+      }
+    ],
+    "videos": []
+  },
+  "elmo-secure-development-ml2-certification-2026": {
+    "images": [],
+    "videos": []
+  },
+  "scouts-vidullanka-first-solar-deployment-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://storage.ghost.io/c/aa/12/aa12aff5-1107-4b56-84af-21cee1731220/content/images/2026/10/scouts.webp",
+        "alt": "ภาพประกอบการติดตั้งระบบ Scouts ร่วมกับ Vidullanka",
+        "caption": "ภาพประกอบการติดตั้งระบบ Scouts ร่วมกับ Vidullanka · ภาพ: Colombo Gazette / Scouts–Vidullanka"
+      }
+    ],
+    "videos": []
+  },
+  "robotx-xmind-robot-brain-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "kawasaki-cp110l-north-america-launch-plan-2026": {
+    "images": [
+      {
+        "url": "https://kawasakirobotics.com/tachyon/2026/08/CP110L-Web-1.png",
+        "alt": "หุ่นยนต์จัดพาเลต CP110L ของ Kawasaki",
+        "caption": "หุ่นยนต์จัดพาเลต CP110L ของ Kawasaki · ภาพ: Kawasaki Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "tecnalia-autis-inspection-mask-validation-2026": {
+    "images": [
+      {
+        "url": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias.jpg",
+        "alt": "ภาพประกอบการตรวจผิวตัวถังด้วยระบบวิชัน",
+        "caption": "ภาพประกอบการตรวจผิวตัวถังด้วยระบบวิชัน · ภาพ: TECNALIA"
+      }
+    ],
+    "videos": []
   }
 }

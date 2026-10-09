@@ -2435,5 +2435,317 @@
       }
     ],
     "videos": []
+  },
+  "aws-physical-ai-toolchain-launch-2026": {
+    "title": "AWS launches Physical AI Toolchain to connect robot training and deployment",
+    "summary": "The open-source workflow combines AWS and NVIDIA components for data generation, model training, simulation, edge deployment and continued improvement.",
+    "sections": [
+      {
+        "heading": "Connecting the development stages",
+        "paragraphs": [
+          "AWS introduced its Physical AI Toolchain on October 8, bringing together synthetic data generation, training, simulation and validation, edge deployment, and continued improvement. Developers can adopt individual components or an integrated workflow. The announcement packages existing technologies into a more cohesive development process; it does not introduce a new robot model."
+        ]
+      },
+      {
+        "heading": "Cloud training and physical deployment",
+        "paragraphs": [
+          "Amazon SageMaker supports model training, while AWS IoT Greengrass distributes models to edge devices. The NVIDIA stack includes Isaac Sim, Isaac Lab, Isaac GR00T and Cosmos. Data collected during robot operations can feed subsequent cloud training cycles. AWS describes the approach as hardware-neutral, rather than prescribing a particular robot form factor or manufacturer."
+        ]
+      },
+      {
+        "heading": "Production readiness remains application-specific",
+        "paragraphs": [
+          "Simulation and synthetic data support testing, but do not guarantee real-world performance in every situation. AWS guidance requires users to test, secure and optimize sample components before production use, and cloud resources may incur charges. The launch does not provide a universal benchmark establishing success rates across all robot hardware."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/aws-physical-ai-reference-architecture.png",
+        "alt": "Physical AI reference architecture on AWS",
+        "caption": "Physical AI reference architecture on AWS · Image: AWS / The Robot Report"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-vulcan-teasr.jpg",
+        "alt": "Amazon Vulcan, an example of a robot using tactile sensing",
+        "caption": "Amazon Vulcan, an example of a robot using tactile sensing · Image: Amazon"
+      }
+    ],
+    "videos": []
+  },
+  "helm-ai-70m-contracts-milestone-2026": {
+    "title": "Helm.ai reports $70 million in contracts as physical AI expands beyond cars",
+    "summary": "The 12-month commercial milestone spans automakers, Tier 1 suppliers and industrial automation companies, according to Helm.ai.",
+    "sections": [
+      {
+        "heading": "A year of signed contracts",
+        "paragraphs": [
+          "Helm.ai announced on October 8 that it signed $70 million in commercial contracts over a 12-month period. Customers include automakers, Tier 1 suppliers and industrial automation companies. The figure measures signed contracts, rather than new investment or fully recognized revenue. The company says it is progressing toward operating breakeven, not that it has already reached it."
+        ]
+      },
+      {
+        "heading": "Separating perception from action",
+        "paragraphs": [
+          "The company’s unsupervised Deep Teaching approach learns environmental structure while separating perception from downstream planning and action. Management says this improves data efficiency and enables shared capabilities across cars, mining equipment and construction applications. Those efficiency advantages are company claims; the report does not include an independent comparative benchmark."
+        ]
+      },
+      {
+        "heading": "Different applications are at different stages",
+        "paragraphs": [
+          "The platform spans L2–L4 automotive programs and heavy-equipment perception projects progressing toward production. Helm.ai also describes delivery-drone work and broader robotics ambitions, without publishing deployment counts by application. The contract total therefore does not establish that a corresponding fleet of fully autonomous robots is already commercially operating."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/helmai-featured.jpg",
+        "alt": "Simulated road and vehicles for Helm.ai systems",
+        "caption": "Simulated road and vehicles for Helm.ai systems · Image: Helm.ai"
+      }
+    ],
+    "videos": []
+  },
+  "doe-four-lab-robotics-testbeds-selection-2026": {
+    "title": "DOE selects four laboratory robotics projects to build reusable autonomy",
+    "summary": "Argonne, Brookhaven, Oak Ridge and SLAC lead complementary testbeds, with funding subject to negotiations and future appropriations.",
+    "sections": [
+      {
+        "heading": "Shared infrastructure for scientific facilities",
+        "paragraphs": [
+          "The US Department of Energy’s Office of Science selected four projects to advance robotics and automation for scientific infrastructure. Intended outputs include open software, interfaces, reusable robot skills, datasets and models, alongside safety methods and experiment provenance. The objective is infrastructure other laboratories can extend, rather than four isolated demonstrations."
+        ]
+      },
+      {
+        "heading": "Complementary roles across four laboratories",
+        "paragraphs": [
+          "Argonne’s MAESTRO will develop infrastructure that improves through experience. Brookhaven’s DART will examine failures, reliability and skill transfer across robotic platforms. Oak Ridge’s TRACE will connect robots, instruments and data through standardized interfaces. SLAC’s SPIRE will combine sample manipulation, detectors and controls in photon- and electron-science facilities."
+        ]
+      },
+      {
+        "heading": "Funding and validation are conditional",
+        "paragraphs": [
+          "The announcement identifies $30 million in total funding, including $2 million in fiscal 2026, with later funding dependent on congressional appropriations. Selection starts award negotiations and does not guarantee an award. Success must still be demonstrated through transfer across instruments and laboratories, as well as valid scientific outcomes from automated experiments."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "tecnalia-zutik-industrial-humanoid-research-2026": {
+    "title": "ZUTIK researches software for humanoids integrated with factory systems",
+    "summary": "TECNALIA leads six research organizations developing navigation, manipulation and OT/IT integration, targeting TRL 4 laboratory demonstrators.",
+    "sections": [
+      {
+        "heading": "Adapting existing platforms",
+        "paragraphs": [
+          "TECNALIA described ZUTIK as a research effort to prepare Basque industry for reliable humanoid integration. The project will develop algorithms and software components for existing robot platforms rather than build a new humanoid. It addresses complex factory environments, object handling and coordinated whole-body motion."
+        ]
+      },
+      {
+        "heading": "A modular integration architecture",
+        "paragraphs": [
+          "Research covers perception, bipedal locomotion, safe navigation, multi-fingered and whole-body manipulation, and skill-based programming. A modular, vendor-agnostic architecture is intended to connect these capabilities with factory OT/IT systems. The aim is to coordinate humanoids within existing production infrastructure and support future integration across platforms."
+        ]
+      },
+      {
+        "heading": "Laboratory validation comes first",
+        "paragraphs": [
+          "The consortium includes TECNALIA, AUTOTECH ENGINEERING, IKERLAN, MONDRAGON MU-EPS, EHU and INVEMA, with eight industrial companies contributing through a business committee. TRL 4 laboratory demonstrators will use scenarios such as kitting, assembly, inspection in complex spaces and internal logistics. Further readiness work will be required before production deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms.tecnalia.com/uploads/2026/10/zutik-robots-humanoides-tecnalia.jpg",
+        "alt": "Illustration accompanying the ZUTIK humanoid research project",
+        "caption": "Illustration accompanying the ZUTIK humanoid research project · Image: TECNALIA"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=yrCrZ7Sfpnc",
+        "title": "Humanoid robotics overview linked by the source · Video: TECNALIA"
+      }
+    ]
+  },
+  "zipline-round-rock-delivery-zone-launch-2026": {
+    "title": "Zipline launches Round Rock delivery zone, with orders starting October 9",
+    "summary": "A school demonstration marked the Central Texas launch, with an initial three-mile service zone and address-dependent availability.",
+    "sections": [
+      {
+        "heading": "A new Central Texas service area",
+        "paragraphs": [
+          "Zipline launched in Round Rock, Texas, on October 8. Customers within an initial three-mile zone from 3000 E. Palm Valley Boulevard were expected to begin ordering on October 9. A company representative told Community Impact this was Zipline’s first Central Texas delivery zone. The launch included a demonstration at Stony Point High School."
+        ]
+      },
+      {
+        "heading": "Lowering a delivery pod",
+        "paragraphs": [
+          "Customers order through the Zipline app from participating restaurants and businesses, whose employees load items into delivery pods. Company representatives described a payload limit of about five pounds, or 2.3 kilograms. Aircraft fly at roughly 300 feet, or 91 meters, and lower pods on a tether to backyards or other designated delivery locations."
+        ]
+      },
+      {
+        "heading": "Expansion remains a plan",
+        "paragraphs": [
+          "The company expects to expand across the city and wider Austin area, without a published date for every neighborhood. Its relationship with the school, which offers drone aviation courses, is at an early stage and may support engineering or robotics education. Launching a zone does not mean every address is served; customers must check address and merchant availability in the app."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://assets.communityimpact.com/uploads/images/2026/10/08/dd49c7fb654793ed82b2706cf349c55d9a85b1f7d9affa204c94a3b56505c370.jpg",
+        "alt": "Zipline delivery demonstration at Stony Point High School on October 8",
+        "caption": "Zipline delivery demonstration at Stony Point High School on October 8 · Image: Brooke Sjoberg / Community Impact"
+      }
+    ],
+    "videos": []
+  },
+  "elmo-secure-development-ml2-certification-2026": {
+    "title": "Elmo receives IEC 62443-4-1 ML2 secure-development certification",
+    "summary": "TÜV SÜD certified the motion-control supplier’s development lifecycle, covering documented security processes and post-release vulnerability handling.",
+    "sections": [
+      {
+        "heading": "Certification of the supplier’s process",
+        "paragraphs": [
+          "Elmo Motion Control announced on October 7 that TÜV SÜD certified its secure product-development lifecycle to IEC 62443-4-1 Maturity Level 2. Elmo supplies servo drives, multi-axis controllers and motors for applications including robotics and AGVs. The certification provides evidence for supplier assessments involving components integrated into automated equipment."
+        ]
+      },
+      {
+        "heading": "From design to maintenance",
+        "paragraphs": [
+          "The program includes threat modeling during design, mandatory peer code review and independent security testing before release. Formal vulnerability and patch processes continue after release, with communication to customers. ML2 recognizes documented, repeatable development practices carried out by trained and qualified personnel."
+        ]
+      },
+      {
+        "heading": "What the certification does not establish",
+        "paragraphs": [
+          "This part of the standard evaluates development practices, not whether an entire robot installation is vulnerability-free. Machine builders must still assess networking, connected equipment and update procedures in their own systems. Elmo says the program supports preparation for European cybersecurity requirements; it does not certify every compliance obligation of a customer’s finished machine."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "scouts-vidullanka-first-solar-deployment-disclosure-2026": {
+    "title": "Scouts discloses autonomous drone monitoring at Vidullanka solar plants",
+    "summary": "New reports describe a September deployment combining 4K and thermal cameras with automated docking at two Sri Lankan solar facilities.",
+    "sections": [
+      {
+        "heading": "A first-customer deployment is disclosed",
+        "paragraphs": [
+          "Reports published on October 8–9 describe Scouts’ aerial-monitoring installation for Vidullanka PLC in Sri Lanka. Deployment was completed in September, rather than on the reporting date. According to the partners, Vidullanka is the first customer of this autonomous system, which operates at two solar plants with a combined capacity of four megawatts."
+        ]
+      },
+      {
+        "heading": "An integrated monitoring service",
+        "paragraphs": [
+          "The installation combines an automated drone, a weatherproof docking and charging station, and anomaly-detection software. Its 4K and thermal cameras support checks for damaged fencing, vegetation encroachment, maintenance needs and fire risks. Scouts describes locally managed hardware, software and services intended to provide situational information to personnel on the ground."
+        ]
+      },
+      {
+        "heading": "Operational evidence remains limited",
+        "paragraphs": [
+          "The partners say aerial coverage can reduce continuous ground-patrol work and help staff respond. The reports do not provide flight counts, false-alarm rates or independently verified cost comparisons. This is an infrastructure deployment example, but it does not establish all-weather performance or demonstrate that security personnel can be replaced entirely."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://storage.ghost.io/c/aa/12/aa12aff5-1107-4b56-84af-21cee1731220/content/images/2026/10/scouts.webp",
+        "alt": "Image accompanying the Scouts and Vidullanka deployment report",
+        "caption": "Image accompanying the Scouts and Vidullanka deployment report · Image: Colombo Gazette / Scouts–Vidullanka"
+      }
+    ],
+    "videos": []
+  },
+  "robotx-xmind-robot-brain-launch-2026": {
+    "title": "RobotX AI launches Xmind to connect robot sensors, AI models and control",
+    "summary": "The company plans application demonstrations on October 13–15, while detailed performance benchmarks and a complete compatibility list remain undisclosed.",
+    "sections": [
+      {
+        "heading": "A computing and control unit",
+        "paragraphs": [
+          "RobotX AI introduced Xmind on October 8 as a computing and control unit connecting robot sensors, control systems and AI models. The Irvine-based company targets industrial inspection, firefighting, education, security and data collection. This is a company product announcement, rather than an independent validation of operating performance."
+        ]
+      },
+      {
+        "heading": "Linking perception, instructions and actions",
+        "paragraphs": [
+          "Advertised capabilities include visual perception, environmental understanding, voice instruction handling, AI task planning, multimodal processing and hardware adaptation. A shared robot-intelligence architecture still requires integration and application customization for physical machines. The announcement does not establish plug-and-play support for every robot or task."
+        ]
+      },
+      {
+        "heading": "Demonstrations and unresolved specifications",
+        "paragraphs": [
+          "RobotX AI plans hardware demonstrations at TechCrunch Disrupt in San Francisco on October 13–15 and reports $3 million in seed funding for development and expansion. The release does not disclose pricing, processor specifications, latency or task-success rates, nor distinguish how many cited orders concern Xmind. These details remain necessary for technical evaluation."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "kawasaki-cp110l-north-america-launch-plan-2026": {
+    "title": "Kawasaki plans North American launch of the 110-kg CP110L palletizer",
+    "summary": "The regional debut is scheduled for PACK EXPO, with its 2,200-case-per-hour rating tied to specified payload and motion conditions.",
+    "sections": [
+      {
+        "heading": "A regional rollout milestone",
+        "paragraphs": [
+          "Kawasaki Robotics USA announced on October 8 that the CP110L would make its North American debut at PACK EXPO in Chicago on October 18–21. This is a regional rollout following the global launch on February 16. The target applications are packaging and end-of-line operations constrained by floor space and ceiling height."
+        ]
+      },
+      {
+        "heading": "Payload and speed are different ratings",
+        "paragraphs": [
+          "The four-axis robot has a maximum payload of 110 kilograms, a 2,505-mm reach and ±0.05-mm repeatability. The 2,200-case-per-hour rating applies at 60 kilograms including the gripper, using a motion pattern with a 400-mm rise, 2,000-mm horizontal travel and 400-mm descent. It is not a guaranteed rate at maximum payload or in every cell layout."
+        ]
+      },
+      {
+        "heading": "Compact architecture still needs integration",
+        "paragraphs": [
+          "Kawasaki specifies a required ceiling height of 2,242 mm and a revolute-axis interference radius of 453 mm. A hollow wrist routes cables and hoses internally, while regeneration reuses energy from deceleration. The robot weighs 820 kilograms, so integrators still need to validate mounting, tooling, safety clearances and actual cycle times. Regional pricing was not announced."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://kawasakirobotics.com/tachyon/2026/08/CP110L-Web-1.png",
+        "alt": "Kawasaki CP110L palletizing robot",
+        "caption": "Kawasaki CP110L palletizing robot · Image: Kawasaki Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "tecnalia-autis-inspection-mask-validation-2026": {
+    "title": "TECNALIA and AUTIS automate paint-inspection masks with AI",
+    "summary": "Development used more than 650 images spanning 20 vehicle models and 13 production lines to assess automated setup across factory environments.",
+    "sections": [
+      {
+        "heading": "Automating inspection-region setup",
+        "paragraphs": [
+          "TECNALIA and AUTIS reported progress on AI-generated inspection masks for detecting paint defects on vehicle bodies. Specialists traditionally define these image regions manually for each vehicle model and installation. The work targets setup effort when commissioning visual-inspection systems; it does not introduce a painting robot or a new camera product."
+        ]
+      },
+      {
+        "heading": "A varied development dataset",
+        "paragraphs": [
+          "Segmentation models generate masks from images captured by inspection systems. Development involved more than 650 images from six manufacturers, 20 vehicle models, eight plants and 13 production lines. This diversity supported evaluation across different industrial settings. The number of plants represented in the data is not a count of newly installed commercial products."
+        ]
+      },
+      {
+        "heading": "Feasibility without a quantified benchmark",
+        "paragraphs": [
+          "TECNALIA says the results demonstrate technical feasibility and reduce configuration effort. The team also identified consistent labeling criteria as important for improving generalization. The announcement does not provide accuracy percentages, measured time savings or a separate test-set breakdown. Factories therefore need application-specific evaluation before drawing conclusions about their own returns."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias.jpg",
+        "alt": "Illustration of vision-based vehicle-body inspection",
+        "caption": "Illustration of vision-based vehicle-body inspection · Image: TECNALIA"
+      }
+    ],
+    "videos": []
   }
 }

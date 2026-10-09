@@ -4153,6 +4153,773 @@
           }
         ]
       }
+    },
+    {
+      "id": "aws-physical-ai-toolchain-launch-2026",
+      "storyKey": "aws-physical-ai-toolchain-launch-2026",
+      "originalTitle": "AWS launches open-source Physical AI Toolchain for robotics",
+      "urls": [
+        "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+        "https://aws.amazon.com/solutions/physical-ai-for-robotics-on-aws/"
+      ],
+      "publishedAt": "2026-10-08T13:23:58Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "ชุดเครื่องมือโอเพนซอร์สรวมบริการ AWS กับ NVIDIA เพื่อให้ทีมพัฒนาทดสอบในโลกจำลองและปรับโมเดลจากข้อมูลการใช้งานจริง",
+      "score": 19,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/0237d7a4a3af1eb377ec2ef6623de635db8372a7c068cb0f9616b5a3615ebcda?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/anyware-safeworld-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2025/02/apptronik-kitting-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/helmai-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Creo-July-23-annoucement-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "helm-ai-70m-contracts-milestone-2026",
+      "storyKey": "helm-ai-70m-contracts-milestone-2026",
+      "originalTitle": "Helm.ai reaches $70M in signed commercial contracts for its foundation models - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/",
+        "https://www.businesswire.com/news/home/20261008827689/en/"
+      ],
+      "publishedAt": "2026-10-08T15:55:31Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "มูลค่ารวมในช่วง 12 เดือนครอบคลุมผู้ผลิตรถ ซัพพลายเออร์และระบบอุตสาหกรรม โดยยังเป็นข้อมูลที่บริษัทประกาศเอง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/anyware-safeworld-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2025/02/apptronik-kitting-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-vulcan-teasr-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Creo-July-23-annoucement-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/articulated-robot-7th-axis-150x114.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system-300x145.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/08/vicone-sponsored-featured-image-august2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doe-four-lab-robotics-testbeds-selection-2026",
+      "storyKey": "doe-four-lab-robotics-testbeds-selection-2026",
+      "originalTitle": "DOE Announces Four National Laboratory-Led Selections to Advance Robotics and Automation for Autonomous Scientific Discovery",
+      "urls": [
+        "https://www.newswise.com/doescience/doe-announces-four-national-laboratory-led-selections-to-advance-robotics-and-automation-for-autonomous-scientific-discovery/?article_id=856192"
+      ],
+      "references": [
+        "https://www.newswise.com/doescience/doe-announces-four-national-laboratory-led-selections-to-advance-robotics-and-automation-for-autonomous-scientific-discovery/?article_id=856192"
+      ],
+      "publishedAt": "2026-10-08T21:45:00Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "โครงการนำโดย Argonne, Brookhaven, Oak Ridge และ SLAC จะพัฒนาการทดลองอัตโนมัติ โดยเงินสนับสนุนยังมีเงื่อนไขการเจรจาและงบประมาณ",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-WH9TSCN",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.newswise.com/assets/newTheme/img/logo-newSkin.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newswise.com/images/institutions/logos/Color%20seal-%20Blue%20lettering%20-%20Stacked%20vertical%20co-brand20260225170478.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newswise.com/images/institutions/logos/Color seal- Blue lettering - Stacked vertical co-brand20260225170478.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/twitter.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/email.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/sharethis.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.newswise.com/assets/new/img/rss-icon-logo.webp",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnalia-zutik-industrial-humanoid-research-2026",
+      "storyKey": "tecnalia-zutik-industrial-humanoid-research-2026",
+      "originalTitle": "La industria ante la próxima revolución de la robótica | Tecnalia",
+      "urls": [
+        "https://www.tecnalia.com/noticias/preparar-industria-proxima-revolucion-robotica"
+      ],
+      "references": [
+        "https://www.tecnalia.com/noticias/preparar-industria-proxima-revolucion-robotica",
+        "https://www.tecnalia.com/en/news/industry-faces-the-next-robotics-revolution"
+      ],
+      "publishedAt": "2026-10-07T08:22:32Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "TECNALIA นำเครือข่ายวิจัยหกองค์กร พัฒนาการเดิน การจับและการเชื่อม OT/IT โดยตั้งเป้าทดสอบระดับห้องแล็บ TRL 4",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-PNLF6DR",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.tecnalia.com/images/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/10/Ensayos-mecanicos-TETSUO_TECNALIA-480x360.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/10/Ensayos-mecanicos-TETSUO_TECNALIA-1024x768.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias-480x270.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Consumo_energetico_centros_datos_-CPD_Soria-480x320.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Consumo_energetico_centros_datos_-CPD_Soria-1024x683.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Irene-Mesa-Santander40-480x270.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Irene-Mesa-Santander40-1024x577.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Eneko-GAIA-gral-jueves-480x298.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Eneko-GAIA-gral-jueves-1024x635.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/PFLab-480x239.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/PFLab-1024x510.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.tecnalia.com/icons/logo-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2025/09/logo-brta-tecnalia-1024x569.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2020/10/logo-earto.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2023/03/logotipo-euskampus-tecnalia.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zipline-round-rock-delivery-zone-launch-2026",
+      "storyKey": "zipline-round-rock-delivery-zone-launch-2026",
+      "originalTitle": "Zipline launches drone delivery zone in Round Rock",
+      "urls": [
+        "https://communityimpact.com/round-rock/business/zipline-launches-drone-delivery-zone-in-round-rock/"
+      ],
+      "references": [
+        "https://communityimpact.com/round-rock/business/zipline-launches-drone-delivery-zone-in-round-rock/"
+      ],
+      "publishedAt": "2026-10-09T01:58:00Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "บริษัทสาธิตส่งของที่โรงเรียน Stony Point และกำหนดพื้นที่เริ่มต้นราวสามไมล์ โดยยังต้องตรวจว่าที่อยู่ของลูกค้าอยู่ในเขตบริการ",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-W6B2S9L",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=%2Fimg%2Fmap-promo-v4-mobile.png&w=1920&q=100",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=%2Fimg%2Fmap-promo-v4-desktop.png&w=1920&q=100",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=%2Fimg%2Flogo.png&w=1920&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=%2Fimg%2Flogo-dark.png&w=1920&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fauthors%2F86-c6327c69620e.jpg&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F10%2F08%2Fdd49c7fb654793ed82b2706cf349c55d9a85b1f7d9affa204c94a3b56505c370.jpg&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2024%2F03%2F27%2F302257.jpeg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F10%2F06%2F40b001e4ba933f5fc612149b286336bddab746449ee9902b248fa6327a6c6837.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F09%2F17%2Fb27fc90602e60fd66ea17560a5cdbca5af17c05e096a4a29cf015c42a4102e94.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fwpengine%2Fuploads%2F2018%2F06%2FWilco.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F10%2F08%2Fbeebc9697e7fa4d34a3a319dddfb47536bde9832d2cfda1d5991e7d0896750d4.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F10%2F06%2F9189a545f5181717da57a5e8b7292db92d90a62af16314072e15832a18bb3b36.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2023%2F10%2F23%2F279583.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F09%2F24%2F8badd26a12ddef1143b18d0db4665f91179a01e25bcc8f0a9357f39a0a6778f9.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F09%2F08%2F439696.jpg&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://communityimpact.com/_next/image/?url=%2Fimg%2Ficon-inverted.png&w=1200&q=75",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "elmo-secure-development-ml2-certification-2026",
+      "storyKey": "elmo-secure-development-ml2-certification-2026",
+      "originalTitle": "Elmo Motion Control Achieves IEC 62443-4-1 ML2 Cybersecurity Certification for Secure Product Development  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/07/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development/27218/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/07/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development/27218/",
+        "https://www.prnewswire.com/il/news-releases/elmo-motion-control-achieves-iec-62443-4-1-ml2-cybersecurity-certification-for-secure-product-development-302901039.html"
+      ],
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "TÜV SÜD รับรองแนวทางพัฒนาและดูแลผลิตภัณฑ์ของผู้ผลิตระบบควบคุมการเคลื่อนไหว ครอบคลุมการตรวจโค้ดและจัดการช่องโหว่",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/high-performance-servo-drives-for-localized-and-distributed-control-applications-from-servo2gocom.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scouts-vidullanka-first-solar-deployment-disclosure-2026",
+      "storyKey": "scouts-vidullanka-first-solar-deployment-disclosure-2026",
+      "originalTitle": "Scouts Deploys Autonomous Drone Monitoring at Vidullanka Solar Plants | Colombo Gazette",
+      "urls": [
+        "https://colombogazette.com/2026/10/09/scouts-deploys-autonomous-drone-monitoring-at-vidullanka-solar-plants"
+      ],
+      "references": [
+        "https://colombogazette.com/2026/10/09/scouts-deploys-autonomous-drone-monitoring-at-vidullanka-solar-plants",
+        "https://www.lankatalks.com/post/robotics-startup-scouts-and-vidullanka-launch-first-ever-drone-enhanced-security"
+      ],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "รายงานใหม่เปิดเผยการติดตั้งที่เสร็จในเดือนกันยายน ใช้กล้อง 4K และความร้อนช่วยทีมรักษาความปลอดภัยในสองโรงไฟฟ้าศรีลังกา",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fhome%2Fhero_logo.png&w=1080&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Ffb.png&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Finstar.png&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Fx.png&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Ftiktok.png&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Fyoutube.png&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2Faa%2F12%2Faa12aff5-1107-4b56-84af-21cee1731220%2Fcontent%2Fimages%2F2026%2F10%2Fscouts.webp&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Ffb.png&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Fpinterest.png&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Fx.png&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Flinkedin.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Femail.png&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fabout%2Fprint.png&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://colombogazette.com/_next/image?url=%2Fimages%2Fhome%2Fhero_logo.png&w=750&q=75",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robotx-xmind-robot-brain-launch-2026",
+      "storyKey": "robotx-xmind-robot-brain-launch-2026",
+      "originalTitle": "RobotX AI Launches Its First Robot Brain, Xmind, Ahead of TechCrunch Disrupt 2026",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/10/08/3377477/0/en/robotx-ai-launches-its-first-robot-brain-xmind-ahead-of-techcrunch-disrupt-2026.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/10/08/3377477/0/en/robotx-ai-launches-its-first-robot-brain-xmind-ahead-of-techcrunch-disrupt-2026.html"
+      ],
+      "publishedAt": "2026-10-08T14:23:09Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "บริษัทเตรียมสาธิตการใช้งานวันที่ 13–15 ตุลาคม แต่ยังไม่เปิดเผยเกณฑ์ทดสอบ ประสิทธิภาพหรือรายชื่อฮาร์ดแวร์ที่รองรับครบถ้วน",
+      "score": 14,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KTB664ZR",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KMH7P3LL",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/OWRjYmFkOTMtZjc0Ni00OWVmLWEyOTgtMTY0MDVhMWJiYTMzLTUwMDE2OTAxNi0yMDI2LTEwLTA4LWVu/tiny/RobotX-AI-Inc-.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/ea7ca402-6c07-4dc1-908e-bd11dc756e36?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/54f9255d-e424-4b3c-b24f-ca0ef135c607?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/f4746fa2-e259-4bec-94a9-dbc498890bc0?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/1fe81e26-c794-4497-9399-ac0f1c95b831?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/115659c3-dc4e-4d8e-9511-4073f021b70a?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.globenewswire.com/akam/13/pixel_7bc61952?a=dD05Y2ZkNmZiNTM0NWUwYjZlMjcwYWY2OTc0NWQ5NDU0NWNjMzdjM2Q4JmpzPW9mZg==",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kawasaki-cp110l-north-america-launch-plan-2026",
+      "storyKey": "kawasaki-cp110l-north-america-launch-plan-2026",
+      "originalTitle": "CP110L Palletizing Robot Launches at PACK EXPO 2026",
+      "urls": [
+        "https://kawasakirobotics.com/news/cp110l-palletizing-robot-pack-expo-2026/"
+      ],
+      "references": [
+        "https://kawasakirobotics.com/news/cp110l-palletizing-robot-pack-expo-2026/",
+        "https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20260216_4386"
+      ],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "หุ่นยนต์จัดพาเลตจะเปิดตัวในภูมิภาคที่ PACK EXPO โดยสเปกความเร็ว 2,200 กล่องต่อชั่วโมงมีเงื่อนไขน้ำหนักและระยะเคลื่อนที่",
+      "score": 19,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-NWZ5KZ9",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://kawasakirobotics.com/content/themes/krobot-theme/dist/images/common/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://kawasakirobotics.com/content/themes/krobot-theme/dist/images/common/icon_mail.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://kawasakirobotics.com/content/themes/krobot-theme/dist/images/common/icon_search.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://kawasakirobotics.com/content/themes/krobot-theme/dist/images/common/icon_lang.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnalia-autis-inspection-mask-validation-2026",
+      "storyKey": "tecnalia-autis-inspection-mask-validation-2026",
+      "originalTitle": "Visión artificial e IA para acelerar la inspección automática | Tecnalia",
+      "urls": [
+        "https://www.tecnalia.com/noticias/vision-artificial-ia-acelerar-inspeccion-automatica"
+      ],
+      "references": [
+        "https://www.tecnalia.com/noticias/vision-artificial-ia-acelerar-inspeccion-automatica",
+        "https://www.tecnalia.com/en/news/computer-vision-and-ai-to-accelerate-automated-inspection"
+      ],
+      "publishedAt": "2026-10-07T11:14:33Z",
+      "addedAt": "2026-10-09T06:09:58.387Z",
+      "runId": "2026-10-09",
+      "reason": "งานพัฒนาใช้ภาพมากกว่า 650 ภาพจากรถ 20 รุ่นและ 13 สายการผลิต เพื่อประเมินการปรับใช้ระบบตรวจผิวในโรงงานต่างกัน",
+      "score": 19,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-PNLF6DR",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.tecnalia.com/images/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/08/Vision-artificial_-inspeccion_carrocerias-480x270.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/10/Ensayos-mecanicos-TETSUO_TECNALIA-480x360.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/10/Ensayos-mecanicos-TETSUO_TECNALIA-1024x768.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/10/zutik-robots-humanoides-tecnalia.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Consumo_energetico_centros_datos_-CPD_Soria-480x320.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Consumo_energetico_centros_datos_-CPD_Soria-1024x683.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Irene-Mesa-Santander40-480x270.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Irene-Mesa-Santander40-1024x577.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Eneko-GAIA-gral-jueves-480x298.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/Eneko-GAIA-gral-jueves-1024x635.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/PFLab-480x239.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2026/09/PFLab-1024x510.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.tecnalia.com/icons/logo-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2025/09/logo-brta-tecnalia-1024x569.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2020/10/logo-earto.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms.tecnalia.com/uploads/2023/03/logotipo-euskampus-tecnalia.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -4222,6 +4989,23 @@
         "twelvelabs-pegasus16-egocentric-video-launch-2026",
         "wing-walmart-denver-seattle-expansion-plan-2026",
         "munson-blueflite-phase-two-medical-drone-pilot-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-09",
+      "batchHash": "5fa119b4cc360e20c436caf7aa67cc25a4d87b5e7f55e988b6bae38cf54f3240",
+      "preparedAt": "2026-10-09T06:09:58.387Z",
+      "articleIds": [
+        "aws-physical-ai-toolchain-launch-2026",
+        "helm-ai-70m-contracts-milestone-2026",
+        "doe-four-lab-robotics-testbeds-selection-2026",
+        "tecnalia-zutik-industrial-humanoid-research-2026",
+        "zipline-round-rock-delivery-zone-launch-2026",
+        "elmo-secure-development-ml2-certification-2026",
+        "scouts-vidullanka-first-solar-deployment-disclosure-2026",
+        "robotx-xmind-robot-brain-launch-2026",
+        "kawasaki-cp110l-north-america-launch-plan-2026",
+        "tecnalia-autis-inspection-mask-validation-2026"
       ]
     }
   ]
