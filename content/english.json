@@ -2747,5 +2747,385 @@
       }
     ],
     "videos": []
+  },
+  "ultra-series-a-50m-warehouse-expansion-2026": {
+    "title": "Ultra announces $50 million Series A to scale warehouse robots",
+    "summary": "The company disclosed $62 million in funding including earlier capital, with deployment and sustained operation at customer sites as its focus.",
+    "sections": [
+      {
+        "heading": "New round versus total funding",
+        "paragraphs": [
+          "Ultra announced $62 million in funding on October 9, including a $50 million Series A led by Framework Ventures. The total therefore should not be confused with the size of the Series A alone. The company says it spent two and a half years deploying robots with customers and learning from work on warehouse floors."
+        ]
+      },
+      {
+        "heading": "A workstation-focused product",
+        "paragraphs": [
+          "Operator, also called OP1, targets packing, sorting and kitting. Ultra describes a stationary machine using a standard 120-volt outlet, with a roughly five-by-five-foot footprint and a payload of up to ten pounds per arm. Its service approach makes installation, support and keeping machines useful at customer sites central parts of the product, alongside robot intelligence."
+        ]
+      },
+      {
+        "heading": "What remains undisclosed",
+        "paragraphs": [
+          "The announcement says robots are operating in American warehouses and names Manifest, Highline Commerce and ShipsaLot among early customers. It does not disclose fleet size, revenue or per-robot economics. The financing supports expansion, but does not establish that every warehouse task is automated or that all deployments produce the same returns."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HUMWfAaWsAAfkli?format=jpg&name=orig",
+        "alt": "Ultra funding announcement graphic",
+        "caption": "Ultra funding announcement graphic · Image: Ultra"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/Ultraroboticsco/status/2108565469682688330",
+        "title": "Ultra funding announcement video · Ultra",
+        "note": "Watch on X. The inspected page did not expose direct video URLs; each video in the announcement thread is retained as a source-post link."
+      },
+      {
+        "url": "https://x.com/Ultraroboticsco/status/2108565473323610432",
+        "title": "Video about learning from warehouse deployments · Ultra",
+        "note": "Watch on X. The inspected page did not expose direct video URLs; each video in the announcement thread is retained as a source-post link."
+      },
+      {
+        "url": "https://x.com/Ultraroboticsco/status/2108565477153005997",
+        "title": "Ultra customer-site robot video · Ultra",
+        "note": "Watch on X. The inspected page did not expose direct video URLs; each video in the announcement thread is retained as a source-post link."
+      }
+    ]
+  },
+  "mmi-series-d-125m-symani-expansion-2026": {
+    "title": "MMI raises $125 million to expand Symani robotic microsurgery",
+    "summary": "The Series D supports commercial expansion and clinical evidence generation, following approximately 50 installations and 3,500 reported procedures.",
+    "sections": [
+      {
+        "heading": "Financing commercial growth",
+        "paragraphs": [
+          "Medical Microinstruments announced a $125 million Series D on October 8. BioStar Capital led the round, joined by S3 Ventures, Angelini Ventures, an unnamed strategic corporate investor and existing investors. The funding supports expansion in the United States and other key markets, as well as clinical outcomes research."
+        ]
+      },
+      {
+        "heading": "Supporting delicate surgical work",
+        "paragraphs": [
+          "Symani supports open soft-tissue microsurgery through wristed microinstruments, tremor reduction and motion scaling. MMI reports approximately 50 installed systems and 3,500 complex procedures worldwide. Those adoption figures are company-reported totals, not comparative evidence that the platform outperforms other surgical methods."
+        ]
+      },
+      {
+        "heading": "Evidence for future applications",
+        "paragraphs": [
+          "MMI plans further clinical work, including REMIND, alongside instrument and digital capabilities. References to Alzheimer’s research describe evidence being developed, rather than an established treatment benefit. Adoption totals and outcomes for a specific clinical indication remain different measures and should be assessed separately."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "all3-second-generation-mantis-launch-2026": {
+    "title": "All3 unveils second-generation Mantis for construction tasks",
+    "summary": "The electric quadruped targets heavy site work, with a planned first live construction deployment in early 2027.",
+    "sections": [
+      {
+        "heading": "Built around construction constraints",
+        "paragraphs": [
+          "All3 unveiled its second-generation Mantis on October 7. The platform weighs 135 kilograms without its arm and is designed to carry up to 100 kilograms while walking. Demonstrations include stair climbing with a 45-kilogram arm attached. A 750-millimeter narrow stance supports doorway access, while a wider stance supports work."
+        ]
+      },
+      {
+        "heading": "Tools and control",
+        "paragraphs": [
+          "A six-axis arm reaches about 1.8 meters and accepts interchangeable tools. All3 reports completing eight of eight pilot holes in repeated fastening demonstrations; this is not a reliability statistic. Learned components support walking, planning and perception, while a deterministic 1,000-hertz loop governs force, damping and emergency stops."
+        ]
+      },
+      {
+        "heading": "Deployment and remaining work",
+        "paragraphs": [
+          "The first live construction project is planned for early 2027, with safety assessment still in progress. The catalogue of 68 operations describes design targets, not validated capabilities. Two batteries are hot-swappable; a four-meter telescopic arm and coordinated multi-robot operation remain under development."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.builder.io/api/v1/image/assets%2Fe96ab79f30b646f0b6cdd63215577438%2F41c70fa4a34442629bb8d4706864d448",
+        "alt": "New Mantis head and body",
+        "caption": "New Mantis head and body · Image: All3"
+      },
+      {
+        "url": "https://cdn.builder.io/api/v1/image/assets%2Fe96ab79f30b646f0b6cdd63215577438%2F1ec227113584405e92c820c0727ba009",
+        "alt": "Mantis legs and support structure",
+        "caption": "Mantis legs and support structure · Image: All3"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=YImqKWBI4cM",
+        "title": "Next-generation Mantis up close · All3"
+      }
+    ]
+  },
+  "ubtech-faw-volkswagen-logistics-agreement-2026": {
+    "title": "UBTECH and FAW-Volkswagen extend humanoid work into factory logistics",
+    "summary": "The agreement covers joint development, testing and demonstration scenarios, building on earlier quality-inspection training in Qingdao.",
+    "sections": [
+      {
+        "heading": "A broader agreement",
+        "paragraphs": [
+          "UBTECH announced an agreement with FAW-Volkswagen on October 8 to develop and test embodied robots for logistics and establish demonstration scenarios. The new development is the formal expansion in scope. The relationship began in 2024, so earlier trials should not be presented as newly launched deployments."
+        ]
+      },
+      {
+        "heading": "Building on inspection work",
+        "paragraphs": [
+          "Walker S Lite previously trained on vehicle quality inspection at the Qingdao plant, integrating with factory automation. Logistics extends the focus toward material handling. UBTECH describes a stack spanning decision-making, motion control, robot hardware and multi-robot coordination, with foundation, world and action models supporting perception and behavior."
+        ]
+      },
+      {
+        "heading": "Operational results are still needed",
+        "paragraphs": [
+          "The agreement reports no robot quantity, contract value, complete rollout schedule or task-success rate. Demonstration scenarios are a step toward evaluation, rather than evidence of humanoid deployment throughout every FAW-Volkswagen factory. The next useful evidence will concern performance within actual material flows."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/ubtech_faw_vw_b020d86235.png",
+        "alt": "UBTECH humanoid in the automotive-factory article image",
+        "caption": "UBTECH humanoid in the automotive-factory article image · Image: UBTECH / Pandaily"
+      }
+    ],
+    "videos": []
+  },
+  "elsa-booster-japan-distribution-agreement-2026": {
+    "title": "ELSA Japan adds Booster K1 and T2, targeting November shipments",
+    "summary": "A Japanese distribution agreement brings humanoid research platforms alongside the company’s existing computing products.",
+    "sections": [
+      {
+        "heading": "Japanese distribution begins",
+        "paragraphs": [
+          "ELSA Japan announced a domestic distribution agreement with Booster Robotics on October 8, adding K1 and T2 for research, education and embodied-AI experiments. Shipments are planned for November 2026, with pricing available from sales. The news concerns a distribution channel, rather than the robots’ first global introduction."
+        ]
+      },
+      {
+        "heading": "Two platform levels",
+        "paragraphs": [
+          "The distributor lists K1 at approximately 95 centimeters and 19.5 kilograms, with 22 degrees of freedom. T2 is approximately 140 centimeters tall and 42 kilograms, with a stated dual-arm payload of up to ten kilograms. T2 offers a Jetson Thor T5000 option, while its degrees of freedom vary with the selected hand configuration."
+        ]
+      },
+      {
+        "heading": "Configuration matters",
+        "paragraphs": [
+          "Each platform has four variants differing in computing, battery or end-effector equipment. ELSA lists two hours of continuous walking for T2, without publishing equivalent results for every task. These are supplier specifications; researchers need to confirm the chosen configuration when designing experiments or evaluating deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.elsa-jp.co.jp/wp-content/uploads/2026/10/20261006_Booster_Robotics_01.jpg",
+        "alt": "Booster K1 and T2 in task examples",
+        "caption": "Booster K1 and T2 in task examples · Image: ELSA Japan / Booster Robotics"
+      },
+      {
+        "url": "https://www.elsa-jp.co.jp/wp-content/uploads/2026/10/20261006_Booster_Robotics_02.jpg",
+        "alt": "Booster K1 in different poses",
+        "caption": "Booster K1 in different poses · Image: ELSA Japan / Booster Robotics"
+      },
+      {
+        "url": "https://www.elsa-jp.co.jp/wp-content/uploads/2026/10/20261006_Booster_Robotics_03.jpg",
+        "alt": "Booster T2 in different poses",
+        "caption": "Booster T2 in different poses · Image: ELSA Japan / Booster Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "rlwrld-tmip-otemachi-drink-trial-plan-2026": {
+    "title": "RLWRLD plans a public drink-handover and container-collection trial",
+    "summary": "TMIP and Mitsubishi Estate will support an October 15–16 trial in Otemachi to examine operation and public acceptance around people.",
+    "sections": [
+      {
+        "heading": "Two days in an urban setting",
+        "paragraphs": [
+          "RLWRLD, Mitsubishi Estate and TMIP announced a trial for October 15–16 in Tokyo’s Otemachi Nakadori. Robots will hand drinks to participants and retrieve empty containers from designated positions on a table. Announced on October 8, the project is a planned trial, not a completed performance evaluation."
+        ]
+      },
+      {
+        "heading": "Technology and site responsibilities",
+        "paragraphs": [
+          "RLWRLD provides robots running its RLDX-1 model, validates motions beforehand and handles on-site operation, monitoring and safety. Mitsubishi Estate coordinates the location and public access, while TMIP designs and manages the project. The partners aim to study operational feasibility and social acceptance in a shared human–robot environment."
+        ]
+      },
+      {
+        "heading": "Results remain to be established",
+        "paragraphs": [
+          "The demonstration takes place during Wellness Weeks but only on the two specified days. Content may change following preliminary checks, weather or equipment conditions. No quantitative outcome is available yet. Collecting containers from designated positions does not demonstrate unrestricted cleanup capability or commercial readiness."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/145849/31/145849-31-72ed8dfd4fd5d04f066d2fe2f8879e8c-1920x1080.png",
+        "alt": "TMIP and RLWRLD project announcement",
+        "caption": "TMIP and RLWRLD project announcement · Image: TMIP / RLWRLD / Mitsubishi Estate"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/145849/31/145849-31-318528a49925c17c9701cf0b26f22987-602x312.png",
+        "alt": "Robot in the drink-handover example",
+        "caption": "Robot in the drink-handover example · Image: TMIP / RLWRLD / Mitsubishi Estate"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/145849/31/145849-31-52f734a87ace240d3dc0833729811328-602x289.png",
+        "alt": "Robot in the container-handling example",
+        "caption": "Robot in the container-handling example · Image: TMIP / RLWRLD / Mitsubishi Estate"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/145849/31/145849-31-764b84251a3daf1247e892bcf3a04802-1280x720.jpg",
+        "alt": "Wellness Weeks event hosting the two-day trial",
+        "caption": "Wellness Weeks event hosting the two-day trial · Image: TMIP / RLWRLD / Mitsubishi Estate"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/145849/31/145849-31-2293f3bec47b7e3882420c4fd7ab6a5a-1023x880.png",
+        "alt": "Illustration of the Marunouchi workplace initiative",
+        "caption": "Illustration of the Marunouchi workplace initiative · Image: TMIP / RLWRLD / Mitsubishi Estate"
+      }
+    ],
+    "videos": []
+  },
+  "kodiak-charger-dallas-laredo-service-disclosure-2026": {
+    "title": "Kodiak and Charger disclose Dallas–Laredo freight service with safety drivers",
+    "summary": "The 435-mile route carries refrigerated and dry freight, with driverless operation contingent on completion of the safety case.",
+    "sections": [
+      {
+        "heading": "A newly disclosed freight lane",
+        "paragraphs": [
+          "Kodiak AI and Charger USA announced their collaboration on October 8. Trucks fitted with the Kodiak Driver carry refrigerated and dry freight over a 435-mile route between Dallas and Laredo terminals. The companies say the first delivery occurred on September 8, so the announcement discloses an existing service rather than an October start date."
+        ]
+      },
+      {
+        "heading": "Safety drivers remain on board",
+        "paragraphs": [
+          "Current operations use a safety driver behind the wheel. The partners intend to transition to driverless service after Kodiak completes its safety case: an evidence-backed argument for safe operation within a defined domain. Under Driver-as-a-Service, customers own and operate trucks equipped with Kodiak’s technology."
+        ]
+      },
+      {
+        "heading": "Readiness is not a driving success rate",
+        "paragraphs": [
+          "Kodiak reported 96% long-haul readiness at September’s end. That metric measures progress on safety-case claims and evidence, not a 96% driving success rate. Its year-end 2026 long-haul driverless target and potential expansion with Charger remain forward-looking plans."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/cc9d4f4e-10d7-42f1-8539-f070ef1c661f",
+        "alt": "Charger truck in the Kodiak collaboration announcement",
+        "caption": "Charger truck in the Kodiak collaboration announcement · Image: Kodiak AI / Charger USA"
+      }
+    ],
+    "videos": []
+  },
+  "arrive-modovolo-drone-delivery-partnership-2026": {
+    "title": "Arrive AI and Modovolo plan automated drone-to-station deliveries",
+    "summary": "The partners will integrate Lift drones with Arrive Point stations, progressing through development and testing before proposed food deliveries.",
+    "sections": [
+      {
+        "heading": "Automating the final handoff",
+        "paragraphs": [
+          "Arrive AI announced a partnership with Modovolo on October 9 to develop delivery into secure, climate-assisted Arrive Point stations. The aim is to eliminate a person waiting at the destination or a parcel left on a doorstep. This is a joint development programme, rather than an announcement of an already operating delivery network."
+        ]
+      },
+      {
+        "heading": "Aircraft, station and software",
+        "paragraphs": [
+          "Modovolo’s Lift platform combines modular payload provisions with RTK localization. Arrive Point and Arrive OS support the goods exchange. Modovolo says work starts with a winch prototype to lower parcels into the station. Precise handoff and coordination between aircraft and ground infrastructure are central integration tasks."
+        ]
+      },
+      {
+        "heading": "Testing precedes customer service",
+        "paragraphs": [
+          "Integration and headquarters testing will support staff training and operational simulation. Successful tests and required approvals would precede proposed food deliveries in a designated Fishers, Indiana area. The announcement gives no launch date, fleet count or integrated-system payload, so it should not be read as generally available customer service."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.nwe.io/files/x/23/9a/d229f6ad7fcd9d0a9c9c9bb9ab32.jpg",
+        "alt": "Modovolo drone pictured in the announcement",
+        "caption": "Modovolo drone pictured in the announcement · Image: Arrive AI / Modovolo"
+      },
+      {
+        "url": "https://cdn.nwe.io/files/x/0b/21/dde87ac90d4d153c6117d5feb7a4.jpg",
+        "alt": "Arrive Point goods-exchange station",
+        "caption": "Arrive Point goods-exchange station · Image: Arrive AI / Modovolo"
+      }
+    ],
+    "videos": []
+  },
+  "arrive-ap3-plus-edge-vision-launch-2026": {
+    "title": "Arrive AI launches AP3 Plus with on-device package vision",
+    "summary": "The delivery endpoint uses Jetson Orin Nano for local package recognition and storage, and the company says it is ready to ship.",
+    "sections": [
+      {
+        "heading": "A new delivery endpoint",
+        "paragraphs": [
+          "Arrive AI introduced AP3 Plus on October 7 and said it was available to ship. The Arrive Point endpoint supports asynchronous parcel exchange by drones, robots, autonomous vehicles or couriers. This product launch is distinct from the later Modovolo partnership, which concerns integrating a particular drone platform."
+        ]
+      },
+      {
+        "heading": "Recognizing packages and events",
+        "paragraphs": [
+          "An NVIDIA Jetson Orin Nano runs vision models to detect package presence, orientation and status, supporting chain-of-custody tracking. Arrive OS handles events such as robot state and door opening or closing. Processing and storage stay on the unit, with optional cloud access and backup according to customer requirements."
+        ]
+      },
+      {
+        "heading": "Integration still matters",
+        "paragraphs": [
+          "The unit retains its size, connects over cellular or Wi-Fi and uses standard 120-volt power. Arrive says a robot or drone must be able to interface automatically with the opening. Compatibility therefore does not imply zero integration work. The release provides no quantified vision accuracy or handoff-time benchmark."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.nwe.io/files/x/68/1c/649c372efcd3e31e4541edf72aff.jpg",
+        "alt": "AP3 Plus package recognition and data features",
+        "caption": "AP3 Plus package recognition and data features · Image: Arrive AI"
+      }
+    ],
+    "videos": []
+  },
+  "pony-uber-london-gen7-testing-plan-2026": {
+    "title": "Pony.ai and Uber prepare Gen-7 robotaxi testing in London",
+    "summary": "The UK expansion is at the road-testing preparation stage, with fleet arrangements and passenger-service timing still undisclosed.",
+    "sections": [
+      {
+        "heading": "Preparing a new city trial",
+        "paragraphs": [
+          "Pony.ai announced on October 8 that it was working with Uber to bring Gen-7 robotaxis to London, with testing expected in the coming weeks. It said it would work with local officials and partners as plans progress. This is preparation for trials, not confirmation of an open passenger service."
+        ]
+      },
+      {
+        "heading": "Building on a European partnership",
+        "paragraphs": [
+          "The London plan follows the partners’ service in Zagreb, Croatia, where Pony.ai supplies autonomous-driving technology and Uber connects rides to its network. Ownership and operating arrangements for the London fleet have not been disclosed. The earlier city’s structure should not automatically be assumed to apply unchanged."
+        ]
+      },
+      {
+        "heading": "Details still to come",
+        "paragraphs": [
+          "The announcement does not set a commercial-service date, fleet size, service area or London test safety-operator arrangements. Real-road results and operational details are still needed before drawing conclusions about when driverless service could begin or how extensively it could operate."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://evmagz.com/wp-content/uploads/2026/03/Uber-Pony.jpg",
+        "alt": "Article vehicle image; it does not establish that London operations have begun",
+        "caption": "Article vehicle image; it does not establish that London operations have begun · Image: Uber / Pony.ai"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HUFlYc7bYAAB8MZ?format=jpg&name=orig",
+        "alt": "Graphic announcing the planned London expansion",
+        "caption": "Graphic announcing the planned London expansion · Image: Uber / Pony.ai"
+      }
+    ],
+    "videos": []
   }
 }
