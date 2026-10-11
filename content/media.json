@@ -1491,5 +1491,269 @@
       }
     ],
     "videos": []
+  },
+  "cyngn-nine-month-fleet-metrics-2026": {
+    "images": [
+      {
+        "url": "https://www.cyngn.com/hubfs/press-releases/CYNGN-Fleet-Data.jpg%3Fp=original.jpeg",
+        "alt": "ข้อมูลการใช้งานกองรถอัตโนมัติของ Cyngn",
+        "caption": "ข้อมูลการใช้งานกองรถอัตโนมัติของ Cyngn · ภาพ: Cyngn"
+      }
+    ],
+    "videos": []
+  },
+  "uk-eight-robotics-adoption-hubs-2026": {
+    "images": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ac8db9e71dbe79328fd4240/s960_Copy_of_Robotics_announcement_graphic__960_x_640_px___1___1_.png",
+        "alt": "ภาพประกอบประกาศสนับสนุนหุ่นยนต์ของรัฐบาลสหราชอาณาจักร",
+        "caption": "ภาพประกอบประกาศสนับสนุนหุ่นยนต์ของรัฐบาลสหราชอาณาจักร · ภาพ: GOV.UK / Crown copyright"
+      }
+    ],
+    "videos": []
+  },
+  "dronevolt-hercules100-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "robotera-vpp2-video-weights-release-2026": {
+    "images": [
+      {
+        "url": "https://github.com/roboterax/video-prediction-policy-2/raw/main/assets/teaser.png",
+        "alt": "ภาพรวมการฝึกและทำนายของ VPP2",
+        "caption": "ภาพรวมการฝึกและทำนายของ VPP2 · ภาพ: VPP2 research team"
+      }
+    ],
+    "videos": []
+  },
+  "microagi-100m-run-rate-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+        "alt": "กราฟรายได้เทียบปีที่ Microagi รายงานเอง ยังไม่ตรวจสอบอิสระ",
+        "caption": "กราฟรายได้เทียบปีที่ Microagi รายงานเอง ยังไม่ตรวจสอบอิสระ · ภาพ: Microagi / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/bercankilic/status/2108587068775432635",
+        "title": "คลิปประกอบประกาศของซีอีโอ Microagi",
+        "note": "เปิดชมบน X ต้นฉบับ เนื่องจากไม่ใช้ตัวเล่นภายนอกที่ต้องลงชื่อเข้าใช้"
+      }
+    ]
+  },
+  "westlake-wr1-cooperative-clothes-demo-2026": {
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/westlake_wr1_81c56f33c5.png",
+        "alt": "ภาพประกอบ WR1 ในรายงานการสาธิตพับผ้า",
+        "caption": "ภาพประกอบ WR1 ในรายงานการสาธิตพับผ้า · ภาพ: Westlake Robotics / Pandaily"
+      },
+      {
+        "url": "https://q3.itc.cn/q_70/images03/20261009/ad7fcb56587f4d0890e553ac6eb35e3e.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 1",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 1 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q9.itc.cn/q_70/images03/20261009/18cb832a8a7544a4913a8b8585e4b72b.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 2",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 2 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q1.itc.cn/q_70/images03/20261009/87f2fc84945f4281b88e3ea69050b1e9.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 3",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 3 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q4.itc.cn/q_70/images03/20261009/f8453e74a5c348e49c3b012cf619c8c0.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 4",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 4 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q5.itc.cn/q_70/images03/20261009/669780bd4496424ca8ccdc97cc30564e.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 5",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 5 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q6.itc.cn/q_70/images03/20261009/518143ee542a4cb2b17e5909117ad77e.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 6",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 6 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q5.itc.cn/q_70/images03/20261009/faab4cffdf104560bcb115a165b3c83d.png",
+        "alt": "แผนภาพสถาปัตยกรรมระบบ WR1",
+        "caption": "แผนภาพสถาปัตยกรรมระบบ WR1 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q4.itc.cn/q_70/images03/20261009/ff9677f8758b43f5b64092879d8abb90.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 8",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 8 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q3.itc.cn/q_70/images03/20261009/0557ad00ef08419ea7dd2799e4811d02.jpeg",
+        "alt": "ภาพประกอบข้อมูลบริษัท Westlake Robotics จากประกาศต้นทาง",
+        "caption": "ภาพประกอบข้อมูลบริษัท Westlake Robotics จากประกาศต้นทาง · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      },
+      {
+        "url": "https://q1.itc.cn/q_70/images03/20261009/a33e38d664cf4ce6ac3b66fa3d59d56f.gif",
+        "alt": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 10",
+        "caption": "ภาพเคลื่อนไหวการสาธิต WR1 จากประกาศต้นทาง ลำดับ 10 · ภาพ: Westlake Robotics / 机器之心 ผ่าน Sina Finance และ Sohu"
+      }
+    ],
+    "videos": []
+  },
+  "globalfoundries-fdx-fusion-roadmap-2026": {
+    "images": [],
+    "videos": []
+  },
+  "amgeneral-xtend-ugv-integration-ausa-2026": {
+    "images": [
+      {
+        "url": "https://www.amgeneral.com/wp-content/uploads/2026/10/JLTV-A2-scaled.jpg",
+        "alt": "JLTV A2 ซึ่งอยู่ในประกาศงานแสดงชุดเดียวกัน ไม่ใช่ภาพ UGV–XTEND",
+        "caption": "JLTV A2 ซึ่งอยู่ในประกาศงานแสดงชุดเดียวกัน ไม่ใช่ภาพ UGV–XTEND · ภาพ: AM General"
+      },
+      {
+        "url": "https://www.amgeneral.com/wp-content/uploads/2026/10/Next-Gen-Humvee.png",
+        "alt": "HUMVEE รุ่นปรับปรุงในประกาศของ AM General",
+        "caption": "HUMVEE รุ่นปรับปรุงในประกาศของ AM General · ภาพ: AM General"
+      }
+    ],
+    "videos": []
+  },
+  "reflex-visually-grounded-catching-2026": {
+    "images": [
+      {
+        "url": "https://toberj.github.io/reflex/static/images/method.png?v=1008n",
+        "alt": "กระบวนการฝึก Reflex สามช่วง",
+        "caption": "กระบวนการฝึก Reflex สามช่วง · ภาพ: Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/images/fig_lateral_offset.png?v=1008n",
+        "alt": "กราฟความสำเร็จในแบบจำลองเมื่อกล่องลงห่างไปด้านข้าง",
+        "caption": "กราฟความสำเร็จในแบบจำลองเมื่อกล่องลงห่างไปด้านข้าง · ภาพ: Reflex research team"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/teaser.mp4?v=1009t",
+        "title": "ภาพรวมการทดลอง Reflex · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/teaser_poster.jpg?v=1009t"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_2m.mp4?v=1008n",
+        "title": "รับกล่องจากระยะ 2.5 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_2m.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_5m.mp4?v=1008n",
+        "title": "รับกล่องจากระยะ 5 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_5m.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_7m.mp4?v=1008n",
+        "title": "รับกล่องจากระยะ 7 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_7m.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_2m_ego.mp4?v=1008n",
+        "title": "มุมกล้องบนตัว ระยะ 2.5 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_2m_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_5m_ego.mp4?v=1008n",
+        "title": "มุมกล้องบนตัว ระยะ 5 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_5m_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_7m_ego.mp4?v=1008n",
+        "title": "มุมกล้องบนตัว ระยะ 7 เมตร · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_dist_7m_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_small.mp4?v=1008n",
+        "title": "กล่องเล็ก 22×21×15 ซม. · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_small.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_regular.mp4?v=1008n",
+        "title": "กล่องปกติ 31×26×21 ซม. · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_regular.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_large.mp4?v=1008n",
+        "title": "กล่องใหญ่ 46×41×32 ซม. · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_large.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_small_ego.mp4?v=1008n",
+        "title": "กล่องเล็กจากกล้องบนตัว · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_small_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_regular_ego.mp4?v=1008n",
+        "title": "กล่องปกติจากกล้องบนตัว · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_regular_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_large_ego.mp4?v=1008n",
+        "title": "กล่องใหญ่จากกล้องบนตัว · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_size_large_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/payload_triptych.mp4?v=1008n",
+        "title": "ทดลองน้ำหนัก 0.5, 1 และ 2 กก. · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/payload_triptych.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/offset_twoview.mp4?v=1008n",
+        "title": "ก้าวรับกล่องที่โยนเยื้องด้านข้าง · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/offset_twoview.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_offset_a_ego.mp4?v=1008n",
+        "title": "การโยนเยื้องจากกล้องบนตัว · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_offset_a_ego.jpg?v=1008n"
+      },
+      {
+        "kind": "video",
+        "url": "https://toberj.github.io/reflex/static/videos/pip_chain.mp4?v=1008n",
+        "title": "รับกล่อง เดินถือ และส่งต่อ · ทีมวิจัย Reflex",
+        "poster": "https://toberj.github.io/reflex/static/images/posters/pip_chain.jpg?v=1008n"
+      },
+      {
+        "kind": "link",
+        "url": "https://toberj.github.io/reflex/",
+        "title": "เดโมสามมิติ เล่นซ้ำการรับสำเร็จที่บันทึกไว้",
+        "note": "เปิดเดโมบนเว็บไซต์โครงการ นี่คือภาพจำลองที่บันทึกไว้ ไม่ใช่การควบคุมหุ่นยนต์สด"
+      }
+    ]
+  },
+  "danu-hero-late-seed-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg",
+        "alt": "ภาพประกอบระบบคัดขยะของ Danu ในบทความต้นทาง",
+        "caption": "ภาพประกอบระบบคัดขยะของ Danu ในบทความต้นทาง · ภาพ: Danu Robotics / TechCrunch"
+      }
+    ],
+    "videos": []
   }
 }

@@ -798,5 +798,115 @@
     "url": "https://evmagz.com/uber-and-pony-ai-plan-robotaxi-testing-in-london/",
     "image": "https://evmagz.com/wp-content/uploads/2026/03/Uber-Pony.jpg",
     "addedAt": "2026-10-09T22:10:05.245Z"
+  },
+  {
+    "id": "cyngn-nine-month-fleet-metrics-2026",
+    "category": "industrial-robots",
+    "title": "Cyngn เผยกองรถอัตโนมัติทำงานเกิน 11,600 ภารกิจในเก้าเดือน",
+    "summary": "บริษัทเผยยอดระยะทางเกิน 3,000 กิโลเมตร พร้อมแนวทางเริ่มใช้รถลากจากงานเส้นทางเดียว",
+    "source": "Cyngn",
+    "date": "2026-10-09",
+    "url": "https://www.cyngn.com/pr/cyngn-autonomous-fleet-expands-operational-footprint-across-industrial-facilitie",
+    "image": "https://www.cyngn.com/hubfs/press-releases/CYNGN-Fleet-Data.jpg%3Fp=original.jpeg",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "uk-eight-robotics-adoption-hubs-2026",
+    "category": "industry-news",
+    "title": "สหราชอาณาจักรหนุนศูนย์ใช้หุ่นยนต์แปดแห่ง ด้วยงบ 40 ล้านปอนด์",
+    "summary": "ศูนย์ให้คำแนะนำ ทดลองเทคโนโลยี และช่วยเตรียมการลงทุน ครอบคลุมเกษตร สุขภาพ และอุตสาหกรรม",
+    "source": "GOV.UK",
+    "date": "2026-10-09",
+    "url": "https://www.gov.uk/government/news/brits-to-benefit-from-faster-recovery-from-surgeries-and-better-harvests-through-new-backing-for-robotics",
+    "image": "https://assets.publishing.service.gov.uk/media/6ac8db9e71dbe79328fd4240/s960_Copy_of_Robotics_announcement_graphic__960_x_640_px___1___1_.png",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "dronevolt-hercules100-launch-2026",
+    "category": "drones",
+    "title": "Drone Volt เปิด HERCULES 100 โดรนขนส่งบรรทุกสูงสุด 100 กิโลกรัม",
+    "summary": "ผู้ผลิตระบุเวลาบินสูงสุด 30 นาที พร้อมอุปกรณ์ขนส่งแบบสลิงและกว้าน",
+    "source": "Drone Volt / WebDisclosure",
+    "date": "2026-10-09",
+    "url": "https://www.webdisclosure.com/press-release/drone-volt-epa-aldrv-drone-volt-is-stepping-up-its-game-and-launching-the-hercules-100-its-new-cargo-drone-100-kg-payload-for-30-minutes-ZJwQURxQsrS",
+    "image": "",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "robotera-vpp2-video-weights-release-2026",
+    "category": "research",
+    "title": "Robotera เปิดน้ำหนักโมเดลวิดีโอ VPP2 ให้ทดลองทำนายก่อนลงมือ",
+    "summary": "ปล่อย checkpoint สองระยะ พร้อมแนวทางทดลองและชุดสำหรับประเมินนโยบายหุ่นยนต์",
+    "source": "Robotera / GitHub",
+    "date": "2026-10-10",
+    "url": "https://github.com/roboterax/video-prediction-policy-2",
+    "image": "https://github.com/roboterax/video-prediction-policy-2/raw/main/assets/teaser.png",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "microagi-100m-run-rate-disclosure-2026",
+    "category": "industry-news",
+    "title": "Microagi รายงานอัตรารายได้เทียบปี 100 ล้านดอลลาร์ หลังเปิด Shift หกเดือน",
+    "summary": "ตัวเลขเป็นคำกล่าวของซีอีโอ ยังไม่มีรายละเอียดวิธีคำนวณหรือสัดส่วนรายได้จากหุ่นยนต์",
+    "source": "Humanoids Daily",
+    "date": "2026-10-09",
+    "url": "https://www.humanoidsdaily.com/news/microagi-100-million-revenue-run-rate-six-months",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "westlake-wr1-cooperative-clothes-demo-2026",
+    "category": "humanoids",
+    "title": "Westlake สาธิต WR1 ให้หุ่นยนต์สองตัวร่วมกันพับกางเกง",
+    "summary": "วิดีโอชุดใหม่แสดงงานผ้าร่วมกันและงานบ้านต่อเนื่อง ยังไม่เปิดผลทดสอบความสำเร็จระยะยาว",
+    "source": "Pandaily",
+    "date": "2026-10-09",
+    "url": "https://pandaily.com/westlake-robotics-wr1-humanoid-general-brain-dexterous-hand-clothes-folding",
+    "image": "https://cms-image.pandaily.com/1/westlake_wr1_81c56f33c5.png",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "globalfoundries-fdx-fusion-roadmap-2026",
+    "category": "ai-automation",
+    "title": "GlobalFoundries เผย FDX Fusion แผนชิปสำหรับหุ่นยนต์และ Physical AI",
+    "summary": "ตั้งเป้าทดสอบชิปปี 2027 และผลิตปี 2028 โดยรวมการรับรู้ ประมวลผล และเชื่อมต่อ",
+    "source": "GlobalFoundries",
+    "date": "2026-10-09",
+    "url": "https://gf.com/news-and-events/news/gf-unveils-roadmap-to-deliver-worlds-most-advanced-platform-for-physical-ai/",
+    "image": "",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "amgeneral-xtend-ugv-integration-ausa-2026",
+    "category": "drones",
+    "title": "AM General เตรียมแสดงรถไร้คนขับร่วมกับระบบโดรน XTEND",
+    "summary": "ประกาศการผสานหุ่นยนต์ภาคพื้นกับจุดปล่อยโดรนเคลื่อนที่สำหรับงาน AUSA",
+    "source": "AM General",
+    "date": "2026-10-09",
+    "url": "https://www.amgeneral.com/am-general-building-a-strong-foundation-at-ausa-annual-meeting-2026/",
+    "image": "https://www.amgeneral.com/wp-content/uploads/2026/10/JLTV-A2-scaled.jpg",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "reflex-visually-grounded-catching-2026",
+    "category": "research",
+    "title": "Reflex ให้หุ่นยนต์ G1 ใช้กล้องบนตัวรับกล่องที่คนโยน",
+    "summary": "งานวิจัยเชื่อมการมองเห็นกับการก้าวและขยับทั้งร่างกาย โดยแยกผลจำลองจากผลเครื่องจริง",
+    "source": "Reflex research team",
+    "date": "2026-10-09",
+    "url": "https://toberj.github.io/reflex/",
+    "image": "https://toberj.github.io/reflex/static/images/method.png?v=1008n",
+    "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "danu-hero-late-seed-disclosure-2026",
+    "category": "industrial-robots",
+    "title": "Danu ได้ทุนหนุนหุ่นยนต์คัดขยะ พร้อมแนวทางติดตั้งในสายพานเดิม",
+    "summary": "TechCrunch รายงาน Danu ระดมทุน 5 ล้านดอลลาร์",
+    "source": "TechCrunch / Danu Robotics",
+    "date": "2026-10-09",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg",
+    "addedAt": "2026-10-11T22:14:25.804Z"
   }
 ]

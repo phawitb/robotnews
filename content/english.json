@@ -3127,5 +3127,453 @@
       }
     ],
     "videos": []
+  },
+  "cyngn-nine-month-fleet-metrics-2026": {
+    "title": "Cyngn reports over 11,600 autonomous missions in nine months",
+    "summary": "The company reports more than 3,000 kilometres across customer operations.",
+    "sections": [
+      {
+        "heading": "A new reporting period",
+        "paragraphs": [
+          "Cyngn reports more than 11,600 missions and 3,000 kilometres during the first nine months of 2026. September marked its highest monthly activity."
+        ]
+      },
+      {
+        "heading": "Starting with one route",
+        "paragraphs": [
+          "DriveMod Tuggers move materials between workstations on defined routes. EasyLaunch starts with one vehicle and route for a monthly payment; Cyngn Insight manages fleets."
+        ]
+      },
+      {
+        "heading": "Limits of the figures",
+        "paragraphs": [
+          "These company-reported figures lack fleet size and detailed customer breakdowns. They therefore cannot establish per-vehicle productivity or a return on investment for every facility."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.cyngn.com/hubfs/press-releases/CYNGN-Fleet-Data.jpg%3Fp=original.jpeg",
+        "alt": "Cyngn autonomous fleet activity graphic",
+        "caption": "Cyngn autonomous fleet activity graphic · Credit: Cyngn"
+      }
+    ],
+    "videos": []
+  },
+  "uk-eight-robotics-adoption-hubs-2026": {
+    "title": "UK backs eight robotics adoption hubs with £40 million",
+    "summary": "The hubs offer advice, demonstrations and investment preparation across multiple sectors.",
+    "sections": [
+      {
+        "heading": "Support before adoption",
+        "paragraphs": [
+          "The UK government announced £40 million for eight Robotics Adoption Hubs, helping businesses and public services identify suitable applications and practical adoption steps."
+        ]
+      },
+      {
+        "heading": "Testing before investment",
+        "paragraphs": [
+          "Coverage includes SHARP surgical robotics, HARVEST agri-food, waste, manufacturing and public spaces. Services include independent guidance, demonstrations and feasibility assessments."
+        ]
+      },
+      {
+        "heading": "Preparing people and systems",
+        "paragraphs": [
+          "Hubs will connect users with suppliers, integrators and finance providers. Productivity and patient-recovery benefits remain programme objectives rather than outcomes demonstrated by this announcement."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6ac8db9e71dbe79328fd4240/s960_Copy_of_Robotics_announcement_graphic__960_x_640_px___1___1_.png",
+        "alt": "UK government robotics support announcement graphic",
+        "caption": "UK government robotics support announcement graphic · Credit: GOV.UK / Crown copyright"
+      }
+    ],
+    "videos": []
+  },
+  "dronevolt-hercules100-launch-2026": {
+    "title": "Drone Volt launches HERCULES 100 cargo drone",
+    "summary": "The manufacturer claims up to 100 kilograms of payload and 30 minutes of flight.",
+    "sections": [
+      {
+        "heading": "A Bordeaux unveiling",
+        "paragraphs": [
+          "Drone Volt announced a flight unveiling at the October 9 UAV Show. The eight-rotor platform has a 197-kilogram maximum takeoff weight and folds for pickup-truck transport."
+        ]
+      },
+      {
+        "heading": "Cargo options",
+        "paragraphs": [
+          "The claimed 30 minutes with 100 kilograms depends on weather and operating conditions. Options include an 80-kilogram winch and an automatic hook with a 30-metre sling."
+        ]
+      },
+      {
+        "heading": "Operational readiness",
+        "paragraphs": [
+          "Proposed uses include remote-site supplies and emergency logistics. Operational concepts and risk assessments are still being prepared for authorization; the launch does not authorize unrestricted flights."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "robotera-vpp2-video-weights-release-2026": {
+    "title": "Robotera releases VPP2 video-model weights",
+    "summary": "Two video checkpoints are available alongside robot-policy evaluation resources.",
+    "sections": [
+      {
+        "heading": "Newly available weights",
+        "paragraphs": [
+          "The October 10 update releases Stage-1, 49-frame and Stage-2, 17-frame video checkpoints through Hugging Face and ModelScope, following the October 8 benchmark announcement."
+        ]
+      },
+      {
+        "heading": "Connecting prediction and action",
+        "paragraphs": [
+          "VPP2 combines event prediction, visual planning and action learning. The repository provides image-and-instruction examples plus policy adaptation and evaluation guides for RoboDojo and LIBERO."
+        ]
+      },
+      {
+        "heading": "Evaluation and licensing",
+        "paragraphs": [
+          "The reported RoboDojo-Sim success rate is 32.26%, not proof of universal industrial reliability. Code uses MIT licensing; weights and third-party components have separate terms."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://github.com/roboterax/video-prediction-policy-2/raw/main/assets/teaser.png",
+        "alt": "Overview of VPP2 training and prediction",
+        "caption": "Overview of VPP2 training and prediction · Credit: VPP2 research team"
+      }
+    ],
+    "videos": []
+  },
+  "microagi-100m-run-rate-disclosure-2026": {
+    "title": "Microagi claims a $100 million annualized revenue run rate",
+    "summary": "The CEO reports the milestone six months after Shift launched; the breakdown remains undisclosed.",
+    "sections": [
+      {
+        "heading": "The business claim",
+        "paragraphs": [
+          "CEO Bercan Kilic announced the figure on October 9, measuring from Shift’s launch. Shift collects human-activity data for robot training; the announcement gives no robot delivery count."
+        ]
+      },
+      {
+        "heading": "Understanding the metric",
+        "paragraphs": [
+          "Although the graphic says ARR, its footnote defines an annualized run rate. This extrapolates a revenue pace rather than confirming $100 million earned over six months."
+        ]
+      },
+      {
+        "heading": "What remains unknown",
+        "paragraphs": [
+          "The announcement does not separate data revenue from Atlas robotics activities or recurring contracts. The claim remains independently unverified and does not establish progress toward robot deployment targets."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+        "alt": "Microagi’s self-reported annualized revenue chart; not independently verified",
+        "caption": "Microagi’s self-reported annualized revenue chart; not independently verified · Credit: Microagi / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/bercankilic/status/2108587068775432635",
+        "title": "Video accompanying the Microagi CEO announcement",
+        "note": "Watch on the original X post; playback may require signing in."
+      }
+    ]
+  },
+  "westlake-wr1-cooperative-clothes-demo-2026": {
+    "title": "Westlake demonstrates cooperative trouser folding with WR1",
+    "summary": "New footage shows shared cloth handling and household task sequences.",
+    "sections": [
+      {
+        "heading": "The demonstrated tasks",
+        "paragraphs": [
+          "Pandaily reports October 9 footage showing kitchen-to-bedroom tasks and two humanoids spreading and folding trousers together with dexterous hands."
+        ]
+      },
+      {
+        "heading": "Whole-body coordination",
+        "paragraphs": [
+          "The company describes world and vision-language-action models generating coordinated sequences, with GAE handling motion execution and balance across hand and body movements."
+        ]
+      },
+      {
+        "heading": "What the footage cannot establish",
+        "paragraphs": [
+          "Cooperative cloth handling is challenging, but the report provides no independently verified success rate or long-term deployment results. The world-first description remains a company claim."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/westlake_wr1_81c56f33c5.png",
+        "alt": "WR1 illustration accompanying the cloth-folding demonstration report",
+        "caption": "WR1 illustration accompanying the cloth-folding demonstration report · Credit: Westlake Robotics / Pandaily"
+      },
+      {
+        "url": "https://q3.itc.cn/q_70/images03/20261009/ad7fcb56587f4d0890e553ac6eb35e3e.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 1",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 1 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q9.itc.cn/q_70/images03/20261009/18cb832a8a7544a4913a8b8585e4b72b.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 2",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 2 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q1.itc.cn/q_70/images03/20261009/87f2fc84945f4281b88e3ea69050b1e9.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 3",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 3 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q4.itc.cn/q_70/images03/20261009/f8453e74a5c348e49c3b012cf619c8c0.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 4",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 4 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q5.itc.cn/q_70/images03/20261009/669780bd4496424ca8ccdc97cc30564e.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 5",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 5 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q6.itc.cn/q_70/images03/20261009/518143ee542a4cb2b17e5909117ad77e.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 6",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 6 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q5.itc.cn/q_70/images03/20261009/faab4cffdf104560bcb115a165b3c83d.png",
+        "alt": "WR1 system architecture diagram",
+        "caption": "WR1 system architecture diagram · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q4.itc.cn/q_70/images03/20261009/ff9677f8758b43f5b64092879d8abb90.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 8",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 8 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q3.itc.cn/q_70/images03/20261009/0557ad00ef08419ea7dd2799e4811d02.jpeg",
+        "alt": "Westlake Robotics company illustration in the original announcement",
+        "caption": "Westlake Robotics company illustration in the original announcement · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      },
+      {
+        "url": "https://q1.itc.cn/q_70/images03/20261009/a33e38d664cf4ce6ac3b66fa3d59d56f.gif",
+        "alt": "WR1 demonstration animation from the original announcement, sequence 10",
+        "caption": "WR1 demonstration animation from the original announcement, sequence 10 · Credit: Westlake Robotics / 机器之心 via Sina Finance and Sohu"
+      }
+    ],
+    "videos": []
+  },
+  "globalfoundries-fdx-fusion-roadmap-2026": {
+    "title": "GlobalFoundries outlines FDX Fusion for physical AI",
+    "summary": "The roadmap targets evaluation silicon in 2027 and manufacturing in 2028.",
+    "sections": [
+      {
+        "heading": "A platform in development",
+        "paragraphs": [
+          "GlobalFoundries positions FDX Fusion for sensing, computation, action and communication in robotics and automation, with Dresden manufacturing planned for 2028."
+        ]
+      },
+      {
+        "heading": "Integration goals",
+        "paragraphs": [
+          "FD-SOI combines digital, analog, radio-frequency and memory functions. The company targets 7nm-class digital performance; that wording does not identify a literal 7nm process node."
+        ]
+      },
+      {
+        "heading": "Milestones ahead",
+        "paragraphs": [
+          "Demonstrator silicon is targeted for early 2027 and an initial design kit for mid-year. Efficiency and performance remain roadmap targets rather than measured silicon results."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "amgeneral-xtend-ugv-integration-ausa-2026": {
+    "title": "AM General plans an XTEND aerial-robot integration display",
+    "summary": "The announcement combines an unmanned ground vehicle with a mobile drone-launch system.",
+    "sections": [
+      {
+        "heading": "An upcoming display",
+        "paragraphs": [
+          "AM General announced an XTEND NEST-equipped UGV for AUSA in Washington, D.C., on October 12–14. This is a pre-show announcement, not a completed field evaluation."
+        ]
+      },
+      {
+        "heading": "The mobile platform’s role",
+        "paragraphs": [
+          "NEST supports aerial-robot deployment from fixed or moving platforms. The company says carrying it on a UGV can let operators remain farther from hazardous locations."
+        ]
+      },
+      {
+        "heading": "Display versus delivery",
+        "paragraphs": [
+          "The release also illustrates JLTV A2 and a modernized HUMVEE. It provides neither independent evaluation results nor customer delivery details for the UGV–XTEND combination."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.amgeneral.com/wp-content/uploads/2026/10/JLTV-A2-scaled.jpg",
+        "alt": "JLTV A2 from the same show announcement; not the UGV–XTEND system",
+        "caption": "JLTV A2 from the same show announcement; not the UGV–XTEND system · Credit: AM General"
+      },
+      {
+        "url": "https://www.amgeneral.com/wp-content/uploads/2026/10/Next-Gen-Humvee.png",
+        "alt": "Modernized HUMVEE illustrated in the announcement",
+        "caption": "Modernized HUMVEE illustrated in the announcement · Credit: AM General"
+      }
+    ],
+    "videos": []
+  },
+  "reflex-visually-grounded-catching-2026": {
+    "title": "Reflex gives a G1 onboard vision for catching thrown boxes",
+    "summary": "The research combines visual prediction with whole-body reactions.",
+    "sections": [
+      {
+        "heading": "Three training stages",
+        "paragraphs": [
+          "Reflex first learns catching control, then estimates box dynamics from delayed or partial observations. An RGB-D encoder subsequently learns visual grounding while the whole-body controller stays fixed."
+        ]
+      },
+      {
+        "heading": "Physical and simulated results",
+        "paragraphs": [
+          "Reported physical success is 65% at 2.5 metres and 40% at 5 metres. The 85.7% RGB-D success figure belongs to simulation, not physical trials."
+        ]
+      },
+      {
+        "heading": "Reading the demonstrations",
+        "paragraphs": [
+          "Videos cover distance, box size, payload and handover. The interactive scene replays recorded successful catches, so it cannot replace aggregate experimental success rates."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://toberj.github.io/reflex/static/images/method.png?v=1008n",
+        "alt": "Reflex three-stage training framework",
+        "caption": "Reflex three-stage training framework · Credit: Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/images/fig_lateral_offset.png?v=1008n",
+        "alt": "Catch rate versus lateral landing offset in simulation for Reflex and baselines",
+        "caption": "Catch rate versus lateral landing offset in simulation for Reflex and baselines · Credit: Reflex research team"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/teaser.mp4?v=1009t",
+        "title": "Reflex experiment overview · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_2m.mp4?v=1008n",
+        "title": "Catching at 2.5 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_5m.mp4?v=1008n",
+        "title": "Catching at 5 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_7m.mp4?v=1008n",
+        "title": "Catching at 7 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_2m_ego.mp4?v=1008n",
+        "title": "Onboard camera at 2.5 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_5m_ego.mp4?v=1008n",
+        "title": "Onboard camera at 5 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_dist_7m_ego.mp4?v=1008n",
+        "title": "Onboard camera at 7 metres · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_small.mp4?v=1008n",
+        "title": "Small box, 22×21×15 cm · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_regular.mp4?v=1008n",
+        "title": "Regular box, 31×26×21 cm · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_large.mp4?v=1008n",
+        "title": "Large box, 46×41×32 cm · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_small_ego.mp4?v=1008n",
+        "title": "Small box from the onboard camera · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_regular_ego.mp4?v=1008n",
+        "title": "Regular box from the onboard camera · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_size_large_ego.mp4?v=1008n",
+        "title": "Large box from the onboard camera · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/payload_triptych.mp4?v=1008n",
+        "title": "Trials with 0.5, 1 and 2 kg payloads · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/offset_twoview.mp4?v=1008n",
+        "title": "Stepping to catch offset throws · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_offset_a_ego.mp4?v=1008n",
+        "title": "Offset throw from the onboard camera · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/static/videos/pip_chain.mp4?v=1008n",
+        "title": "Catching, carrying and handing over · Reflex research team"
+      },
+      {
+        "url": "https://toberj.github.io/reflex/",
+        "title": "Interactive 3D replay of recorded successful catches",
+        "note": "Open the project’s interactive replay. It uses recorded simulation, not live robot control."
+      }
+    ]
+  },
+  "danu-hero-late-seed-disclosure-2026": {
+    "title": "Danu secures funding for recycling robotics",
+    "summary": "TechCrunch reports Danu raised $5 million.",
+    "sections": [
+      {
+        "heading": "The developer’s product approach",
+        "paragraphs": [
+          "Danu describes two-arm robots for mixed recyclables that retrofit existing lines. It claims less than one metre of conveyor space, plus guards when operating near workers."
+        ]
+      },
+      {
+        "heading": "Counting completed picks",
+        "paragraphs": [
+          "According to Danu’s product information, vision outlines target objects and a pick is counted when material reaches the bin, distinguishing grasping from completed sorting."
+        ]
+      },
+      {
+        "heading": "Hardware and software",
+        "paragraphs": [
+          "Danu separates hardware purchase from software licensing and claims gripper replacement in 20 minutes. These are existing company product descriptions, not independent tests or newly launched specifications."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg",
+        "alt": "Danu recycling system pictured in the source article",
+        "caption": "Danu recycling system pictured in the source article · Credit: Danu Robotics / TechCrunch"
+      }
+    ],
+    "videos": []
   }
 }
