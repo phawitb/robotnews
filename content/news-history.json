@@ -6838,6 +6838,667 @@
           }
         ]
       }
+    },
+    {
+      "id": "abb-irb1700-irb1700id-launch-2026",
+      "storyKey": "abb-irb1700-irb1700id-launch-2026",
+      "originalTitle": "ABB Robotics introduces two new high-performance robots for precision manufacturing",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/"
+      ],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "หุ่นยนต์ตระกูลใหม่มีสเปกและงานเป้าหมายชัดเจน ต่างจากข่าวซอฟต์แวร์ EyeMotion",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/ids-nxt-novel-vision-app-based-sensors-and-cameras.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "abb-eyemotion-ai-robot-trainer-integration-2026",
+      "storyKey": "abb-eyemotion-ai-robot-trainer-integration-2026",
+      "originalTitle": "ABB Robotics enables anyone to train, deploy and optimize AI-powered robotics applications",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-enables-anyone-to-train-deploy-and-optimize-ai-powered-robotics-applications/27230/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-enables-anyone-to-train-deploy-and-optimize-ai-powered-robotics-applications/27230/"
+      ],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "ข่าวใหม่คือการผสานกระบวนการ EyeMotion กับ AI Robot Trainer ไม่ใช่อ้างว่า AI Robot Trainer เพิ่งมีครั้งแรก",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/mosrac-efficient-motion-control-products-direct-drive-pmsm-encoders.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "asimov-menlo-python-sdk-release-2026",
+      "storyKey": "asimov-menlo-python-sdk-release-2026",
+      "originalTitle": "Asimov Releases Python SDK, Announces Open-Source Edge Control Layer",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source",
+        "https://github.com/menloresearch/menlo-sdk",
+        "https://docs.menlo.ai/asimov/1/program/sdk",
+        "https://x.com/asimovinc/status/2109686105968918985"
+      ],
+      "publishedAt": "2026-10-12T19:36:49.961Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "เปิดชุดพัฒนาใช้งานจริงพร้อมเอกสาร แยกจากข่าวฮาร์ดแวร์และโค้ดฝึกเดินเดิม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-open-sourced.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-in-parts.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-hero.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/rek-deathmatch-poster-0tkgqQmpx71aS6C3I2WWVsoegzaLcO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "deepmind-cambridge-hardware-lab-announcement-2026",
+      "storyKey": "deepmind-cambridge-hardware-lab-announcement-2026",
+      "originalTitle": "Google DeepMind Is Building a New Cambridge-Area Robotics Lab, Aaron Saunders Says",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders",
+        "https://www.linkedin.com/feed/update/urn:li:activity:7515426607503708160/"
+      ],
+      "publishedAt": "2026-10-12T18:34:06.310Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "ประกาศสถานที่วิจัยใหม่จากผู้บริหารโดยตรง ไม่สรุปเกินหลักฐานว่าเปิดแล้วหรือมีหุ่นยนต์รุ่นใหม่",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-screenshot.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-deepmind.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/waymo-tornado.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie-3-create-world.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sima-in-genie.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sorting-clothes.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/rek-deathmatch-poster-0tkgqQmpx71aS6C3I2WWVsoegzaLcO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "archon-whole-body-intelligence-debut-demo-2026",
+      "storyKey": "archon-whole-body-intelligence-debut-demo-2026",
+      "originalTitle": "Archon Robotics Shares Debut Demo of Its Whole-Body Humanoid Intelligence",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/archon-robotics-debut-whole-body-intelligence"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/archon-robotics-debut-whole-body-intelligence",
+        "https://x.com/Archon_Robotics/status/2108746843127775717",
+        "https://x.com/Archon_Robotics/status/2108746843127775717"
+      ],
+      "publishedAt": "2026-10-10T02:30:00Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "วิดีโอต้นทางวันที่ 10 ต.ค. เป็นเดโมใหม่ ต่างจากบทความสถาปัตยกรรมเดือนกรกฎาคม",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-mind-1-folding-hero-kcqhPg1MTk3k0lRIwDjOFAuCUUVfLQ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2-plus-wang-gpt6-cxmLr01tHfJ3a9HMUgZhyLel4G9LMA.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-chimelong-robot-rental-services-1UEVOydibZ2ryTS3RIX18gIPRoKqHy.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotera-vpp2-robodojo-leaderboard-fyVT4IvVFbKPWvoBAM3qtyCqLLtLER.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mindon-mind1-142-garments-hour-demo-2026",
+      "storyKey": "mindon-mind1-142-garments-hour-demo-2026",
+      "originalTitle": "MindOn Claims 142 Garments per Hour in Hour-Long Mind-1 Folding Demo",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/mindon-mind-1-folding-142-garments-per-hour"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/mindon-mind-1-folding-142-garments-per-hour",
+        "https://x.com/MindOn_Tech/status/2109568616173806049",
+        "https://www.youtube.com/watch?v=4r_JZXDNu5Y"
+      ],
+      "publishedAt": "2026-10-12T09:18:55.201Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "เดโมใหม่มีความยาวและจำนวนชิ้นที่ตรวจได้ ต่างจากเดโมก่อนที่กล่าวเพียงความเร็วระดับมนุษย์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-mind-1-sofa-hero-RoysXQ8ZJ30nPEoPg5Uy2JqyGQojF2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-logistics.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-bed.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2-plus-wang-gpt6-cxmLr01tHfJ3a9HMUgZhyLel4G9LMA.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "benewake-nova20-near-field-lidar-launch-2026",
+      "storyKey": "benewake-nova20-near-field-lidar-launch-2026",
+      "originalTitle": "Benewake Introduces NOVA20 LiDAR to Close the Near-Field Gap in Robot Safety Perception",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/benewake-introduces-nova20-lidar-to-close-the-near-field-gap-in-robot-safety-perception-302905677.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/benewake-introduces-nova20-lidar-to-close-the-near-field-gap-in-robot-safety-perception-302905677.html"
+      ],
+      "publishedAt": "2026-10-12T08:54:00-04:00",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "ชิ้นส่วนตรวจระยะใกล้มีสเปกใช้งานจริงสำหรับหุ่นยนต์เคลื่อนที่และฮิวแมนนอยด์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2005137/Benewake-NOVA20.jpg?id=OA2994780&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=PH69795&Transmission_Id=202610120854PR_NEWS_USPR_____PH69795&DateId=20261012",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "amap-sands-tutu-robot-guides-delivery-2026",
+      "storyKey": "amap-sands-tutu-robot-guides-delivery-2026",
+      "originalTitle": "Amap and Sands China mark the delivery of the first Tutu robots, with expected indoor navigation and 3D resort previews",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/amap-and-sands-china-mark-the-delivery-of-the-first-tutu-robots-with-expected-indoor-navigation-and-3d-resort-previews-302905030.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/amap-and-sands-china-mark-the-delivery-of-the-first-tutu-robots-with-expected-indoor-navigation-and-3d-resort-previews-302905030.html"
+      ],
+      "publishedAt": "2026-10-10T04:43:00-04:00",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "เป็นการส่งมอบและประสบการณ์บริการใหม่ มีจำนวนงานจริงที่ต้องอ้างว่าเป็นรายงานบริษัท",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2010315/20261010040410EDT_image_1.jpg?id=OA3004232&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN69395&Transmission_Id=202610100443PR_NEWS_USPR_____CN69395&DateId=20261010",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRA.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/ATL.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stryker-cmr-versius-equity-alliance-2026",
+      "storyKey": "stryker-cmr-versius-equity-alliance-2026",
+      "originalTitle": "Stryker and CMR Surgical announce strategic alliance to advance robotic-assisted surgery",
+      "urls": [
+        "https://rss.globenewswire.com/news-release/2026/10/12/3378830/0/en/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery.html"
+      ],
+      "references": [
+        "https://rss.globenewswire.com/news-release/2026/10/12/3378830/0/en/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery.html"
+      ],
+      "publishedAt": "2026-10-12T12:00:00Z",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "พันธมิตรการค้าหุ่นยนต์ผ่าตัดขนาดใหญ่ มีรายละเอียดสิทธิ์และเงื่อนไขชัดเจน",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KTB664ZR",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KMH7P3LL",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/MzJjZGFmOWUtM2Q5OS00M2VmLWFkMjktMDVmODkzYzk5Mjk5LTEwMTk5MDEtMjAyNi0xMC0xMi1lbg==/tiny/Stryker-Corporation.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/3545bbfe-10fb-4c97-9313-45f71fd09f18?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/0a173494-8e54-4446-ab59-66c79441e694?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/0811c499-a5f9-4d78-9db3-17764c6f83a6?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/add83c1f-3ef4-4e7e-b06a-5c20838cf2c2?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/7f60c456-51b6-4096-a862-d5d3beda6cc5?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/fa4e82b8-3e9f-44be-b728-46061ebf1697?size=3",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jaka-kargo50-zu50-ciif-debut-2026",
+      "storyKey": "jaka-kargo50-zu50-ciif-debut-2026",
+      "originalTitle": "JAKA Robotics Debuts Kargo50 Heavy-Duty Wheeled Humanoid and Zu50 Cobot at Shanghai Industry Fair",
+      "urls": [
+        "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026"
+      ],
+      "references": [
+        "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026",
+        "https://finance.sina.com.cn/roll/2026-10-11/doc-iniuwqpv5506135.shtml"
+      ],
+      "publishedAt": "2026-10-11T22:33:00+08:00",
+      "addedAt": "2026-10-12T22:14:41.241Z",
+      "runId": "2026-10-13",
+      "reason": "เปิดสองรุ่นในเหตุการณ์เดียวรวมเป็นข่าวเดียว และไม่สับสนสเปก Kargo10 กับ Kargo50",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cms-image.pandaily.com/1/hy4_preview_f6d614fd20.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A5_c6062cab44.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A4_3188020f29.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A3_6c5d54b3a8.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A2_bcdb7bfbc3.png",
+            "reason": "related-story"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -6958,6 +7619,23 @@
         "amgeneral-xtend-ugv-integration-ausa-2026",
         "reflex-visually-grounded-catching-2026",
         "danu-hero-late-seed-disclosure-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-13",
+      "batchHash": "9f65970194b7908c90272923a7d02c2565d723c22abc1c01d08390e15c584c89",
+      "preparedAt": "2026-10-12T22:14:41.241Z",
+      "articleIds": [
+        "abb-irb1700-irb1700id-launch-2026",
+        "abb-eyemotion-ai-robot-trainer-integration-2026",
+        "asimov-menlo-python-sdk-release-2026",
+        "deepmind-cambridge-hardware-lab-announcement-2026",
+        "archon-whole-body-intelligence-debut-demo-2026",
+        "mindon-mind1-142-garments-hour-demo-2026",
+        "benewake-nova20-near-field-lidar-launch-2026",
+        "amap-sands-tutu-robot-guides-delivery-2026",
+        "stryker-cmr-versius-equity-alliance-2026",
+        "jaka-kargo50-zu50-ciif-debut-2026"
       ]
     }
   ]

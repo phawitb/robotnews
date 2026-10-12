@@ -3575,5 +3575,324 @@
       }
     ],
     "videos": []
+  },
+  "abb-irb1700-irb1700id-launch-2026": {
+    "title": "ABB launches IRB 1700 and 1700ID for precision manufacturing",
+    "summary": "Five variants carry 6–12 kilograms; performance improvements remain manufacturer claims.",
+    "sections": [
+      {
+        "heading": "New manufacturing models",
+        "paragraphs": [
+          "ABB announced the IRB 1700 and IRB 1700ID for their public debut at CIIF in Shanghai on October 12–16. Five variants carry 6–12 kilograms and use OmniCore controllers, targeting handling, welding, finishing and machine tending."
+        ]
+      },
+      {
+        "heading": "Accuracy and installation",
+        "paragraphs": [
+          "ABB specifies path repeatability down to 0.03 millimetres and joint speeds up to 700 degrees per second. The footprint is 50% smaller than the predecessor, while the 1700ID routes cables and hoses internally."
+        ]
+      },
+      {
+        "heading": "Validate on the intended task",
+        "paragraphs": [
+          "Claims include up to 20% shorter cycles, 15% lower power consumption and oil-change intervals up to 20,000 hours. These manufacturer figures do not guarantee every cell’s results; tooling, paths and production timing still matter."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "abb-eyemotion-ai-robot-trainer-integration-2026": {
+    "title": "ABB integrates AI Robot Trainer with OmniCore EyeMotion",
+    "summary": "An integrated workflow connects image collection, training, deployment and robot motion.",
+    "sections": [
+      {
+        "heading": "One training and deployment loop",
+        "paragraphs": [
+          "ABB is extending OmniCore EyeMotion with AI Robot Trainer to connect image collection, model training, deployment and improvement. Integrators can adapt vision applications across production lines with less dependence on AI specialists."
+        ]
+      },
+      {
+        "heading": "Turning perception into movement",
+        "paragraphs": [
+          "The workflow combines real and synthetic images, guided steps and a chatbot. It addresses changes in products, lighting and layouts, and connects to automatic collision-free path planning for picking, inspection, sorting and assembly."
+        ]
+      },
+      {
+        "heading": "Conditional performance claims",
+        "paragraphs": [
+          "ABB claims up to 90% less commissioning time and 50% shorter cycles when combined with collision-free path planning. The announcement provides no independent evaluation; results should be checked using the intended parts and production images."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "asimov-menlo-python-sdk-release-2026": {
+    "title": "Asimov releases the open-source Menlo Python SDK",
+    "summary": "The SDK is public; the announced Edge source release remains separately unconfirmed.",
+    "sections": [
+      {
+        "heading": "Connecting applications to a robot",
+        "paragraphs": [
+          "Menlo Research released Menlo SDK for Asimov 1. Python applications can issue walking and joint commands, read robot state, and access cameras and audio. The public repository uses Apache 2.0 and requires Python 3.12 or later."
+        ]
+      },
+      {
+        "heading": "Local and remote connections",
+        "paragraphs": [
+          "LiveKit supports internet connections, while UDP serves local applications. The announcement demonstrates upper-body motions, VR teleoperation and a locomotion-policy loop that reads robot state and returns joint commands."
+        ]
+      },
+      {
+        "heading": "Control priority is not an emergency stop",
+        "paragraphs": [
+          "The team also announced open-sourcing Asimov Edge, which arbitrates control sources; that source release remains unconfirmed in the reviewed evidence. Documentation gives Cockpit and gamepad priority over SDK applications and explicitly says the SDK is not an emergency stop."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp",
+        "alt": "Asimov 1 supported by a gantry during upper-body VR teleoperation",
+        "caption": "Asimov 1 supported by a gantry during upper-body VR teleoperation · Credit: Asimov / Menlo Research via Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/asimovinc/status/2109686105968918985",
+        "title": "Menlo SDK and control arbitration demonstration · Asimov",
+        "note": "Watch the original X post; playback may require signing in."
+      }
+    ]
+  },
+  "deepmind-cambridge-hardware-lab-announcement-2026": {
+    "title": "DeepMind plans a new Cambridge-area robotics hardware lab",
+    "summary": "Aaron Saunders announced the facility without a budget, size or opening date.",
+    "sections": [
+      {
+        "heading": "A home for the hardware team",
+        "paragraphs": [
+          "Aaron Saunders announced on LinkedIn that Google DeepMind is building a Cambridge-area robotics lab for the hardware team developed since he joined a year earlier. Recruitment context identifies Cambridge, Massachusetts; the facility has not been announced as operational."
+        ]
+      },
+      {
+        "heading": "Recruiting builders and researchers",
+        "paragraphs": [
+          "The post invites machinists, engineers and researchers to join. It highlights the physical facilities and hardware skills needed alongside AI research. Saunders previously served as Boston Dynamics’ chief technology officer before joining DeepMind in 2025."
+        ]
+      },
+      {
+        "heading": "Details still undisclosed",
+        "paragraphs": [
+          "The announcement gives no building size, budget, exact address or new robot model. More news in 2027 does not establish an opening or product-launch date. The publisher’s AI-generated illustration does not show the lab’s actual location."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp",
+        "alt": "AI-generated DeepMind editorial illustration; not the actual lab location",
+        "caption": "AI-generated DeepMind editorial illustration; not the actual lab location · Credit: Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "archon-whole-body-intelligence-debut-demo-2026": {
+    "title": "Archon debuts whole-body intelligence across humanoid platforms",
+    "summary": "The footage distinguishes autonomous demonstrations from teleoperated training segments.",
+    "sections": [
+      {
+        "heading": "From task intent to movement",
+        "paragraphs": [
+          "Archon’s roughly three-minute Whole-Body Intelligence debut describes S1 for task understanding and multimodal input, and S0 for coordinated execution and stabilization. The aim is to connect manipulation with whole-body posture and movement."
+        ]
+      },
+      {
+        "heading": "Learning from demonstrations and corrections",
+        "paragraphs": [
+          "The company describes human-data pretraining followed by real-robot training and DAgger corrective examples. Footage shows AGIBOT A3, Booster T2 and modified Unitree G1 robots; their presence together does not prove shared weights or cooperative task execution."
+        ]
+      },
+      {
+        "heading": "Reading the footage carefully",
+        "paragraphs": [
+          "Archon labels full demonstrations autonomous at normal speed, while S0 explanations and corrective-data segments include teleoperation. No success rates, intervention counts or dataset sizes are provided, leaving generalization and sustained reliability unestablished."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp",
+        "alt": "Multiple humanoid platforms in the Archon demonstration",
+        "caption": "Multiple humanoid platforms in the Archon demonstration · Credit: Archon Robotics via Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/Archon_Robotics/status/2108746843127775717",
+        "title": "Whole-Body Intelligence debut video · Archon",
+        "note": "Watch the original X post; playback may require signing in."
+      }
+    ]
+  },
+  "mindon-mind1-142-garments-hour-demo-2026": {
+    "title": "MindOn claims 142 garments per hour in an extended folding demo",
+    "summary": "A person supplies each garment to the dual-arm robot; the entire laundry workflow is not automated.",
+    "sections": [
+      {
+        "heading": "A measurable extended demonstration",
+        "paragraphs": [
+          "MindOn’s 59-minute, 22-second Mind-1 upload shows a counter reaching 142 and labels the footage normal-speed. The company claims 142 garments per hour, roughly 25 seconds each, adding a throughput figure absent from its earlier demonstration."
+        ]
+      },
+      {
+        "heading": "People still feed the station",
+        "paragraphs": [
+          "Two robot arms fold at a table rather than on a walking humanoid. A person supplies each new shirt, so the demonstration measures a human-fed folding station, not an unattended washing, drying and storage workflow."
+        ]
+      },
+      {
+        "heading": "No common fastest-in-industry test",
+        "paragraphs": [
+          "The speed superlative remains a company claim without a common comparison of garment types, starting conditions, fold quality and assistance. Extended footage offers more evidence than a highlight reel but does not establish performance across complete laundry operations."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-mind-1-folding-hero-kcqhPg1MTk3k0lRIwDjOFAuCUUVfLQ.webp",
+        "alt": "MindOn dual-arm folding station and garment counter",
+        "caption": "MindOn dual-arm folding station and garment counter · Credit: MindOn via Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=4r_JZXDNu5Y",
+        "title": "Mind-1 folding demonstration, 59:22 · MindOn"
+      }
+    ]
+  },
+  "benewake-nova20-near-field-lidar-launch-2026": {
+    "title": "Benewake launches NOVA20 for near-field robot sensing",
+    "summary": "A 20-point sensor covers 0.05–1 metre as a complement to cameras and longer-range LiDAR.",
+    "sections": [
+      {
+        "heading": "Closing a near-field gap",
+        "paragraphs": [
+          "Benewake introduced NOVA20 for the metre surrounding a robot, complementing longer-range LiDAR and cameras that the robot’s body can obscure. It outputs physical distance measurements rather than two-dimensional images."
+        ]
+      },
+      {
+        "heading": "Compact solid-state sensing",
+        "paragraphs": [
+          "Specifications list 20 detection points, a 40-degree field of view, 0.05–1 metre range, weight below 5 grams and power below 1 watt. The one-metre specification assumes 10% target reflectivity under 100-klux lighting."
+        ]
+      },
+      {
+        "heading": "Applications and system limits",
+        "paragraphs": [
+          "Proposed uses include wall-following, detecting stairs or drop-offs, and slowing before contact with people. Sensors can sit on chassis or limbs. These component claims do not establish that a complete robot automatically meets safety requirements."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2005137/Benewake-NOVA20.jpg?id=OA2994780&p=original",
+        "alt": "NOVA20 near-field distance sensor",
+        "caption": "NOVA20 near-field distance sensor · Credit: Benewake"
+      }
+    ],
+    "videos": []
+  },
+  "amap-sands-tutu-robot-guides-delivery-2026": {
+    "title": "Amap delivers Tutu robot guides to Sands China",
+    "summary": "The Macau resort deployment builds on NBA House service and planned indoor navigation.",
+    "sections": [
+      {
+        "heading": "From an event to resort services",
+        "paragraphs": [
+          "Amap and Sands China marked the first Tutu delivery at NBA House in The Venetian, Macau, on October 10. The quadrupeds will guide resort visitors, alongside planned indoor navigation and 3D previews of selected areas in Amap."
+        ]
+      },
+      {
+        "heading": "Reported service activity",
+        "paragraphs": [
+          "The release reports 214 direction requests and 4,546 Chinese- and English-language questions during an 11-hour workday. Tutu robots reportedly travelled over 40 kilometres collectively; these are organizer figures, not independently verified per-robot results."
+        ]
+      },
+      {
+        "heading": "Sustained service remains the next test",
+        "paragraphs": [
+          "Resort operation adds longer service periods, more destinations and staff coordination. The partners identify equipment reliability, task scheduling and multi-robot coordination as continuing work, so event results are a starting point rather than proof of uniform long-term performance."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2010315/20261010040410EDT_image_1.jpg?id=OA3004232&p=original",
+        "alt": "Tutu delivery ceremony with Sands China",
+        "caption": "Tutu delivery ceremony with Sands China · Credit: Amap / Sands China"
+      }
+    ],
+    "videos": []
+  },
+  "stryker-cmr-versius-equity-alliance-2026": {
+    "title": "Stryker plans a roughly $400 million CMR Surgical investment",
+    "summary": "The alliance includes U.S. sales rights and a future acquisition option, subject to conditions.",
+    "sections": [
+      {
+        "heading": "Investment with a future option",
+        "paragraphs": [
+          "Stryker and CMR Surgical announced a planned preferred-equity investment of approximately $400 million, or £300 million. Stryker also receives an exclusive future option to acquire the remaining equity under agreed terms; a full acquisition has not closed."
+        ]
+      },
+      {
+        "heading": "Sharing commercial responsibilities",
+        "paragraphs": [
+          "Stryker will be the exclusive U.S. sales agent for the Versius portfolio. CMR retains product development and commercialization outside the United States, combining its soft-tissue robotics expertise with Stryker’s commercial network."
+        ]
+      },
+      {
+        "heading": "Conditions and clinical limits",
+        "paragraphs": [
+          "The companies highlight Versius’s modular operating-room design, but this announcement is not comparative clinical evidence. Regulatory approvals and customary closing conditions remain, and commercial expansion should not be confused with demonstrated treatment superiority or authorization in every country."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "jaka-kargo50-zu50-ciif-debut-2026": {
+    "title": "JAKA introduces Kargo50 and Zu50 for heavier factory work",
+    "summary": "The wheeled platform targets tote handling; the separate Zu50 arm carries 50 kilograms.",
+    "sections": [
+      {
+        "heading": "Two approaches to factory handling",
+        "paragraphs": [
+          "JAKA announced the wheeled Kargo50 humanoid and Zu50 collaborative arm for an October 12 CIIF debut in Shanghai. Kargo50 targets tote and material transfer, while Zu50 extends the company’s higher-payload arm range."
+        ]
+      },
+      {
+        "heading": "Keep model specifications separate",
+        "paragraphs": [
+          "Pandaily cites a 50-kilogram payload and 2,100-millimetre reach for Zu50, but no verified Kargo50 payload specification. A claimed improvement from 105 to 28 seconds per tote belongs to the earlier Kargo10 and must not be attributed to the new model."
+        ]
+      },
+      {
+        "heading": "Demonstrations versus deployment results",
+        "paragraphs": [
+          "A factory-style booth pairs wheeled robots for engine transport and screw tightening, with JAKA EVO linking task planning to motion control. Demonstrations and manufacturer claims still require validation for each customer’s speed, durability and cost requirements."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/jaka_kargo50_f5621c2fc6.png",
+        "alt": "JAKA robot illustration accompanying the launch report",
+        "caption": "JAKA robot illustration accompanying the launch report · Credit: JAKA / Pandaily"
+      }
+    ],
+    "videos": []
   }
 }

@@ -1755,5 +1755,108 @@
       }
     ],
     "videos": []
+  },
+  "abb-irb1700-irb1700id-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "abb-eyemotion-ai-robot-trainer-integration-2026": {
+    "images": [],
+    "videos": []
+  },
+  "asimov-menlo-python-sdk-release-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp",
+        "alt": "Asimov 1 บนโครงพยุงขณะควบคุมส่วนบนด้วยแว่น VR",
+        "caption": "Asimov 1 บนโครงพยุงขณะควบคุมส่วนบนด้วยแว่น VR · ภาพ: Asimov / Menlo Research ผ่าน Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/asimovinc/status/2109686105968918985",
+        "title": "เดโม Menlo SDK และระบบจัดสิทธิ์ควบคุม · Asimov",
+        "note": "ชมคลิปจากโพสต์ X ต้นฉบับ การเล่นอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "deepmind-cambridge-hardware-lab-announcement-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp",
+        "alt": "ภาพสร้างด้วย AI ประกอบข่าว DeepMind ไม่ใช่ตำแหน่งแล็บจริง",
+        "caption": "ภาพสร้างด้วย AI ประกอบข่าว DeepMind ไม่ใช่ตำแหน่งแล็บจริง · ภาพ: Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "archon-whole-body-intelligence-debut-demo-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp",
+        "alt": "หุ่นยนต์หลายแพลตฟอร์มในฉากสาธิต Archon",
+        "caption": "หุ่นยนต์หลายแพลตฟอร์มในฉากสาธิต Archon · ภาพ: Archon Robotics ผ่าน Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/Archon_Robotics/status/2108746843127775717",
+        "title": "วิดีโอแนะนำ Whole-Body Intelligence · Archon",
+        "note": "ชมคลิปจากโพสต์ X ต้นฉบับ การเล่นอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "mindon-mind1-142-garments-hour-demo-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-mind-1-folding-hero-kcqhPg1MTk3k0lRIwDjOFAuCUUVfLQ.webp",
+        "alt": "สถานีพับเสื้อสองแขนของ MindOn พร้อมตัวนับชิ้นงาน",
+        "caption": "สถานีพับเสื้อสองแขนของ MindOn พร้อมตัวนับชิ้นงาน · ภาพ: MindOn ผ่าน Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=4r_JZXDNu5Y",
+        "title": "เดโมพับผ้า Mind-1 ยาว 59:22 นาที · MindOn",
+        "embed": "https://www.youtube-nocookie.com/embed/4r_JZXDNu5Y"
+      }
+    ]
+  },
+  "benewake-nova20-near-field-lidar-launch-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2005137/Benewake-NOVA20.jpg?id=OA2994780&p=original",
+        "alt": "เซนเซอร์ NOVA20 สำหรับตรวจระยะใกล้",
+        "caption": "เซนเซอร์ NOVA20 สำหรับตรวจระยะใกล้ · ภาพ: Benewake"
+      }
+    ],
+    "videos": []
+  },
+  "amap-sands-tutu-robot-guides-delivery-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2010315/20261010040410EDT_image_1.jpg?id=OA3004232&p=original",
+        "alt": "พิธีส่งมอบ Tutu ให้ Sands China",
+        "caption": "พิธีส่งมอบ Tutu ให้ Sands China · ภาพ: Amap / Sands China"
+      }
+    ],
+    "videos": []
+  },
+  "stryker-cmr-versius-equity-alliance-2026": {
+    "images": [],
+    "videos": []
+  },
+  "jaka-kargo50-zu50-ciif-debut-2026": {
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/jaka_kargo50_f5621c2fc6.png",
+        "alt": "ภาพประกอบหุ่นยนต์ JAKA ในรายงานเปิดตัว",
+        "caption": "ภาพประกอบหุ่นยนต์ JAKA ในรายงานเปิดตัว · ภาพ: JAKA / Pandaily"
+      }
+    ],
+    "videos": []
   }
 }

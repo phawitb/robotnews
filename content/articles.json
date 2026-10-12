@@ -908,5 +908,115 @@
     "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg",
     "addedAt": "2026-10-11T22:14:25.804Z"
+  },
+  {
+    "id": "abb-irb1700-irb1700id-launch-2026",
+    "category": "industrial-robots",
+    "title": "ABB เปิด IRB 1700 และ 1700ID สำหรับงานผลิตความแม่นยำสูง",
+    "summary": "หุ่นยนต์ห้ารุ่นย่อยรองรับ 6–12 กิโลกรัม พร้อมคำกล่าวด้านความเร็วและการประหยัดพลังงานจากผู้ผลิต",
+    "source": "ABB / RoboticsTomorrow",
+    "date": "2026-10-12",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-introduces-two-new-high-performance-robots-for-precision-manufacturing/27231/",
+    "image": "",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "abb-eyemotion-ai-robot-trainer-integration-2026",
+    "category": "ai-automation",
+    "title": "ABB เชื่อม AI Robot Trainer กับ EyeMotion ตั้งแต่ฝึกภาพจนถึงควบคุมหุ่นยนต์",
+    "summary": "ระบบรวมข้อมูลภาพจริงและภาพจำลอง ช่วยปรับงานหยิบ ตรวจสอบ และประกอบเมื่อสินค้าเปลี่ยน",
+    "source": "ABB / RoboticsTomorrow",
+    "date": "2026-10-12",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/12/abb-robotics-enables-anyone-to-train-deploy-and-optimize-ai-powered-robotics-applications/27230/",
+    "image": "",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "asimov-menlo-python-sdk-release-2026",
+    "category": "humanoids",
+    "title": "Asimov เปิด Python SDK สำหรับสั่งงานหุ่นยนต์และอ่านข้อมูลเซนเซอร์",
+    "summary": "Menlo SDK เปิดซอร์สแล้ว ส่วนการเปิด Asimov Edge ยังเป็นประกาศที่ต้องแยกจากโค้ดที่ตรวจพบ",
+    "source": "Humanoids Daily",
+    "date": "2026-10-12",
+    "url": "https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "deepmind-cambridge-hardware-lab-announcement-2026",
+    "category": "industry-news",
+    "title": "DeepMind เตรียมแล็บหุ่นยนต์แห่งใหม่ในพื้นที่ Cambridge รัฐแมสซาชูเซตส์",
+    "summary": "Aaron Saunders ประกาศพื้นที่สำหรับทีมฮาร์ดแวร์ แต่ยังไม่เปิดงบ ขนาด หรือวันเปิดใช้งาน",
+    "source": "Humanoids Daily",
+    "date": "2026-10-12",
+    "url": "https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "archon-whole-body-intelligence-debut-demo-2026",
+    "category": "humanoids",
+    "title": "Archon เผยเดโมควบคุมทั้งร่างกายบนฮิวแมนนอยด์หลายแพลตฟอร์ม",
+    "summary": "วิดีโอแยกฉากทำงานอัตโนมัติออกจากช่วงควบคุมระยะไกล แต่ยังไม่มีอัตราสำเร็จรายงาน",
+    "source": "Humanoids Daily",
+    "date": "2026-10-10",
+    "url": "https://www.humanoidsdaily.com/news/archon-robotics-debut-whole-body-intelligence",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "mindon-mind1-142-garments-hour-demo-2026",
+    "category": "research",
+    "title": "MindOn เผยเดโมพับผ้าเกือบชั่วโมง อ้างทำได้ 142 ชิ้นต่อชั่วโมง",
+    "summary": "หุ่นยนต์สองแขนพับเสื้อบนโต๊ะ โดยยังมีคนป้อนเสื้อแต่ละตัวให้",
+    "source": "Humanoids Daily",
+    "date": "2026-10-12",
+    "url": "https://www.humanoidsdaily.com/news/mindon-mind-1-folding-142-garments-per-hour",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mindon-mind-1-folding-hero-kcqhPg1MTk3k0lRIwDjOFAuCUUVfLQ.webp",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "benewake-nova20-near-field-lidar-launch-2026",
+    "category": "ai-automation",
+    "title": "Benewake เปิด NOVA20 LiDAR ตรวจระยะใกล้รอบตัวหุ่นยนต์",
+    "summary": "เซนเซอร์ 20 จุดตรวจระยะ 5 เซนติเมตรถึง 1 เมตร ออกแบบเสริมกล้องและ LiDAR หลัก",
+    "source": "Benewake / PRNewswire",
+    "date": "2026-10-12",
+    "url": "https://www.prnewswire.com/news-releases/benewake-introduces-nova20-lidar-to-close-the-near-field-gap-in-robot-safety-perception-302905677.html",
+    "image": "https://mmx.prnewswire.com/media/MS2005137/Benewake-NOVA20.jpg?id=OA2994780&p=original",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "amap-sands-tutu-robot-guides-delivery-2026",
+    "category": "industry-news",
+    "title": "Amap ส่งมอบหุ่นยนต์สี่ขา Tutu ให้ Sands China เริ่มงานนำทางผู้เยี่ยมชม",
+    "summary": "ต่อยอดจากงาน NBA House สู่รีสอร์ตในมาเก๊า พร้อมแผนนำทางในอาคารและแบบจำลองสามมิติ",
+    "source": "Amap / PRNewswire",
+    "date": "2026-10-10",
+    "url": "https://www.prnewswire.com/news-releases/amap-and-sands-china-mark-the-delivery-of-the-first-tutu-robots-with-expected-indoor-navigation-and-3d-resort-previews-302905030.html",
+    "image": "https://mmx.prnewswire.com/media/MS2010315/20261010040410EDT_image_1.jpg?id=OA3004232&p=original",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "stryker-cmr-versius-equity-alliance-2026",
+    "category": "industry-news",
+    "title": "Stryker เตรียมลงทุนราว 400 ล้านดอลลาร์ใน CMR Surgical หนุน Versius",
+    "summary": "ข้อตกลงรวมสิทธิ์ซื้อกิจการในอนาคตและการเป็นตัวแทนขายในสหรัฐฯ แต่ยังมีเงื่อนไขก่อนปิดธุรกรรม",
+    "source": "Stryker / GlobeNewswire",
+    "date": "2026-10-12",
+    "url": "https://rss.globenewswire.com/news-release/2026/10/12/3378830/0/en/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery.html",
+    "image": "",
+    "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "jaka-kargo50-zu50-ciif-debut-2026",
+    "category": "industrial-robots",
+    "title": "JAKA เปิด Kargo50 และ Zu50 ขยายงานขนย้ายหนักในโรงงาน",
+    "summary": "รุ่นล้อเลื่อนมุ่งงานย้ายกล่อง ส่วนแขน Zu50 รองรับ 50 กิโลกรัม ต้องแยกสเปกของแต่ละรุ่น",
+    "source": "Pandaily",
+    "date": "2026-10-11",
+    "url": "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026",
+    "image": "https://cms-image.pandaily.com/1/jaka_kargo50_f5621c2fc6.png",
+    "addedAt": "2026-10-12T22:14:41.241Z"
   }
 ]
