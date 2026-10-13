@@ -7499,6 +7499,627 @@
           }
         ]
       }
+    },
+    {
+      "id": "promise-drhorton-1250-homes-agreement-2026",
+      "storyKey": "promise-drhorton-1250-homes-agreement-2026",
+      "originalTitle": "Promise Robotics Expands Physical AI Production Infrastructure for U.S. Homebuilding Through Multi-Year Commercial Agreement with D.R. Horton",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/promise-robotics-expands-physical-ai-production-infrastructure-for-us-homebuilding-through-multi-year-commercial-agreement-with-dr-horton-302906542.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/promise-robotics-expands-physical-ai-production-infrastructure-for-us-homebuilding-through-multi-year-commercial-agreement-with-dr-horton-302906542.html",
+        "https://www.roboticstomorrow.com/news/2026/10/13/promise-robotics-expands-physical-ai-production-infrastructure-for-us-homebuilding-through-multi-year-commercial-agreement-with-dr-horton/27236/"
+      ],
+      "publishedAt": "2026-10-13T09:05:00-04:00",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "สัญญาลูกค้ารายใหญ่มีปริมาณบ้านชัดเจน เป็นการใช้หุ่นยนต์ผลิตจริงคนละเหตุการณ์กับโรงงาน Amazon และโครงการอื่นในประวัติ",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2011783/Promise-Robotics-Logo.jpg?id=OA3014366",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=LA70402&Transmission_Id=202610130905PR_NEWS_USPR_____LA70402&DateId=20261013",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scan-olo-browser-robotics-partnership-2026",
+      "storyKey": "scan-olo-browser-robotics-partnership-2026",
+      "originalTitle": "Scan Computers partners with OLO Robotics to make advanced robots easier to deploy  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/13/scan-computers-partners-with-olo-robotics-to-make-advanced-robots-easier-to-deploy/27233/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/13/scan-computers-partners-with-olo-robotics-to-make-advanced-robots-easier-to-deploy/27233/",
+        "https://www.azorobotics.com/News.aspx?newsID=16500"
+      ],
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "ความร่วมมือใหม่เชื่อมเครื่องมือกับช่องทางจำหน่าย มีรายละเอียดสถาปัตยกรรมและการใช้งาน ไม่ใช่บทแนะนำเก่า",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/banner-engineering-rsio-remote-safe-io-blocks.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yyforce-novotel-mercure-service-robot-rollout-plan-2026",
+      "storyKey": "yyforce-novotel-mercure-service-robot-rollout-plan-2026",
+      "originalTitle": "YYForce Brings Humanoid Robots to Hospitality in Landmark Partnership with Novotel & Mercure Singapore on Stevens",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel--mercure-singapore-on-stevens-302906557.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel--mercure-singapore-on-stevens-302906557.html",
+        "https://robotnews.vercel.app/articles/yyforce-singapore-robotics-training-center-2026.html"
+      ],
+      "publishedAt": "2026-10-13T16:05:00-04:00",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "ต่างจากข่าวศูนย์ฝึกวันที่ 7 ต.ค.: มีคู่ค้าโรงแรมสองแห่ง ขอบเขตงานและขั้นเตรียมอาคารใหม่; เทียบ yyforce-singapore-robotics-training-center-2026 แล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1982800/20260907040718EDT_image_2.jpg?id=OA3014899",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN70581&Transmission_Id=202610131605PR_NEWS_USPR_____CN70581&DateId=20261013",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1982800/20260907040718EDT_image_2.jpg?id=OA2995110",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1982800/20260907040718EDT_image_2.jpg?id=OA2989911",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRT.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dominion-tencore-canadian-termit-production-mou-2026",
+      "storyKey": "dominion-tencore-canadian-termit-production-mou-2026",
+      "originalTitle": "Dominion Dynamics and TENCORE partner to manufacture uncrewed ground vehicles in Canada for Ukraine, adding Canadian autonomy stack",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/dominion-dynamics-and-tencore-partner-to-manufacture-uncrewed-ground-vehicles-in-canada-for-ukraine-adding-canadian-autonomy-stack-302907547.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/dominion-dynamics-and-tencore-partner-to-manufacture-uncrewed-ground-vehicles-in-canada-for-ukraine-adding-canadian-autonomy-stack-302907547.html"
+      ],
+      "publishedAt": "2026-10-13T15:24:00-04:00",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "ความร่วมมือผลิตข้ามประเทศใหม่ มีเป้าหมายปีและการถ่ายทอดชัดเจน ต่างจาก AM General–XTEND",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2012332/Dominion-Dynamics-Dominion-Dynamics-and-TENCORE-partner-to-manuf.jpg?id=OA3016055",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=TO71283&Transmission_Id=202610131524PR_NEWS_USPR_____TO71283&DateId=20261013",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/3002172/Dominion_Dynamics_Dominion_Dynamics_raises__139M_CAD_Series_A_to.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/2863063/Dominion_Dynamics_Dominion_Dynamics_Raises__21M_CAD_Seed_Round_L.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/ARO.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/SCL.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/STM.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dynamic-creatures-hugo-43-actuator-demo-2026",
+      "storyKey": "dynamic-creatures-hugo-43-actuator-demo-2026",
+      "originalTitle": "Dynamic Creatures Introduces Hugo, a Furry Character Robot With 43 Actuators",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot",
+        "https://www.youtube.com/watch?v=NT7PEX4IlY8",
+        "https://bostondynamics.com/news/dynamic-creatures-launches-mobile-interactive-character-robots-for-hospitality-and-entertainment/"
+      ],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "วิดีโอ Hugo ใหม่วันที่ 12 ต.ค. เพิ่มรูปแบบและตัวขับ 43 ชุดจากข่าวเปิดบริษัทเดือน ก.ย.; ไม่สรุปว่าทำงานอัตโนมัติพร้อมขาย",
+      "score": 15,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dynamic-creatures-founders.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/arc-singapore-humanoid-fight-night-SAqz1kEQVTx8mcEqrsgmPUIvlfgZ0c.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "google-argon-apollo-cornhole-sim-feedback-demo-2026",
+      "storyKey": "google-argon-apollo-cornhole-sim-feedback-demo-2026",
+      "originalTitle": "Gemini 4 Argon Takes Apollo From Human Video to Seven Straight Cornhole Shots",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics",
+        "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "https://x.com/Google/status/2110041301253075358",
+        "https://x.com/mendonca_rl/status/2110060752774242742",
+        "https://x.com/mendonca_rl/status/2110067675074535792"
+      ],
+      "publishedAt": "2026-10-13T18:40:29.648Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "เดโมซอฟต์แวร์และ Apollo ใหม่ ไม่ซ้ำข่าวแล็บ Cambridge; ข่าวรวม frontier models มีเหตุการณ์เดียวกันจึงไม่นับแยก",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 3,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/apptronik-1788645959230.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-screenshot.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-deepmind.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/waymo-tornado.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sorting-clothes.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/images/gemini-apollo.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/scottlavalley-deepmind.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robros-korea-20-robot-industrial-sandbox-approval-2026",
+      "storyKey": "robros-korea-20-robot-industrial-sandbox-approval-2026",
+      "originalTitle": "South Korea Approves 20-Robot Robros Trial Across Industrial Sites",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/robros-20-humanoid-industrial-trial-korea"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/robros-20-humanoid-industrial-trial-korea",
+        "https://en.sedaily.com/finance/2026/10/13/korea-clears-first-factory-test-of-20-humanoid-robots"
+      ],
+      "publishedAt": "2026-10-13T09:06:41.908Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "อนุมัติสนามทดลองใหม่พร้อมจำนวนและสถานที่ ไม่ซ้ำเดโม teleoperation เก่า; เกี่ยวข้องกับงานโรงงานไทยโดยตรง",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robros-igris-c-full-body-teleoperation-k1nQf2e3NTq4DLFNsKRiTijOSkW9GR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-film-rmac-overview-7vYjjsSSC5SXua2Yv5ng3thsdGUHRX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-production-hero-csAk5j9IYKKovQXkt7JFndWXhQNsHt.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hylight-13m-airship-inspection-funding-2026",
+      "storyKey": "hylight-13m-airship-inspection-funding-2026",
+      "originalTitle": "French deeptech HyLight raises €13M to industrialise autonomous hydrogen-powered airships",
+      "urls": [
+        "https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/"
+      ],
+      "references": [
+        "https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/",
+        "https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/"
+      ],
+      "publishedAt": "2026-10-12T14:59:37Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "ทุนใหม่ 12 ต.ค. สำหรับบริการตรวจจริงและเป้าขยายกองเรือ ตรวจวันจาก EU-Startups ก่อน Tech.eu 13 ต.ค.",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://tech.eu/img/techeu-color.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tech.eu/v8/img/bg_comment.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://sa-api.tech.eu/noscript.gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TLK3423",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "elsight-halo-cellular-positioning-launch-2026",
+      "storyKey": "elsight-halo-cellular-positioning-launch-2026",
+      "originalTitle": "Elsight Launches Cellular-Based Positioning for GPS-Denied Uncrewed Systems",
+      "urls": [
+        "https://dronelife.com/2026/10/13/elsight-launches-cellular-based-positioning-for-gps-denied-uncrewed-systems/"
+      ],
+      "references": [
+        "https://dronelife.com/2026/10/13/elsight-launches-cellular-based-positioning-for-gps-denied-uncrewed-systems/",
+        "https://www.elsight.com/application/positioning/"
+      ],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "คุณสมบัติใหม่ Halo ประกาศ 12 ต.ค. มีวิธีเชื่อมซอฟต์แวร์และแหล่งข้อมูลตำแหน่งชัดเจน ไม่ใช้คำกล่าวว่าไร้ข้อจำกัดทุกพื้นที่",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/06/cropped-dronelife-logo.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/10/Apellix2.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2026/08/power-wash-b2-hero.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/01/IF800-Gremsy-VIO-F1-DSC03496-Enhanced-NR-Sm2-e1705096193765.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/07/Global-Mapper-GCP.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/06/Higher_Point_Cloud_Densities_Transparent_Small-1-3.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dronelife.com/wp-content/uploads/2024/04/Correlator3D-Version-10_Higher-Point-Cloud-Densities-e1712526619223.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "monopulse-over2m-production-funding-2026",
+      "storyKey": "monopulse-over2m-production-funding-2026",
+      "originalTitle": "Monopulse raises over €2M to advance electronic warfare-resistant drones",
+      "urls": [
+        "https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/"
+      ],
+      "references": [
+        "https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/",
+        "https://www.monopulse.eu/"
+      ],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "addedAt": "2026-10-13T22:12:12.937Z",
+      "runId": "2026-10-14",
+      "reason": "ทุนใหม่วันที่ 12 ต.ค. เพื่อขยายการผลิตจากลูกค้าเดิม เลือกแทนข่าวโรงงาน Badland ซึ่งเปิดตั้งแต่ 8 ต.ค.",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://tech.eu/img/techeu-color.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tech.eu/v8/img/bg_comment.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://sa-api.tech.eu/noscript.gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TLK3423",
+            "reason": "tracking"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -7636,6 +8257,23 @@
         "amap-sands-tutu-robot-guides-delivery-2026",
         "stryker-cmr-versius-equity-alliance-2026",
         "jaka-kargo50-zu50-ciif-debut-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-14",
+      "batchHash": "46e7de348770bacd93726709c9a18ee1c7d45fc9317794bc04dac6d24ff33b9d",
+      "preparedAt": "2026-10-13T22:12:12.937Z",
+      "articleIds": [
+        "promise-drhorton-1250-homes-agreement-2026",
+        "scan-olo-browser-robotics-partnership-2026",
+        "yyforce-novotel-mercure-service-robot-rollout-plan-2026",
+        "dominion-tencore-canadian-termit-production-mou-2026",
+        "dynamic-creatures-hugo-43-actuator-demo-2026",
+        "google-argon-apollo-cornhole-sim-feedback-demo-2026",
+        "robros-korea-20-robot-industrial-sandbox-approval-2026",
+        "hylight-13m-airship-inspection-funding-2026",
+        "elsight-halo-cellular-positioning-launch-2026",
+        "monopulse-over2m-production-funding-2026"
       ]
     }
   ]

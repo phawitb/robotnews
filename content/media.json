@@ -1858,5 +1858,119 @@
       }
     ],
     "videos": []
+  },
+  "promise-drhorton-1250-homes-agreement-2026": {
+    "images": [],
+    "videos": []
+  },
+  "scan-olo-browser-robotics-partnership-2026": {
+    "images": [],
+    "videos": []
+  },
+  "yyforce-novotel-mercure-service-robot-rollout-plan-2026": {
+    "images": [],
+    "videos": []
+  },
+  "dominion-tencore-canadian-termit-production-mou-2026": {
+    "images": [],
+    "videos": []
+  },
+  "dynamic-creatures-hugo-43-actuator-demo-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp",
+        "alt": "Hugo หุ่นยนต์ขนฟูสีม่วงยกมือในสำนักงาน",
+        "caption": "Hugo หุ่นยนต์ขนฟูสีม่วงยกมือในสำนักงาน · ภาพ: Dynamic Creatures / Humanoids Daily"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-development-screen-jCiFzgrwohF3Q0e4y6BAnir1R8ZU9n.webp",
+        "alt": "หน้าจอพัฒนาแสดงโครงสร้างภายใน Hugo โดยยังไม่ยืนยันรุ่นฮาร์ดแวร์",
+        "caption": "หน้าจอพัฒนาแสดงโครงสร้างภายใน Hugo โดยยังไม่ยืนยันรุ่นฮาร์ดแวร์ · ภาพ: Dynamic Creatures / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=NT7PEX4IlY8",
+        "title": "เปิดตัว Hugo · Dynamic Creatures · 12 ตุลาคม 2026",
+        "embed": "https://www.youtube-nocookie.com/embed/NT7PEX4IlY8"
+      }
+    ]
+  },
+  "google-argon-apollo-cornhole-sim-feedback-demo-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp",
+        "alt": "Apollo อยู่ข้างกระดาน cornhole ในห้องทดลอง",
+        "caption": "Apollo อยู่ข้างกระดาน cornhole ในห้องทดลอง · ภาพ: Google DeepMind / Google / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/Google/status/2110041301253075358",
+        "title": "Apollo ฝึกและเล่น cornhole · Google",
+        "note": "เปิดชมโพสต์วิดีโอบน X การเล่นขึ้นกับการเข้าถึงของแพลตฟอร์ม"
+      },
+      {
+        "kind": "link",
+        "url": "https://x.com/mendonca_rl/status/2110060752774242742",
+        "title": "คำอธิบายการเรียนรู้ cornhole · Russell Mendonca",
+        "note": "เปิดชมโพสต์วิดีโอบน X การเล่นขึ้นกับการเข้าถึงของแพลตฟอร์ม"
+      },
+      {
+        "kind": "link",
+        "url": "https://x.com/mendonca_rl/status/2110067675074535792",
+        "title": "แผนวิดีโอจาก Gemini Omni สำหรับเรียง ARGON (ภาพจำลอง)",
+        "note": "เปิดชมโพสต์วิดีโอบน X การเล่นขึ้นกับการเข้าถึงของแพลตฟอร์ม"
+      }
+    ]
+  },
+  "robros-korea-20-robot-industrial-sandbox-approval-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robros-igris-c-auto-bagger-hero-nrAb6BLqNF6pVVpU1075HpInHX39ZH.webp",
+        "alt": "IGRIS-C ข้างเครื่องบรรจุถุงในเดโมเดิม ไม่ใช่ภาพผลการทดลอง 20 ตัว",
+        "caption": "IGRIS-C ข้างเครื่องบรรจุถุงในเดโมเดิม ไม่ใช่ภาพผลการทดลอง 20 ตัว · ภาพ: ROBROS / YouTube / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=PMDifkVJ0Uk",
+        "title": "เดโมเดิม IGRIS-C Auto Bagger · ไม่ใช่ผลจากการทดลอง 20 ตัว",
+        "embed": "https://www.youtube-nocookie.com/embed/PMDifkVJ0Uk"
+      }
+    ]
+  },
+  "hylight-13m-airship-inspection-funding-2026": {
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-5-999.png",
+        "alt": "ภาพประกอบข่าวเรือเหาะ HyLight สำหรับตรวจโครงสร้างพื้นฐาน",
+        "caption": "ภาพประกอบข่าวเรือเหาะ HyLight สำหรับตรวจโครงสร้างพื้นฐาน · ภาพ: Tech.eu / HyLight"
+      }
+    ],
+    "videos": []
+  },
+  "elsight-halo-cellular-positioning-launch-2026": {
+    "images": [
+      {
+        "url": "https://dronelife.com/wp-content/uploads/2026/10/Elsight-Positioning1-1.jpeg",
+        "alt": "หน้าจอ Elsight แสดงตำแหน่งหลายระบบด้วยข้อมูลจำลอง ไม่ใช่ผลทดสอบภาคสนาม",
+        "caption": "หน้าจอ Elsight แสดงตำแหน่งหลายระบบด้วยข้อมูลจำลอง ไม่ใช่ผลทดสอบภาคสนาม · ภาพ: Elsight / DRONELIFE"
+      }
+    ],
+    "videos": []
+  },
+  "monopulse-over2m-production-funding-2026": {
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-2-425.png",
+        "alt": "บุคคลสามคนในภาพประกอบข่าวการระดมทุน Monopulse",
+        "caption": "บุคคลสามคนในภาพประกอบข่าวการระดมทุน Monopulse · ภาพ: Tech.eu / Monopulse"
+      }
+    ],
+    "videos": []
   }
 }

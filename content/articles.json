@@ -1018,5 +1018,115 @@
     "url": "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026",
     "image": "https://cms-image.pandaily.com/1/jaka_kargo50_f5621c2fc6.png",
     "addedAt": "2026-10-12T22:14:41.241Z"
+  },
+  {
+    "id": "promise-drhorton-1250-homes-agreement-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-13",
+    "source": "Promise Robotics / PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/promise-robotics-expands-physical-ai-production-infrastructure-for-us-homebuilding-through-multi-year-commercial-agreement-with-dr-horton-302906542.html",
+    "title": "Promise Robotics จับมือ D.R. Horton ใช้โรงงานหุ่นยนต์รองรับบ้านกว่า 1,250 หลัง",
+    "summary": "ข้อตกลงหลายปีเปิดให้ผู้สร้างบ้านใช้กำลังผลิตอัตโนมัติ โดยไม่ต้องตั้งโรงงานเอง",
+    "image": "",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "scan-olo-browser-robotics-partnership-2026",
+    "category": "ai-automation",
+    "date": "2026-10-13",
+    "source": "OLO Robotics / RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/13/scan-computers-partners-with-olo-robotics-to-make-advanced-robots-easier-to-deploy/27233/",
+    "title": "Scan จับมือ OLO Robotics เชื่อมหุ่นยนต์ Unitree กับเครื่องมือผ่านเบราว์เซอร์",
+    "summary": "รวมการควบคุมระยะไกล จำลอง และนำทางบน ROS 2 เพื่อลดภาระเริ่มต้นใช้งาน",
+    "image": "",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "yyforce-novotel-mercure-service-robot-rollout-plan-2026",
+    "category": "industry-news",
+    "date": "2026-10-13",
+    "source": "YYForce / PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel--mercure-singapore-on-stevens-302906557.html",
+    "title": "YYForce เตรียมใช้หุ่นยนต์บริการใน Novotel และ Mercure Singapore on Stevens",
+    "summary": "แผนระยะแรกครอบคลุมส่งของ ทำความสะอาด และช่วยแขก ส่วนฮิวแมนนอยด์ยังเป็นงานวิจัยระยะถัดไป",
+    "image": "",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "dominion-tencore-canadian-termit-production-mou-2026",
+    "category": "industry-news",
+    "date": "2026-10-13",
+    "source": "Dominion Dynamics / PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/dominion-dynamics-and-tencore-partner-to-manufacture-uncrewed-ground-vehicles-in-canada-for-ukraine-adding-canadian-autonomy-stack-302907547.html",
+    "title": "Dominion และ TENCORE วางแผนผลิตรถหุ่นยนต์ TerMIT ในแคนาดาปี 2027",
+    "summary": "MoU ครอบคลุมถ่ายทอดการผลิตและเชื่อมซอฟต์แวร์ AuraNet โดยยังต้องทำข้อตกลงขั้นสุดท้าย",
+    "image": "",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "dynamic-creatures-hugo-43-actuator-demo-2026",
+    "category": "humanoids",
+    "date": "2026-10-12",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot",
+    "title": "Dynamic Creatures เผย Hugo หุ่นยนต์ตัวละครขนฟูพร้อมตัวขับ 43 ชุด",
+    "summary": "วิดีโอใหม่แสดงแนวทางงานต้อนรับและบันเทิง แต่ยังไม่พิสูจน์การทำงานกับแขกโดยไม่มีผู้ดูแล",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "google-argon-apollo-cornhole-sim-feedback-demo-2026",
+    "category": "research",
+    "date": "2026-10-13",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics",
+    "title": "Google สาธิต Argon ช่วย Apollo ฝึกโยนถุงลงหลุม ผ่านวิดีโอและการจำลอง",
+    "summary": "เดโมทำได้เจ็ดครั้งติดหลังฝึกและปรับจากผลจริง จึงไม่ใช่อัตราสำเร็จในการลองครั้งแรก",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "robros-korea-20-robot-industrial-sandbox-approval-2026",
+    "category": "humanoids",
+    "date": "2026-10-13",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/robros-20-humanoid-industrial-trial-korea",
+    "title": "เกาหลีใต้อนุมัติทดลอง Robros 20 ตัวในโรงงานและโลจิสติกส์",
+    "summary": "อนุญาตทดสอบในพื้นที่ใกล้คนภายใต้การประเมินความเสี่ยง ยังไม่ใช่รายงานผลผลิตที่ทำได้แล้ว",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robros-igris-c-auto-bagger-hero-nrAb6BLqNF6pVVpU1075HpInHX39ZH.webp",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "hylight-13m-airship-inspection-funding-2026",
+    "category": "drones",
+    "date": "2026-10-12",
+    "source": "Tech.eu",
+    "url": "https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/",
+    "title": "HyLight ได้ทุน 13 ล้านยูโร ขยายเรือเหาะอัตโนมัติตรวจโครงสร้างพื้นฐาน",
+    "summary": "วางแผนเพิ่มจาก 4 เป็น 15 ลำ พร้อมขยายระบบ AI วิเคราะห์ข้อมูลและตลาดยุโรป",
+    "image": "https://cdn.tech.eu/uploads/2026/10/untitled-design-5-999.png",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "elsight-halo-cellular-positioning-launch-2026",
+    "category": "drones",
+    "date": "2026-10-12",
+    "source": "DRONELIFE",
+    "url": "https://dronelife.com/2026/10/13/elsight-launches-cellular-based-positioning-for-gps-denied-uncrewed-systems/",
+    "title": "Elsight เปิดระบบระบุตำแหน่งผ่านเครือข่ายมือถือสำหรับ Halo",
+    "summary": "ใช้ข้อมูลหลายแหล่งเมื่อ GPS ใช้ไม่ได้ พร้อมตรวจจับความขัดแย้งของตำแหน่ง",
+    "image": "https://dronelife.com/wp-content/uploads/2026/10/Elsight-Positioning1-1.jpeg",
+    "addedAt": "2026-10-13T22:12:12.937Z"
+  },
+  {
+    "id": "monopulse-over2m-production-funding-2026",
+    "category": "drones",
+    "date": "2026-10-12",
+    "source": "Tech.eu",
+    "url": "https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/",
+    "title": "Monopulse ได้ทุนกว่า 2 ล้านยูโร ขยายการผลิตโดรนและงานวิจัย",
+    "summary": "เงินทุนรองรับการส่งมอบและขยายตลาด พร้อมพัฒนาความทนทานเมื่อสัญญาณสื่อสารหรือนำทางขัดข้อง",
+    "image": "https://cdn.tech.eu/uploads/2026/10/untitled-design-2-425.png",
+    "addedAt": "2026-10-13T22:12:12.937Z"
   }
 ]

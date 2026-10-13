@@ -3894,5 +3894,332 @@
       }
     ],
     "videos": []
+  },
+  "promise-drhorton-1250-homes-agreement-2026": {
+    "title": "Promise Robotics signs D.R. Horton agreement for more than 1,250 homes",
+    "summary": "A multi-year agreement gives the homebuilder access to robotic production capacity without building its own factories.",
+    "sections": [
+      {
+        "heading": "A multi-year production agreement",
+        "paragraphs": [
+          "Promise Robotics announced a commercial agreement with D.R. Horton to support production of more than 1,250 homes through Factory-as-a-Service. Promise calls it the first major US homebuilder on the platform as its US factory network expands."
+        ]
+      },
+      {
+        "heading": "Connecting designs with production",
+        "paragraphs": [
+          "The platform converts existing home designs into production plans and robot instructions, then coordinates manufacturing, factory operations and site installation. Builders gain access to capacity without developing and operating their own automated factories."
+        ]
+      },
+      {
+        "heading": "Delivery results remain to be measured",
+        "paragraphs": [
+          "The aim is greater capacity and more predictable cycles amid labour constraints. The agreed home count is not a completed-build count; the release provides neither project-level delivery schedules nor independently verified cost savings."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "scan-olo-browser-robotics-partnership-2026": {
+    "title": "Scan and OLO partner on browser-based Unitree robot deployment",
+    "summary": "The partnership combines hardware and AI infrastructure with browser tools for teleoperation, simulation and navigation.",
+    "sections": [
+      {
+        "heading": "Hardware meets deployment software",
+        "paragraphs": [
+          "Scan Computers and Sheffield-based OLO Robotics are combining Scan’s robots, AI infrastructure and technical services with OLO’s browser platform. Target applications include industrial inspection, research and prototyping."
+        ]
+      },
+      {
+        "heading": "Test before deployment",
+        "paragraphs": [
+          "Built on ROS 2, OLO brings together teleoperation, simulation, sensor monitoring and autonomous navigation. Teams can develop and test behaviour virtually before deploying it on Unitree robots supplied by Scan, using browser-based tools."
+        ]
+      },
+      {
+        "heading": "A lower starting barrier",
+        "paragraphs": [
+          "The partners aim to reduce the initial dependence on specialist ROS developers, not prove that every installation needs no engineering. No measured deployment times or safety results are reported. A demonstration is planned at Scan booth 3068 at GTC Berlin, October 20–22."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "yyforce-novotel-mercure-service-robot-rollout-plan-2026": {
+    "title": "YYForce plans service robots at two Singapore on Stevens hotels",
+    "summary": "Deliveries, cleaning and concierge support come first; humanoid housekeeping remains a later research programme.",
+    "sections": [
+      {
+        "heading": "A two-hotel operating environment",
+        "paragraphs": [
+          "YYForce, Novotel Singapore on Stevens and Mercure Singapore on Stevens announced a partnership across 772 guestrooms, restaurants and event spaces. The service-robot rollout is confirmed, but the release explicitly says deployment has not begun."
+        ]
+      },
+      {
+        "heading": "Prepare the building interfaces",
+        "paragraphs": [
+          "Phase one covers specialist robots for guest deliveries, food-and-beverage transport, scheduled cleaning and concierge directions. Lift integration, routes, networking and arrival notifications must be prepared, with tasks matched to capability and technical readiness."
+        ]
+      },
+      {
+        "heading": "Savings are projections",
+        "paragraphs": [
+          "A pre-deployment model projects roughly 10% lower monthly costs in selected operations, including robot costs; this is not a measured outcome. Later research would use permitted observations of housekeeping and banquet work, not establish autonomous cleaning of occupied guestrooms."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "dominion-tencore-canadian-termit-production-mou-2026": {
+    "title": "Dominion and TENCORE plan Canadian TerMIT production for 2027",
+    "summary": "An MoU covers manufacturing transfer and AuraNet integration; definitive agreements remain to be completed.",
+    "sections": [
+      {
+        "heading": "An initial memorandum",
+        "paragraphs": [
+          "Ottawa-based Dominion Dynamics and Ukraine’s TENCORE signed an MoU to manufacture TerMIT uncrewed ground vehicles in Canada and integrate Dominion’s AuraNet. The AUSA 2026 signing in Washington targets initial production in 2027."
+        ]
+      },
+      {
+        "heading": "Manufacturing transfer and training",
+        "paragraphs": [
+          "A TENCORE team will lead technology transfer and train Canadian technicians. TENCORE reports delivering more than 5,000 UGVs to Ukrainian units since 2024; that historical figure is not a new order or delivery commitment under this MoU."
+        ]
+      },
+      {
+        "heading": "Plans still require execution",
+        "paragraphs": [
+          "The partners intend to add AuraNet onboard and pursue an Arctic-capable version. Definitive agreements remain outstanding, so the announcement does not establish an operating Canadian line, new delivery volumes or test results for the combined system."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "dynamic-creatures-hugo-43-actuator-demo-2026": {
+    "title": "Dynamic Creatures shows Hugo, a character robot with 43 actuators",
+    "summary": "The new video illustrates its hospitality ambitions; unsupervised guest interaction remains unproven.",
+    "sections": [
+      {
+        "heading": "A mobile guest-facing character",
+        "paragraphs": [
+          "Dynamic Creatures released a Hugo video on October 12, showing a purple furry robot raising a hand and moving through an office. The company describes 43 actuators combined with character design and expressive movement for entertainment and hospitality."
+        ]
+      },
+      {
+        "heading": "Expression remains in development",
+        "paragraphs": [
+          "Its Vision-Language-Expression model is being developed to connect perception and language with gestures, movement and emotional expression. Navigation and close-contact safety are also described as work in progress, not fully established capabilities."
+        ]
+      },
+      {
+        "heading": "Autonomy and hardware are unconfirmed",
+        "paragraphs": [
+          "A development-screen image resembles a modified Unitree G1, but the company has not confirmed that identification. Its earlier Boston Dynamics partnership does not identify Hugo’s hardware either. The clip provides no intervention rate or sustained guest-operation results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp",
+        "alt": "Hugo, a purple furry robot, raises a hand in an office",
+        "caption": "Hugo, a purple furry robot, raises a hand in an office · Image: Dynamic Creatures / Humanoids Daily"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-development-screen-jCiFzgrwohF3Q0e4y6BAnir1R8ZU9n.webp",
+        "alt": "Development screen showing Hugo’s structure; the underlying hardware is unconfirmed",
+        "caption": "Development screen showing Hugo’s structure; the underlying hardware is unconfirmed · Image: Dynamic Creatures / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=NT7PEX4IlY8",
+        "title": "Introducing Hugo · Dynamic Creatures · October 12, 2026"
+      }
+    ]
+  },
+  "google-argon-apollo-cornhole-sim-feedback-demo-2026": {
+    "title": "Google shows Argon helping Apollo learn cornhole through simulation",
+    "summary": "Seven consecutive successful throws follow practice and physical feedback, rather than demonstrating a first-attempt success rate.",
+    "sections": [
+      {
+        "heading": "From observation to simulation",
+        "paragraphs": [
+          "Google showed Gemini 4 Argon observing a human cornhole video, helping construct a MuJoCo environment and refining movement before transfer to Apptronik’s Apollo. The company demonstrated seven consecutive successful throws."
+        ]
+      },
+      {
+        "heading": "Physical feedback is part of the process",
+        "paragraphs": [
+          "The account includes stance, swing and release adjustments using bag landing positions on real hardware. The streak supplies neither the total attempt count nor the human engineering effort, so it cannot establish general accuracy or first-attempt success."
+        ]
+      },
+      {
+        "heading": "Keep generated plans separate",
+        "paragraphs": [
+          "Another linked demonstration uses Argon to iteratively steer Gemini Omni video toward spelling ARGON; it is a generated plan, not evidence of that physical task. The reported 87% ERQA score is an image-and-text reasoning result, not an 87% robot task-success rate."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp",
+        "alt": "Apollo beside a cornhole board in the lab",
+        "caption": "Apollo beside a cornhole board in the lab · Image: Google DeepMind / Google / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/Google/status/2110041301253075358",
+        "title": "Apollo learning and playing cornhole · Google",
+        "note": "Open the video post on X; playback depends on platform access."
+      },
+      {
+        "url": "https://x.com/mendonca_rl/status/2110060752774242742",
+        "title": "Cornhole learning explanation · Russell Mendonca",
+        "note": "Open the video post on X; playback depends on platform access."
+      },
+      {
+        "url": "https://x.com/mendonca_rl/status/2110067675074535792",
+        "title": "Gemini Omni video plan spelling ARGON (generated simulation)",
+        "note": "Open the video post on X; playback depends on platform access."
+      }
+    ]
+  },
+  "robros-korea-20-robot-industrial-sandbox-approval-2026": {
+    "title": "South Korea clears a 20-robot Robros industrial trial",
+    "summary": "The sandbox permits testing near workers with risk controls; it is not a completed factory-performance result.",
+    "sections": [
+      {
+        "heading": "Permission for real-site testing",
+        "paragraphs": [
+          "Seoul Economic Daily reports that South Korea granted Robros a regulatory-sandbox exemption to trial 20 humanoids at manufacturing and logistics sites. This authorizes testing; it does not establish that all robots are deployed or have passed performance tests."
+        ]
+      },
+      {
+        "heading": "Four industrial settings",
+        "paragraphs": [
+          "The named sites are Nepes, Sungwoo Hitech, HD Hyundai Samho and Delivery Lab. Planned tasks include cleaning semiconductor-packaging components, positioning vehicle body parts, stacking shipbuilding support components and moving refrigerated logistics containers."
+        ]
+      },
+      {
+        "heading": "Evidence for future safety standards",
+        "paragraphs": [
+          "Work near people requires risk assessment and mitigation, with trial evidence intended to inform future standards. Robros’s separate AI roadmap for the first half of 2027 does not establish that the future model powers this trial or that these tasks already run autonomously."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robros-igris-c-auto-bagger-hero-nrAb6BLqNF6pVVpU1075HpInHX39ZH.webp",
+        "alt": "IGRIS-C beside a bagging machine in an earlier demo, not a result from the 20-robot trial",
+        "caption": "IGRIS-C beside a bagging machine in an earlier demo, not a result from the 20-robot trial · Image: ROBROS / YouTube / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=PMDifkVJ0Uk",
+        "title": "Earlier IGRIS-C Auto Bagger demo · not a result of the 20-robot trial"
+      }
+    ]
+  },
+  "hylight-13m-airship-inspection-funding-2026": {
+    "title": "HyLight raises €13 million to expand autonomous inspection airships",
+    "summary": "The company targets a fleet increase from four to 15 while expanding AI analysis and European operations.",
+    "sections": [
+      {
+        "heading": "Funding inspection services",
+        "paragraphs": [
+          "French company HyLight raised €13 million from Rubio Impact Ventures, DRW and Teampact Ventures alongside existing investors. Its hydrogen-powered airships inspect power lines, pipelines and railways, with a target of 15 aircraft by 2027 versus four today."
+        ]
+      },
+      {
+        "heading": "Endurance and sensing",
+        "paragraphs": [
+          "The 12-metre HyLighter is specified for up to ten hours of flight and ten kilograms of sensors, including LiDAR, cameras and methane detectors. The company says its analysis locates vegetation risks and more than 50 types of power-grid defects."
+        ]
+      },
+      {
+        "heading": "Scaling an integrated service",
+        "paragraphs": [
+          "HyLight builds and operates its aircraft and supplies analysis to customers including Enedis, NaTran, Téréga, SNCF Réseau and VINCI. Funding supports manufacturing, hiring and markets such as Germany and the Netherlands; 15 aircraft remains a target and flights require applicable permissions."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-5-999.png",
+        "alt": "Article image illustrating HyLight infrastructure-inspection airships",
+        "caption": "Article image illustrating HyLight infrastructure-inspection airships · Image: Tech.eu / HyLight"
+      }
+    ],
+    "videos": []
+  },
+  "elsight-halo-cellular-positioning-launch-2026": {
+    "title": "Elsight introduces cellular positioning for Halo",
+    "summary": "The feature combines multiple inputs when GPS fails and checks satellite positions against cellular-derived location.",
+    "sections": [
+      {
+        "heading": "A software-enabled Halo feature",
+        "paragraphs": [
+          "Elsight announced Positioning on October 12 for uncrewed air, ground and maritime systems. Existing Halo customers can enable it through software without additional hardware; new customers still need Halo as the base platform."
+        ]
+      },
+      {
+        "heading": "Combine cellular and other inputs",
+        "paragraphs": [
+          "The system derives location from cellular network measurements and fuses base-station, motion and trusted GPS inputs. Elsight describes spoofing detection that compares GPS with cellular-derived position and alerts when the difference exceeds a threshold."
+        ]
+      },
+      {
+        "heading": "Validate the operating environment",
+        "paragraphs": [
+          "The vendor says internet access and visual references are unnecessary, but the method still relies on available cellular measurements. No environment-specific accuracy figures or independent test results are supplied; coverage and behaviour with insufficient inputs remain evaluation questions."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://dronelife.com/wp-content/uploads/2026/10/Elsight-Positioning1-1.jpeg",
+        "alt": "Elsight display using simulated multi-platform location data, not field-test results",
+        "caption": "Elsight display using simulated multi-platform location data, not field-test results · Image: Elsight / DRONELIFE"
+      }
+    ],
+    "videos": []
+  },
+  "monopulse-over2m-production-funding-2026": {
+    "title": "Monopulse raises more than €2 million for production and R&D",
+    "summary": "The investment supports manufacturing and market expansion alongside work on resilience to disrupted communications and navigation.",
+    "sections": [
+      {
+        "heading": "Capital for manufacturing growth",
+        "paragraphs": [
+          "MNP Technologijos, trading as Monopulse, raised more than €2 million from Lithuanian and international investors. Participants include Coinvest Capital, Plug and Play, LitBAN and an NGL Ventures syndicate contributing €560,000 from 68 investors."
+        ]
+      },
+      {
+        "heading": "Hardware and software development",
+        "paragraphs": [
+          "The Danish-Lithuanian company develops Falcon MK3S and HydroHex systems, combining electronics, sensor fusion, computer vision and AI. Maintaining communication or autonomous operation when signals are disrupted is a development focus, not a guarantee against every interference condition."
+        ]
+      },
+      {
+        "heading": "Watch production and delivery",
+        "paragraphs": [
+          "Tech.eu reports existing use by Lithuanian and Danish armed forces. The investment supports manufacturing, R&D and expansion in Scandinavia and other international markets, without specifying added unit capacity or independently comparable resilience results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-2-425.png",
+        "alt": "Three people in the image accompanying Monopulse’s funding announcement",
+        "caption": "Three people in the image accompanying Monopulse’s funding announcement · Image: Tech.eu / Monopulse"
+      }
+    ],
+    "videos": []
   }
 }
