@@ -4221,5 +4221,342 @@
       }
     ],
     "videos": []
+  },
+  "piab-ps-series-vacuum-sensors-launch-2026": {
+    "title": "Piab launches PS Series vacuum sensors for automated handling",
+    "summary": "Three variants span analog monitoring, switching and IO-Link, with NFC setup for supported switches.",
+    "sections": [
+      {
+        "heading": "Feedback at the handling point",
+        "paragraphs": [
+          "Piab introduced the PS Series on October 14 to expose vacuum levels, switching status and operating feedback close to the application. The range is intended to help automated vacuum handling respond to changing conditions."
+        ]
+      },
+      {
+        "heading": "Three connection options",
+        "paragraphs": [
+          "PS.VA provides continuous analog monitoring. PS.VS combines digital switching and analog output, while PS.VSI adds IO-Link for integration into automation systems needing richer digital feedback."
+        ]
+      },
+      {
+        "heading": "Phone-based commissioning",
+        "paragraphs": [
+          "The Piab Connect app uses NFC to adjust settings, copy configurations and read statistics on supported switches. Easier commissioning is the intended benefit; the announcement provides neither pricing nor field-test reductions in handling failures."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "dji-dock4-matrice5td-battery-swap-launch-2026": {
+    "title": "DJI launches Dock 4 with 25-second automatic battery swaps",
+    "summary": "The Matrice 5TD pairing targets shorter gaps between emergency-response and inspection flights.",
+    "sections": [
+      {
+        "heading": "Less turnaround between missions",
+        "paragraphs": [
+          "DJI launched Dock 4 with the Matrice 5TD, claiming a 25-second automatic battery swap instead of an approximately 30-minute recharge. The drone’s stated maximum endurance is 59 minutes, targeting response teams and scheduled inspections."
+        ]
+      },
+      {
+        "heading": "Multiple sensing systems",
+        "paragraphs": [
+          "Matrice 5TD combines telephoto, infrared and night imaging with laser ranging. Three-direction mmWave radar, rotating LiDAR and six-direction vision support obstacle detection. An O4 Ground Station can improve communications around obstructions."
+        ]
+      },
+      {
+        "heading": "Performance has conditions",
+        "paragraphs": [
+          "DJI specifies a −40°C to 50°C operating range for Dock 4 and sales through Enterprise dealers. Performance figures come from controlled testing; some features depend on paired equipment and region, requiring deployment-specific checks."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "fort-connectivity-aggregation-launch-2026": {
+    "title": "FORT launches Connectivity Aggregation for robotic communications",
+    "summary": "The software combines cellular, satellite, Wi-Fi and radio links and can run on customer hardware.",
+    "sections": [
+      {
+        "heading": "Reducing single-network dependence",
+        "paragraphs": [
+          "FORT Robotics introduced Connectivity Aggregation at AUSA on October 14. It combines different connections into one adaptive link to preserve visibility and control over autonomous or remotely operated machines when a network degrades."
+        ]
+      },
+      {
+        "heading": "Flexible integration",
+        "paragraphs": [
+          "The software supports public and private cellular, satellite, Wi-Fi and radio networks. FORT says proprietary devices or custom cellular links are unnecessary: customers can use their own hardware, deploy it independently or integrate its wider platform."
+        ]
+      },
+      {
+        "heading": "Rollout is not a universal guarantee",
+        "paragraphs": [
+          "FORT reports an active rollout with several defence customers and offers integration support. No independently verified latency or availability measurements accompany the announcement, so uninterrupted operation in every environment is not established."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.fortrobotics.com/hubfs/FORT%20Connectivity%20Aggregation%20for%20Defense.jpeg",
+        "alt": "Illustration of FORT Connectivity Aggregation",
+        "caption": "Illustration of FORT Connectivity Aggregation · Image: FORT Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "agility-s4-effective-november2-vote-2026": {
+    "title": "Agility sets November 2 merger vote after S-4 becomes effective",
+    "summary": "The Nasdaq transaction advances, while financing and completion remain conditional.",
+    "sections": [
+      {
+        "heading": "The next transaction milestone",
+        "paragraphs": [
+          "Agility says the S-4 for its Churchill Capital Corp XI combination became effective on October 13. Churchill XI shareholders will vote on November 2. Closing is expected in November, followed by a Nasdaq listing as AGLT."
+        ]
+      },
+      {
+        "heading": "Expected financing",
+        "paragraphs": [
+          "Projected gross proceeds exceed $620 million, including roughly $424 million in trust assuming no redemptions and about $200 million in a Foxconn-led PIPE. Agility intends to support orders, deployments and Digit 5 production."
+        ]
+      },
+      {
+        "heading": "Completion remains conditional",
+        "paragraphs": [
+          "An effective registration statement is not investment endorsement or a completed transaction. Shareholder approval and other conditions remain. This is a new financing milestone distinct from Digit 5’s launch, not evidence that all funds or robots have been delivered."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit5-sec-hero-FXhUFmvNoAzgiASt1J2WIfjNK3T7b1.webp",
+        "alt": "AI-assisted editorial composite of Agility’s logo and Digit 5, not a listing ceremony",
+        "caption": "AI-assisted editorial composite of Agility’s logo and Digit 5, not a listing ceremony · Image: Humanoids Daily / Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-atlas-prototype-build-time-video-2026": {
+    "title": "Boston Dynamics outlines an hour-long Atlas build ambition",
+    "summary": "A prototype-shop video describes roughly one-day builds today and closer links between machining, assembly and engineering.",
+    "sections": [
+      {
+        "heading": "Inside prototype operations",
+        "paragraphs": [
+          "A new Boston Dynamics film shows Atlas teams combining construction, testing, maintenance and repair. Senior technical programme manager Katie Conner describes roughly one-day robot builds today and an ambition for approximately an hour next year."
+        ]
+      },
+      {
+        "heading": "Machining close to engineering",
+        "paragraphs": [
+          "Keeping precision work such as gear cutting in-house lets engineers discuss changes directly with machinists. Staff describe some parts reaching assembly the same or next day, alongside process development and robotic arms used in assembly."
+        ]
+      },
+      {
+        "heading": "Build time is not shipment throughput",
+        "paragraphs": [
+          "The hour is a target, not an achieved result, and the film does not establish a shipment rate. Faster prototype work can accelerate hardware iteration, but its process boundaries must be understood before comparisons with other production lines."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+        "alt": "A technician beside Atlas in the prototype operations film",
+        "caption": "A technician beside Atlas in the prototype operations film · Image: Boston Dynamics / YouTube / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE",
+        "title": "Machine, Assemble, Repair: How We Build Atlas · Boston Dynamics"
+      }
+    ]
+  },
+  "physical-intelligence-api-beta-launch-2026": {
+    "title": "Physical Intelligence opens robot-model API beta",
+    "summary": "Developers can fine-tune on PI-managed infrastructure and access hosted inference, with admission in batches.",
+    "sections": [
+      {
+        "heading": "Managed training infrastructure",
+        "paragraphs": [
+          "Physical Intelligence announced its API beta on October 13. Teams upload demonstrations, fine-tune using PI-managed compute and access models through a hosted inference gateway, reducing infrastructure work for robot developers."
+        ]
+      },
+      {
+        "heading": "Iteration still needs real data",
+        "paragraphs": [
+          "Developers must test on hardware and collect new examples around failures. PI cites Almond’s dual-arm Axol deburring its own assembly spacers after four days of API iteration; this does not establish a four-day training time for every task."
+        ]
+      },
+      {
+        "heading": "Limited initial access",
+        "paragraphs": [
+          "The beta starts small and requires an application. Most demonstrations used cloud inference, with connectivity challenges in some applications. Questions about local inference in the application form do not establish availability of a local deployment service."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+        "alt": "PI API demo montage including Formic; the central clip is marked 7× speed",
+        "caption": "PI API demo montage including Formic; the central clip is marked 7× speed · Image: Physical Intelligence / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "toro-haven-am75-2027-mower-announcement-2026": {
+    "title": "Toro announces HAVEN AM75 robotic mower for 2027",
+    "summary": "LiDAR navigation and app-defined boundaries target properties of up to three-quarters of an acre.",
+    "sections": [
+      {
+        "heading": "A residential robot for 2027",
+        "paragraphs": [
+          "Toro announced HAVEN AM75 for properties up to three-quarters of an acre, using LiDAR navigation and camera obstacle detection. Dealer, website and retail availability starts in 2027, rather than immediate delivery."
+        ]
+      },
+      {
+        "heading": "Mapping the lawn",
+        "paragraphs": [
+          "Automatic mapping detects grass edges. Where boundaries are unclear, users steer the mower through an app to define them and create exclusion zones. It is designed to cross paths between lawn areas and includes rain sensors."
+        ]
+      },
+      {
+        "heading": "Information still needed",
+        "paragraphs": [
+          "Pricing and independent child or pet avoidance results were not provided, leaving site suitability and maintenance to assess. The same announcement includes a separate ride-on TimeCutter range; its accompanying photograph does not depict the HAVEN robot."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2011655/Toro-robotic-mower-HAVEN-photo.jpg?id=OA3014081&p=original",
+        "alt": "Toro HAVEN AM75 robotic mower",
+        "caption": "Toro HAVEN AM75 robotic mower · Image: Toro / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2011657/Toro-50-inch-TimeCutter-photo.jpg?id=OA3014084&p=original",
+        "alt": "A ride-on TimeCutter from the same collection, not HAVEN",
+        "caption": "A ride-on TimeCutter from the same collection, not HAVEN · Image: Toro / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "hesai-kosmo-3d-world-data-engine-launch-2026": {
+    "title": "Hesai launches Kosmo to turn real spaces into robot-training scenes",
+    "summary": "Kosmo One capture hardware and Kosmo World processing generate 3DGS, mesh and depth assets.",
+    "sections": [
+      {
+        "heading": "Capturing environments for simulation",
+        "paragraphs": [
+          "Hesai launched Kosmo on October 14. Kosmo One combines LiDAR, a one-inch imaging sensor and an IMU to capture geometry, appearance and camera position. Kosmo World processes the data into scenes for robot training and world models."
+        ]
+      },
+      {
+        "heading": "Several assets from one reconstruction",
+        "paragraphs": [
+          "The platform generates 3D Gaussian Splatting, mesh and depth data, with object segmentation and AI filling of unscanned areas. It supports Isaac Sim and Isaac Lab. Hesai estimates 15 minutes to scan a typical 100-square-metre room, depending on layout."
+        ]
+      },
+      {
+        "heading": "Specifications and reported results",
+        "paragraphs": [
+          "Maximum capture is 8K, but exported files top out at 6K. Hesai cites a DQ deployment with 99% Sharpa task success and much faster scene preparation. Those vendor-reported case results are not a general benchmark or guarantee."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013339/1.jpg?id=OA3018954&p=original",
+        "alt": "Hesai’s Kosmo 3D world data engine",
+        "caption": "Hesai’s Kosmo 3D world data engine · Image: Hesai / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013338/2.jpg?id=OA3018955&p=original",
+        "alt": "Kosmo creates real-world scene data for robot training",
+        "caption": "Kosmo creates real-world scene data for robot training · Image: Hesai / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013337/3.jpg?id=OA3018956&p=original",
+        "alt": "LiDAR shipment growth as reported by Hesai",
+        "caption": "LiDAR shipment growth as reported by Hesai · Image: Hesai / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "tieriv-taisei-autoflow-three-vehicle-trial-2026": {
+    "title": "TIER IV and Taisei plan a three-vehicle Autoflow Road trial",
+    "summary": "An eight-day demonstration will test coordinated autonomous traffic and simpler infrastructure for dedicated logistics lanes.",
+    "sections": [
+      {
+        "heading": "An eight-day demonstration",
+        "paragraphs": [
+          "Taisei, TIER IV and Taisei Rotec were selected for Japan’s MLIT Autoflow Road programme, which envisages unmanned cargo vehicles in dedicated lanes. Three vehicles will run for eight days in late October–early November at a full-scale tunnel facility and test track."
+        ]
+      },
+      {
+        "heading": "Testing shared operating space",
+        "paragraphs": [
+          "Planned checks include following, opposing traffic, lane changes, merging, obstacle avoidance and berth stopping accuracy at different lane widths. Pilot.Auto, based on Autoware, will be evaluated alongside T-Localizer and roadside infrastructure."
+        ]
+      },
+      {
+        "heading": "Test vehicles are not final transporters",
+        "paragraphs": [
+          "The passenger-car-based vehicles are experimental, not final logistics hardware. Building on fiscal-2025 work, this round evaluates multiple vehicles and simpler sensor arrangements. Results from the new trial are not yet available."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "industrial-next-bmw-manipulation-evaluation-2026": {
+    "title": "Industrial Next and BMW will evaluate flexible robotic manipulation",
+    "summary": "Simulation and demonstrations train reconfigurable workstations; rapid changeovers remain company claims.",
+    "sections": [
+      {
+        "heading": "A manufacturing evaluation",
+        "paragraphs": [
+          "At TechCrunch Disrupt, Industrial Next announced a partnership with BMW Group Technology Office to evaluate AI-driven dexterous manipulation. Its self-contained robotic stations use proprietary models connecting vision, task context and motion."
+        ]
+      },
+      {
+        "heading": "Learning through simulation",
+        "paragraphs": [
+          "Detailed physics simulation and demonstrations teach tasks instead of fixed scripts. Stations can be reconfigured and redeployed. The founders report smartphone applications including flex-cable handling and film peeling, but do not identify that customer."
+        ]
+      },
+      {
+        "heading": "BMW results are still outstanding",
+        "paragraphs": [
+          "The company claims changeovers in minutes rather than weeks. The article provides no BMW measurements or independent validation. The partnership is an evaluation, not confirmation of a factory-wide rollout or fully autonomous end-to-end car production."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg",
+        "alt": "Factory illustration used with the article, not evidence of a BMW installation",
+        "caption": "Factory illustration used with the article, not evidence of a BMW installation · Image: Getty Images / TechCrunch"
+      },
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.53.56-PM.png",
+        "alt": "Robotics system shown by Industrial Next",
+        "caption": "Robotics system shown by Industrial Next · Image: Industrial Next / TechCrunch"
+      },
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.54.08-PM.png",
+        "alt": "Manipulation work shown in Industrial Next’s system",
+        "caption": "Manipulation work shown in Industrial Next’s system · Image: Industrial Next / TechCrunch"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=oLAH4RfCZXQ",
+        "title": "TechCrunch Disrupt 2026 event recording embedded in the article, including Startup Battlefield pitches"
+      }
+    ]
   }
 }

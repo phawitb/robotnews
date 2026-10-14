@@ -1972,5 +1972,126 @@
       }
     ],
     "videos": []
+  },
+  "piab-ps-series-vacuum-sensors-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "dji-dock4-matrice5td-battery-swap-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "fort-connectivity-aggregation-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.fortrobotics.com/hubfs/FORT%20Connectivity%20Aggregation%20for%20Defense.jpeg",
+        "alt": "ภาพประกอบระบบรวมเครือข่าย Connectivity Aggregation ของ FORT",
+        "caption": "ภาพประกอบระบบรวมเครือข่าย Connectivity Aggregation ของ FORT · ภาพ: FORT Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "agility-s4-effective-november2-vote-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit5-sec-hero-FXhUFmvNoAzgiASt1J2WIfjNK3T7b1.webp",
+        "alt": "ภาพตัดต่อด้วย AI ประกอบข่าว ใช้โลโก้และภาพ Digit 5 ไม่ใช่ภาพงานเข้าตลาด",
+        "caption": "ภาพตัดต่อด้วย AI ประกอบข่าว ใช้โลโก้และภาพ Digit 5 ไม่ใช่ภาพงานเข้าตลาด · ภาพ: Humanoids Daily / Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-atlas-prototype-build-time-video-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+        "alt": "ช่างอยู่ข้าง Atlas ในวิดีโอทีมปฏิบัติการต้นแบบ",
+        "caption": "ช่างอยู่ข้าง Atlas ในวิดีโอทีมปฏิบัติการต้นแบบ · ภาพ: Boston Dynamics / YouTube / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE",
+        "title": "การกลึง ประกอบ และซ่อม Atlas · Boston Dynamics",
+        "embed": "https://www.youtube-nocookie.com/embed/dP_i7hRvGpE"
+      }
+    ]
+  },
+  "physical-intelligence-api-beta-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+        "alt": "ภาพจากเดโม API ของ PI รวม Formic โดยคลิปกลางระบุเร่งความเร็ว 7 เท่า",
+        "caption": "ภาพจากเดโม API ของ PI รวม Formic โดยคลิปกลางระบุเร่งความเร็ว 7 เท่า · ภาพ: Physical Intelligence / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "toro-haven-am75-2027-mower-announcement-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2011655/Toro-robotic-mower-HAVEN-photo.jpg?id=OA3014081&p=original",
+        "alt": "หุ่นยนต์ตัดหญ้า HAVEN AM75 ของ Toro",
+        "caption": "หุ่นยนต์ตัดหญ้า HAVEN AM75 ของ Toro · ภาพ: Toro / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2011657/Toro-50-inch-TimeCutter-photo.jpg?id=OA3014084&p=original",
+        "alt": "TimeCutter แบบนั่งขับในคอลเลกชันเดียวกัน ไม่ใช่ HAVEN",
+        "caption": "TimeCutter แบบนั่งขับในคอลเลกชันเดียวกัน ไม่ใช่ HAVEN · ภาพ: Toro / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "hesai-kosmo-3d-world-data-engine-launch-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013339/1.jpg?id=OA3018954&p=original",
+        "alt": "Kosmo ระบบข้อมูลโลกสามมิติของ Hesai",
+        "caption": "Kosmo ระบบข้อมูลโลกสามมิติของ Hesai · ภาพ: Hesai / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013338/2.jpg?id=OA3018955&p=original",
+        "alt": "การสร้างข้อมูลฉากจริงเพื่อฝึกหุ่นยนต์ด้วย Kosmo",
+        "caption": "การสร้างข้อมูลฉากจริงเพื่อฝึกหุ่นยนต์ด้วย Kosmo · ภาพ: Hesai / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013337/3.jpg?id=OA3018956&p=original",
+        "alt": "กราฟยอดส่งมอบ LiDAR ตามข้อมูลที่ Hesai รายงาน",
+        "caption": "กราฟยอดส่งมอบ LiDAR ตามข้อมูลที่ Hesai รายงาน · ภาพ: Hesai / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "tieriv-taisei-autoflow-three-vehicle-trial-2026": {
+    "images": [],
+    "videos": []
+  },
+  "industrial-next-bmw-manipulation-evaluation-2026": {
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg",
+        "alt": "ภาพประกอบโรงงานในข่าว ไม่ใช่หลักฐานการติดตั้งที่ BMW",
+        "caption": "ภาพประกอบโรงงานในข่าว ไม่ใช่หลักฐานการติดตั้งที่ BMW · ภาพ: Getty Images / TechCrunch"
+      },
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.53.56-PM.png",
+        "alt": "ภาพระบบหุ่นยนต์จาก Industrial Next",
+        "caption": "ภาพระบบหุ่นยนต์จาก Industrial Next · ภาพ: Industrial Next / TechCrunch"
+      },
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.54.08-PM.png",
+        "alt": "ภาพงานหยิบจับในระบบ Industrial Next",
+        "caption": "ภาพงานหยิบจับในระบบ Industrial Next · ภาพ: Industrial Next / TechCrunch"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=oLAH4RfCZXQ",
+        "title": "บันทึกงาน TechCrunch Disrupt 2026 ที่บทความแนบ รวมการนำเสนอ Startup Battlefield",
+        "embed": "https://www.youtube-nocookie.com/embed/oLAH4RfCZXQ"
+      }
+    ]
   }
 }

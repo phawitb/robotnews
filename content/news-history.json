@@ -8120,6 +8120,701 @@
           }
         ]
       }
+    },
+    {
+      "id": "piab-ps-series-vacuum-sensors-launch-2026",
+      "storyKey": "piab-ps-series-vacuum-sensors-launch-2026",
+      "originalTitle": "Piab launches PS Series, a new range of compact electronic vacuum sensors and switches for smarter vacuum automation  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/14/piab-launches-ps-series-a-new-range-of-compact-electronic-vacuum-sensors-and-switches-for-smarter-vacuum-automation/27245/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/14/piab-launches-ps-series-a-new-range-of-compact-electronic-vacuum-sensors-and-switches-for-smarter-vacuum-automation/27245/"
+      ],
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ผลิตภัณฑ์ใหม่มีหน้าที่แต่ละรุ่นชัดเจน เหมาะงานหยิบจับในโรงงานไทย และไม่มีเหตุการณ์เดียวกันในข่าวเดิม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/pi-usa-why-use-a-hexapod-robot.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dji-dock4-matrice5td-battery-swap-launch-2026",
+      "storyKey": "dji-dock4-matrice5td-battery-swap-launch-2026",
+      "originalTitle": "DJI Delivers First Drone Dock with Automated, 25-Second Battery Swaps for Always-Ready Aerial Support  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/14/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support/27243/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/14/dji-delivers-first-drone-dock-with-automated-25-second-battery-swaps-for-always-ready-aerial-support/27243/"
+      ],
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ระบบเปลี่ยนแบตเตอรี่และโดรนรุ่นใหม่ช่วยความต่อเนื่องงานตรวจสอบ เป็นคนละเหตุการณ์กับข่าวตำแหน่ง Elsight และระบบขนส่งเดิม",
+      "score": 19,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/mosrac-efficient-motion-control-products-direct-drive-pmsm-encoders.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fort-connectivity-aggregation-launch-2026",
+      "storyKey": "fort-connectivity-aggregation-launch-2026",
+      "originalTitle": "FORT Robotics Expands Its Trust Layer for Physical AI with Connectivity Aggregation to Keep Autonomous Machines Reliably Connected Anywhere",
+      "urls": [
+        "https://www.fortrobotics.com/news/fort-robotics-expands-its-trust-layer-for-physical-ai-with-connectivity-aggregation-to-keep-autonomous-machines-reliably-connected-anywhere"
+      ],
+      "references": [
+        "https://www.fortrobotics.com/news/fort-robotics-expands-its-trust-layer-for-physical-ai-with-connectivity-aggregation-to-keep-autonomous-machines-reliably-connected-anywhere",
+        "https://www.roboticstomorrow.com/news/2026/10/14/fort-robotics-expands-its-trust-layer-for-physical-ai-with-connectivity-aggregation-to-keep-autonomous-machines-reliably-connected-anywhere/27244/"
+      ],
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ซอฟต์แวร์ใหม่มีขอบเขตและสถานะเริ่มใช้ชัดเจน คนละผลิตภัณฑ์กับระบบระบุตำแหน่งของ Elsight",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Logo%20White.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://no-cache.hubspot.com/cta/default/8105241/3a6d2563-398a-43be-b9ff-5b9f93c9d40f.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=280&height=257&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=280&height=257&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/Endpoint%20Controller%20SIL%203%20Certified%20Safety.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Safe%20Remote%20Control%20Pro.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20NVIDIA.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://no-cache.hubspot.com/cta/default/8105241/18cf8435-9538-4cf1-8a23-50fd681a5fd7.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-PR8H44N",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agility-s4-effective-november2-vote-2026",
+      "storyKey": "agility-s4-effective-november2-vote-2026",
+      "originalTitle": "Agility Moves Closer to Nasdaq as Merger Vote Is Set for November 2",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/agility-sec-s4-effective-november-2-merger-vote"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/agility-sec-s4-effective-november-2-merger-vote",
+        "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-s-4-registration-statement-declared-effective-by-sec-in-connection-with-proposed-business-combination",
+        "https://robotnews.vercel.app/articles/digit.html"
+      ],
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ตรวจเทียบข่าว Digit 5 และแนวคิดล้อเดิมแล้ว: การมีผล S-4 และกำหนดวันโหวตเป็นความคืบหน้าสำคัญใหม่",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/agility-1788468932929.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-abundance-summit-2026.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/images/agiligyt_apollo_400m_funding.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-wheeled-concept-digit-5-GduhDdCS1QkhFZWkP6zdAfRt6pWD2O.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-screenshot-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-official-hero-UwJ8hIUlNXHooHNGaJToICJP5mBN0q.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boston-dynamics-atlas-prototype-build-time-video-2026",
+      "storyKey": "boston-dynamics-atlas-prototype-build-time-video-2026",
+      "originalTitle": "Boston Dynamics Says Atlas Takes a Day to Build—and Wants to Cut That to an Hour",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/boston-dynamics-atlas-prototype-shop-build-time"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/boston-dynamics-atlas-prototype-shop-build-time",
+        "https://www.youtube.com/watch?v=dP_i7hRvGpE",
+        "https://robotnews.vercel.app/articles/boston-dynamics-atlas-four-finger-hand-2026.html"
+      ],
+      "publishedAt": "2026-10-14T17:03:44.070Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "วิดีโอใหม่ให้ข้อมูลกระบวนการและเป้าหมายเวลา ไม่ซ้ำข่าวมือสี่นิ้วที่เผยแพร่ 3 ต.ค. โดยคงข้อจำกัดการวัดผล",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/boston-dynamics-1788647098194.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-film-rmac-overview-7vYjjsSSC5SXua2Yv5ng3thsdGUHRX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/munoz-hyundai-investor-day-2026.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bd-hyundai-school-of-football.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/scott-kuindersma-leaving-bd.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kia-investors-day-2026-ho-sung-song.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "physical-intelligence-api-beta-launch-2026",
+      "storyKey": "physical-intelligence-api-beta-launch-2026",
+      "originalTitle": "Physical Intelligence Opens API Beta for Robot Model Training and Inference",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/physical-intelligence-api-beta-robot-training-inference"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/physical-intelligence-api-beta-robot-training-inference",
+        "https://www.pi.website/blog/api-beta",
+        "https://robotnews.vercel.app/articles/ultra-series-a-50m-warehouse-expansion-2026.html"
+      ],
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "เปิดบริการ API เป็นเหตุการณ์ใหม่ ไม่ใช่ทุน Ultra หรือความร่วมมือเก่า ช่วยทีมไทยเข้าถึงโครงสร้างพื้นฐานฝึกหุ่นยนต์",
+      "score": 19,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/physical-intelligence-1788727883638.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pi-07-hero.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pi-11b-valuation.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pi-rl-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pi-mem-hero.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pi-x-weave.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-figure-investment-logos-16HumpdrfHDghH9lIBNpakxuh5js4k.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "toro-haven-am75-2027-mower-announcement-2026",
+      "storyKey": "toro-haven-am75-2027-mower-announcement-2026",
+      "originalTitle": "Robot Precision and Zero Turn Muscle: Toro's 2027 Residential Mower Collection",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/robot-precision-and-zero-turn-muscle-toros-2027-residential-mower-collection-302906705.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/robot-precision-and-zero-turn-muscle-toros-2027-residential-mower-collection-302906705.html"
+      ],
+      "publishedAt": "2026-10-13T10:30:00-04:00",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ผลิตภัณฑ์หุ่นยนต์ใหม่มีวิธีแผนที่และกำหนดขายชัดเจน อยู่ในกรอบ 72 ชั่วโมงและยังไม่เคยเผยแพร่",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1639773/Toro-Logo.jpg?id=OA3014074",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2011655/Toro-robotic-mower-HAVEN-photo.jpg?id=OA3014081",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2011657/Toro-50-inch-TimeCutter-photo.jpg?id=OA3014084",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CG70284&Transmission_Id=202610131030PR_NEWS_USPR_____CG70284&DateId=20261013",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2004644/Toro-Photo_Auger-Maintenance_1080-1350.jpg?id=OA2993513",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1986021/Toro-Power-Max-HD-24in.jpg?id=OA2942041",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HMI.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HOU.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/REA.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/PDT.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hesai-kosmo-3d-world-data-engine-launch-2026",
+      "storyKey": "hesai-kosmo-3d-world-data-engine-launch-2026",
+      "originalTitle": "Building the Data Infrastructure for Physical AI: Hesai Launches Kosmo 3D World Data Engine",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/building-the-data-infrastructure-for-physical-ai-hesai-launches-kosmo-3d-world-data-engine-302908956.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/building-the-data-infrastructure-for-physical-ai-hesai-launches-kosmo-3d-world-data-engine-302908956.html"
+      ],
+      "publishedAt": "2026-10-14T14:04:00-04:00",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "เครื่องมือข้อมูลใหม่พร้อมสเปกและข้อจำกัดชัดเจน คนละเหตุการณ์กับ Amap Tutu ที่เคยลง เน้นงานฝึกหุ่นยนต์",
+      "score": 19,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2013339/1.jpg?id=OA3018954",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2013338/2.jpg?id=OA3018955",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2013337/3.jpg?id=OA3018956",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN72199&Transmission_Id=202610141403PR_NEWS_USPR_____CN72199&DateId=20261014",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/2960453/Hesai_Picasso___The_World_s_First_6D_Full_Color_Ultra_Sensitive_Lidar.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/2953714/Hesai_Powers_Safety_Certified_AI_Autonomy_Smart_Logistics_3D_Lidar_MODEX.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRD.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tieriv-taisei-autoflow-three-vehicle-trial-2026",
+      "storyKey": "tieriv-taisei-autoflow-three-vehicle-trial-2026",
+      "originalTitle": "Taisei Corporation, TIER IV, and Taisei Rotec Partner to Advance Autoflow Road Deployment through a Japanese Government Project",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/taisei-corporation-tier-iv-and-taisei-rotec-partner-to-advance-autoflow-road-deployment-through-a-japanese-government-project-302906906.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/taisei-corporation-tier-iv-and-taisei-rotec-partner-to-advance-autoflow-road-deployment-through-a-japanese-government-project-302906906.html"
+      ],
+      "publishedAt": "2026-10-14T00:00:00-04:00",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ขั้นตอนทดลองใหม่มีสถานที่ ระยะเวลา และจำนวนรถชัดเจน เหมาะติดตามระบบโลจิสติกส์และไม่ซ้ำรถขนส่งอื่นในประวัติ",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA2996831",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN67736&Transmission_Id=202610140000PR_NEWS_USPR_____CN67736&DateId=20261014",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA2984286",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA2976631",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRN.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRT.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/SCL.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "industrial-next-bmw-manipulation-evaluation-2026",
+      "storyKey": "industrial-next-bmw-manipulation-evaluation-2026",
+      "originalTitle": "Industrial Next wants factory robots to switch tasks in minutes, not weeks | TechCrunch",
+      "urls": [
+        "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      ],
+      "references": [
+        "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      ],
+      "publishedAt": "2026-10-13T23:00:00Z",
+      "addedAt": "2026-10-14T22:09:12.103Z",
+      "runId": "2026-10-15",
+      "reason": "ความร่วมมือ BMW ใหม่มีงานประเมินเฉพาะ เหมาะกับอุตสาหกรรมไทย และต่างจาก RobCo/Exotec/ABB ที่ลงก่อนหน้า",
+      "score": 19,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.53.56-PM.png?w=680",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.54.08-PM.png?w=680",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2021/10/headshot.jpg?w=150",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/04/Disrupt2026-Color.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -8274,6 +8969,23 @@
         "hylight-13m-airship-inspection-funding-2026",
         "elsight-halo-cellular-positioning-launch-2026",
         "monopulse-over2m-production-funding-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-15",
+      "batchHash": "9f0e61fdf7ac07eaaccc292c0d3674ae250eb4904812ad6b6af4c2141650e884",
+      "preparedAt": "2026-10-14T22:09:12.103Z",
+      "articleIds": [
+        "piab-ps-series-vacuum-sensors-launch-2026",
+        "dji-dock4-matrice5td-battery-swap-launch-2026",
+        "fort-connectivity-aggregation-launch-2026",
+        "agility-s4-effective-november2-vote-2026",
+        "boston-dynamics-atlas-prototype-build-time-video-2026",
+        "physical-intelligence-api-beta-launch-2026",
+        "toro-haven-am75-2027-mower-announcement-2026",
+        "hesai-kosmo-3d-world-data-engine-launch-2026",
+        "tieriv-taisei-autoflow-three-vehicle-trial-2026",
+        "industrial-next-bmw-manipulation-evaluation-2026"
       ]
     }
   ]
