@@ -4558,5 +4558,333 @@
         "title": "TechCrunch Disrupt 2026 event recording embedded in the article, including Startup Battlefield pitches"
       }
     ]
+  },
+  "origin-og1-20m-stealth-fleet-funding-2026": {
+    "title": "Origin emerges with $20 million to expand OG-1 wall-finishing robots",
+    "summary": "Interchangeable tools and force control support interior work; the company targets 150 deployed robots by the end of 2027.",
+    "sections": [
+      {
+        "heading": "Funding for deployment",
+        "paragraphs": [
+          "Origin disclosed $20 million in total funding, co-led by Accel and Zacua Ventures, to build its OG-1 fleet and support customer pilots in the US and Europe. It says robots reached New York job sites within ten months of founding, but does not break the total into individual funding rounds."
+        ]
+      },
+      {
+        "heading": "Several steps on one machine",
+        "paragraphs": [
+          "According to Origin, OG-1 combines a three-wheeled base, 360-degree perception and a working height of up to 14 feet. Interchangeable tools apply compound, sand and prime walls, with feedback-based force control maintaining sanding pressure. Its Construction Action Model connects planning, an action policy and control, using simulation and job-site data."
+        ]
+      },
+      {
+        "heading": "Scaling remains the test",
+        "paragraphs": [
+          "The target is 150 deployed robots by the end of 2027, with drywall installation, drilling and conduit work planned later. Crews still map sites and replenish materials. Management’s three-times-human-speed claim comes without independent test details in the announcement and is not a guaranteed rate for every site."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/696e156d8bf2aaf0570e2d2c/6ad0d2491051799a25f07ad1_Founder_Group_Pic_1.png",
+        "alt": "Origin founders in the funding announcement image",
+        "caption": "Origin founders in the funding announcement image · Image: Origin"
+      }
+    ],
+    "videos": []
+  },
+  "saab-luuv-demonstrator-sea-trials-2026": {
+    "title": "Saab reports sea trials of a large uncrewed underwater demonstrator",
+    "summary": "The project with FMV and the Swedish Armed Forces reached sea trials less than a year after contract award.",
+    "sections": [
+      {
+        "heading": "A completed demonstrator phase",
+        "paragraphs": [
+          "On October 16, Saab said its Large Uncrewed Underwater Vehicle project with FMV and the Swedish Armed Forces had completed its first phase. Development, construction and sea trials took less than a year from contract award. This is a demonstrator used to evaluate technology."
+        ]
+      },
+      {
+        "heading": "A shared autonomy layer",
+        "paragraphs": [
+          "The vehicle integrates Saab’s Autonomous Ocean Core with submarine-design and sensor-integration expertise. The control system supports autonomous surface and subsurface vehicles; this demonstrator is intended to help evaluate operations alongside existing naval platforms."
+        ]
+      },
+      {
+        "heading": "Further development ahead",
+        "paragraphs": [
+          "The next phase is expected to advance software, sensors and autonomy, informing Swedish acquisition and operational decisions. The announcement gives no range, depth or endurance figures and does not confirm entry into operational service or volume production."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-1.jpg",
+        "alt": "LUUV demonstrator image released by Saab after sea trials",
+        "caption": "LUUV demonstrator image released by Saab after sea trials · Image: Saab"
+      },
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-2.jpg",
+        "alt": "Another view of the LUUV demonstrator from the announcement gallery",
+        "caption": "Another view of the LUUV demonstrator from the announcement gallery · Image: Saab"
+      },
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-3.jpg",
+        "alt": "LUUV concept illustration, not an underwater photograph",
+        "caption": "LUUV concept illustration, not an underwater photograph · Image: Saab"
+      }
+    ],
+    "videos": []
+  },
+  "element-waymo-toronto-2028-fleet-partnership-2026": {
+    "title": "Element will support Waymo’s planned 2028 Toronto fleet",
+    "summary": "The expanded partnership covers charging, maintenance, cleaning and facilities, building on work in San Diego.",
+    "sections": [
+      {
+        "heading": "Preparing a Canadian launch",
+        "paragraphs": [
+          "Element Fleet Management expanded its Waymo partnership to Toronto for a planned 2028 autonomous ride-hailing launch, described as Waymo’s first Canadian operations. It follows the multi-year collaboration announced in June for support in San Diego."
+        ]
+      },
+      {
+        "heading": "The work behind autonomous trips",
+        "paragraphs": [
+          "Element Mobility will coordinate staff, facilities, infrastructure and vehicle readiness. Maintenance, charging, energy management, cleaning and fleet data are included. This announcement concerns fleet operations rather than a new version of the driving system."
+        ]
+      },
+      {
+        "heading": "A future timetable",
+        "paragraphs": [
+          "The partners expect to create hundreds of roles over time, including maintenance, validation driving and customer service. They have not specified a Toronto fleet size or exact opening date. Reduced downtime and improved utilization are intended outcomes, not results from an already operating Toronto service."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "ff-nova-mini-education-robot-launch-2026": {
+    "title": "FF introduces $2,490 Nova and $299 Nova Mini education robots",
+    "summary": "Nova starts with an invitation-only 100-unit release and developer tools; Mini’s curriculum is sold separately.",
+    "sections": [
+      {
+        "heading": "Hardware and learning packages",
+        "paragraphs": [
+          "FF EAI Robotics and Faraday Future introduced Nova for developers and educators at $2,490, with a $390 Developer Skills Package. Nova Mini costs $299, while its accompanying curriculum costs $499. Device prices therefore need to be distinguished from additional learning products."
+        ]
+      },
+      {
+        "heading": "Hardware and development tools",
+        "paragraphs": [
+          "The companies specify 20 degrees of freedom, LiDAR, wide-angle vision, depth sensing and a microphone array for Nova. It can walk or use a detachable base for autonomous navigation. Development support includes an SDK, a ROS 2 workflow and reinforcement learning through NVIDIA Isaac before policies are tested on hardware."
+        ]
+      },
+      {
+        "heading": "A phased release",
+        "paragraphs": [
+          "The first phase is limited to 100 invited buyers, with the first 20 units described as ready for immediate delivery. Applicants must be selected before ordering; broader developer and consumer releases follow later. Mini targets ages eight and up with block programming. These are manufacturer specifications, not independent durability results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014739/20261015210738EDT_image_1.jpg?id=OA3022862&p=original",
+        "alt": "Promotional image of children learning with FF robots",
+        "caption": "Promotional image of children learning with FF robots · Image: FF EAI Robotics / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014740/20261015210738EDT_image_2.jpg?id=OA3022863&p=original",
+        "alt": "Promotional image of Nova in a backpack",
+        "caption": "Promotional image of Nova in a backpack · Image: FF EAI Robotics / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014741/20261015210738EDT_image_3.jpg?id=OA3022864&p=original",
+        "alt": "FF robot lineup shown in the announcement",
+        "caption": "FF robot lineup shown in the announcement · Image: FF EAI Robotics / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "agility-nyobolt-digit5-battery-partnership-2026": {
+    "title": "Agility selects Nyobolt for Digit 5’s fast-charging battery",
+    "summary": "The companies target 90 minutes of runtime after a nine-minute recharge, with early access expected in the first half of 2027.",
+    "sections": [
+      {
+        "heading": "Identifying the battery partner",
+        "paragraphs": [
+          "Agility Robotics named Nyobolt as the battery technology provider for Digit 5, a new energy partnership following the robot’s introduction. It targets warehouses, distribution centers and manufacturing operators seeking less charging downtime between shifts."
+        ]
+      },
+      {
+        "heading": "A ten-to-one operating ratio",
+        "paragraphs": [
+          "The companies specify 90 minutes of runtime and a nine-minute recharge, a 10:1 ratio compared with Digit 4’s 2:1. They project more than 20 working hours per day. These are company performance claims; the release does not disclose pack capacity or detailed long-term cycle-test results."
+        ]
+      },
+      {
+        "heading": "Access expected next year",
+        "paragraphs": [
+          "Early access to Digit 5 with this technology is expected in the first half of 2027, with availability increasing over the following six to nine months. This does not establish that current customer fleets already work over 20 hours daily. The practical aim is to reduce charging interruptions that affect robot economics."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013647/AGILITY-ROBOTICS-Nybolt.jpg?id=OA3019841&p=original",
+        "alt": "Digit 5 and Nyobolt battery partnership announcement image",
+        "caption": "Digit 5 and Nyobolt battery partnership announcement image · Image: Agility Robotics / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "tieriv-tum-autoware-research-center-2026": {
+    "title": "TIER IV and TUM establish an Autoware research center",
+    "summary": "Three research groups will combine learning-based driving with rule-based supervision and shared evaluation methods.",
+    "sections": [
+      {
+        "heading": "A long-term research base",
+        "paragraphs": [
+          "TIER IV and the Technical University of Munich established the TUM Autoware Research Center by TIER IV through a multi-year collaboration funded by the company. FTM, CPS and AVS groups will advance open autonomous-driving software, doctoral training and links between research and deployment."
+        ]
+      },
+      {
+        "heading": "Three technical priorities",
+        "paragraphs": [
+          "Safety work will pair deep-learning driving models with rule-based supervision that intervenes against defined constraints. Evaluation will cover components and whole systems in simulation, offline analysis and real vehicles. Scalability work will create repeatable processes for adapting Autoware to new environments."
+        ]
+      },
+      {
+        "heading": "Building on earlier work",
+        "paragraphs": [
+          "The center builds on EDGAR and CommonRoad expertise. EDGAR’s IAA MOBILITY 2025 demonstrations predate the center and are not results of this new initiative. No funding amount or new safety-guardian test results are disclosed; improvements will be contributed to open source where appropriate."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "neura-neuron-ai-multisensory-launch-2026": {
+    "title": "NEURA introduces Neuron AI with touch, sound and memory",
+    "summary": "The locally running model is set for an eleven-minute laundry-handling demonstration at GTC Berlin.",
+    "sections": [
+      {
+        "heading": "Perception beyond cameras",
+        "paragraphs": [
+          "NEURA announced Neuron AI on October 14, with Humanoids Daily reporting the details the next day. Its Perception-Language-Action model combines 3D vision, force and touch, audio, robot state and language with memory, targeting tasks such as recognizing that a component has locked into place."
+        ]
+      },
+      {
+        "heading": "Training and local execution",
+        "paragraphs": [
+          "The company identifies five embodiments: 4NE1 generations 3 and 4, a wheeled version and two further bimanual platforms. Training combines physical robot data, simulation and sensor-suit demonstrations. Inference runs on the robot without requiring the cloud, while Neuraverse is intended to support customer-specific skill adaptation."
+        ]
+      },
+      {
+        "heading": "An upcoming demonstration",
+        "paragraphs": [
+          "At GTC Berlin on October 20–22, NEURA plans an eleven-minute sequence spanning laundry sorting, washer loading and transfer to a dryer. That duration covers handling rather than a full wash-and-dry cycle. The announcement provides no repeated-run success rate, intervention count or measured Time-to-Skill result."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-neuron-ai-hands-3y4Mhhwg9x4NVPgjKcQKYhmJFusS48.webp",
+        "alt": "NEURA robot hands manipulating a component in the Neuron AI promotional image",
+        "caption": "NEURA robot hands manipulating a component in the Neuron AI promotional image · Image: NEURA Robotics / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "120ft-576k-container-microfactory-launch-2026": {
+    "title": "120ft raises €576,000 for container-based robotic microfactories",
+    "summary": "The three-container concept targets small assembly batches, with brands paying for completed products.",
+    "sections": [
+      {
+        "heading": "A shared small factory",
+        "paragraphs": [
+          "Stockholm startup 120ft disclosed €576,000 from 22 angel investors to develop humanoid-operated assembly facilities in three 40-foot containers. They divide preparation, assembly, and inspection with packing. The company plans to own and operate the facilities while customers pay per finished product."
+        ]
+      },
+      {
+        "heading": "Starting with constrained work",
+        "paragraphs": [
+          "The proposed service starts at batches of 100, with brands retaining designs and component suppliers. Initial pilots target rigid parts below 5 kg joined by screws or press-fits; cables, flexible materials and gluing come later. Factory OS is intended to connect AI, robots and automation to assembly workflows."
+        ]
+      },
+      {
+        "heading": "Programming time is not cycle time",
+        "paragraphs": [
+          "The company says skill-programming time fell from seven weeks in 2025 to seven hours in 2026, with seven minutes targeted for 2027. Its curve is an outlook rather than measured time-series data, and does not describe manufacturing time per item. Success rates and human-assistance frequency remain undisclosed, leaving commercial quality and economics to be demonstrated."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/120ft-container-microfactory-N0J9HxRIyTSjbjXoj80ncRPF15eKnl.webp",
+        "alt": "120ft three-container factory concept, adapted with AI assistance; not a photograph of an operating factory",
+        "caption": "120ft three-container factory concept, adapted with AI assistance; not a photograph of an operating factory · Image: 120ft / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "roboparty-rp1-open-hardware-software-release-2026": {
+    "title": "RoboParty opens RP1 hardware designs and motion-development resources",
+    "summary": "The release links mechanical files, electronics, simulation models and learning tools, with component-specific scope and licenses.",
+    "sections": [
+      {
+        "heading": "From a demo to development files",
+        "paragraphs": [
+          "RoboParty released a development stack for RP1, also called ROBOTO 01. Its GitHub hub connects mechanical and electronic designs, firmware, robot models and motion-learning tools. The material development is access for inspection and modification after the earlier IROS demonstration."
+        ]
+      },
+      {
+        "heading": "Tracing errors across layers",
+        "paragraphs": [
+          "The hardware repository provides STEP models, PCB manufacturing files, wiring-harness information and configuration-specific bills of materials. MimicLite lists motion-policy checkpoints for 24- and 28-degree-of-freedom RP1 variants. Access across layers can help investigate whether an error comes from a policy, actuator or structure."
+        ]
+      },
+      {
+        "heading": "Check each component",
+        "paragraphs": [
+          "Contents and licenses differ by repository: ROMOMO emphasizes joint documentation, while related code is maintained separately. The cited MimicLite comparison plot uses a Unitree G1 and is not an RP1 measurement. No retail price or delivery date is disclosed, and file availability does not establish independent reproduction of performance."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-open-source-release-KxjQy0uecpjj8zsuWwK56MOhKG4rQN.webp",
+        "alt": "RP1 shown in RoboParty’s development-stack release video",
+        "caption": "RP1 shown in RoboParty’s development-stack release video · Image: RoboParty / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/RoboParty_DEV/status/2110399984680210450",
+        "title": "RP1 development-stack release video · RoboParty",
+        "note": "Watch the original video post on X; playback may require sign-in or depend on platform restrictions."
+      }
+    ]
+  },
+  "massrobotics-healthcare-catalyst-cohort6-applications-2026": {
+    "title": "MassRobotics opens its sixth healthcare robotics catalyst cohort",
+    "summary": "Applications close December 31, with Intel joining the mentoring partners to support validation and pilot readiness.",
+    "sections": [
+      {
+        "heading": "Open to international teams",
+        "paragraphs": [
+          "MassRobotics opened applications for cohort six of its Healthcare Robotics Startup Catalyst Program from October 15 through December 31, 2026. The non-equity program runs from February to June 2027 and welcomes early and more mature teams worldwide, including Seed through Series C companies."
+        ]
+      },
+      {
+        "heading": "Mentoring around practical milestones",
+        "paragraphs": [
+          "Intel joins Festo, Novanta and Mitsubishi Electric US on the steering committee, adding edge-AI and on-device computing expertise. Teams receive technical mentoring and clinical perspectives, with biweekly mentor sessions supporting prototypes, pilot design, regulatory planning or systems integration."
+        ]
+      },
+      {
+        "heading": "Fit and selection",
+        "paragraphs": [
+          "Eligible areas include laboratories, pharmaceuticals, diagnostics, hospital logistics, rehabilitation and surgical robotics. Selection considers technical maturity, clinical relevance and achievable near-term milestones. The program has mentored 35 startups since 2021, but that record is neither medical approval nor a funding guarantee for new participants."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
   }
 }

@@ -8815,6 +8815,721 @@
           }
         ]
       }
+    },
+    {
+      "id": "origin-og1-20m-stealth-fleet-funding-2026",
+      "storyKey": "origin-og1-20m-stealth-fleet-funding-2026",
+      "originalTitle": "Origin",
+      "urls": [
+        "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million"
+      ],
+      "references": [
+        "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million",
+        "https://www.accel.com/news/our-investment-in-origin-bringing-physical-ai-to-the-built-world"
+      ],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "การเปิดเผยทุนและแผนขยาย OG-1 เป็นเหตุการณ์ใหม่ ต่างจาก Promise ที่ผลิตบ้านด้วยโรงงาน",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00%2F696610b40992877a033b4e7c_Footer%20Video_mp4.mp4",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00%2F696610b40992877a033b4e7c_Footer%20Video_webm.webm",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00/6965f568280325ed15adb532_USA.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00/69735bc59a9cb5efef6fdad6_Footer%20Origin%20Brand.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00/6971e86bec1ee0ef9e96e138_alter-comp%202.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00/6971d621c5170555b1e53393_Footer%20Brand.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/696078aa3ca6c4aceece5d00/696efdc8e4cb48e6c8af3b6c_close.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-WNPSNCW2",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "saab-luuv-demonstrator-sea-trials-2026",
+      "storyKey": "saab-luuv-demonstrator-sea-trials-2026",
+      "originalTitle": "Saab, FMV and the Swedish Armed Forces launch uncrewed underwater vehicle",
+      "urls": [
+        "https://www.saab.com/newsroom/press-releases/2026/saab-fmv-and-the-swedish-armed-forces-launch-uncrewed-underwater-vehicle"
+      ],
+      "references": [
+        "https://www.saab.com/newsroom/press-releases/2026/saab-fmv-and-the-swedish-armed-forces-launch-uncrewed-underwater-vehicle"
+      ],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "ผลทดลองยานใต้น้ำจริงเป็นหมุดหมายใหม่ มีผู้พัฒนาและหน่วยงานร่วมชัดเจน",
+      "score": 15,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KHGRQF",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.5614349775784753363228699552,h_1.0,c_fill,g_auto/___/episerver/f6a9faea-5274-4b74-9292-c598a7cd2566/20261016-en-5443267-1.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.6491502246532525883961711272,h_1.0,c_fill,g_auto/___/episerver/6331bd35-d6ed-4b71-a17c-dcbde89b270c/20261015-en-5442891-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.5625,h_1.0,c_fill,g_auto/___/episerver/ba7cb2da-2b5d-46a4-92cd-fba53e8018aa/20261015-en-5442617-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.5810882197569994717379820391,h_1.0,c_fill,g_auto/___/episerver/a9b09961-a93b-4789-a4cb-8eb61c03be90/20261009-en-5439461-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.9982062780269058295964125561,h_1.0,c_fill,g_auto/___/episerver/f6a9faea-5274-4b74-9292-c598a7cd2566/20261016-en-5443267-1.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.saab.com/ui/images/staticadaptiveimages/download-pdf1x1.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.6667184828229441939996891031,h_1.0,c_fill,g_auto/___/episerver/09ad919e-afbe-440a-93c9-ccb47990d0ec/20261016-en-5443267-2.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_0.5626695604991861096039066739,h_1.0,c_fill,g_auto/___/episerver/f328b692-5405-4d55-a044-2703b5ab3091/20261016-en-5443267-3.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/w_1.0,h_0.8663857959674992476677700873,c_fill,g_auto/___/episerver/6331bd35-d6ed-4b71-a17c-dcbde89b270c/20261015-en-5442891-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,dpr_auto,q_auto,fl_progressive/___/episerver/ba7cb2da-2b5d-46a4-92cd-fba53e8018aa/20261015-en-5442617-1.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "element-waymo-toronto-2028-fleet-partnership-2026",
+      "storyKey": "element-waymo-toronto-2028-fleet-partnership-2026",
+      "originalTitle": "Element expands strategic partnership with Waymo as autonomous mobility arrives in Canada",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/element-expands-strategic-partnership-with-waymo-as-autonomous-mobility-arrives-in-canada-302911167.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/element-expands-strategic-partnership-with-waymo-as-autonomous-mobility-arrives-in-canada-302911167.html"
+      ],
+      "publishedAt": "2026-10-16T10:40:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "ขยายระบบปฏิบัติการรถอัตโนมัติสู่เมืองใหม่ แสดงภาระงานดูแลกองรถที่ยังต้องมีคน",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1763983/Element-Fleet-Management-Inc-Element-expands-strategic-partners.jpg?id=OA3023076",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=TO74059&Transmission_Id=202610160640PR_NEWS_USPR_____TO74059&DateId=20261016",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1763983/Element-Fleet-Management-Inc-Element-Announces-Leadership-Appoi.jpg?id=OA2911491",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1763983/Element-Fleet-Management-Inc-Element-Submits-Proposal-to-Acquir.jpg?id=OA2847854",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/FIN.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AUT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRN.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRT.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff-nova-mini-education-robot-launch-2026",
+      "storyKey": "ff-nova-mini-education-robot-launch-2026",
+      "originalTitle": "FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recruitment",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html"
+      ],
+      "publishedAt": "2026-10-16T03:40:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "ผลิตภัณฑ์และราคาใหม่สำหรับนักพัฒนา ต่างจากยอดขาย FF เดือนกันยายนที่เผยแพร่แล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2014739/20261015210738EDT_image_1.jpg?id=OA3022862",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2014740/20261015210738EDT_image_2.jpg?id=OA3022863",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2014741/20261015210738EDT_image_3.jpg?id=OA3022864",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN73998&Transmission_Id=202610152340PR_NEWS_USPR_____CN73998&DateId=20261015",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2013021/20261014014502EDT_image_1.jpg?id=OA3018006",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2010959/20261011192347EDT_image_1.jpg?id=OA3012046",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDU.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CSE.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agility-nyobolt-digit5-battery-partnership-2026",
+      "storyKey": "agility-nyobolt-digit5-battery-partnership-2026",
+      "originalTitle": "Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5-302909607.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5-302909607.html",
+        "https://robotnews.vercel.app/articles/digit.html"
+      ],
+      "publishedAt": "2026-10-15T11:00:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "พันธมิตรแบตเตอรี่ Nyobolt เป็นสาระใหม่หลังข่าวเปิด Digit 5 และข่าว S-4 ไม่ใช่เผยแพร่การเปิดตัวเดิมซ้ำ",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1884416/Agility-Logo.jpg?id=OA3020925",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2013647/AGILITY-ROBOTICS-Nybolt.jpg?id=OA3019841&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=LA72671&Transmission_Id=202610150700PR_NEWS_USPR_____LA72671&DateId=20261015",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2000353/Agility-Fort-Press-Release-1.jpg?id=OA2981476",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1988477/Agility_Digit-5_Sizzle.mp4?id=OA2948981&p=thumbnail",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TLS.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRD.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tieriv-tum-autoware-research-center-2026",
+      "storyKey": "tieriv-tum-autoware-research-center-2026",
+      "originalTitle": "TIER IV and Technical University of Munich establish Autoware research center to advance the open autonomous driving ecosystem",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/tier-iv-and-technical-university-of-munich-establish-autoware-research-center-to-advance-the-open-autonomous-driving-ecosystem-302908641.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/tier-iv-and-technical-university-of-munich-establish-autoware-research-center-to-advance-the-open-autonomous-driving-ecosystem-302908641.html",
+        "https://robotnews.vercel.app/articles/tieriv-taisei-autoflow-three-vehicle-trial-2026.html"
+      ],
+      "publishedAt": "2026-10-15T07:00:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "ศูนย์วิจัยใหม่ต่างจากการทดลองถนนขนส่ง Autoflow ของ TIER IV ที่เผยแพร่แล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA3018538",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN72069&Transmission_Id=202610150300PR_NEWS_USPR_____CN72069&DateId=20261015",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA2996831",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1463639/TIERIV-Logo-Logo.jpg?id=OA2984286",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDU.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/IOT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/STM.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neura-neuron-ai-multisensory-launch-2026",
+      "storyKey": "neura-neuron-ai-multisensory-launch-2026",
+      "originalTitle": "NEURA Gives Its Robot AI Touch, Sound and Memory Ahead of 11-Minute Laundry Demo",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/neura-neuron-ai-touch-sound-memory-laundry-demo"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/neura-neuron-ai-touch-sound-memory-laundry-demo",
+        "https://neura-robotics.com/neuron-ai/"
+      ],
+      "publishedAt": "2026-10-15T09:44:46.055Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "โมเดลหลายประสาทสัมผัสใหม่ มีรายละเอียดสถาปัตยกรรมและข้อจำกัดการพิสูจน์ชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/neura-robotics-1788701185965.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-healthtech-bed-hero-zQZ0JqIL5wLdUp24bhzYnKd96X3cDV.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-seco-2026.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/4ne1-living-room.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tum-neura-gym.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/qualcomm_and_neura.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "120ft-576k-container-microfactory-launch-2026",
+      "storyKey": "120ft-576k-container-microfactory-launch-2026",
+      "originalTitle": "Swedish Startup 120ft Wants to Fit a Humanoid-Run Factory Into Three Containers",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/120ft-sweden-humanoid-microfactories-funding"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/120ft-sweden-humanoid-microfactories-funding",
+        "https://120ft.com/technology",
+        "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/"
+      ],
+      "publishedAt": "2026-10-15T08:09:51.419Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "รูปแบบโรงงานใช้ร่วมและงานล็อตเล็กเกี่ยวข้อง SME ไทย แยกแนวคิดจากโรงงานที่เดินเชิงพาณิชย์แล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-neuron-ai-hands-3y4Mhhwg9x4NVPgjKcQKYhmJFusS48.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/clone-torso-3-hand-teleoperation-KJxb40sDW1HrrhMh0okNnDMKk6RgTs.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nucleus-factory-demo-mobile-robot-0jbr8MyxiVUYyb6ClHQkq3d8ck2zmX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "roboparty-rp1-open-hardware-software-release-2026",
+      "storyKey": "roboparty-rp1-open-hardware-software-release-2026",
+      "originalTitle": "RoboParty Opens RP1 Humanoid Designs, From Mechanical Parts to Motion Policies",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/roboparty-rp1-open-source-hardware-motion-policies"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/roboparty-rp1-open-source-hardware-motion-policies",
+        "https://github.com/Roboparty/RP1"
+      ],
+      "publishedAt": "2026-10-15T05:01:44.030Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "การปล่อยไฟล์พัฒนาจริงเป็นเหตุการณ์ใหม่ ช่วยงานวิจัยและการเรียนรู้หุ่นยนต์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-roboto-origin.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-longcheer-factory-shanghai-target-NTL3HgZ34zWmv6vdKJ63rSt6IkvGuw.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-passage-demo-hero-mbqmPoCwca7fYJiDvmbG1qSZmPc5ka.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "massrobotics-healthcare-catalyst-cohort6-applications-2026",
+      "storyKey": "massrobotics-healthcare-catalyst-cohort6-applications-2026",
+      "originalTitle": "MassRobotics Opens Applications for Healthcare Robotics Catalyst Program Cohort 6, Presented by Festo, Mitsubishi Electric US, Novanta and Intel  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/15/massrobotics-opens-applications-for-healthcare-robotics-catalyst-program-cohort-6-presented-by-festo-mitsubishi-electric-us-novanta-and-intel/27250/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/15/massrobotics-opens-applications-for-healthcare-robotics-catalyst-program-cohort-6-presented-by-festo-mitsubishi-electric-us-novanta-and-intel/27250/"
+      ],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "addedAt": "2026-10-17T06:57:11.174Z",
+      "runId": "2026-10-17",
+      "reason": "เปิดรับสมัครรุ่นใหม่มีวันและเกณฑ์ชัดเจน เหมาะทีมไทยด้านหุ่นยนต์สุขภาพ",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/resindek-panels-the-flooring-solution-for-robotic-platforms.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -8986,6 +9701,23 @@
         "hesai-kosmo-3d-world-data-engine-launch-2026",
         "tieriv-taisei-autoflow-three-vehicle-trial-2026",
         "industrial-next-bmw-manipulation-evaluation-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-17",
+      "batchHash": "e535f10c8b08dc9b0fa197a83b3c9347625a4bde83fba9bb99007b4fa5d6cedc",
+      "preparedAt": "2026-10-17T06:57:11.174Z",
+      "articleIds": [
+        "origin-og1-20m-stealth-fleet-funding-2026",
+        "saab-luuv-demonstrator-sea-trials-2026",
+        "element-waymo-toronto-2028-fleet-partnership-2026",
+        "ff-nova-mini-education-robot-launch-2026",
+        "agility-nyobolt-digit5-battery-partnership-2026",
+        "tieriv-tum-autoware-research-center-2026",
+        "neura-neuron-ai-multisensory-launch-2026",
+        "120ft-576k-container-microfactory-launch-2026",
+        "roboparty-rp1-open-hardware-software-release-2026",
+        "massrobotics-healthcare-catalyst-cohort6-applications-2026"
       ]
     }
   ]

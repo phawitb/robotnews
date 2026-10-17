@@ -2093,5 +2093,114 @@
         "embed": "https://www.youtube-nocookie.com/embed/oLAH4RfCZXQ"
       }
     ]
+  },
+  "origin-og1-20m-stealth-fleet-funding-2026": {
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/696e156d8bf2aaf0570e2d2c/6ad0d2491051799a25f07ad1_Founder_Group_Pic_1.png",
+        "alt": "ทีมผู้ก่อตั้ง Origin ในภาพประกอบประกาศทุน",
+        "caption": "ทีมผู้ก่อตั้ง Origin ในภาพประกอบประกาศทุน · ภาพ: Origin"
+      }
+    ],
+    "videos": []
+  },
+  "saab-luuv-demonstrator-sea-trials-2026": {
+    "images": [
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-1.jpg",
+        "alt": "ภาพยานต้นแบบ LUUV ที่ Saab เผยแพร่หลังทดลองในทะเล",
+        "caption": "ภาพยานต้นแบบ LUUV ที่ Saab เผยแพร่หลังทดลองในทะเล · ภาพ: Saab"
+      },
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-2.jpg",
+        "alt": "ภาพยานต้นแบบ LUUV อีกมุมในชุดภาพประกาศ",
+        "caption": "ภาพยานต้นแบบ LUUV อีกมุมในชุดภาพประกาศ · ภาพ: Saab"
+      },
+      {
+        "url": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-3.jpg",
+        "alt": "ภาพวาดแนวคิด LUUV ไม่ใช่ภาพถ่ายใต้น้ำ",
+        "caption": "ภาพวาดแนวคิด LUUV ไม่ใช่ภาพถ่ายใต้น้ำ · ภาพ: Saab"
+      }
+    ],
+    "videos": []
+  },
+  "element-waymo-toronto-2028-fleet-partnership-2026": {
+    "images": [],
+    "videos": []
+  },
+  "ff-nova-mini-education-robot-launch-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014739/20261015210738EDT_image_1.jpg?id=OA3022862&p=original",
+        "alt": "ภาพประชาสัมพันธ์เด็กเรียนรู้กับหุ่นยนต์ FF",
+        "caption": "ภาพประชาสัมพันธ์เด็กเรียนรู้กับหุ่นยนต์ FF · ภาพ: FF EAI Robotics / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014740/20261015210738EDT_image_2.jpg?id=OA3022863&p=original",
+        "alt": "ภาพประชาสัมพันธ์ Nova ในกระเป๋า",
+        "caption": "ภาพประชาสัมพันธ์ Nova ในกระเป๋า · ภาพ: FF EAI Robotics / PRNewswire"
+      },
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2014741/20261015210738EDT_image_3.jpg?id=OA3022864&p=original",
+        "alt": "ภาพรวมผลิตภัณฑ์หุ่นยนต์ FF ในประกาศ",
+        "caption": "ภาพรวมผลิตภัณฑ์หุ่นยนต์ FF ในประกาศ · ภาพ: FF EAI Robotics / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "agility-nyobolt-digit5-battery-partnership-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2013647/AGILITY-ROBOTICS-Nybolt.jpg?id=OA3019841&p=original",
+        "alt": "ภาพประกาศความร่วมมือแบตเตอรี่ Digit 5 กับ Nyobolt",
+        "caption": "ภาพประกาศความร่วมมือแบตเตอรี่ Digit 5 กับ Nyobolt · ภาพ: Agility Robotics / PRNewswire"
+      }
+    ],
+    "videos": []
+  },
+  "tieriv-tum-autoware-research-center-2026": {
+    "images": [],
+    "videos": []
+  },
+  "neura-neuron-ai-multisensory-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-neuron-ai-hands-3y4Mhhwg9x4NVPgjKcQKYhmJFusS48.webp",
+        "alt": "มือหุ่นยนต์ NEURA จับชิ้นส่วน ภาพประชาสัมพันธ์ Neuron AI",
+        "caption": "มือหุ่นยนต์ NEURA จับชิ้นส่วน ภาพประชาสัมพันธ์ Neuron AI · ภาพ: NEURA Robotics / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "120ft-576k-container-microfactory-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/120ft-container-microfactory-N0J9HxRIyTSjbjXoj80ncRPF15eKnl.webp",
+        "alt": "ภาพแนวคิดโรงงานสามตู้ของ 120ft ปรับสัดส่วนด้วย AI ไม่ใช่ภาพโรงงานที่เปิดใช้แล้ว",
+        "caption": "ภาพแนวคิดโรงงานสามตู้ของ 120ft ปรับสัดส่วนด้วย AI ไม่ใช่ภาพโรงงานที่เปิดใช้แล้ว · ภาพ: 120ft / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "roboparty-rp1-open-hardware-software-release-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-open-source-release-KxjQy0uecpjj8zsuWwK56MOhKG4rQN.webp",
+        "alt": "RP1 ในภาพจากวิดีโอเปิดเผยชุดพัฒนาของ RoboParty",
+        "caption": "RP1 ในภาพจากวิดีโอเปิดเผยชุดพัฒนาของ RoboParty · ภาพ: RoboParty / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/RoboParty_DEV/status/2110399984680210450",
+        "title": "วิดีโอเปิดชุดพัฒนา RP1 · RoboParty",
+        "note": "ชมโพสต์วิดีโอต้นฉบับบน X การเล่นอาจต้องเข้าสู่ระบบหรือขึ้นกับข้อจำกัดของแพลตฟอร์ม"
+      }
+    ]
+  },
+  "massrobotics-healthcare-catalyst-cohort6-applications-2026": {
+    "images": [],
+    "videos": []
   }
 }

@@ -1238,5 +1238,115 @@
     "summary": "ใช้แบบจำลองฟิสิกส์และการสาธิตฝึกสถานีหุ่นยนต์ โดยเป้าลดเวลาเปลี่ยนงานยังเป็นคำกล่าวของบริษัท",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg",
     "addedAt": "2026-10-14T22:09:12.103Z"
+  },
+  {
+    "id": "origin-og1-20m-stealth-fleet-funding-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-15",
+    "source": "Origin",
+    "url": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million",
+    "title": "Origin เปิดตัวพร้อมทุนรวม 20 ล้านดอลลาร์ ขยายหุ่นยนต์เก็บผิวผนัง OG-1",
+    "summary": "หุ่นยนต์ใช้เครื่องมือเปลี่ยนได้และควบคุมแรงสัมผัส ตั้งเป้าติดตั้ง 150 ตัวภายในสิ้นปี 2027",
+    "image": "https://cdn.prod.website-files.com/696e156d8bf2aaf0570e2d2c/6ad0d2491051799a25f07ad1_Founder_Group_Pic_1.png",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "saab-luuv-demonstrator-sea-trials-2026",
+    "category": "research",
+    "date": "2026-10-16",
+    "source": "Saab",
+    "url": "https://www.saab.com/newsroom/press-releases/2026/saab-fmv-and-the-swedish-armed-forces-launch-uncrewed-underwater-vehicle",
+    "title": "Saab เผยยานใต้น้ำไร้คนขับขนาดใหญ่ผ่านการทดลองในทะเล",
+    "summary": "โครงการร่วม FMV และกองทัพสวีเดนใช้เวลาต่ำกว่าหนึ่งปีจากสัญญา สู่ขั้นทดสอบต้นแบบ",
+    "image": "https://www.saab.com/globalassets/cision/images/20261016-en-5443267-1.jpg",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "element-waymo-toronto-2028-fleet-partnership-2026",
+    "category": "ai-automation",
+    "date": "2026-10-16",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/element-expands-strategic-partnership-with-waymo-as-autonomous-mobility-arrives-in-canada-302911167.html",
+    "title": "Element เตรียมดูแลกองรถ Waymo ใน Toronto สำหรับแผนเปิดบริการปี 2028",
+    "summary": "ขยายความร่วมมือจาก San Diego ครอบคลุมชาร์จไฟ บำรุงรักษา ทำความสะอาด และบริหารพื้นที่",
+    "image": "",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "ff-nova-mini-education-robot-launch-2026",
+    "category": "humanoids",
+    "date": "2026-10-16",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2-500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-com-302910863.html",
+    "title": "FF เปิด Nova ราคา 2,490 ดอลลาร์ และ Nova Mini สำหรับเรียนรู้หุ่นยนต์",
+    "summary": "Nova เริ่มขายแบบเชิญ 100 ตัว พร้อม SDK และเครื่องมือฝึก ส่วน Mini ราคา 299 ดอลลาร์แยกจากหลักสูตร",
+    "image": "https://mmx.prnewswire.com/media/MS2014739/20261015210738EDT_image_1.jpg?id=OA3022862&p=original",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "agility-nyobolt-digit5-battery-partnership-2026",
+    "category": "humanoids",
+    "date": "2026-10-15",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5-302909607.html",
+    "title": "Agility เลือก Nyobolt ทำแบตเตอรี่ชาร์จเร็วให้ Digit 5",
+    "summary": "ผู้ผลิตตั้งเป้าทำงาน 90 นาทีต่อการชาร์จ 9 นาที เริ่มให้เข้าถึงรุ่นติดแบตเตอรี่ใหม่ครึ่งแรกปี 2027",
+    "image": "https://mmx.prnewswire.com/media/MS2013647/AGILITY-ROBOTICS-Nybolt.jpg?id=OA3019841&p=original",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "tieriv-tum-autoware-research-center-2026",
+    "category": "research",
+    "date": "2026-10-15",
+    "source": "PRNewswire",
+    "url": "https://www.prnewswire.com/news-releases/tier-iv-and-technical-university-of-munich-establish-autoware-research-center-to-advance-the-open-autonomous-driving-ecosystem-302908641.html",
+    "title": "TIER IV และ TUM ตั้งศูนย์วิจัย Autoware เน้นความปลอดภัยและการทดสอบ",
+    "summary": "รวมสามกลุ่มวิจัย พัฒนาตัวกำกับตามกฎควบคู่โมเดลเรียนรู้ และวิธีประเมินรถอัตโนมัติที่ใช้ร่วมกัน",
+    "image": "",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "neura-neuron-ai-multisensory-launch-2026",
+    "category": "ai-automation",
+    "date": "2026-10-15",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/neura-neuron-ai-touch-sound-memory-laundry-demo",
+    "title": "NEURA เผย Neuron AI รวมภาพ สัมผัส เสียง และความจำสำหรับหุ่นยนต์",
+    "summary": "โมเดลทำงานบนตัวหุ่นยนต์ พร้อมแผนสาธิตจัดการผ้า 11 นาทีที่ GTC Berlin",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-neuron-ai-hands-3y4Mhhwg9x4NVPgjKcQKYhmJFusS48.webp",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "120ft-576k-container-microfactory-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-15",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/120ft-sweden-humanoid-microfactories-funding",
+    "title": "120ft ได้ทุน 576,000 ยูโร พัฒนาโรงงานหุ่นยนต์ในตู้คอนเทนเนอร์",
+    "summary": "แนวคิดโรงงานสามตู้รับประกอบงานล็อตเล็ก โดยเจ้าของแบรนด์จ่ายต่อสินค้าที่ผลิตเสร็จ",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/120ft-container-microfactory-N0J9HxRIyTSjbjXoj80ncRPF15eKnl.webp",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "roboparty-rp1-open-hardware-software-release-2026",
+    "category": "humanoids",
+    "date": "2026-10-15",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/roboparty-rp1-open-source-hardware-motion-policies",
+    "title": "RoboParty เปิดแบบ RP1 พร้อมซอฟต์แวร์และทรัพยากรฝึกการเคลื่อนไหว",
+    "summary": "ชุดพัฒนาเชื่อมแบบกลไก อิเล็กทรอนิกส์ โมเดลจำลอง และเครื่องมือเรียนรู้ โดยต้องตรวจขอบเขตแต่ละคลัง",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-open-source-release-KxjQy0uecpjj8zsuWwK56MOhKG4rQN.webp",
+    "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "massrobotics-healthcare-catalyst-cohort6-applications-2026",
+    "category": "industry-news",
+    "date": "2026-10-15",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/15/massrobotics-opens-applications-for-healthcare-robotics-catalyst-program-cohort-6-presented-by-festo-mitsubishi-electric-us-novanta-and-intel/27250/",
+    "title": "MassRobotics เปิดรับรุ่น 6 โครงการหนุนสตาร์ตอัปหุ่นยนต์สุขภาพ",
+    "summary": "รับสมัครถึง 31 ธันวาคม Intel เข้าร่วมทีมที่ปรึกษา เน้นพิสูจน์เทคนิคและเตรียมทดลองใช้งาน",
+    "image": "",
+    "addedAt": "2026-10-17T06:57:11.174Z"
   }
 ]
