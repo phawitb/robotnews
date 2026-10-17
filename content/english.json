@@ -4886,5 +4886,390 @@
     ],
     "images": [],
     "videos": []
+  },
+  "plim-home-robot-rebrand-reveal-2026": {
+    "title": "Plim reveals a wheeled home robot with remote family participation",
+    "summary": "Devanthro becomes Plim Robotics and publishes a home-assistance concept and specifications, with price and delivery dates still undisclosed.",
+    "sections": [
+      {
+        "heading": "Assistance and remote presence",
+        "paragraphs": [
+          "Devanthro has become Plim Robotics. Its proposed home robot combines AI assistance with remote operation, allowing relatives or caregivers to appear on its face display and interact through its body. The company advertises operation across distances up to 9,000 km."
+        ]
+      },
+      {
+        "heading": "Published specifications",
+        "paragraphs": [
+          "Plim is listed at 1.65 m and 80 kg, with an omnidirectional wheeled base, seven-degree-of-freedom arms rated for 3 kg, and two-finger grippers. Jetson Thor and ROS 2 support the system; battery runtime is two hours with automatic docking."
+        ]
+      },
+      {
+        "heading": "Performance remains unquantified",
+        "paragraphs": [
+          "Families and care organizations can register interest, but pricing, delivery dates and household task-success rates remain undisclosed. Two hours of battery life does not imply all-day operation without charging, and the frequency of human intervention is unknown."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+        "alt": "Plim in a household cooking demonstration",
+        "caption": "Plim in a household cooking demonstration · Image: Plim Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "unitree-uniuni-choreography-control-reveal-2026": {
+    "title": "Unitree introduces UniUni for coordinating robot performances",
+    "summary": "Stage maps, individual timelines and battery monitoring accompany a natural-language choreography demonstration.",
+    "sections": [
+      {
+        "heading": "One interface for a performance",
+        "paragraphs": [
+          "Unitree presents UniUni as a system for preparing and controlling multi-robot performances. Its video shows natural-language changes to movements, paths and formations alongside a stage map and a separate timeline for each robot."
+        ]
+      },
+      {
+        "heading": "Choreography and equipment status",
+        "paragraphs": [
+          "Battery levels, temperatures and per-robot emergency stops appear alongside a motion library and LiDAR mapping view. Bringing these together can help operators identify ready performers, while physical-site safety still requires management."
+        ]
+      },
+      {
+        "heading": "Limits of the demonstration",
+        "paragraphs": [
+          "The promotional video is not a systematic measurement of preparation time or reliability. The announcement cited here does not specify maximum fleet size or the underlying AI model, and it does not establish autonomous cooperation on industrial tasks."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+        "alt": "UniUni interface and robots on a performance stage",
+        "caption": "UniUni interface and robots on a performance stage · Image: Unitree Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtube.com/watch?v=GQHx67tzVCo",
+        "title": "Unitree introduces UniUni"
+      }
+    ]
+  },
+  "urc-x40-floor-scrubber-specifications-disclosure-2026": {
+    "title": "URC details X40 floor scrubber with a 40-litre tank and 6–8-hour runtime",
+    "summary": "LiDAR SLAM and a customized ROS 2 Nav2 stack support indoor commercial cleaning.",
+    "sections": [
+      {
+        "heading": "Commercial cleaning focus",
+        "paragraphs": [
+          "StartupPedia reports specifications for URC Robotics’ X40, intended for offices, hospitals, malls and industrial buildings. The company lists its headquarters in Jammu and manufacturing in Gujarat, India."
+        ]
+      },
+      {
+        "heading": "Water capacity and operating time",
+        "paragraphs": [
+          "Published specifications give a 550 mm cleaning width, 800 mm suction width, 40-litre fresh-water tank and 45-litre recovery tank. Runtime is listed as 6–8 hours; these are specifications rather than independent results across all floor conditions."
+        ]
+      },
+      {
+        "heading": "Navigation and missing commercial details",
+        "paragraphs": [
+          "LiDAR SLAM, 3D LiDAR and visual odometry work with a customized ROS 2 Nav2 stack for route planning and motion control. The report does not provide price, hourly cleaning coverage or a delivery date, leaving operating-cost comparisons unresolved."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/startuppedia/media/media_files/2026/10/16/jammu-based-urc-robotics-develops-x40-autonomous-floor-cleaning-robot-2026-10-16-18-48-21.png",
+        "alt": "X40 illustration accompanying the floor-scrubber report",
+        "caption": "X40 illustration accompanying the floor-scrubber report · Image: StartupPedia / URC Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "aimoga-mobo-october21-preorder-announcement-2026": {
+    "title": "AiMOGA schedules Mobo reveal and global preorders for October 21",
+    "summary": "The family companion emphasizes conversation, reminders and long-term memory; pricing and delivery remain unspecified.",
+    "sections": [
+      {
+        "heading": "A dated preorder plan",
+        "paragraphs": [
+          "AiMOGA says Mobo will be unveiled in Wuhu, China, on October 21, with global preorders opening that day during the Chery International User Summit. This is a future schedule, not completed delivery."
+        ]
+      },
+      {
+        "heading": "Proposed interaction features",
+        "paragraphs": [
+          "The company lists voice interaction, visual object recognition, schedule reminders and long-term memory. Its MoAgent software connects perception, interaction and task planning to support continuity across conversations and respond to requests."
+        ]
+      },
+      {
+        "heading": "Commercial details still pending",
+        "paragraphs": [
+          "Mobo has appeared at earlier events; the new development is a firm reveal and preorder date. This release provides no price, delivery terms or independent household testing, so it does not establish immediate customer readiness for every advertised capability."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/1be9133a-c36b-4d50-8ba8-f52eae858e11/aimoga.jpg",
+        "alt": "Mobo promotional image accompanying the launch-date announcement",
+        "caption": "Mobo promotional image accompanying the launch-date announcement · Image: AiMOGA"
+      }
+    ],
+    "videos": []
+  },
+  "napa-hytek-hai-warehouse-automation-agreement-2026": {
+    "title": "NAPA selects Hy-Tek and Hai Robotics for warehouse automation",
+    "summary": "The flow-center project combines HaiPick systems and multiple robots, with design evaluation at Hy-Tek’s Innovation Lab.",
+    "sections": [
+      {
+        "heading": "Automating parts fulfillment",
+        "paragraphs": [
+          "Hy-Tek and Hai Robotics announced a project with NAPA Auto Parts to automate flow-center storage and retrieval. Hy-Tek is the integrator, while Hai Robotics supplies technology from its HaiPick Systems portfolio."
+        ]
+      },
+      {
+        "heading": "Design evaluation before deployment",
+        "paragraphs": [
+          "Multiple robots will support varied SKU profiles in a coordinated storage-and-retrieval system. The team evaluated technology in Hy-Tek’s live Innovation Lab warehouse to refine the design before deployment, targeting density and scalable capacity."
+        ]
+      },
+      {
+        "heading": "Operating results are not yet disclosed",
+        "paragraphs": [
+          "The announcement targets better accuracy and faster fulfillment but gives no robot count, investment, go-live date or post-installation performance. It establishes a technology and partner selection rather than verified quantitative operating results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/2aaf2a52-eb2b-4549-915a-d0f69c842c39",
+        "alt": "Image accompanying the NAPA warehouse project and Innovation Lab evaluation",
+        "caption": "Image accompanying the NAPA warehouse project and Innovation Lab evaluation · Image: Hy-Tek Intralogistics"
+      }
+    ],
+    "videos": []
+  },
+  "flair-hongkong-embodied-ai-hub-opening-2026": {
+    "title": "FLAIR opens Hong Kong embodied-AI hub with seven technology partners",
+    "summary": "Eight scenario partners will support training, testing and evaluation in practical environments.",
+    "sections": [
+      {
+        "heading": "An environment for practical trials",
+        "paragraphs": [
+          "FLAIR, under the Hong Kong Productivity Council, opened the Embodied AI International Applications Hub on October 15. Seven technology partners and eight scenario partners initially cover manufacturing, logistics, retail, inspection and public services."
+        ]
+      },
+      {
+        "heading": "A testing and improvement loop",
+        "paragraphs": [
+          "The planned process runs from scenario definition and model adaptation through testing, evaluation, feedback and revalidation. Announced measures include accuracy, execution speed, reliability, autonomous completion and safety."
+        ]
+      },
+      {
+        "heading": "Demonstrations are an initial step",
+        "paragraphs": [
+          "Opening examples included Robotera M7 parcel sorting, Unitree robots and Galbot retail systems. Shared testing could help bridge research and deployment, but the announcement provides no comparative scores or long-term operating results for the hub."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1ckLqonApnjAet762UbJ60B-NOBZVaVoR",
+        "alt": "Opening ceremony of the Embodied AI International Applications Hub",
+        "caption": "Opening ceremony of the Embodied AI International Applications Hub · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1pJq-1WbSLvRd_gzfv3VKKifeUZqSHE17",
+        "alt": "Recognition of technology partners",
+        "caption": "Recognition of technology partners · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=18LI2_5HLLHl_esKcXVX4N6Qr5CeFCxuL",
+        "alt": "Recognition of scenario partners",
+        "caption": "Recognition of scenario partners · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1iUKYUkQ3LRA9tWyi_kgamsEsA3jBV8fd",
+        "alt": "Guests touring the hub, image 4.1",
+        "caption": "Guests touring the hub, image 4.1 · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=11_pSNPL5hb_xnCU0nO8N1WtCDa8Uv2lp",
+        "alt": "Guests touring the hub, image 4.2",
+        "caption": "Guests touring the hub, image 4.2 · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=10vk9tb_S8FcAbMW5kN69zt3wir_twSiF",
+        "alt": "Robotera M7 parcel-sorting demonstration",
+        "caption": "Robotera M7 parcel-sorting demonstration · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1c8QjcYOC7pPIf_yqXyC4YOGiL5MpISbc",
+        "alt": "Unitree R1 and A2 at the testing hub",
+        "caption": "Unitree R1 and A2 at the testing hub · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=14fkZIcJEXRUC9RGV8AcQ7F-apdVved1G",
+        "alt": "MicroFlex flexible production line",
+        "caption": "MicroFlex flexible production line · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1JjppFfY7yuJzf2VzN8Of9nBGtLHzdX7N",
+        "alt": "AlphaBot 2 for service and retail applications",
+        "caption": "AlphaBot 2 for service and retail applications · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1HupgVOY1KrdO9glAi69A5A-9R3Yd6Wy0",
+        "alt": "AgiBot robots and scenario solutions",
+        "caption": "AgiBot robots and scenario solutions · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1ISZ9SdpJF3ZEHkHCVnDlvTLwE1zA8bPi",
+        "alt": "Galbot robotic retail demonstration",
+        "caption": "Galbot robotic retail demonstration · Image: HKPC / FLAIR"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1itzbYTOomULl6B4rhCTQXZV185yLJqxn",
+        "alt": "Rice Robotics NEX in a library and education setting",
+        "caption": "Rice Robotics NEX in a library and education setting · Image: HKPC / FLAIR"
+      }
+    ],
+    "videos": []
+  },
+  "leju-zhaofeng-15-robot-production-results-2026": {
+    "title": "Leju and Zhaofeng disclose results from 15 factory humanoids",
+    "summary": "The companies report about 98% loading success, around 1,000 operating hours and over 60,000 parts, while cycle time still trails workers.",
+    "sections": [
+      {
+        "heading": "Results from an operating line",
+        "paragraphs": [
+          "Leju and Zhaofeng presented their joint loading solution in Hangzhou on October 15. They say 15 humanoids have worked routinely at 15 stations for over two months, handling more than ten part types and accumulating about 1,000 hours and over 60,000 parts."
+        ]
+      },
+      {
+        "heading": "Success rate versus speed",
+        "paragraphs": [
+          "Reported loading success is about 98%, but robot cycles take roughly 35 to under 40 seconds versus about 15 seconds for a skilled worker. These figures come from reporting and company disclosures, not a comprehensive independent comparison."
+        ]
+      },
+      {
+        "heading": "Flexibility is the application",
+        "paragraphs": [
+          "The robots address varied products and small batches between existing automated processes. Leju says it divides loading into over 30 reusable modules. Transfer to another factory still requires adaptation to parts, equipment interfaces and safety requirements."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/leju_533eb6b3e4.png",
+        "alt": "Editorial factory-robot illustration, not a verified photograph of the deployment",
+        "caption": "Editorial factory-robot illustration, not a verified photograph of the deployment · Image: Pandaily"
+      }
+    ],
+    "videos": []
+  },
+  "agibot-yuansheng-china-university-rollout-2026": {
+    "title": "AgiBot expands YuanSheng to over 20 Chinese universities",
+    "summary": "The program plans more than 1,000 robots with AIMA software access for teaching and research.",
+    "sections": [
+      {
+        "heading": "A university expansion",
+        "paragraphs": [
+          "Pandaily reports that AgiBot is bringing YuanSheng to an initial group of over 20 Chinese universities, including Peking, Tsinghua and Zhejiang, to co-build embodied-AI teaching and research platforms. This extends an existing ecosystem program."
+        ]
+      },
+      {
+        "heading": "Hardware paired with software",
+        "paragraphs": [
+          "The plan includes more than 1,000 robots: wheeled Genie units, compact Lingxi humanoids, full-size Expedition humanoids and AgiQuad quadrupeds. AIMA access includes LinkSoul, LinkCraft and Genie Studio for applications, robot authoring and experimental workflows."
+        ]
+      },
+      {
+        "heading": "Product value is not financing",
+        "paragraphs": [
+          "The company values the robots and software rights at about RMB200 million. This is not a funding round, and the report does not establish delivery of every unit. Educational and research outcomes remain to be measured after practical use."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cms-image.pandaily.com/1/agibot_aa42cdb769.png",
+        "alt": "Editorial robot-laboratory illustration, not evidence of completed deliveries",
+        "caption": "Editorial robot-laboratory illustration, not evidence of completed deliveries · Image: Pandaily"
+      }
+    ],
+    "videos": []
+  },
+  "aspire-v1-real-robot-skills-release-2026": {
+    "title": "ASPIRE releases version 1.0 with robot skill refinement and stronger simulation results",
+    "summary": "The open-source project reports gains after a backbone-model change; simulation scores must be separated from hardware performance.",
+    "sections": [
+      {
+        "heading": "A reusable skill library",
+        "paragraphs": [
+          "ASPIRE version 1.0 provides an agent framework for discovering and refining robot skills, storing reusable knowledge in a skill library. Its GitHub project lists new Rubik’s Cube capability and real-robot learning."
+        ]
+      },
+      {
+        "heading": "Scores have a defined scope",
+        "paragraphs": [
+          "The team reports about 99% on 80 LIBERO-Pro tasks and 100% on seven representative Robosuite tasks and two BEHAVIOR-1K tasks after switching to GPT-6 Astra. These are simulation scores, not universal real-world robot success rates."
+        ]
+      },
+      {
+        "heading": "Open code and hardware questions",
+        "paragraphs": [
+          "Researchers can inspect the code and examples. Hardware demonstrations indicate a direction for skill refinement, but the report provides no hardware success-rate suite comparable with the simulation scores. Physical deployment still needs machine-appropriate constraints and supervision."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://x.com/DrJimFan/status/2111128797181567466",
+        "title": "Jim Fan’s ASPIRE version 1.0 announcement",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "dsp-supervised-play-world-model-preprint-2026": {
+    "title": "DSP uses supervised play to bootstrap robot interaction and planning",
+    "summary": "The research links human play, autonomous data collection and a world model, while its early hardware evaluation remains provisional.",
+    "sections": [
+      {
+        "heading": "Learning how to interact",
+        "paragraphs": [
+          "Dexterity from Supervised Play, or DSP, first imitates human object interaction without a specific final task goal. The resulting play policy then collects additional autonomous interaction data to train a world model."
+        ]
+      },
+      {
+        "heading": "Predicting before acting",
+        "paragraphs": [
+          "Given a goal, the play policy proposes action sequences and the world model predicts their outcomes for model-predictive control. The paper also proposes distilling a policy through play inside the learned model to reduce inference cost."
+        ]
+      },
+      {
+        "heading": "Hardware conclusions remain provisional",
+        "paragraphs": [
+          "The paper studies object pushing and in-hand reorientation, but its first-version conclusion describes hardware results as provisional and calls for a frozen protocol and uncertainty estimates. Headline gains should therefore not be treated as settled hardware comparisons."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://x.com/ruoshi_liu/status/2111126698372812910",
+        "title": "Ruoshi Liu introduces DSP",
+        "note": "Open the original post and media on X; access may require sign-in."
+      },
+      {
+        "url": "https://x.com/JitendraMalikCV/status/2111193400460628049",
+        "title": "Jitendra Malik’s accompanying DSP commentary",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
   }
 }

@@ -1348,5 +1348,115 @@
     "summary": "รับสมัครถึง 31 ธันวาคม Intel เข้าร่วมทีมที่ปรึกษา เน้นพิสูจน์เทคนิคและเตรียมทดลองใช้งาน",
     "image": "",
     "addedAt": "2026-10-17T06:57:11.174Z"
+  },
+  {
+    "id": "plim-home-robot-rebrand-reveal-2026",
+    "category": "humanoids",
+    "date": "2026-10-17",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation",
+    "title": "Plim เผยหุ่นยนต์บ้านแบบมีล้อ ให้คนในครอบครัวควบคุมจากระยะไกล",
+    "summary": "Devanthro เปลี่ยนชื่อเป็น Plim Robotics พร้อมเผยสเปกและแนวคิดช่วยงานบ้าน แต่ยังไม่ประกาศราคาและวันส่งมอบ",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "unitree-uniuni-choreography-control-reveal-2026",
+    "category": "humanoids",
+    "date": "2026-10-17",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control",
+    "title": "Unitree เผย UniUni จัดท่าและคุมทีมหุ่นยนต์ด้วยภาษาธรรมชาติ",
+    "summary": "รวมแผนที่เวที ไทม์ไลน์รายตัว และการตรวจแบตเตอรี่ไว้ในระบบสำหรับการแสดง",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "urc-x40-floor-scrubber-specifications-disclosure-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-16",
+    "source": "StartupPedia",
+    "url": "https://startuppedia.in/trending/startup-news/jammus-urc-robotics-develops-x40-autonomous-floor-cleaning-robot-with-550-mm-cleaning-width-8-hrs-of-runtime-12682763",
+    "title": "URC เผย X40 หุ่นยนต์ขัดพื้น ถังน้ำดี 40 ลิตร ทำงานได้ 6–8 ชั่วโมง",
+    "summary": "ใช้ LiDAR SLAM และ ROS 2 Nav2 สำหรับเดินทำความสะอาดพื้นที่เชิงพาณิชย์",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/startuppedia/media/media_files/2026/10/16/jammu-based-urc-robotics-develops-x40-autonomous-floor-cleaning-robot-2026-10-16-18-48-21.png",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "aimoga-mobo-october21-preorder-announcement-2026",
+    "category": "humanoids",
+    "date": "2026-10-17",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/10/17/3382868/0/en/aimoga-to-unveil-mobo-its-first-family-companion-robot-on-october-21.html",
+    "title": "AiMOGA กำหนดเปิดตัว Mobo และรับจองทั่วโลก 21 ตุลาคม",
+    "summary": "หุ่นยนต์เพื่อนครอบครัวเน้นสนทนา เตือนกิจกรรม และความจำระยะยาว ยังไม่ระบุราคาและวันส่งมอบ",
+    "image": "https://ml.globenewswire.com/Resource/Download/1be9133a-c36b-4d50-8ba8-f52eae858e11/aimoga.jpg",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "napa-hytek-hai-warehouse-automation-agreement-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-15",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/10/15/3382009/0/en/hy-tek-intralogistics-selected-to-deliver-advanced-warehouse-automation-for-napa-auto-parts.html",
+    "title": "NAPA เลือก Hy-Tek และ Hai Robotics วางระบบคลังอะไหล่อัตโนมัติ",
+    "summary": "โครงการใช้ HaiPick และหุ่นยนต์หลายประเภท พร้อมทดสอบแนวทางใน Innovation Lab ก่อนติดตั้ง",
+    "image": "https://ml.globenewswire.com/Resource/Download/2aaf2a52-eb2b-4549-915a-d0f69c842c39",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "flair-hongkong-embodied-ai-hub-opening-2026",
+    "category": "industry-news",
+    "date": "2026-10-15",
+    "source": "Media OutReach",
+    "url": "https://manifestoth.com/flair-launches-hong-kongs-first-embodied-ai-international-applications-hub/",
+    "title": "FLAIR เปิดศูนย์ทดสอบ Embodied AI ในฮ่องกง เชื่อม 7 พันธมิตรเทคโนโลยี",
+    "summary": "ศูนย์ใหม่เน้นฝึก ทดสอบ และประเมินหุ่นยนต์ในสถานการณ์จริง ร่วมกับพันธมิตรหน้างาน 8 แห่ง",
+    "image": "/assets/20261018-flairfull-1.jpg",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "leju-zhaofeng-15-robot-production-results-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-16",
+    "source": "Pandaily",
+    "url": "https://pandaily.com/leju-robotics-zhaofeng-15-humanoid-robots-auto-parts-loading-line-98-percent-1000-hours",
+    "title": "Leju–Zhaofeng เผยผลหุ่นยนต์ 15 ตัวป้อนชิ้นส่วน สำเร็จราว 98% แต่ยังช้ากว่าคน",
+    "summary": "โรงงานรายงานสะสมประมาณ 1,000 ชั่วโมงและชิ้นส่วนกว่า 60,000 ชิ้น โดยยังต้องลดเวลาต่อรอบ",
+    "image": "https://cms-image.pandaily.com/1/leju_533eb6b3e4.png",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "agibot-yuansheng-china-university-rollout-2026",
+    "category": "research",
+    "date": "2026-10-16",
+    "source": "Pandaily",
+    "url": "https://pandaily.com/agibot-yuansheng-university-program-20-schools-1000-robots-aima",
+    "title": "AgiBot เดินหน้า YuanSheng ในมหาวิทยาลัยจีนกว่า 20 แห่ง วางแผนหุ่นยนต์เกิน 1,000 ตัว",
+    "summary": "จับคู่ฮาร์ดแวร์หลายรูปแบบกับซอฟต์แวร์ AIMA เพื่อสนับสนุนการเรียนและวิจัย",
+    "image": "https://cms-image.pandaily.com/1/agibot_aa42cdb769.png",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "aspire-v1-real-robot-skills-release-2026",
+    "category": "research",
+    "date": "2026-10-16",
+    "source": "Robotics Weekly",
+    "url": "https://roboticsweekly.news/stories/aspire-open-source-astra-saturated-robot-benchmarks",
+    "title": "ASPIRE เปิดรุ่น 1.0 ให้หุ่นยนต์สะสมและปรับทักษะ พร้อมรายงานผลจำลองใกล้ 99%",
+    "summary": "โครงการเปิดซอร์สรายงานผลหลังเปลี่ยนโมเดลเบื้องหลัง ต้องแยกคะแนนจำลองจากการทำงานบนหุ่นยนต์จริง",
+    "image": "",
+    "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "dsp-supervised-play-world-model-preprint-2026",
+    "category": "research",
+    "date": "2026-10-17",
+    "source": "Robotics Weekly",
+    "url": "https://roboticsweekly.news/stories/dexterity-from-supervised-play-world-model-human-play",
+    "title": "DSP ใช้การเล่นของคนสอนหุ่นยนต์เก็บข้อมูล ก่อนเรียนรู้จัดการวัตถุ",
+    "summary": "งานวิจัยใช้ world model และการวางแผนจากการเล่น แต่ผลฮาร์ดแวร์ในฉบับต้นยังมีข้อจำกัดในการสรุป",
+    "image": "",
+    "addedAt": "2026-10-17T22:10:03.694Z"
   }
 ]

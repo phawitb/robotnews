@@ -9530,6 +9530,535 @@
           }
         ]
       }
+    },
+    {
+      "id": "plim-home-robot-rebrand-reveal-2026",
+      "storyKey": "plim-home-robot-rebrand-reveal-2026",
+      "originalTitle": "Devanthro Becomes Plim Robotics, Reveals a Home Robot Loved Ones Can Step Into",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation",
+        "https://www.devanthro.com/devanthro-is-now-plim-robotics/",
+        "https://plim.com/meet-plim"
+      ],
+      "publishedAt": "2026-10-17T09:25:09Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "การเปิดเผยหุ่นยนต์บ้านและรูปแบบควบคุมใหม่มีประโยชน์ด้านดูแลผู้สูงอายุ แต่ต้องระบุข้อจำกัดเชิงพาณิชย์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-neuron-ai-hands-3y4Mhhwg9x4NVPgjKcQKYhmJFusS48.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/120ft-container-microfactory-N0J9HxRIyTSjbjXoj80ncRPF15eKnl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/clone-torso-3-hand-teleoperation-KJxb40sDW1HrrhMh0okNnDMKk6RgTs.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unitree-uniuni-choreography-control-reveal-2026",
+      "storyKey": "unitree-uniuni-choreography-control-reveal-2026",
+      "originalTitle": "Unitree’s UniUni Lets Operators Choreograph Robot Teams With Natural Language",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control",
+        "https://x.com/UnitreeRobotics/status/2111015545869107471"
+      ],
+      "publishedAt": "2026-10-17T09:03:17Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "เครื่องมือควบคุมหลายหุ่นยนต์มีประโยชน์กับผู้จัดแสดง แต่ยังไม่มีผลทดสอบอุตสาหกรรม",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/unitree-robotics-1788703267381.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2-plus-wang-gpt6-cxmLr01tHfJ3a9HMUgZhyLel4G9LMA.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-dex5-s.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-factory-integration-0ANcp14iahYl5sqNqT7vUokzeWGoti.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-collage-oY8KOrSx92LiPsf5mHw6PKIsEG6h69.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-autonomous-fighting.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1plus-moving-neck-Zw5CCGtO8YinfyDbIyglqZv3V52LFR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/microagi-revenue-run-rate-77RQnUzyNnVuB66F9ZhWG0t3W122CX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ultra-op1-customer-site-2-dUZAHSE2zGVJQK00VZ2of1WBtXTANO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "urc-x40-floor-scrubber-specifications-disclosure-2026",
+      "storyKey": "urc-x40-floor-scrubber-specifications-disclosure-2026",
+      "originalTitle": "Jammu's URC Robotics develops X40 autonomous floor-cleaning robot with 550 mm cleaning width & 8 hrs of runtime",
+      "urls": [
+        "https://startuppedia.in/trending/startup-news/jammus-urc-robotics-develops-x40-autonomous-floor-cleaning-robot-with-550-mm-cleaning-width-8-hrs-of-runtime-12682763"
+      ],
+      "references": [
+        "https://startuppedia.in/trending/startup-news/jammus-urc-robotics-develops-x40-autonomous-floor-cleaning-robot-with-550-mm-cleaning-width-8-hrs-of-runtime-12682763"
+      ],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "งานขัดพื้นเชิงพาณิชย์เกี่ยวข้องกับอาคารและโรงงานไทย มีสเปกตรวจสอบได้แต่ไม่อ้างว่าเพิ่งเริ่มขาย",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://img-cdn.publive.online/fit-in/360x160/filters:format(webp)/startuppedia/media/agency_attachments/a0o0itom23hdjpr3t3y0.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img-cdn.publive.online/fit-in/360x160/filters:format(webp)/startuppedia/media/agency_attachments/adfcjndncshc-1.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://startuppedia.in/static/images/svg icons/google.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://startuppedia.in/static/images/svg icons/facebook-logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static-cdn.publive.online/startuppedia/media/media_files/2025/12/30/startup-story-feature-2025-12-30-17-28-49.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://static-cdn.publive.online/startuppedia/media/media_files/2026/02/11/startup-pedia-podcast_emori-13-2026-02-11-14-28-33.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://img-cdn.publive.online/fit-in/100x0/filters:format(webp)/startuppedia/media/member_avatars/2025/12/22/2025-12-22t105330349z-gemini_generated_image_4o9lr94o9lr94o9l-2025-12-22-16-23-30.png ",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://static-cdn.publive.online/english-betterindia/media/media_files/2025/10/06/gda-logo-light-2-2025-10-06-15-39-59.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://startuppedia.in/static/images/svg icons/newsletter_new_icon.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aimoga-mobo-october21-preorder-announcement-2026",
+      "storyKey": "aimoga-mobo-october21-preorder-announcement-2026",
+      "originalTitle": "AiMOGA to Unveil Mobo, Its First Family Companion Robot, on October 21",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/10/17/3382868/0/en/aimoga-to-unveil-mobo-its-first-family-companion-robot-on-october-21.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/10/17/3382868/0/en/aimoga-to-unveil-mobo-its-first-family-companion-robot-on-october-21.html"
+      ],
+      "publishedAt": "2026-10-17T10:27:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "กำหนดรับจองเป็นพัฒนาการใหม่ที่แยกจากการสาธิตก่อนหน้าได้",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/YjhkMWNmZDktOTY3Zi00NTAyLWJiNWUtNTJkYWFhM2JhNzUzLTUwMDE2OTQwNS0yMDI2LTEwLTE3LWVu/tiny/AiMOGA.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/aef91488-76a7-44c8-8e35-2717ead33345?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/5c03c495-bc4f-40aa-9c4c-252659406faa?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/0531c770-9328-4997-9f42-6119ffa97eb4?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/34dd2fa3-188d-434d-aed3-64ff459fbec7?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/f1394809-5c91-4561-8159-9052d870e26c?size=3",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "napa-hytek-hai-warehouse-automation-agreement-2026",
+      "storyKey": "napa-hytek-hai-warehouse-automation-agreement-2026",
+      "originalTitle": "Hy-Tek Intralogistics Selected to Deliver Advanced Warehouse Automation for NAPA Auto Parts",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/10/15/3382009/0/en/hy-tek-intralogistics-selected-to-deliver-advanced-warehouse-automation-for-napa-auto-parts.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/10/15/3382009/0/en/hy-tek-intralogistics-selected-to-deliver-advanced-warehouse-automation-for-napa-auto-parts.html"
+      ],
+      "publishedAt": "2026-10-15T16:15:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "โครงการคลังอะไหล่ที่มีลูกค้าระบุชื่อชัด มีนัยต่อการรวมระบบในโลจิสติกส์ไทย",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/561beac5-dd88-4578-ab64-86223ef1dce2?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/Nzk2ZjQwZjQtMDFlNy00MDUyLThiYzAtZDk5ZjBhZmZiM2EwLTUwMDE2ODMwNi0yMDI2LTEwLTE1LWVu/tiny/Hy-Tek-Intralogistics.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/5d34b718-e4d4-4a70-9bc3-a037ed6e0d7c?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/aef91488-76a7-44c8-8e35-2717ead33345?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/5c03c495-bc4f-40aa-9c4c-252659406faa?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/0531c770-9328-4997-9f42-6119ffa97eb4?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/34dd2fa3-188d-434d-aed3-64ff459fbec7?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/f1394809-5c91-4561-8159-9052d870e26c?size=3",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "flair-hongkong-embodied-ai-hub-opening-2026",
+      "storyKey": "flair-hongkong-embodied-ai-hub-opening-2026",
+      "originalTitle": "FLAIR opens Hong Kong embodied-AI hub with seven technology partners",
+      "urls": [
+        "https://manifestoth.com/flair-launches-hong-kongs-first-embodied-ai-international-applications-hub/"
+      ],
+      "references": [
+        "https://manifestoth.com/flair-launches-hong-kongs-first-embodied-ai-international-applications-hub/"
+      ],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "ศูนย์ทดสอบและพันธมิตรใหม่ในฮ่องกง แยกจากศูนย์ YYForce สิงคโปร์และ TUM ที่เคยเผยแพร่",
+      "score": 16,
+      "mediaAudit": {
+        "images": 12,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2025/10/BWManifesto.png?fit=219%2C62&ssl=1",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://manifestoth.com/wp-content/uploads/2026/10/BannerMed-1.gif",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2026/10/generic_link-97.png?resize=24%2C24&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://track.media-outreach.com/index.php/WebView/494371/264392",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2026/10/generic_link-102.png?fit=24%2C24&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2026/10/824855-FAWCAR-to-Debut-in-Milan-.jpeg?fit=768%2C307&ssl=1",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2026/10/824931-IMG-8667-jpeg-1600x1067-1.jpeg?fit=768%2C512&ssl=1",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://i0.wp.com/manifestoth.com/wp-content/uploads/2026/10/824889-Media-2-jpg-1600x1067-1.jpeg?fit=768%2C512&ssl=1",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "leju-zhaofeng-15-robot-production-results-2026",
+      "storyKey": "leju-zhaofeng-15-robot-production-results-2026",
+      "originalTitle": "Leju Robotics Puts 15 Humanoids on an Auto Parts Loading Line, Reporting About 98% Success",
+      "urls": [
+        "https://pandaily.com/leju-robotics-zhaofeng-15-humanoid-robots-auto-parts-loading-line-98-percent-1000-hours"
+      ],
+      "references": [
+        "https://pandaily.com/leju-robotics-zhaofeng-15-humanoid-robots-auto-parts-loading-line-98-percent-1000-hours"
+      ],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "ผลใช้งานจริงและข้อจำกัดด้านเวลาเป็นหลักฐานสำคัญสำหรับโรงงานไทย ต่างจากข่าว UBTECH–Volkswagen",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://pandaily.com/logo-light.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/hy4_preview_f6d614fd20.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A5_c6062cab44.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A4_3188020f29.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A3_6c5d54b3a8.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A2_bcdb7bfbc3.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agibot-yuansheng-china-university-rollout-2026",
+      "storyKey": "agibot-yuansheng-china-university-rollout-2026",
+      "originalTitle": "AgiBot Puts YuanSheng on Campus With 20+ Universities and Over 1,000 Robots",
+      "urls": [
+        "https://pandaily.com/agibot-yuansheng-university-program-20-schools-1000-robots-aima"
+      ],
+      "references": [
+        "https://pandaily.com/agibot-yuansheng-university-program-20-schools-1000-robots-aima"
+      ],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "การขยายในมหาวิทยาลัยจีนเป็นเหตุการณ์ใหม่ แยกจากโครงการ Vietnam NIC และ RaaS ที่เคยลง",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://pandaily.com/logo-light.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/hy4_preview_f6d614fd20.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A5_c6062cab44.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A4_3188020f29.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A3_6c5d54b3a8.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cms-image.pandaily.com/1/A2_bcdb7bfbc3.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aspire-v1-real-robot-skills-release-2026",
+      "storyKey": "aspire-v1-real-robot-skills-release-2026",
+      "originalTitle": "Jim Fan's lab open-sources ASPIRE after Astra swap",
+      "urls": [
+        "https://roboticsweekly.news/stories/aspire-open-source-astra-saturated-robot-benchmarks"
+      ],
+      "references": [
+        "https://roboticsweekly.news/stories/aspire-open-source-astra-saturated-robot-benchmarks",
+        "https://github.com/NVlabs/ASPIRE"
+      ],
+      "publishedAt": "2026-10-16T17:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "ซอฟต์แวร์เปิดรุ่นใหม่และผลทดสอบมีประโยชน์วิจัย ต้องไม่ขยายคะแนนจำลองเกินหลักฐาน",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_bigger.jpg",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dsp-supervised-play-world-model-preprint-2026",
+      "storyKey": "dsp-supervised-play-world-model-preprint-2026",
+      "originalTitle": "Robot learns dexterous hands from minutes of human play",
+      "urls": [
+        "https://roboticsweekly.news/stories/dexterity-from-supervised-play-world-model-human-play"
+      ],
+      "references": [
+        "https://roboticsweekly.news/stories/dexterity-from-supervised-play-world-model-human-play",
+        "https://arxiv.org/html/2610.22340v1"
+      ],
+      "publishedAt": "2026-10-17T17:00:00Z",
+      "addedAt": "2026-10-17T22:10:03.694Z",
+      "runId": "2026-10-18",
+      "reason": "แนวทางลดข้อมูลสาธิตเฉพาะงานมีประโยชน์ แต่เก็บข้อจำกัดในต้นฉบับไว้ครบและไม่ใช้ตัวเลขขัดแย้ง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1925427610286227456/KWZSzh9z_bigger.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1466979452995309577/CNZFiBQ4_bigger.jpg",
+            "reason": "avatar"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -9718,6 +10247,23 @@
         "120ft-576k-container-microfactory-launch-2026",
         "roboparty-rp1-open-hardware-software-release-2026",
         "massrobotics-healthcare-catalyst-cohort6-applications-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-18",
+      "batchHash": "d01d3c0250752695e29f44ddb74f21c9a9f92f24138122c84502390c27c07097",
+      "preparedAt": "2026-10-17T22:10:03.694Z",
+      "articleIds": [
+        "plim-home-robot-rebrand-reveal-2026",
+        "unitree-uniuni-choreography-control-reveal-2026",
+        "urc-x40-floor-scrubber-specifications-disclosure-2026",
+        "aimoga-mobo-october21-preorder-announcement-2026",
+        "napa-hytek-hai-warehouse-automation-agreement-2026",
+        "flair-hongkong-embodied-ai-hub-opening-2026",
+        "leju-zhaofeng-15-robot-production-results-2026",
+        "agibot-yuansheng-china-university-rollout-2026",
+        "aspire-v1-real-robot-skills-release-2026",
+        "dsp-supervised-play-world-model-preprint-2026"
       ]
     }
   ]
