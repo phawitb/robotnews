@@ -2529,5 +2529,170 @@
         "embed": "https://www.youtube-nocookie.com/embed/8hkZ-UIWysM"
       }
     ]
+  },
+  "eka-150m-series-a-vfa-funding-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+        "alt": "แขนหุ่นยนต์ Eka ระหว่างสาธิตการหยิบจับ ภาพจากวิดีโอเปิดตัว",
+        "caption": "แขนหุ่นยนต์ Eka ระหว่างสาธิตการหยิบจับ ภาพจากวิดีโอเปิดตัว · ภาพ: Eka Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/pulkitology/status/2112564529905221861",
+        "title": "วิดีโอและโพสต์เปิดตัว Eka",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "tuesdaylabs-voxel-reservations-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-kitchen-PhKnvI2O7nklwLdj4oW9RbgHHUA5pP.webp",
+        "alt": "ต้นแบบ Voxel ในครัวจากภาพเปิดตัว",
+        "caption": "ต้นแบบ Voxel ในครัวจากภาพเปิดตัว · ภาพ: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-plant-d7N7GNe2kYKoB2eIpXpEwOi3GyOciW.webp",
+        "alt": "Voxel กับบัวรดน้ำข้างต้นบอนไซ",
+        "caption": "Voxel กับบัวรดน้ำข้างต้นบอนไซ · ภาพ: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-face-xmZWaarm2JBWL5mMHqkPvqpTesZ7hU.webp",
+        "alt": "ใบหน้าส่องสว่างบนส่วนลำตัวของ Voxel",
+        "caption": "ใบหน้าส่องสว่างบนส่วนลำตัวของ Voxel · ภาพ: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-music-UBU4HCkaRlIW4wpaBHAZG8mOtMaNTU.webp",
+        "alt": "Voxel ข้างนักดนตรีในห้องนั่งเล่น",
+        "caption": "Voxel ข้างนักดนตรีในห้องนั่งเล่น · ภาพ: Tuesday Labs"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/make_robot_go/status/2112565146354860151",
+        "title": "โพสต์และสื่อเปิดตัว Voxel",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "schaeffler-taicang-lighthouse-opening-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-taicang-hero-1Ozgt9fZNQgziDIS60qo1d19qxgE7J.webp",
+        "alt": "ฮิวแมนนอยด์ฝึกหยิบชิ้นงานที่ Taicang ภาพจากวิดีโอของบริษัท",
+        "caption": "ฮิวแมนนอยด์ฝึกหยิบชิ้นงานที่ Taicang ภาพจากวิดีโอของบริษัท · ภาพ: Schaeffler"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://www.youtube.com/watch?v=Ef_yPULR0fM",
+        "title": "ชมภายในโรงงานฮิวแมนนอยด์ Schaeffler ที่ Taicang",
+        "note": "เจ้าของวิดีโอปิดการฝังบนเว็บไซต์อื่น เปิดชมบน YouTube ต้นฉบับ"
+      }
+    ]
+  },
+  "agco-agility-hesston-pilot-agreement-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp",
+        "alt": "Digit ถือกล่องข้างตรา AGCO และ Agility",
+        "caption": "Digit ถือกล่องข้างตรา AGCO และ Agility · ภาพ: AGCO / Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "reservoir-washington-agrobotics-incubator-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Reservoir-Farms-Salinas-Grand-Opening-featured.jpg",
+        "alt": "พิธีเปิดฐานเดิม Reservoir Farms ที่ Salinas ไม่ใช่สถานที่ใหม่ใน Washington",
+        "caption": "พิธีเปิดฐานเดิม Reservoir Farms ที่ Salinas ไม่ใช่สถานที่ใหม่ใน Washington · ภาพ: Reservoir"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=vK3ZkZnMydg",
+        "title": "RUGGEDIZE ที่ Reservoir Farms — วิดีโอประกอบจากต้นฉบับ",
+        "embed": "https://www.youtube-nocookie.com/embed/vK3ZkZnMydg",
+        "sourceUrl": "https://www.youtube.com/embed/vK3ZkZnMydg?feature=oembed"
+      }
+    ]
+  },
+  "avenda-unfold-ai-surgery-mode-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Avenda_Unfold.jpg",
+        "alt": "หน้าจอแผนที่ Unfold AI สำหรับช่วยแพทย์ประเมินขอบเขตมะเร็ง",
+        "caption": "หน้าจอแผนที่ Unfold AI สำหรับช่วยแพทย์ประเมินขอบเขตมะเร็ง · ภาพ: Avenda Health"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=sY8O5l4OodI",
+        "title": "การใช้ AI สนับสนุนการตัดสินใจดูแลมะเร็งต่อมลูกหมาก",
+        "embed": "https://www.youtube-nocookie.com/embed/sY8O5l4OodI",
+        "sourceUrl": "https://www.youtube.com/embed/sY8O5l4OodI?feature=oembed"
+      }
+    ]
+  },
+  "gecko-navy-contract-ceiling-300m-expansion-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/geckorobotics-featured.jpg",
+        "alt": "หุ่นยนต์ Gecko Robotics เกาะตรวจพื้นผิวโครงสร้าง",
+        "caption": "หุ่นยนต์ Gecko Robotics เกาะตรวจพื้นผิวโครงสร้าง · ภาพ: Gecko Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=2wSZTFYsUd8",
+        "title": "การสแกนตัวเรือของกองทัพเรือ",
+        "embed": "https://www.youtube-nocookie.com/embed/2wSZTFYsUd8",
+        "sourceUrl": "https://www.youtube.com/embed/2wSZTFYsUd8?feature=oembed"
+      }
+    ]
+  },
+  "encord-emg1-data-labs-release-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1740800/Encord-Logo.jpg?id=OA3028465",
+        "alt": "ตรา Encord ที่แนบกับประกาศ EMG-1",
+        "caption": "ตรา Encord ที่แนบกับประกาศ EMG-1 · ภาพ: Encord"
+      }
+    ],
+    "videos": []
+  },
+  "reliable-115m-series-d-extension-2026": {
+    "images": [
+      {
+        "url": "https://techstartups.com/wp-content/uploads/2026/10/Reliable-Robotics-960x610.jpg",
+        "alt": "เครื่องบิน Reliable Robotics ในภาพประกอบประกาศทุน",
+        "caption": "เครื่องบิน Reliable Robotics ในภาพประกอบประกาศทุน · ภาพ: Reliable Robotics / TechStartups"
+      },
+      {
+        "url": "https://techstartups.com/wp-content/uploads/2026/10/Reliable-Robotics-Team.jpg",
+        "alt": "ทีม Reliable Robotics",
+        "caption": "ทีม Reliable Robotics · ภาพ: Reliable Robotics / TechStartups"
+      }
+    ],
+    "videos": []
+  },
+  "neura-nxai-xlstm-memory-partnership-2026": {
+    "images": [
+      {
+        "url": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/neura-nxai-partnership-scaled.webp",
+        "alt": "ผู้แทน NXAI และ NEURA ในการลงนามความร่วมมือ",
+        "caption": "ผู้แทน NXAI และ NEURA ในการลงนามความร่วมมือ · ภาพ: NEURA Robotics"
+      }
+    ],
+    "videos": []
   }
 }

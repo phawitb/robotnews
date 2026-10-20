@@ -1568,5 +1568,115 @@
     "summary": "ผู้ผลิต LaserWeeder ยืนยันผลกระทบทั้งสหรัฐฯ และต่างประเทศ แต่ไม่เปิดเผยจำนวนตำแหน่งที่ลด",
     "image": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
     "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "eka-150m-series-a-vfa-funding-2026",
+    "category": "ai-automation",
+    "date": "2026-10-20",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/eka-robotics-150-million-series-a-vision-force-action",
+    "title": "Eka ได้ทุน Series A 150 ล้านดอลลาร์ พัฒนา AI หุ่นยนต์ที่ใช้แรงสัมผัสร่วมกับภาพ",
+    "summary": "โมเดล vision-force-action เรียนรู้การหยิบจับผ่านการจำลอง บริษัทอ้างทำได้ 1,500 ครั้งต่อชั่วโมงในการทดสอบ แต่ยังต้องพิสูจน์งานผลิตต่อเนื่อง",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "tuesdaylabs-voxel-reservations-launch-2026",
+    "category": "humanoids",
+    "date": "2026-10-20",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/tuesday-labs-voxel-home-robot-reservations",
+    "title": "Tuesday Labs เปิดจอง Voxel หุ่นยนต์ช่วยจัดบ้าน คาดราคา 20,000 ดอลลาร์",
+    "summary": "วางเงินจองคืนได้ 200 ดอลลาร์ ตั้งเป้าส่งในสหรัฐฯ ปี 2028 โดยฮาร์ดแวร์ยังเป็นต้นแบบและเตรียมออกแบบใหม่",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-kitchen-PhKnvI2O7nklwLdj4oW9RbgHHUA5pP.webp",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "schaeffler-taicang-lighthouse-opening-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-20",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/schaeffler-taicang-humanoids-build-robot-components",
+    "title": "Schaeffler เปิดโรงงาน Taicang ใช้ฮิวแมนนอยด์ 6 ตัวประกอบชิ้นส่วนหุ่นยนต์",
+    "summary": "สายงาน 5 สถานีเชื่อมการผลิตโมดูลข้อต่อกับการฝึกและ digital twin ในพื้นที่ประมาณ 7,500 ตารางเมตร",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-taicang-hero-1Ozgt9fZNQgziDIS60qo1d19qxgE7J.webp",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "agco-agility-hesston-pilot-agreement-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-20",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/agco-agility-digit-hesston-kansas-manufacturing-pilot",
+    "title": "AGCO จับมือ Agility เตรียมทดลอง Digit ในโรงงาน Hesston ปี 2027",
+    "summary": "งานแรกครอบคลุมคัดและซ้อนชิ้นส่วน รวมถึงจัดวางลังสำหรับเก็บในโรงงานผลิตเครื่องจักรเกษตร",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "reservoir-washington-agrobotics-incubator-launch-2026",
+    "category": "industry-news",
+    "date": "2026-10-20",
+    "source": "The Robot Report",
+    "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+    "title": "Reservoir เปิดโครงการบ่มเพาะหุ่นยนต์เกษตรใน Washington เชื่อมทีมพัฒนากับผู้ปลูก",
+    "summary": "ร่วม WSU และเครือข่ายอุตสาหกรรมผลไม้ ทดสอบเทคโนโลยีในสวนและไร่จริง โดยยังไม่ประกาศรายละเอียดสถานที่ใหม่",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Reservoir-Farms-Salinas-Grand-Opening-featured.jpg",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "avenda-unfold-ai-surgery-mode-launch-2026",
+    "category": "ai-automation",
+    "date": "2026-10-20",
+    "source": "The Robot Report",
+    "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/",
+    "title": "Avenda เพิ่ม Surgery Mode ให้ Unfold AI ใช้แผนที่มะเร็งสามมิติระหว่างผ่าตัด",
+    "summary": "ปรับมุมมองให้สอดคล้องกับกล้องผ่าตัดและเปิดดู MRI ในขั้นตอนทำงาน เป็นเครื่องมือสนับสนุนแพทย์ ไม่ใช่ระบบผ่าตัดอัตโนมัติ",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Avenda_Unfold.jpg",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "gecko-navy-contract-ceiling-300m-expansion-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-20",
+    "source": "The Robot Report",
+    "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+    "title": "กองทัพเรือสหรัฐฯ เพิ่มเพดานสัญญา Gecko เป็น 300 ล้านดอลลาร์ ขยายงานตรวจเรือ",
+    "summary": "Komodo วัดความหนาเหล็กใต้ผิวเคลือบดาดฟ้าโดยไม่ต้องลอก ช่วยวางแผนซ่อมก่อนเข้าอู่",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/geckorobotics-featured.jpg",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "encord-emg1-data-labs-release-2026",
+    "category": "research",
+    "date": "2026-10-20",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/encord-releases-emg-1-the-largest-open-dataset-linking-muscle-signals-to-robotic-ai-development-302914344.html",
+    "title": "Encord เปิด EMG-1 ข้อมูลกล้ามเนื้อกับวิดีโอกว่า 300 ชั่วโมงสำหรับฝึกหุ่นยนต์",
+    "summary": "ร่วม Wearable Devices เก็บสัญญาณจากแขนเพื่อช่วยติดตามมือขณะถูกบัง พร้อมเปิด Data Labs และโมเดลติดตามมือ REACH",
+    "image": "https://mmx.prnewswire.com/media/MS1740800/Encord-Logo.jpg?id=OA3028465",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "reliable-115m-series-d-extension-2026",
+    "category": "drones",
+    "date": "2026-10-20",
+    "source": "TechStartups",
+    "url": "https://techstartups.com/2026/10/20/reliable-robotics-raises-115m-in-new-funding-tops-1b-valuation-as-autonomous-aviation-takes-off/",
+    "title": "Reliable Robotics ได้เงินเพิ่ม 115 ล้านดอลลาร์ ขยายระบบบินอัตโนมัติ",
+    "summary": "รวมทุนหุ้น 90 ล้านและสินเชื่อ 25 ล้านดอลลาร์ เตรียมเพิ่มเครื่องบินและทีมวิศวกรรม ขณะการรับรอง FAA ยังดำเนินอยู่",
+    "image": "https://techstartups.com/wp-content/uploads/2026/10/Reliable-Robotics-960x610.jpg",
+    "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "neura-nxai-xlstm-memory-partnership-2026",
+    "category": "ai-automation",
+    "date": "2026-10-20",
+    "source": "Trending Topics",
+    "url": "https://www.trendingtopics.eu/neura-robotics-nxai-partnership-xlstm/",
+    "title": "NEURA ร่วม NXAI พัฒนาความจำ xLSTM ให้หุ่นยนต์ และเตรียมเพิ่มโมเดลใน Neuraverse",
+    "summary": "ความร่วมมือใหม่ต่อยอด Neuron AI ด้วยการเก็บสถานะงานหลายขั้นและประสบการณ์เดิม ยังไม่มีผลทดสอบหรือกำหนดเปิดใช้",
+    "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/neura-nxai-partnership-scaled.webp",
+    "addedAt": "2026-10-20T22:10:29.239Z"
   }
 ]

@@ -5626,5 +5626,378 @@
         "title": "Paul Mikesell’s AgFunder interview linked in the article"
       }
     ]
+  },
+  "eka-150m-series-a-vfa-funding-2026": {
+    "title": "Eka raises $150 million to develop robots that learn from vision and force",
+    "summary": "Its vision-force-action approach targets adaptable manipulation; a reported 1,500 picks per hour still needs sustained production validation.",
+    "sections": [
+      {
+        "heading": "Funding for models and deployments",
+        "paragraphs": [
+          "Eka Robotics announced a $150 million Series A on October 20, led by Andreessen Horowitz and F-Prime, to develop its model and customer deployments. Its founders are MIT researcher Pulkit Agrawal and former DeepMind researcher Tuomas Haarnoja, a co-creator of Soft Actor-Critic."
+        ]
+      },
+      {
+        "heading": "Contact becomes control feedback",
+        "paragraphs": [
+          "The vision-force-action approach combines images with forces arising during contact. That feedback can help adjust a slipping grasp or correct alignment when insertion encounters resistance. Eka uses reinforcement learning in simulations with varied objects and contact conditions to train skills for physical hardware."
+        ]
+      },
+      {
+        "heading": "Laboratory speed is one part of readiness",
+        "paragraphs": [
+          "Eka reports 1,500 picks per hour, with its investor describing laboratory testing. This does not establish full-shift factory readiness. Industrial evaluation also needs success rates, intervention requirements and performance across varied parts, beyond the speed of a demonstration."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+        "alt": "Eka robot arm in a manipulation demonstration, from the launch video",
+        "caption": "Eka robot arm in a manipulation demonstration, from the launch video · Image: Eka Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/pulkitology/status/2112564529905221861",
+        "title": "Eka launch video and post",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "tuesdaylabs-voxel-reservations-launch-2026": {
+    "title": "Tuesday Labs opens reservations for Voxel home robot at an estimated $20,000",
+    "summary": "The refundable $200 reservation targets US delivery in 2028, while substantial prototype redesign remains ahead.",
+    "sections": [
+      {
+        "heading": "Reservations precede the finished product",
+        "paragraphs": [
+          "New York-based Tuesday Labs, led by former Boston Dynamics roboticist Ros Shinkle, introduced Voxel Series-1. A $200 reservation is refundable before an order is placed. The estimated $20,000 price is not final; deliveries in selected US areas are expected in 2028 but could come later."
+        ]
+      },
+      {
+        "heading": "A proposed household helper",
+        "paragraphs": [
+          "Voxel is intended to put belongings away, report where it last saw an item, fetch objects and water plants. The published design has seven-degree-of-freedom arms, actuated wrists, one-degree-of-freedom grippers, Z-shaped legs and stereo RGB cameras. No unfamiliar-home success rate or human-assistance requirement has been established."
+        ]
+      },
+      {
+        "heading": "Hardware remains subject to redesign",
+        "paragraphs": [
+          "The reservation terms describe the imagery and demonstrations as a concept and development prototype. A substantial hardware redesign is expected, so appearance, capabilities and specifications may change. An edition number does not guarantee delivery priority; this is an early reservation launch for a developing product."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-kitchen-PhKnvI2O7nklwLdj4oW9RbgHHUA5pP.webp",
+        "alt": "Voxel development prototype in a kitchen, from launch imagery",
+        "caption": "Voxel development prototype in a kitchen, from launch imagery · Image: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-plant-d7N7GNe2kYKoB2eIpXpEwOi3GyOciW.webp",
+        "alt": "Voxel holding a watering can beside a bonsai",
+        "caption": "Voxel holding a watering can beside a bonsai · Image: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-face-xmZWaarm2JBWL5mMHqkPvqpTesZ7hU.webp",
+        "alt": "Voxel’s illuminated face on its body",
+        "caption": "Voxel’s illuminated face on its body · Image: Tuesday Labs"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-music-UBU4HCkaRlIW4wpaBHAZG8mOtMaNTU.webp",
+        "alt": "Voxel beside a musician in a living room",
+        "caption": "Voxel beside a musician in a living room · Image: Tuesday Labs"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/make_robot_go/status/2112565146354860151",
+        "title": "Voxel launch post and media",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "schaeffler-taicang-lighthouse-opening-2026": {
+    "title": "Schaeffler opens Taicang factory with six humanoids assembling robot components",
+    "summary": "Five workstations connect joint-module manufacturing with training and a digital twin across approximately 7,500 square meters.",
+    "sections": [
+      {
+        "heading": "A component-manufacturing facility",
+        "paragraphs": [
+          "Schaeffler opened its humanoid robotics lighthouse factory in Taicang, China, on October 20. Approximately 7,500 square meters combine assembly, training and data collection, digital twins and a data center. The company describes the opening as the start of mass production of joint modules, including linear and rotary actuators."
+        ]
+      },
+      {
+        "heading": "Six robots across five stations",
+        "paragraphs": [
+          "Six humanoids prepare and sort parts, assemble them, inspect, label and package them across five stations. The scope is key components rather than complete humanoid assembly. Sensors track accuracy, task time, energy and equipment condition so line changes can be tested digitally before physical implementation."
+        ]
+      },
+      {
+        "heading": "Training linked to industrial conditions",
+        "paragraphs": [
+          "Training draws on tasks across roughly 100 Schaeffler plants, including inspection, transport and line-side replenishment, with access for customers and partners. The company reports about €400 million in global incoming humanoid orders, not recognized revenue. Production rate and human-intervention requirements remain undisclosed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-taicang-hero-1Ozgt9fZNQgziDIS60qo1d19qxgE7J.webp",
+        "alt": "A humanoid training with parts at Taicang, from the company video",
+        "caption": "A humanoid training with parts at Taicang, from the company video · Image: Schaeffler"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Ef_yPULR0fM",
+        "title": "Inside Schaeffler’s Taicang humanoid factory",
+        "note": "The owner has disabled playback on other websites. Open the original video on YouTube."
+      }
+    ]
+  },
+  "agco-agility-hesston-pilot-agreement-2026": {
+    "title": "AGCO signs Agility agreement for a 2027 Digit pilot at Hesston",
+    "summary": "Initial work will cover sorting and stacking parts and positioning totes for storage inside an agricultural-equipment factory.",
+    "sections": [
+      {
+        "heading": "An agreement ahead of the pilot",
+        "paragraphs": [
+          "AGCO and Agility Robotics announced a commercial agreement on October 20 to use Digit in agricultural-equipment manufacturing. A pilot at Hesston, Kansas, is expected in 2027. It is a planned trial rather than a deployment with demonstrated operating results."
+        ]
+      },
+      {
+        "heading": "Parts and totes are the initial tasks",
+        "paragraphs": [
+          "The specified work includes sorting and stacking parts and positioning totes for storage in support of assembly and production. This is factory work, not agricultural field operation. The announcement also highlights Agility Arc, a cloud platform for deployment and robot-fleet management."
+        ]
+      },
+      {
+        "heading": "Business outcomes remain to be measured",
+        "paragraphs": [
+          "The partners aim to reduce repetitive, physically demanding work, improve ergonomics and support efficiency while assessing business value and collaboration with people. Robot count, contract value, pilot duration and wider rollout timing remain undisclosed, so savings or production gains cannot yet be concluded."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp",
+        "alt": "Digit holding a tote alongside AGCO and Agility logos",
+        "caption": "Digit holding a tote alongside AGCO and Agility logos · Image: AGCO / Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "reservoir-washington-agrobotics-incubator-launch-2026": {
+    "title": "Reservoir launches Washington agricultural robotics incubator with grower partners",
+    "summary": "The initiative links developers, WSU researchers and growers for field testing, with the new site details still to be announced.",
+    "sections": [
+      {
+        "heading": "A new field-testing network",
+        "paragraphs": [
+          "Reservoir announced a Washington agricultural robotics incubator with Washington State University’s IAREC in Prosser, the Washington Tree Fruit Research Commission and the Tri-City Development Council. It connects startups, researchers and growers around technology for agricultural production."
+        ]
+      },
+      {
+        "heading": "Development around real crops",
+        "paragraphs": [
+          "Developers are to gain access to orchards, vineyards and berry fields to address labor costs and workforce constraints. Washington crops include apples, cherries, pears, blueberries, wine grapes and hops. Working with growers enables evaluation under real operating conditions beyond laboratory demonstrations."
+        ]
+      },
+      {
+        "heading": "New site details are still pending",
+        "paragraphs": [
+          "The Washington site details have not been announced. The 24-acre location and innovation barns mentioned in the source belong to the existing Salinas, California base pictured in the article. The new incubator expands testing access; it does not establish commercial validation or savings for a particular robot."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Reservoir-Farms-Salinas-Grand-Opening-featured.jpg",
+        "alt": "Opening of the existing Reservoir Farms in Salinas, not the new Washington location",
+        "caption": "Opening of the existing Reservoir Farms in Salinas, not the new Washington location · Image: Reservoir"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=vK3ZkZnMydg",
+        "title": "RUGGEDIZE at Reservoir Farms — video from the source article"
+      }
+    ]
+  },
+  "avenda-unfold-ai-surgery-mode-launch-2026": {
+    "title": "Avenda adds Surgery Mode to bring Unfold AI maps into prostate procedures",
+    "summary": "The update aligns views with surgical cameras and adds intraoperative MRI review as physician decision support, not autonomous surgery.",
+    "sections": [
+      {
+        "heading": "From planning into the operating room",
+        "paragraphs": [
+          "Avenda Health introduced Surgery Mode on October 20 to use Unfold AI’s prostate cancer estimation maps during procedures, including robot-assisted surgery. It extends support beyond preoperative consultation and planning. The technology assists physicians in reviewing information rather than making decisions or performing surgery autonomously."
+        ]
+      },
+      {
+        "heading": "Patient-specific maps and camera alignment",
+        "paragraphs": [
+          "Unfold AI combines MRI, biopsy, pathology and PSA information into a patient-specific 3D map. The new mode enlarges views, adjusts map orientation including left-right alignment to the surgical camera, enables review of underlying MRI slices during the procedure and exposes Capsule Risk Score within a surgical view."
+        ]
+      },
+      {
+        "heading": "Workflow updates alongside visualization",
+        "paragraphs": [
+          "The update also improves case visibility through patient lists, filters, notes and assigned-physician information for team coordination. This is a software capability announcement, not evidence that use of the new mode has already demonstrated lower recurrence or superior treatment outcomes."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Avenda_Unfold.jpg",
+        "alt": "Unfold AI mapping interface for physician decision support",
+        "caption": "Unfold AI mapping interface for physician decision support · Image: Avenda Health"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=sY8O5l4OodI",
+        "title": "Using AI in prostate cancer care decisions"
+      }
+    ]
+  },
+  "gecko-navy-contract-ceiling-300m-expansion-2026": {
+    "title": "US Navy raises Gecko contract ceiling to $300 million for ship inspection",
+    "summary": "Komodo measures steel beneath deck coatings without stripping them, supporting maintenance planning before dry-dock work.",
+    "sections": [
+      {
+        "heading": "An increase to the existing ceiling",
+        "paragraphs": [
+          "The US Navy and General Services Administration raised Gecko Robotics’ five-year IDIQ ceiling from $71 million to $300 million, according to details DefenseScoop verified with the company. The original scope covered 18 Pacific Fleet ships; expansion will support the Atlantic Surface Fleet. A ceiling is not guaranteed orders or revenue."
+        ]
+      },
+      {
+        "heading": "Measuring steel beneath coatings",
+        "paragraphs": [
+          "Komodo travels over decks and uses electromagnetic acoustic transducer technology to measure steel thickness beneath non-skid coatings without stripping them first. It helps identify corrosion or structural degradation and can gather evidence while a ship remains afloat, before its maintenance period begins."
+        ]
+      },
+      {
+        "heading": "Inspection evidence shapes repair plans",
+        "paragraphs": [
+          "Gecko combines measurements from robots, drones and sensors with analysis software to help engineers prioritize repairs and avoid unnecessary replacement. Time and cost benefits depend on the vessel and actual work. The higher ceiling expands potential use rather than proving identical savings on every ship."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/geckorobotics-featured.jpg",
+        "alt": "Gecko Robotics robot inspecting a structural surface",
+        "caption": "Gecko Robotics robot inspecting a structural surface · Image: Gecko Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=2wSZTFYsUd8",
+        "title": "Navy hull scans"
+      }
+    ]
+  },
+  "encord-emg1-data-labs-release-2026": {
+    "title": "Encord releases EMG-1 with over 300 hours of muscle signals and video",
+    "summary": "The Wearable Devices collaboration targets hand tracking under occlusion alongside the launch of Data Labs and the REACH tracking model.",
+    "sections": [
+      {
+        "heading": "Another signal for learning manipulation",
+        "paragraphs": [
+          "Encord released EMG-1 with Wearable Devices on October 20. It contains over 300 hours of synchronized forearm electromyography, first-person video and optical motion capture. The open dataset is intended to help researchers develop robot movement and object-manipulation learning."
+        ]
+      },
+      {
+        "heading": "Tracking when cameras lose the fingers",
+        "paragraphs": [
+          "Objects being handled often hide fingers from cameras. Wristbands add EMG signals associated with finger movement to the visual stream. Encord reports 25% lower fingertip-position error and 35% lower error during brief visual gaps. These are company tracking evaluations, not success rates across all robotic tasks."
+        ]
+      },
+      {
+        "heading": "A lab and tracking tools launch together",
+        "paragraphs": [
+          "The release accompanies Encord Data Labs and REACH, a hand-tracking model for gloves, obscured fingers, fast motion and multiple hands. These efforts improve training-data quality. Adding muscle signals does not by itself guarantee that a trained robot can regulate force or handle every situation autonomously."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS1740800/Encord-Logo.jpg?id=OA3028465",
+        "alt": "Encord logo accompanying the EMG-1 announcement",
+        "caption": "Encord logo accompanying the EMG-1 announcement · Image: Encord"
+      }
+    ],
+    "videos": []
+  },
+  "reliable-115m-series-d-extension-2026": {
+    "title": "Reliable Robotics adds $115 million to expand autonomous aviation development",
+    "summary": "The financing combines $90 million in equity and a $25 million loan for fleet and engineering growth while FAA certification continues.",
+    "sections": [
+      {
+        "heading": "New capital and engineering expansion",
+        "paragraphs": [
+          "Reliable Robotics announced $115 million in additional capital on October 20: $90 million in equity and a $25 million Silicon Valley Bank term loan. This brings the Series D total to $275 million and valuation above $1 billion. It plans to expand aircraft, production and engineering, with new Seattle and San Diego offices."
+        ]
+      },
+      {
+        "heading": "Retrofitting existing aircraft",
+        "paragraphs": [
+          "The Reliable Autonomy System, or RAS, is being developed for automatic taxi, takeoff, en-route flight management and landing, with the Cessna 208B Grand Caravan as its certification platform. It adapts existing aircraft and aviation infrastructure while the company also develops radar to help address collision risks."
+        ]
+      },
+      {
+        "heading": "Financing is not operating approval",
+        "paragraphs": [
+          "FAA certification remains in progress, so the funding does not mean unrestricted autonomous commercial service is approved. More aircraft and engineers support testing and safety evidence, while commercial expansion still depends on regulatory requirements and demonstrating consistent system performance."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techstartups.com/wp-content/uploads/2026/10/Reliable-Robotics-960x610.jpg",
+        "alt": "Reliable Robotics aircraft in the funding story",
+        "caption": "Reliable Robotics aircraft in the funding story · Image: Reliable Robotics / TechStartups"
+      },
+      {
+        "url": "https://techstartups.com/wp-content/uploads/2026/10/Reliable-Robotics-Team.jpg",
+        "alt": "Reliable Robotics team",
+        "caption": "Reliable Robotics team · Image: Reliable Robotics / TechStartups"
+      }
+    ],
+    "videos": []
+  },
+  "neura-nxai-xlstm-memory-partnership-2026": {
+    "title": "NEURA and NXAI partner on xLSTM robot memory and a Neuraverse model",
+    "summary": "The new collaboration builds on Neuron AI to track multi-step tasks and past experience, without published results or a launch timetable.",
+    "sections": [
+      {
+        "heading": "A new partnership beyond the Neuron AI launch",
+        "paragraphs": [
+          "NEURA Robotics and NXAI announced a collaboration on October 20 to develop a robot-memory component building on Neuron AI. NXAI also plans to offer its own xLSTM model through Neuraverse. This adds a partner agreement and model option beyond the previously reported Neuron AI introduction."
+        ]
+      },
+      {
+        "heading": "Remembering state as work progresses",
+        "paragraphs": [
+          "xLSTM is a recurrent architecture that maintains a compact state and updates it with new input. The aim is to track completed steps, such as inserting a component or opening a door, while drawing on prior experience. The work addresses continuity across a process rather than only recognizing each camera frame."
+        ]
+      },
+      {
+        "heading": "Integration remains a development plan",
+        "paragraphs": [
+          "Users are intended to adapt the NXAI model with Neuraverse tools, test it in NEURA Gyms and deploy it to suitable robots. Neuron AI will continue as NEURA’s independently developed model. No comparative results or launch timetable for the joint memory component were provided, leaving sustained-task benefits to be demonstrated."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/neura-nxai-partnership-scaled.webp",
+        "alt": "NXAI and NEURA representatives signing their partnership",
+        "caption": "NXAI and NEURA representatives signing their partnership · Image: NEURA Robotics"
+      }
+    ],
+    "videos": []
   }
 }
