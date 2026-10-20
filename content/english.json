@@ -5271,5 +5271,360 @@
         "note": "Open the original post and media on X; access may require sign-in."
       }
     ]
+  },
+  "figure03-nine-day-treadmill-endurance-update-2026": {
+    "title": "Figure 03 reaches nine days and 348 miles in treadmill endurance test",
+    "summary": "Brett Adcock reports 1.2 million steps, without disclosing the power arrangement or a maintenance log.",
+    "sections": [
+      {
+        "heading": "The reported milestone",
+        "paragraphs": [
+          "Figure founder Brett Adcock said on October 19 that a Figure 03 had walked on a treadmill for nine days, covering 348 miles, approximately 560 kilometres, and 1.2 million steps. The test was still running when he posted. These are company-reported figures rather than an independent certification."
+        ]
+      },
+      {
+        "heading": "Repeated motion as a hardware test",
+        "paragraphs": [
+          "Repeating a walking cycle in controlled conditions can expose failures that a short demonstration misses. Adcock described the exercise as a side project intended to stress the robot for failures. It examines locomotion, a different activity from the company’s previously reported 200-hour package-sorting test."
+        ]
+      },
+      {
+        "heading": "What nine days does not establish",
+        "paragraphs": [
+          "The update does not disclose the power arrangement, breaks, maintenance or intervention history. It therefore cannot establish nine days on one battery charge or reliability across factory tasks. The treadmill result concerns a specific controlled setting; performance at customer sites still needs separate evaluation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+        "alt": "Figure 03 walking on a treadmill in the endurance test",
+        "caption": "Figure 03 walking on a treadmill in the endurance test · Image: Figure / Brett Adcock"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/adcock_brett/status/2112227583643509174",
+        "title": "Original Figure 03 endurance-test post and media",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "kaist-v09-whole-body-manipulation-demo-2026": {
+    "title": "KAIST v0.9 demonstrates 35 kg pushing and 20 kg lifting",
+    "summary": "DRCD Lab and RAILAB combine object handling, balance and onboard visual feedback in a new research demonstration.",
+    "sections": [
+      {
+        "heading": "From walking to handling objects",
+        "paragraphs": [
+          "An October 19 video shows KAIST Humanoid v0.9 pushing objects weighing up to 35 kg and lifting up to 20 kg while arranging objects into the letters KAIST. DRCD Lab developed the platform with RAILAB, which developed its arms."
+        ]
+      },
+      {
+        "heading": "Coordinating contact and balance",
+        "paragraphs": [
+          "Physical handling requires coordinated locomotion and contact: force applied through the arms changes the demands on the legs and torso. The team reports onboard visual feedback and interaction skills learned through deep reinforcement learning and human demonstrations. The video description does not fully explain how those components are combined."
+        ]
+      },
+      {
+        "heading": "Pushing and lifting are different measures",
+        "paragraphs": [
+          "Pushing a 35 kg object does not require supporting its full weight, and resistance depends on surface conditions. That result must be separated from the 20 kg lift. The demonstration is neither a commercial payload rating nor evidence of unrestricted autonomy, and it does not establish durability under repeated production work."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=HBFZ2a0Dj9s",
+        "title": "KAIST v0.9 whole-body locomanipulation demonstration"
+      }
+    ]
+  },
+  "figurobot-frnia-companion-announcement-2026": {
+    "title": "Figurobot introduces 11-inch FR-NIA with ten face and neck motion axes",
+    "summary": "The desktop companion emphasizes expression and app customization, while launch and pricing information remains inconsistent.",
+    "sections": [
+      {
+        "heading": "A desktop conversation companion",
+        "paragraphs": [
+          "Figurobot announced FR-NIA on October 19 as an 11-inch, approximately 28 cm, robot. Its silicone face and moving eyes, eyebrows, mouth and neck give conversations a physical expression. The company positions it for desks and bedside tables rather than household chores."
+        ]
+      },
+      {
+        "heading": "Customizable movement and expression",
+        "paragraphs": [
+          "The website divides ten degrees of freedom into seven for the face and three for the neck. Advertised app functions include real-time control, motion recording, keyframe editing and custom expressions. Long-term memory and relationship-development features remain plans, rather than confirmed delivery capabilities."
+        ]
+      },
+      {
+        "heading": "Launch terms need careful reading",
+        "paragraphs": [
+          "The press release advertises early-bird prices from $599 and Lite, Pro and Pro Max versions. The website reviewed instead lists an October 20 Kickstarter launch and $699 or $799 reservation prices with $20 or $1 deposits respectively. It explicitly says a deposit does not purchase a robot: the Kickstarter price and shipping are paid later, and no hardware ships at this stage."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figurobot-fr-nia-companion-ZLeNbsPCiD6gil1uj9tY1SLZQ8cHNU.webp",
+        "alt": "FR-NIA desktop companion robot",
+        "caption": "FR-NIA desktop companion robot · Image: Figurobot"
+      }
+    ],
+    "videos": []
+  },
+  "xsquare-x2real-public-evaluation-release-2026": {
+    "title": "X Square releases X2Real evaluation tools spanning 44 robot tasks",
+    "summary": "The Isaac Lab-Arena benchmark links simulated scores to hardware tests while defining limits of its public release.",
+    "sections": [
+      {
+        "heading": "A public tool for comparing models",
+        "paragraphs": [
+          "X Square announced X2Real on October 19. The research benchmark spans 44 tasks and ten capability dimensions, including language understanding, tool use and bimanual coordination. The new development here is the public-tool announcement; the technical report was published earlier."
+        ]
+      },
+      {
+        "heading": "Correlation is not a success percentage",
+        "paragraphs": [
+          "The report compares WALL-OSS-0.5 on eight physical and simulated tasks. It reports correlations of 0.84 for task progress and 0.74 for success rates. A correlation of 0.84 does not mean 84% task success, and precision tasks still reveal differences between the two environments."
+        ]
+      },
+      {
+        "heading": "Understand the downloadable scope",
+        "paragraphs": [
+          "The public evaluator contains 73 in-distribution cases, configurations rather than 73 new tasks, and separates evaluation from the model service. Its scope document excludes training, out-of-distribution definitions and several automatic data-generation tools. Developers must distinguish the complete research system from the public package and continue to test on physical hardware."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x2real-benchmark-task-taxonomy-af3GbIBOKGDdiVfBAacDotNMaVus4r.webp",
+        "alt": "Overview of X2Real’s 44 tasks and ten capability dimensions",
+        "caption": "Overview of X2Real’s 44 tasks and ten capability dimensions · Image: X Square Robot"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/XSquareRobot/status/2112112528495108269",
+        "title": "X Square’s X2Real announcement post",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "kodama-seven-million-forestry-expansion-2026": {
+    "title": "Kodama raises $7 million to expand supervised forestry automation",
+    "summary": "Equipped machines reportedly moved over 100,000 tons of timber in six months using remote operation and supervised autonomy.",
+    "sections": [
+      {
+        "heading": "Funding follows field deployments",
+        "paragraphs": [
+          "Kodama Systems announced $7 million on October 19, bringing total funding to $14 million. Konvoy Ventures and Breakwater Ventures co-led the round. The company plans to expand commercial deployments, develop autonomy and deepen equipment-manufacturer partnerships."
+        ]
+      },
+      {
+        "heading": "Skidders with remote supervision",
+        "paragraphs": [
+          "The platform currently works on skidders that grip felled trees and drag them to a landing. Automation handles repeatable work while experienced remote operators manage complex situations. Kodama says equipped machines moved more than 100,000 tons across southeastern US states in six months and operate ten to fourteen hours a day."
+        ]
+      },
+      {
+        "heading": "Building on existing equipment and data",
+        "paragraphs": [
+          "Kodama began with teleoperation and adds autonomy incrementally rather than assuming every worksite can be fully automated. It says it is integrated with two of the three largest equipment manufacturers and wants to extend to cutters and loaders. Its operating figures are company reports, not proof of identical results across all forestry conditions."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Tigercat-in-Action-featured.jpg",
+        "alt": "Kodama system on a Tigercat skidder",
+        "caption": "Kodama system on a Tigercat skidder · Image: Kodama"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Weiler-in-Action.jpg",
+        "alt": "Kodama technology operating on a Weiler machine",
+        "caption": "Kodama technology operating on a Weiler machine · Image: Kodama"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/kodama.jpg",
+        "alt": "Merritt Jenkins, Kodama co-founder and CEO",
+        "caption": "Merritt Jenkins, Kodama co-founder and CEO · Image: Kodama"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=5VCbn3jo9j0",
+        "title": "Kodama forestry-system video"
+      }
+    ]
+  },
+  "daimon-tactile-pipeline-industrial-disclosure-2026": {
+    "title": "Daimon details a tactile-data pipeline for industrial manipulation",
+    "summary": "A new interview explains 30 Hz tactile feedback, simulation calibration and limits of transferring skills into production.",
+    "sections": [
+      {
+        "heading": "Infrastructure for contact-aware robots",
+        "paragraphs": [
+          "In an interview published October 19, Daimon Robotics described sensors, collection devices, simulation and evaluation tools intended to support robot-model developers. This is a new disclosure of its approach and deployment status, not an announcement of a newly launched sensor."
+        ]
+      },
+      {
+        "heading": "Making contact data useful for training",
+        "paragraphs": [
+          "The company describes 30 Hz feedback and calibrating simulations with measured physical properties such as friction and contact forces, which cameras alone cannot fully capture. It discussed more than 10,000 hours of data, while its longer-term Daimon-Infinity initiative targets over one million hours. That target should not be treated as a delivered dataset."
+        ]
+      },
+      {
+        "heading": "Demonstrations and production evidence",
+        "paragraphs": [
+          "Examples discussed include bracelet threading, work on tote bags and collecting broken glass, with the Umi device collecting human interaction data. Daimon reports industrial assembly and warehouse work but withholds customer names under nondisclosure agreements. It also acknowledges limited model generalization, leaving production reliability to be demonstrated through measured results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-1.jpg",
+        "alt": "Tactile technology pictured in the Daimon interview, image 1",
+        "caption": "Tactile technology pictured in the Daimon interview, image 1 · Image: Daimon Robotics"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-2.png",
+        "alt": "Tactile technology pictured in the Daimon interview, image 2",
+        "caption": "Tactile technology pictured in the Daimon interview, image 2 · Image: Daimon Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=tPj1xTGl1nc",
+        "title": "Video accompanying the Daimon tactile-technology interview"
+      }
+    ]
+  },
+  "highlander-thirty-million-total-funding-2026": {
+    "title": "High Lander reaches $30 million in total funding for drone-management platforms",
+    "summary": "The latest financing supports US expansion and development of Orion, Vega and Andromeda for operations and low-altitude airspace.",
+    "sections": [
+      {
+        "heading": "A cumulative funding milestone",
+        "paragraphs": [
+          "High Lander said on October 19 that total funding had reached $30 million. The latest financing includes an additional strategic investment from EDGE Group and participation from STEP, Protego and Kinetica. The announcement does not separately disclose the size of the latest round."
+        ]
+      },
+      {
+        "heading": "Three software roles in aviation",
+        "paragraphs": [
+          "Orion manages drone fleets, while Vega provides unmanned traffic management. Andromeda is presented as an AI operational-intelligence platform for a unified low-altitude airspace picture. The approach connects diverse systems and information; this announcement is not a launch of a new aircraft."
+        ]
+      },
+      {
+        "heading": "Expansion plans and their limits",
+        "paragraphs": [
+          "The company plans to expand in the United States and other international markets, develop the three platforms and extend into security and dual-use applications. The release describes investment and product plans, rather than independent performance testing or guaranteed operating approval in every country."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2015787/DSC03875-2.jpg?id=OA3025805",
+        "alt": "High Lander team pictured in the funding announcement",
+        "caption": "High Lander team pictured in the funding announcement · Image: High Lander"
+      }
+    ],
+    "videos": []
+  },
+  "arbe-gryphon-ugv-radar-launch-2026": {
+    "title": "Arbe launches Gryphon 4D radar for unmanned ground vehicles",
+    "summary": "The system uses 48 transmit and 48 receive channels to support perception on rough terrain and in degraded visibility.",
+    "sections": [
+      {
+        "heading": "Radar for off-road autonomy",
+        "paragraphs": [
+          "Arbe Robotics introduced Gryphon on October 19 as a 4D imaging radar for unmanned ground vehicles operating through dust, rough terrain and unpaved routes. The company targets logistics, mining, agriculture, industrial and defense applications."
+        ]
+      },
+      {
+        "heading": "Data for obstacles and navigable space",
+        "paragraphs": [
+          "Its 48 transmit and 48 receive channels generate a dense point cloud. Arbe says the data can separate rocks, debris, vegetation and other obstacles, including holes or washed-out ground, while supporting free-space mapping, tracking, odometry and localization where GNSS is unavailable."
+        ]
+      },
+      {
+        "heading": "A sensor still needs vehicle-level validation",
+        "paragraphs": [
+          "Gryphon uses solid-state hardware without moving parts and is designed for platforms from small vehicles to heavy machinery. These are manufacturer descriptions; the release does not provide independent field comparisons, pricing or delivery dates. A radar launch does not certify the safety of an entire autonomous vehicle in every condition."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2015836/Arbe.jpg?id=OA3026011",
+        "alt": "Arbe logo accompanying the Gryphon announcement",
+        "caption": "Arbe logo accompanying the Gryphon announcement · Image: Arbe Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "dreamlabs-dream1-public-api-seed-launch-2026": {
+    "title": "Dream Labs opens Dream-1 robot API alongside $90 million seed funding",
+    "summary": "The model targets transfer to unfamiliar two-arm robots, but remains a research beta with embodiment-dependent limitations.",
+    "sections": [
+      {
+        "heading": "Model access through an API",
+        "paragraphs": [
+          "Dream Labs emerged with $90 million in seed funding led by B Capital and Kindred Ventures and opened Dream API to connect observations and language instructions to robot actions. Its technical documentation prices Dream-1 inference at $3 per hour and the flash version at $2. Those figures are not the purchase or total operating cost of a robot."
+        ]
+      },
+      {
+        "heading": "A shared gripper-level interface",
+        "paragraphs": [
+          "The technical explanation describes predicting end-effector poses and gripper opening, then using each robot’s inverse-kinematics solver to produce joint commands. This supports transfer among bimanual parallel-gripper robots, using a head camera and two wrist cameras. It should not be interpreted as immediate support for every robot architecture."
+        ]
+      },
+      {
+        "heading": "Demonstrations have boundaries",
+        "paragraphs": [
+          "Examples include manipulation and laundry folding, but the company acknowledges dependence on IK quality, workspace and mechanical differences. A fine-tuning service uses robot-specific data when zero-shot performance is insufficient. Dream-1 remains a research beta that can make mistakes and has not been validated for safety-critical use."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "carbon-robotics-october-workforce-reduction-2026": {
+    "title": "Carbon Robotics reduces workforce, citing economic conditions",
+    "summary": "The LaserWeeder maker confirms cuts across departments in the US and internationally without disclosing their size.",
+    "sections": [
+      {
+        "heading": "The company confirms cuts",
+        "paragraphs": [
+          "GeekWire reported on the evening of October 19 in Seattle that Carbon Robotics confirmed workforce reductions across multiple departments in the US and internationally. Marketing vice president Brett Goodwin attributed the move to aligning costs with economic conditions and said the company employs 275 people worldwide. The number of layoffs was not disclosed."
+        ]
+      },
+      {
+        "heading": "The agricultural technology involved",
+        "paragraphs": [
+          "Its LaserWeeder G2 is pulled behind a tractor and uses AI to detect and map plants before targeting weeds with lasers. Founded in 2018, Carbon Robotics has raised about $177 million. A $20 million financing and autonomous-tractor-kit announcement occurred in 2025, rather than being new product developments in this update."
+        ]
+      },
+      {
+        "heading": "Do not infer product changes without evidence",
+        "paragraphs": [
+          "The report documents a cost adjustment at an agricultural robotics supplier. It does not state that a product line is closing or customer service is stopping, so delivery consequences cannot yet be concluded. Technology capabilities, staffing and financial plans should be assessed separately because the available disclosures differ."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
+        "alt": "Tractor-towed LaserWeeder G2 for weed removal",
+        "caption": "Tractor-towed LaserWeeder G2 for weed removal · Image: Carbon Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=8hkZ-UIWysM",
+        "title": "Paul Mikesell’s AgFunder interview linked in the article"
+      }
+    ]
   }
 }

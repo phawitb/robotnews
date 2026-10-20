@@ -1458,5 +1458,115 @@
     "summary": "งานวิจัยใช้ world model และการวางแผนจากการเล่น แต่ผลฮาร์ดแวร์ในฉบับต้นยังมีข้อจำกัดในการสรุป",
     "image": "",
     "addedAt": "2026-10-17T22:10:03.694Z"
+  },
+  {
+    "id": "figure03-nine-day-treadmill-endurance-update-2026",
+    "category": "humanoids",
+    "date": "2026-10-19",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps",
+    "title": "Figure 03 เดินบนลู่วิ่งต่อเนื่อง 9 วัน สะสมระยะราว 560 กิโลเมตร",
+    "summary": "Brett Adcock รายงาน 1.2 ล้านก้าวในการทดสอบความทนทาน โดยยังไม่เปิดเผยระบบจ่ายไฟและบันทึกการบำรุงรักษา",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "kaist-v09-whole-body-manipulation-demo-2026",
+    "category": "research",
+    "date": "2026-10-19",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing",
+    "title": "KAIST v0.9 สาธิตดันวัตถุ 35 กก. และยก 20 กก. ด้วยการประสานทั้งตัว",
+    "summary": "งานจาก DRCD Lab และ RAILAB เพิ่มการจัดการวัตถุร่วมกับการทรงตัวและข้อมูลภาพบนตัวหุ่นยนต์",
+    "image": "",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "figurobot-frnia-companion-announcement-2026",
+    "category": "humanoids",
+    "date": "2026-10-19",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/figurobot-fr-nia-expressive-ai-companion-kickstarter",
+    "title": "Figurobot เปิดตัว FR-NIA หุ่นยนต์เพื่อนคุย 11 นิ้ว ขยับใบหน้าและคอได้ 10 แกน",
+    "summary": "เน้นสีหน้าและการปรับบุคลิกผ่านแอป ส่วนราคาและกำหนดระดมทุนยังมีข้อมูลต่างกันระหว่างประกาศกับเว็บไซต์",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figurobot-fr-nia-companion-ZLeNbsPCiD6gil1uj9tY1SLZQ8cHNU.webp",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "xsquare-x2real-public-evaluation-release-2026",
+    "category": "research",
+    "date": "2026-10-19",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/x-square-x2real-simulation-real-robot-benchmark",
+    "title": "X Square เปิด X2Real ชุดประเมินหุ่นยนต์ 44 งาน เชื่อมคะแนนจำลองกับฮาร์ดแวร์",
+    "summary": "ประกาศเผยแพร่เครื่องมือประเมินบน Isaac Lab-Arena พร้อมระบุขอบเขตของชุดสาธารณะและข้อจำกัดการเทียบโลกจริง",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x2real-benchmark-task-taxonomy-af3GbIBOKGDdiVfBAacDotNMaVus4r.webp",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "kodama-seven-million-forestry-expansion-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-19",
+    "source": "The Robot Report",
+    "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+    "title": "Kodama ระดมทุน 7 ล้านดอลลาร์ ขยายระบบอัตโนมัติในงานขนไม้",
+    "summary": "รายงานเครื่องจักรที่ติดระบบขนไม้เกิน 100,000 ตันในหกเดือน ใช้การควบคุมระยะไกลร่วมกับอัตโนมัติภายใต้การกำกับ",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Tigercat-in-Action-featured.jpg",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "daimon-tactile-pipeline-industrial-disclosure-2026",
+    "category": "ai-automation",
+    "date": "2026-10-19",
+    "source": "The Robot Report",
+    "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
+    "title": "Daimon เผยแนวทางเชื่อมเซนเซอร์สัมผัส ข้อมูล และแบบจำลองสำหรับงานประกอบ",
+    "summary": "บทสัมภาษณ์ใหม่อธิบายระบบข้อมูลสัมผัส 30 Hz และข้อจำกัดการย้ายทักษะจากการจำลองสู่โรงงาน",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-1.jpg",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "highlander-thirty-million-total-funding-2026",
+    "category": "drones",
+    "date": "2026-10-19",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/high-lander-announces-it-has-reached-a-total-of-30-million-in-funding-302912395.html",
+    "title": "High Lander มียอดทุนสะสม 30 ล้านดอลลาร์ ขยายแพลตฟอร์มจัดการโดรน",
+    "summary": "เงินรอบล่าสุดสนับสนุนตลาดสหรัฐฯ และพัฒนา Orion, Vega และ Andromeda สำหรับปฏิบัติการและน่านฟ้าระดับต่ำ",
+    "image": "https://mmx.prnewswire.com/media/MS2015787/DSC03875-2.jpg?id=OA3025805",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "arbe-gryphon-ugv-radar-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-19",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/arbe-introduces-the-gryphon-radar-system-bringing-reliable-perception-to-unmanned-ground-vehicles-on-rough-terrain-302912459.html",
+    "title": "Arbe เปิด Gryphon เรดาร์ 4D สำหรับยานไร้คนขับบนทางขรุขระ",
+    "summary": "ใช้ช่องส่งและรับอย่างละ 48 ช่อง ตั้งเป้ารับรู้สิ่งกีดขวางและช่วยนำทางเมื่อภาพหรือสัญญาณดาวเทียมมีข้อจำกัด",
+    "image": "https://mmx.prnewswire.com/media/MS2015836/Arbe.jpg?id=OA3026011",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "dreamlabs-dream1-public-api-seed-launch-2026",
+    "category": "ai-automation",
+    "date": "2026-10-19",
+    "source": "AI Brief",
+    "url": "https://dailyaibrief.com/news/dream-labs-raises-90-million-robot-control-api-qLEuCKcg",
+    "title": "Dream Labs เปิด Dream-1 API ควบคุมหุ่นยนต์สองแขน พร้อมทุน 90 ล้านดอลลาร์",
+    "summary": "โมเดลเสนอการย้ายทักษะไปยังหุ่นยนต์ที่ไม่เคยฝึกโดยตรง แต่ยังเป็น research beta และมีข้อจำกัดจากกลไกของแต่ละเครื่อง",
+    "image": "",
+    "addedAt": "2026-10-20T07:02:19.265Z"
+  },
+  {
+    "id": "carbon-robotics-october-workforce-reduction-2026",
+    "category": "industry-news",
+    "date": "2026-10-20",
+    "source": "GeekWire",
+    "url": "https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/",
+    "title": "Carbon Robotics ลดพนักงานหลายแผนก อ้างปรับต้นทุนตามเศรษฐกิจ",
+    "summary": "ผู้ผลิต LaserWeeder ยืนยันผลกระทบทั้งสหรัฐฯ และต่างประเทศ แต่ไม่เปิดเผยจำนวนตำแหน่งที่ลด",
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
+    "addedAt": "2026-10-20T07:02:19.265Z"
   }
 ]

@@ -10059,6 +10059,767 @@
           }
         ]
       }
+    },
+    {
+      "id": "figure03-nine-day-treadmill-endurance-update-2026",
+      "storyKey": "figure03-nine-day-treadmill-endurance-update-2026",
+      "originalTitle": "Figure’s Humanoid Has Walked 348 Miles on a Treadmill—and It’s Still Going",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps",
+        "https://x.com/adcock_brett/status/2112227583643509174"
+      ],
+      "publishedAt": "2026-10-19T17:06:50Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "ผลทดสอบความทนทานใหม่มีตัวเลขชัด แต่ต้องแยกจากระยะเวลาแบตเตอรี่",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/figure-1788467322697.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/brett-adcock-first-million-podcast.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-climbing-ladder.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-1000-03.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-livestream-end.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-vs-intern-poster.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adcock-swag-livestream.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kaist-v09-whole-body-manipulation-demo-2026",
+      "storyKey": "kaist-v09-whole-body-manipulation-demo-2026",
+      "originalTitle": "From Moonwalking to Heavy Lifting: KAIST Humanoid v0.9 Moves 35 kg Objects",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing",
+        "https://www.youtube.com/watch?v=HBFZ2a0Dj9s",
+        "https://www.dynamicrobot.kaist.ac.kr/new-page"
+      ],
+      "publishedAt": "2026-10-19T12:59:32Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "หลักฐานวิดีโอแสดงการจัดการวัตถุหนักที่เกี่ยวข้องกับงานโรงงาน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-humanoid-v07.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robros-igris-c-auto-bagger-hero-nrAb6BLqNF6pVVpU1075HpInHX39ZH.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "figurobot-frnia-companion-announcement-2026",
+      "storyKey": "figurobot-frnia-companion-announcement-2026",
+      "originalTitle": "Figurobot Gives AI a Moving Face With Its 11-Inch FR-NIA Companion",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/figurobot-fr-nia-expressive-ai-companion-kickstarter"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/figurobot-fr-nia-expressive-ai-companion-kickstarter",
+        "https://markets.businessinsider.com/news/stocks/figurobot-launches-fr-nia-a-11-inch-bionic-ai-companion-robot-bringing-intelligent-interaction-into-everyday-life-1036637933",
+        "https://us.figurobot.com/"
+      ],
+      "publishedAt": "2026-10-19T09:55:55Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "ผลิตภัณฑ์ใหม่มีรายละเอียดกลไกและข้อจำกัดการจองที่ผู้ซื้อควรรู้",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-hurst-hero-lljCrbehhN4Lb4A57O7QE4WQTFnv5j.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-v09-preview-6IXijSbSPftcHnYWdxF8GR7NiuO1rp.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-logo-preview-vD6T7IAZ7ALcM6zyzEi8Z1LtTvfwcd.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xsquare-x2real-public-evaluation-release-2026",
+      "storyKey": "xsquare-x2real-public-evaluation-release-2026",
+      "originalTitle": "Can a Simulated Robot Score Predict Real Performance? X Square Releases X2Real",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/x-square-x2real-simulation-real-robot-benchmark"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/x-square-x2real-simulation-real-robot-benchmark",
+        "https://arxiv.org/html/2609.27449v2",
+        "https://github.com/X-Square-Robot/x2real",
+        "https://github.com/X-Square-Robot/x2real/blob/main/OPEN_SOURCE_SCOPE.md"
+      ],
+      "publishedAt": "2026-10-19T09:39:56Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "เครื่องมือเปิดช่วยประเมินโมเดลหุ่นยนต์และแสดงข้อจำกัดการใช้คะแนนจำลอง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/x-square-robot-1788729257157.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquarerobot-livestream.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/twindex-human-cap-twisting-still-9qv7n3PU1iuio3Nc37ptMhR9ntLabX.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phybot-company-preview-suIrAYoOpxWJh1govv0b5dm8Mpc59i.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kodama-seven-million-forestry-expansion-2026",
+      "storyKey": "kodama-seven-million-forestry-expansion-2026",
+      "originalTitle": "Kodama raises $7M to bring robotics to forestry - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/"
+      ],
+      "publishedAt": "2026-10-19T15:55:12Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "มีการใช้งานเชิงพาณิชย์และตัวเลขผลปฏิบัติงานในอุตสาหกรรมใช้แรงงานหนัก",
+      "score": 18,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.youtube.com/embed/5VCbn3jo9j0?feature=oembed",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/ROBO26_728x90_RegOpen_Sept.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/asi-softbank-featured-1-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/03/SDI-drone-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/02/overlandai-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2025/11/burnbot-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://open.spotify.com/embed/show/07RByN6D8aJ68QjuspmeFs?utm_source=generator&theme=0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/pnytechnologies-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/ADI_download-150x106.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/adi-beaverton-cleanroom-copy-150x96.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "daimon-tactile-pipeline-industrial-disclosure-2026",
+      "storyKey": "daimon-tactile-pipeline-industrial-disclosure-2026",
+      "originalTitle": "Daimon Robotics building the infrastructure layer for tactile intelligence  - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/"
+      ],
+      "publishedAt": "2026-10-19T17:07:52Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "บทสัมภาษณ์ใหม่ให้รายละเอียดข้อมูลสัมผัสและสถานะอุตสาหกรรมพร้อมข้อจำกัด",
+      "score": 15,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.youtube.com/embed/tPj1xTGl1nc?feature=oembed",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/0237d7a4a3af1eb377ec2ef6623de635db8372a7c068cb0f9616b5a3615ebcda?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Weiler-in-Action-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/robobiz-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/ADI_download-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-full-body-2-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://open.spotify.com/embed/show/07RByN6D8aJ68QjuspmeFs?utm_source=generator&theme=0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/pnytechnologies-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/ADI_download-150x106.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/adi-beaverton-cleanroom-copy-150x96.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vishay-sponsored-featured-image-october2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TXCXX57",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MMC9PJ9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "highlander-thirty-million-total-funding-2026",
+      "storyKey": "highlander-thirty-million-total-funding-2026",
+      "originalTitle": "High Lander Announces it Has Reached a Total of $30 Million in Funding",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/high-lander-announces-it-has-reached-a-total-of-30-million-in-funding-302912395.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/high-lander-announces-it-has-reached-a-total-of-30-million-in-funding-302912395.html"
+      ],
+      "publishedAt": "2026-10-19T13:00:00Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "เชื่อมงานโดรนกับการจัดการน่านฟ้าและแยกยอดทุนสะสมให้ถูกต้อง",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=IO75065&Transmission_Id=202610190900PR_NEWS_USPR_____IO75065&DateId=20261019",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "arbe-gryphon-ugv-radar-launch-2026",
+      "storyKey": "arbe-gryphon-ugv-radar-launch-2026",
+      "originalTitle": "Arbe Introduces the Gryphon Radar System, Bringing Reliable Perception to Unmanned Ground Vehicles on Rough Terrain",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/arbe-introduces-the-gryphon-radar-system-bringing-reliable-perception-to-unmanned-ground-vehicles-on-rough-terrain-302912459.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/arbe-introduces-the-gryphon-radar-system-bringing-reliable-perception-to-unmanned-ground-vehicles-on-rough-terrain-302912459.html"
+      ],
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "เซนเซอร์ใหม่มีสเปกชัดและเกี่ยวข้องกับยานเกษตรหรืออุตสาหกรรมนอกถนน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=LN75137&Transmission_Id=202610190800PR_NEWS_USPR_____LN75137&DateId=20261019",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/3008991/Arbe_Logo.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1158919/Arbe-Robotics-Logo.jpg?id=OA2934599",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/ECP.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AUT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/PDT.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dreamlabs-dream1-public-api-seed-launch-2026",
+      "storyKey": "dreamlabs-dream1-public-api-seed-launch-2026",
+      "originalTitle": "Dream Labs Raises $90 Million and Opens Robot Control API - AI Brief",
+      "urls": [
+        "https://dailyaibrief.com/news/dream-labs-raises-90-million-robot-control-api-qLEuCKcg"
+      ],
+      "references": [
+        "https://dailyaibrief.com/news/dream-labs-raises-90-million-robot-control-api-qLEuCKcg",
+        "https://dreamlabs.ai/research/dream-1/"
+      ],
+      "publishedAt": "2026-10-19T17:00:00Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "API ใหม่เปิดทางทดลองโมเดลข้ามฮาร์ดแวร์และระบุข้อจำกัดทางเทคนิคอย่างชัดเจน",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://dailyaibrief.com/daily-ai-brief-logo-pm.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://dailyaibrief.com/follow-ai-brief-on-x.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fly.storage.tigris.dev/editorial-dashboard/uploads/research_document/cover_image/1/thumb_Screenshot_2025-04-19_at_15.25.54.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "carbon-robotics-october-workforce-reduction-2026",
+      "storyKey": "carbon-robotics-october-workforce-reduction-2026",
+      "originalTitle": "Seattle ag-tech startup Carbon Robotics reduces workforce, citing economic conditions",
+      "urls": [
+        "https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/"
+      ],
+      "references": [
+        "https://www.geekwire.com/2026/seattle-ag-tech-startup-carbon-robotics-reduces-workforce-citing-economic-conditions/"
+      ],
+      "publishedAt": "2026-10-20T01:34:00Z",
+      "addedAt": "2026-10-20T07:02:19.265Z",
+      "runId": "2026-10-20",
+      "reason": "ข่าวธุรกิจที่ยืนยันกับบริษัทช่วยสะท้อนความเสี่ยงการขยายหุ่นยนต์เกษตร",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-nav-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/gw-startups.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/gw-startups-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/06/show-tell-social.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/26711_Geekwire_225x225-1_x4.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2025/10/kurtnewmug-2-150x150.jpeg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/26-EVENT-RIVGeekwireCountdown-PaidMedia-NA-Image-Underwriting-en-US-225x225-FINAL.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/01/Carbon-Robotics-LaserWeeder-G2-600-Onions-300x225.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2025/10/Paul-Mikesell-with-LaserWeeder-G2-300x200.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/08/TerraClear-weed-map-300x217.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2018/01/peterlee-71-300x190.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/55295173575_d164cd7060_k-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-300x225-1.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/homeview-new-300x126.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/08/readai-300x91.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/08/brinc-300x69.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/avante-300x70.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/09/brainchild-300x93.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2024/06/POGO_Logo_Cobalt_Horizontal_Highres-1-300x113.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.geekwire.com/wp-content/uploads/sites/2/2026/10/SFC-Reign-Logo-Lockup-300x193.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -10264,6 +11025,23 @@
         "agibot-yuansheng-china-university-rollout-2026",
         "aspire-v1-real-robot-skills-release-2026",
         "dsp-supervised-play-world-model-preprint-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-20",
+      "batchHash": "f12184869190c4da715b52d1bf2cdd1773cd55b21b3892de79dd88ab686dbcf0",
+      "preparedAt": "2026-10-20T07:02:19.265Z",
+      "articleIds": [
+        "figure03-nine-day-treadmill-endurance-update-2026",
+        "kaist-v09-whole-body-manipulation-demo-2026",
+        "figurobot-frnia-companion-announcement-2026",
+        "xsquare-x2real-public-evaluation-release-2026",
+        "kodama-seven-million-forestry-expansion-2026",
+        "daimon-tactile-pipeline-industrial-disclosure-2026",
+        "highlander-thirty-million-total-funding-2026",
+        "arbe-gryphon-ugv-radar-launch-2026",
+        "dreamlabs-dream1-public-api-seed-launch-2026",
+        "carbon-robotics-october-workforce-reduction-2026"
       ]
     }
   ]

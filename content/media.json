@@ -2384,5 +2384,150 @@
         "note": "เปิดโพสต์และสื่อต้นฉบับบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
       }
     ]
+  },
+  "figure03-nine-day-treadmill-endurance-update-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+        "alt": "Figure 03 เดินบนลู่วิ่งในการทดสอบความทนทาน",
+        "caption": "Figure 03 เดินบนลู่วิ่งในการทดสอบความทนทาน · ภาพ: Figure / Brett Adcock"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/adcock_brett/status/2112227583643509174",
+        "title": "โพสต์และสื่อต้นฉบับการทดสอบ Figure 03",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "kaist-v09-whole-body-manipulation-demo-2026": {
+    "images": [],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=HBFZ2a0Dj9s",
+        "title": "KAIST v0.9 สาธิตการเคลื่อนที่ร่วมกับจัดการวัตถุ",
+        "embed": "https://www.youtube-nocookie.com/embed/HBFZ2a0Dj9s"
+      }
+    ]
+  },
+  "figurobot-frnia-companion-announcement-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figurobot-fr-nia-companion-ZLeNbsPCiD6gil1uj9tY1SLZQ8cHNU.webp",
+        "alt": "FR-NIA หุ่นยนต์เพื่อนคุยแบบตั้งโต๊ะ",
+        "caption": "FR-NIA หุ่นยนต์เพื่อนคุยแบบตั้งโต๊ะ · ภาพ: Figurobot"
+      }
+    ],
+    "videos": []
+  },
+  "xsquare-x2real-public-evaluation-release-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x2real-benchmark-task-taxonomy-af3GbIBOKGDdiVfBAacDotNMaVus4r.webp",
+        "alt": "ภาพรวม 44 งานและสิบมิติความสามารถของ X2Real",
+        "caption": "ภาพรวม 44 งานและสิบมิติความสามารถของ X2Real · ภาพ: X Square Robot"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/XSquareRobot/status/2112112528495108269",
+        "title": "โพสต์ประกาศ X2Real จาก X Square",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "kodama-seven-million-forestry-expansion-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Tigercat-in-Action-featured.jpg",
+        "alt": "ระบบ Kodama บนรถลากไม้ Tigercat",
+        "caption": "ระบบ Kodama บนรถลากไม้ Tigercat · ภาพ: Kodama"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Weiler-in-Action.jpg",
+        "alt": "ระบบ Kodama ทำงานบนเครื่องจักร Weiler",
+        "caption": "ระบบ Kodama ทำงานบนเครื่องจักร Weiler · ภาพ: Kodama"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/kodama.jpg",
+        "alt": "Merritt Jenkins ผู้ร่วมก่อตั้งและ CEO ของ Kodama",
+        "caption": "Merritt Jenkins ผู้ร่วมก่อตั้งและ CEO ของ Kodama · ภาพ: Kodama"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=5VCbn3jo9j0",
+        "title": "วิดีโอระบบป่าไม้ของ Kodama",
+        "embed": "https://www.youtube-nocookie.com/embed/5VCbn3jo9j0"
+      }
+    ]
+  },
+  "daimon-tactile-pipeline-industrial-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-1.jpg",
+        "alt": "ภาพเทคโนโลยีสัมผัสประกอบบทสัมภาษณ์ Daimon ภาพที่ 1",
+        "caption": "ภาพเทคโนโลยีสัมผัสประกอบบทสัมภาษณ์ Daimon ภาพที่ 1 · ภาพ: Daimon Robotics"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-2.png",
+        "alt": "ภาพเทคโนโลยีสัมผัสประกอบบทสัมภาษณ์ Daimon ภาพที่ 2",
+        "caption": "ภาพเทคโนโลยีสัมผัสประกอบบทสัมภาษณ์ Daimon ภาพที่ 2 · ภาพ: Daimon Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=tPj1xTGl1nc",
+        "title": "วิดีโอประกอบบทสัมภาษณ์เทคโนโลยีสัมผัส Daimon",
+        "embed": "https://www.youtube-nocookie.com/embed/tPj1xTGl1nc"
+      }
+    ]
+  },
+  "highlander-thirty-million-total-funding-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2015787/DSC03875-2.jpg?id=OA3025805",
+        "alt": "ทีม High Lander ในภาพประกอบประกาศเงินทุน",
+        "caption": "ทีม High Lander ในภาพประกอบประกาศเงินทุน · ภาพ: High Lander"
+      }
+    ],
+    "videos": []
+  },
+  "arbe-gryphon-ugv-radar-launch-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2015836/Arbe.jpg?id=OA3026011",
+        "alt": "ตราบริษัท Arbe ที่แนบกับประกาศ Gryphon",
+        "caption": "ตราบริษัท Arbe ที่แนบกับประกาศ Gryphon · ภาพ: Arbe Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "dreamlabs-dream1-public-api-seed-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "carbon-robotics-october-workforce-reduction-2026": {
+    "images": [
+      {
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2025/02/LaserWeeder-G2-600.jpg",
+        "alt": "LaserWeeder G2 ต่อพ่วงรถแทรกเตอร์สำหรับกำจัดวัชพืช",
+        "caption": "LaserWeeder G2 ต่อพ่วงรถแทรกเตอร์สำหรับกำจัดวัชพืช · ภาพ: Carbon Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=8hkZ-UIWysM",
+        "title": "บทสัมภาษณ์ Paul Mikesell กับ AgFunder ที่บทความอ้างถึง",
+        "embed": "https://www.youtube-nocookie.com/embed/8hkZ-UIWysM"
+      }
+    ]
   }
 }
