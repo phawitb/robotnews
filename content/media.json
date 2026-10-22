@@ -2694,5 +2694,108 @@
       }
     ],
     "videos": []
+  },
+  "origami-s1-skill-capture-glove-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp",
+        "alt": "ถุงมือบันทึกทักษะ S1 พร้อมกลไกนิ้วและกล้อง",
+        "caption": "ถุงมือบันทึกทักษะ S1 พร้อมกลไกนิ้วและกล้อง · ภาพ: Origami Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/origami_robotic/status/2112999479360274841",
+        "title": "โพสต์และสื่อเปิดตัวถุงมือ S1",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "nvidia-flora-data-engine-public-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp",
+        "alt": "Flora กำกับข้อมูลลำดับการหยิบจับของหุ่นยนต์",
+        "caption": "Flora กำกับข้อมูลลำดับการหยิบจับของหุ่นยนต์ · ภาพ: NVIDIA"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/DrJimFan/status/2112597587987689912",
+        "title": "โพสต์แนะนำระบบ Flora",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      },
+      {
+        "kind": "link",
+        "url": "https://x.com/yunzeman/status/2112590210840281500",
+        "title": "โพสต์รายละเอียดการพัฒนา Flora",
+        "note": "เปิดโพสต์และสื่อบน X การเข้าถึงอาจต้องเข้าสู่ระบบ"
+      }
+    ]
+  },
+  "humanoid-nvidia-single-computer-architecture-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp",
+        "alt": "หุ่นยนต์ Humanoid หยิบชิ้นส่วนโลหะ",
+        "caption": "หุ่นยนต์ Humanoid หยิบชิ้นส่วนโลหะ · ภาพ: Humanoid"
+      }
+    ],
+    "videos": []
+  },
+  "generative-bionics-amd-data-factory-plan-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/generative-bionics-data-factory-hero-Kz1edeGyik0HLoQSd4IRRuP2cCmY9H.webp",
+        "alt": "ภาพแนวคิดโรงงานข้อมูล Physical AI ที่ยังอยู่ในแผนพัฒนา",
+        "caption": "ภาพแนวคิดโรงงานข้อมูล Physical AI ที่ยังอยู่ในแผนพัฒนา · ภาพ: Generative Bionics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=AuNdvj8Lw00",
+        "title": "วิดีโอแนะนำแผนโรงงานข้อมูล Generative Bionics",
+        "embed": "https://www.youtube-nocookie.com/embed/AuNdvj8Lw00"
+      }
+    ]
+  },
+  "peraso-60ghz-humanoid-edge-validation-2026": {
+    "images": [],
+    "videos": []
+  },
+  "dexory-nvidia-halos-safety-testing-2026": {
+    "images": [],
+    "videos": []
+  },
+  "robotiq-2fc-tactile-gripper-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "nebius-workbench-cosmos-sereact-expansion-2026": {
+    "images": [],
+    "videos": []
+  },
+  "avride-grubhub-wonder-four-market-expansion-2026": {
+    "images": [
+      {
+        "url": "https://media.phillyvoice.com/media/images/102226_Robots_Grubhub.2e16d0ba.fill-735x490.jpg",
+        "alt": "หุ่นยนต์ส่งอาหารใน Philadelphia",
+        "caption": "หุ่นยนต์ส่งอาหารใน Philadelphia · ภาพ: Molly McVety / PhillyVoice"
+      }
+    ],
+    "videos": []
+  },
+  "yita-100m-yuan-seed-rounds-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?w=2350&ssl=1",
+        "alt": "ภาพประกอบข่าวการระดมทุน YITA จากต้นฉบับ TechNode",
+        "caption": "ภาพประกอบข่าวการระดมทุน YITA จากต้นฉบับ TechNode · ภาพ: TechNode"
+      }
+    ],
+    "videos": []
   }
 }

@@ -5999,5 +5999,323 @@
       }
     ],
     "videos": []
+  },
+  "origami-s1-skill-capture-glove-launch-2026": {
+    "title": "Origami introduces S1 glove for recording finger motion and touch",
+    "summary": "Twenty finger-joint measurements are synchronized with tactile data and video, using a joint layout matched to the company’s robot hand.",
+    "sections": [
+      {
+        "heading": "Recording what images miss",
+        "paragraphs": [
+          "Origami Robotics introduced S1 on October 21. Encoders measure 20 finger-joint angles alongside fingertip and palm pressure and synchronized video, retaining motion data under occlusion. The musical demonstrations record human skills; they do not establish that a robot can reproduce the performances."
+        ]
+      },
+      {
+        "heading": "Matching capture to execution",
+        "paragraphs": [
+          "The glove and robot hand share a joint layout, allowing calibrated measurements to become robot joint targets directly. Origami compared fingertip positions against OptiTrack and reports millimeter-level accuracy in that recording, rather than a guarantee across all tasks and wearers."
+        ]
+      },
+      {
+        "heading": "Production and transfer limitations",
+        "paragraphs": [
+          "The company replaced a rigid factory-trial design with a soft shell to accommodate more hands and says mass production has begun, without a firm price or shipping schedule. Differences between human and robot fingertips still change object contact; a model to address that gap remains in development."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp",
+        "alt": "S1 skill capture glove with finger mechanisms and cameras",
+        "caption": "S1 skill capture glove with finger mechanisms and cameras · Image: Origami Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/origami_robotic/status/2112999479360274841",
+        "title": "S1 glove launch post and media",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "nvidia-flora-data-engine-public-disclosure-2026": {
+    "title": "NVIDIA details Flora’s video-annotation pipeline for robot learning",
+    "summary": "The system segments actions, writes captions and evaluates execution, with throughput reported across 512 GPUs.",
+    "sections": [
+      {
+        "heading": "A public account of the GR00T data engine",
+        "paragraphs": [
+          "NVIDIA researchers introduced Flora publicly on October 20, followed by Humanoids Daily’s report the next day. It prepares human and robot video for GR00T. The Rewarder card dates its model-file release to October 15, so this covers the system overview and performance disclosure rather than claiming every file first appeared today."
+        ]
+      },
+      {
+        "heading": "Separating intent from outcome",
+        "paragraphs": [
+          "TempSeg divides footage into action intervals, Captioner describes the attempted operation and Rewarder assesses execution quality or success. A failed grasp can therefore retain its intended-action label without treating failure as the goal. Outputs are learning annotations, not motor commands."
+        ]
+      },
+      {
+        "heading": "Cluster throughput and usage limits",
+        "paragraphs": [
+          "NVIDIA reports annotating 200,000 video hours daily with 512 GB300 GPUs, not collecting that much new robot experience or training time. Captioner and Rewarder cards restrict intended use to noncommercial research and development. Published comparisons show both stronger and weaker results across individual metrics."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp",
+        "alt": "Flora annotating a robot manipulation sequence",
+        "caption": "Flora annotating a robot manipulation sequence · Image: NVIDIA"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/DrJimFan/status/2112597587987689912",
+        "title": "Flora introduction post",
+        "note": "Open the original post and media on X; access may require sign-in."
+      },
+      {
+        "url": "https://x.com/yunzeman/status/2112590210840281500",
+        "title": "Flora development details",
+        "note": "Open the original post and media on X; access may require sign-in."
+      }
+    ]
+  },
+  "humanoid-nvidia-single-computer-architecture-2026": {
+    "title": "Humanoid expands NVIDIA work to consolidate two onboard computers into one",
+    "summary": "Jetson Thor and sensor-processing tools target simpler computing and control in the company’s next-generation robots.",
+    "sections": [
+      {
+        "heading": "An onboard architecture update",
+        "paragraphs": [
+          "UK robotics company Humanoid announced an expanded NVIDIA collaboration on October 21. It says moving to Jetson Thor consolidates two onboard computers into one while maintaining computing capacity, aiming to support more sophisticated AI in its next generation of robots."
+        ]
+      },
+      {
+        "heading": "A shorter sensor-to-model path",
+        "paragraphs": [
+          "Shared CPU and GPU memory reduces data movement, while Holoscan Sensor Bridge can place camera data directly in GPU-accessible memory. Humanoid is integrating Holoscan SDK and Isaac OS to coordinate perception, inference and control workloads on a common platform."
+        ]
+      },
+      {
+        "heading": "System-level results remain undisclosed",
+        "paragraphs": [
+          "The work extends existing Isaac Sim and Isaac Lab use and does not replace Humanoid’s KinetIQ AI framework. End-to-end latency, energy savings, task-success changes and a next-generation launch date are not disclosed. Fewer computers should therefore be distinguished from measured performance gains."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp",
+        "alt": "Humanoid robots handling metal components",
+        "caption": "Humanoid robots handling metal components · Image: Humanoid"
+      }
+    ],
+    "videos": []
+  },
+  "generative-bionics-amd-data-factory-plan-2026": {
+    "title": "Generative Bionics plans a 5,000-square-meter Italian humanoid training hub with AMD",
+    "summary": "The first of three planned sites targets Q4 2027, linking real industrial practice with digital-twin simulation.",
+    "sections": [
+      {
+        "heading": "A proposed three-site network",
+        "paragraphs": [
+          "Generative Bionics announced its Physical AI Data Factory plan on October 21. A 5,000-square-meter Italian hub targets Q4 2027, followed by another European site and a third serving global markets. The city, investment budget and timing of later facilities are not specified."
+        ]
+      },
+      {
+        "heading": "Real practice and simulation form a loop",
+        "paragraphs": [
+          "The sites would recreate industrial settings for GENE.01 to collect vision, motion, force and tactile data. Digital twins would then vary objects and conditions before trained models return to physical robots for validation. The cycle aims to prepare robots before customer deployment."
+        ]
+      },
+      {
+        "heading": "AMD supplies the planned compute foundation",
+        "paragraphs": [
+          "AMD Helios is intended for model training, physical and synthetic data processing and parallel simulations, without disclosed installation size or robot count. The accompanying image is a concept illustration. This remains planned infrastructure, not an operating facility or established industrial validation result."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/generative-bionics-data-factory-hero-Kz1edeGyik0HLoQSd4IRRuP2cCmY9H.webp",
+        "alt": "Concept illustration of the planned Physical AI Data Factory",
+        "caption": "Concept illustration of the planned Physical AI Data Factory · Image: Generative Bionics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=AuNdvj8Lw00",
+        "title": "Generative Bionics Data Factory plans"
+      }
+    ]
+  },
+  "peraso-60ghz-humanoid-edge-validation-2026": {
+    "title": "Peraso validates a 60 GHz humanoid-to-edge link at about 500 Mbps uplink",
+    "summary": "The demonstration keeps urgent responses on a local GPU while a remote cluster handles more demanding models.",
+    "sections": [
+      {
+        "heading": "Wireless link validation",
+        "paragraphs": [
+          "Peraso announced a functional validation on October 21 connecting a humanoid to an edge AI server over 60 GHz wireless. It reports sustained throughput of approximately 500 Mbps from robot to server and 100 Mbps in the reverse direction for video, sensors and operational data."
+        ]
+      },
+      {
+        "heading": "Splitting local and remote computation",
+        "paragraphs": [
+          "The demonstration uses a local NVIDIA GPU for urgent, low-latency responses and a remote GPU cluster for more demanding models. This reduces the need to run every model onboard, while system design must still address connectivity limitations."
+        ]
+      },
+      {
+        "heading": "The demonstration has a defined scope",
+        "paragraphs": [
+          "Directional beamforming is intended to reduce interference between nearby links. A separately cited 50 Gbps aggregate result came from an earlier demonstration, not this robot’s link. End-to-end latency and long-term factory reliability results are not disclosed."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "dexory-nvidia-halos-safety-testing-2026": {
+    "title": "Dexory tests NVIDIA Halos for warehouse robot safety architecture",
+    "summary": "The company is exploring an IGX Thor-based single-board approach before a planned worldwide fleet rollout.",
+    "sections": [
+      {
+        "heading": "Testing next-generation capabilities",
+        "paragraphs": [
+          "Dexory announced on October 21 that it is testing NVIDIA Halos, which combines real-time AI, functional safety and edge computing through IGX Thor. The work targets warehouse robots operating alongside people, forklifts and other moving equipment."
+        ]
+      },
+      {
+        "heading": "Building on warehouse operations",
+        "paragraphs": [
+          "DexoryView combines autonomous robot data and digital twins to describe inventory and warehouse space. The company is exploring a single-board architecture for broader perception and inside-out safety, building on its existing use of NVIDIA Cosmos for warehouse intelligence."
+        ]
+      },
+      {
+        "heading": "A rollout plan is not completed certification",
+        "paragraphs": [
+          "Dexory plans to deploy the technology across its worldwide fleet but gives no start date or quantitative test results. Testing does not establish that every robot is upgraded or that a new safety certification is complete. Results remain dependent on development and validation."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "robotiq-2fc-tactile-gripper-launch-2026": {
+    "title": "Robotiq launches 2FC tactile gripper with Q1 2027 shipping planned",
+    "summary": "The 85 mm and 140 mm versions combine sensing, AI Hub compute and Contact Core for data capture and local grasp control.",
+    "sections": [
+      {
+        "heading": "Preorders for a Physical AI gripper",
+        "paragraphs": [
+          "Robotiq introduced 2FC on October 21 with 85 mm and 140 mm stroke versions available to preorder and shipping planned for Q1 2027. It builds on 2F with tactile sensors, wrist-mounted AI Hub compute and Contact Core software to use the same hardware for data collection and deployment."
+        ]
+      },
+      {
+        "heading": "Contact data and local responses",
+        "paragraphs": [
+          "The gripper synchronizes pressure, vibration, proprioception, force, position and current at millisecond level. Robotiq describes onboard grasp-quality assessment, incipient-slip detection, object-pose estimation and centering, alongside planned ROS 2 and C++ development tools."
+        ]
+      },
+      {
+        "heading": "Upgrade options and specification limits",
+        "paragraphs": [
+          "Existing 2F owners can add TSF sensors and AI Hub for Physical AI development without replacing the whole gripper. The stated two-million-cycle rating is not a guarantee of identical lifetime in every environment or perfect grasp success. Evaluation must account for actual objects and operating conditions."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "nebius-workbench-cosmos-sereact-expansion-2026": {
+    "title": "Nebius expands Physical AI Workbench with Cosmos Data Factory and Sereact workflows",
+    "summary": "AI agents can operate data, simulation, training and evaluation workflows, including a returns-handling sim-to-real pipeline.",
+    "sections": [
+      {
+        "heading": "An integration update for robotics development",
+        "paragraphs": [
+          "On October 21, Nebius detailed the integration of NVIDIA Cosmos Data Factory into Physical AI Workbench, with workflows agents can read and operate across data generation, simulation, training and evaluation. Workbench was previously available; this update centers on integrations and expanded collaboration."
+        ]
+      },
+      {
+        "heading": "Connecting tools and infrastructure",
+        "paragraphs": [
+          "Named components include Cosmos 3, Isaac Sim, Isaac Lab, Isaac GR00T and SONIC, alongside Genesis, Voxel51 and Foxglove for simulation, data and observability. The aim is to reduce manual integration by offering orchestrated workflows and GPU infrastructure that teams can adapt to their tasks."
+        ]
+      },
+      {
+        "heading": "Sereact collaboration and reported benefits",
+        "paragraphs": [
+          "Nebius and Sereact are co-designing a sim-to-real pipeline for Zalando returns handling. Engineering-time reductions of up to 40% are customer reports presented by Nebius, not guaranteed results for every project. The framework is available on GitHub; compute resources still need to be provisioned for the workload."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "avride-grubhub-wonder-four-market-expansion-2026": {
+    "title": "Avride expands Grubhub and Wonder robot delivery across four US markets",
+    "summary": "Philadelphia, Hoboken and Arlington County join a wider Jersey City service area, with restaurant and customer opt-in.",
+    "sections": [
+      {
+        "heading": "Expansion beyond the earlier pilot",
+        "paragraphs": [
+          "Avride announced expanded Grubhub and Wonder delivery on October 21 across Philadelphia, Hoboken in New Jersey and Arlington County in Virginia, plus a larger Jersey City area following its earlier pilot. This is separate from Avride’s existing Uber Eats operation in Philadelphia."
+        ]
+      },
+      {
+        "heading": "Restaurants and customers opt in",
+        "paragraphs": [
+          "Grubhub restaurants can choose robot delivery, while customers must opt in and be within a supported area. The plan includes Wonder food halls and other participating restaurants, with dozens expected to join across the four markets. It does not mean every order will travel by robot."
+        ]
+      },
+      {
+        "heading": "Fleet size remains undisclosed",
+        "paragraphs": [
+          "Avride has not specified how many robots it will add in Philadelphia. The announcement establishes planned partner and geographic expansion rather than measured delivery-capacity or speed gains. Sharing sidewalks with people remains an important issue as the service grows."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://media.phillyvoice.com/media/images/102226_Robots_Grubhub.2e16d0ba.fill-735x490.jpg",
+        "alt": "Delivery robots in Philadelphia",
+        "caption": "Delivery robots in Philadelphia · Image: Molly McVety / PhillyVoice"
+      }
+    ],
+    "videos": []
+  },
+  "yita-100m-yuan-seed-rounds-disclosure-2026": {
+    "title": "YITA raises over RMB 100 million for force-controlled robot hardware",
+    "summary": "Seed and seed-plus funding includes Galbot and Fourier, supporting a focus on arms and joint modules for embodied AI.",
+    "sections": [
+      {
+        "heading": "Combined early-stage funding",
+        "paragraphs": [
+          "Chinese robot hardware startup YITA disclosed on October 20 that it had raised over RMB 100 million across seed and seed-plus rounds, with TechNode reporting the following day. The figure combines two rounds rather than describing a separate new single-round investment."
+        ]
+      },
+      {
+        "heading": "Arms and joints for controlled contact",
+        "paragraphs": [
+          "Founded in May 2026, YITA develops force-controlled arms and high-performance joint modules. Its portfolio spans integrated actuators, compliant dual-arm systems and manipulation platforms, targeting hardware that lets embodied AI and humanoid developers regulate contact forces when handling objects."
+        ]
+      },
+      {
+        "heading": "Investors and remaining unknowns",
+        "paragraphs": [
+          "Named investors include Galbot, Fourier, Matrix Partners China, CCB International, SenseTime Guoxiang Capital and the L2F founder fund. Lighthouse Capital is its incubator and exclusive financial adviser. The report does not supply force-control accuracy, shipment figures or customer-test results establishing readiness across its portfolio."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?w=2350&ssl=1",
+        "alt": "Image accompanying TechNode’s YITA funding report",
+        "caption": "Image accompanying TechNode’s YITA funding report · Image: TechNode"
+      }
+    ],
+    "videos": []
   }
 }

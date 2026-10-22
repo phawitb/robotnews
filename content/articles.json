@@ -1678,5 +1678,115 @@
     "summary": "ความร่วมมือใหม่ต่อยอด Neuron AI ด้วยการเก็บสถานะงานหลายขั้นและประสบการณ์เดิม ยังไม่มีผลทดสอบหรือกำหนดเปิดใช้",
     "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/10/neura-nxai-partnership-scaled.webp",
     "addedAt": "2026-10-20T22:10:29.239Z"
+  },
+  {
+    "id": "origami-s1-skill-capture-glove-launch-2026",
+    "category": "research",
+    "date": "2026-10-21",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove",
+    "title": "Origami เปิด S1 ถุงมือบันทึกมุมนิ้วและแรงสัมผัสเพื่อสอนมือหุ่นยนต์",
+    "summary": "วัดมุมข้อนิ้ว 20 จุดพร้อมข้อมูลสัมผัสและวิดีโอ โดยออกแบบข้อต่อให้สอดคล้องกับมือหุ่นยนต์ของบริษัท",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "nvidia-flora-data-engine-public-disclosure-2026",
+    "category": "ai-automation",
+    "date": "2026-10-21",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models",
+    "title": "NVIDIA เผย Flora ระบบติดป้ายข้อมูลวิดีโอสำหรับฝึกและประเมินหุ่นยนต์",
+    "summary": "แบ่งช่วงการกระทำ เขียนคำอธิบาย และให้คะแนนผลทำงาน พร้อมรายงานปริมาณประมวลผลบน GPU 512 ตัว",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "humanoid-nvidia-single-computer-architecture-2026",
+    "category": "humanoids",
+    "date": "2026-10-21",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing",
+    "title": "Humanoid ขยายความร่วมมือ NVIDIA รวมคอมพิวเตอร์บนหุ่นยนต์สองเครื่องเป็นหนึ่ง",
+    "summary": "ใช้ Jetson Thor ร่วมกับเครื่องมือจัดการเซนเซอร์และงานควบคุม เพื่อลดความซับซ้อนของหุ่นยนต์รุ่นถัดไป",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "generative-bionics-amd-data-factory-plan-2026",
+    "category": "humanoids",
+    "date": "2026-10-21",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/generative-bionics-amd-italy-physical-ai-data-factory",
+    "title": "Generative Bionics วางแผนศูนย์ฝึกฮิวแมนนอยด์ 5,000 ตร.ม. ในอิตาลีร่วม AMD",
+    "summary": "ตั้งเป้าเปิดไตรมาส 4 ปี 2027 เป็นแห่งแรกของเครือข่ายสามศูนย์ เชื่อมงานจริงกับ digital twin",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/generative-bionics-data-factory-hero-Kz1edeGyik0HLoQSd4IRRuP2cCmY9H.webp",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "peraso-60ghz-humanoid-edge-validation-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-21",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/21/peraso-demonstrates-60-ghz-wireless-connectivity-for-humanoid-robots/27276/",
+    "title": "Peraso ทดสอบลิงก์ 60 GHz เชื่อมหุ่นยนต์กับ edge AI ส่งขึ้นต่อเนื่องราว 500 Mbps",
+    "summary": "แบ่งงานตอบสนองเร่งด่วนไว้บน GPU ในหุ่นยนต์ และใช้คลัสเตอร์ภายนอกกับโมเดลที่ต้องการประมวลผลมาก",
+    "image": "",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "dexory-nvidia-halos-safety-testing-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-21",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/21/dexory-advances-safety-for-autonomous-robotics/27275/",
+    "title": "Dexory ทดสอบ NVIDIA Halos เพื่อพัฒนาสถาปัตยกรรมความปลอดภัยหุ่นยนต์คลังสินค้า",
+    "summary": "สำรวจระบบบอร์ดเดียวร่วมกับ IGX Thor ก่อนวางแผนขยายสู่กองหุ่นยนต์ทั่วโลก",
+    "image": "",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "robotiq-2fc-tactile-gripper-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-21",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/21/robotiq-launches-the-2fc-physical-ai-gripper-/27274/",
+    "title": "Robotiq เปิด 2FC กริปเปอร์สัมผัสพร้อมประมวลผลในตัว เริ่มส่งไตรมาส 1 ปี 2027",
+    "summary": "รุ่นระยะเปิด 85 และ 140 มม. รวมเซนเซอร์ AI Hub และ Contact Core สำหรับเก็บข้อมูลและควบคุมการจับ",
+    "image": "",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "nebius-workbench-cosmos-sereact-expansion-2026",
+    "category": "ai-automation",
+    "date": "2026-10-21",
+    "source": "Nebius",
+    "url": "https://nebius.com/blog/posts/physical-ai-workbench",
+    "title": "Nebius ขยาย Physical AI Workbench เชื่อม Cosmos Data Factory และงานร่วม Sereact",
+    "summary": "รวมขั้นตอนสร้างข้อมูล จำลอง ฝึก และประเมินให้ AI agent เรียกใช้ พร้อมพัฒนาสายงานจำลองสู่จริงสำหรับสินค้าคืน",
+    "image": "",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "avride-grubhub-wonder-four-market-expansion-2026",
+    "category": "industry-news",
+    "date": "2026-10-21",
+    "source": "PhillyVoice",
+    "url": "https://www.phillyvoice.com/wonder-delivery-robots-philly-grubhub-avride/",
+    "title": "Avride ขยายส่งอาหารด้วยหุ่นยนต์ให้ Grubhub และ Wonder ในสี่พื้นที่สหรัฐฯ",
+    "summary": "เพิ่ม Philadelphia, Hoboken และ Arlington County พร้อมขยายพื้นที่ Jersey City โดยร้านค้าและลูกค้าต้องเลือกใช้บริการ",
+    "image": "https://media.phillyvoice.com/media/images/102226_Robots_Grubhub.2e16d0ba.fill-735x490.jpg",
+    "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "yita-100m-yuan-seed-rounds-disclosure-2026",
+    "category": "industry-news",
+    "date": "2026-10-21",
+    "source": "TechNode",
+    "url": "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/",
+    "title": "YITA ระดมทุนรวมกว่า 100 ล้านหยวน พัฒนาแขนควบคุมแรงและข้อต่อหุ่นยนต์",
+    "summary": "ทุนจากรอบ seed และ seed-plus รวมผู้ลงทุน Galbot และ Fourier มุ่งฮาร์ดแวร์สำหรับ embodied AI",
+    "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?w=2350&ssl=1",
+    "addedAt": "2026-10-22T02:34:15.377Z"
   }
 ]

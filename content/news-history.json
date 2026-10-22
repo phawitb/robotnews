@@ -12097,6 +12097,1010 @@
           }
         ]
       }
+    },
+    {
+      "id": "origami-s1-skill-capture-glove-launch-2026",
+      "storyKey": "origami-s1-skill-capture-glove-launch-2026",
+      "originalTitle": "Origami Robotics Unveils S1 Glove to Capture Human Dexterity for Robots",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove",
+        "https://www.origami-robotics.com/blog/a-million-hours-of-what"
+      ],
+      "publishedAt": "2026-10-21T20:32:49Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "ฮาร์ดแวร์เก็บข้อมูลทักษะใหม่ มีรายละเอียดการวัดและข้อจำกัดการถ่ายทอดสู่หุ่นยนต์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/the-dexterity-deadlock.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuesday-voxel-preview-OCrwG9al5Ab2mcDrHNVyItJu4dHPH5.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-robotics-deal-hero-AcrGjmzSfsDy94HOPlVLe864Ajr3yE.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvidia-flora-data-engine-public-disclosure-2026",
+      "storyKey": "nvidia-flora-data-engine-public-disclosure-2026",
+      "originalTitle": "NVIDIA Releases Flora to Turn Robot Videos Into Training Data",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models",
+        "https://research.nvidia.com/labs/gear/flora/",
+        "https://huggingface.co/nvidia/Flora-Rewarder"
+      ],
+      "publishedAt": "2026-10-21T12:59:39Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "การเผยระบบและผลประเมินช่วยทีมพัฒนาจัดข้อมูลหุ่นยนต์ ระบุวันที่ไฟล์รุ่นแรกและข้อจำกัดสิทธิ์ใช้ชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-hugging-cosmos.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/egoscale-human-video.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sonic-open-source.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dreamdojo-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/images/groot-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-huggingface.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "humanoid-nvidia-single-computer-architecture-2026",
+      "storyKey": "humanoid-nvidia-single-computer-architecture-2026",
+      "originalTitle": "Humanoid Expands NVIDIA Collaboration, Replacing Two Robot Computers With One",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing",
+        "https://thehumanoid.ai/humanoid-expands-collaboration-with-nvidia-to-power-its-next-generation-of-humanoid-robots/"
+      ],
+      "publishedAt": "2026-10-21T11:52:10Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "รายละเอียดสถาปัตยกรรมบนหุ่นยนต์เป็นพัฒนาการใหม่ที่มีผลต่อการรวมเซนเซอร์และควบคุม",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/humanoid-1788700372719.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hmnd-series-a.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hmnd-bosch-partnership.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hmnd-schaeffler-deal-2026.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hmnd-siemens-erlangen.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hmnd-sap-poc.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "generative-bionics-amd-data-factory-plan-2026",
+      "storyKey": "generative-bionics-amd-data-factory-plan-2026",
+      "originalTitle": "Generative Bionics Plans Major Humanoid Training Hub in Italy With AMD",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/generative-bionics-amd-italy-physical-ai-data-factory"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/generative-bionics-amd-italy-physical-ai-data-factory",
+        "https://www.prnewswire.co.uk/news-releases/generative-bionics-to-build-europes-largest-physical-ai-data-factory-and-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure-302914884.html"
+      ],
+      "publishedAt": "2026-10-21T09:50:28Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "โครงสร้างฝึกที่ระบุพื้นที่และกำหนดเวลา พร้อมแยกแผนงานออกจากศูนย์ที่เปิดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/generative-bionics-1788720648569.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gene-01-eni-generative-bionics-A1RPEEn3XN1VLwCXRoTkPFqoEYlMWs.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gene-01-comes-to-life-1.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gb-fincantieri.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/generative-bionics-prototypes.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/generative-bionics.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "peraso-60ghz-humanoid-edge-validation-2026",
+      "storyKey": "peraso-60ghz-humanoid-edge-validation-2026",
+      "originalTitle": "Peraso Demonstrates 60 GHz Wireless Connectivity for Humanoid Robots  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/peraso-demonstrates-60-ghz-wireless-connectivity-for-humanoid-robots/27276/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/peraso-demonstrates-60-ghz-wireless-connectivity-for-humanoid-robots/27276/"
+      ],
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "ผลวัดการรับส่งข้อมูลจริงและการแบ่งงาน GPU มีประโยชน์ต่อโรงงานที่ใช้หุ่นยนต์หลายตัว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/where-cts-components-fit-in-robotic-systems.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dexory-nvidia-halos-safety-testing-2026",
+      "storyKey": "dexory-nvidia-halos-safety-testing-2026",
+      "originalTitle": "Dexory advances safety for autonomous robotics  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/dexory-advances-safety-for-autonomous-robotics/27275/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/dexory-advances-safety-for-autonomous-robotics/27275/",
+        "https://www.dexory.com/insights/dexory-advances-safety-for-autonomous-robotics"
+      ],
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "พัฒนาการด้านความปลอดภัยที่เชื่อมกับหุ่นยนต์คลังสินค้าที่มีใช้งานจริง โดยไม่กล่าวเกินสถานะทดสอบ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/e4t-s4t-miniature-optical-kit-encoders-available-in-cprs-up-to-500.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robotiq-2fc-tactile-gripper-launch-2026",
+      "storyKey": "robotiq-2fc-tactile-gripper-launch-2026",
+      "originalTitle": "Robotiq Launches the 2FC Physical AI Gripper   | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/robotiq-launches-the-2fc-physical-ai-gripper-/27274/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/21/robotiq-launches-the-2fc-physical-ai-gripper-/27274/",
+        "https://robotiq.com/physical-ai-grippers"
+      ],
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "ผลิตภัณฑ์ใหม่มีรุ่นและกำหนดส่งชัดเจน เชื่อมการเก็บข้อมูลสัมผัสกับการควบคุมการจับในอุตสาหกรรม",
+      "score": 19,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/mosrac-efficient-motion-control-products-direct-drive-pmsm-encoders.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nebius-workbench-cosmos-sereact-expansion-2026",
+      "storyKey": "nebius-workbench-cosmos-sereact-expansion-2026",
+      "originalTitle": "Nebius Physical AI Workbench brings agentic workflows to robotics teams",
+      "urls": [
+        "https://nebius.com/blog/posts/physical-ai-workbench"
+      ],
+      "references": [
+        "https://nebius.com/blog/posts/physical-ai-workbench"
+      ],
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "การรวมเครื่องมือและโครงการร่วมใหม่เป็นสาระเพิ่มจาก Workbench เดิม ไม่รายงานซ้ำว่าเพิ่งเปิดตัวครั้งแรก",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-MLN72ND",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nebius.com/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://assets.nebius.com/assets/e49f3469-2632-4ced-83d5-1d046ce56e06/melissa%20africano.png?cache-buster=2026-10-21T08:56:25.280Z",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://assets.nebius.com/assets/cc36047d-f81a-4f03-bea7-a0d70f1c77fa/preview-Nebius-Physical-AI-Workbench.jpg?cache-buster=2026-06-01T16:09:30.150Z",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://assets.nebius.com/assets/dc7397ac-e4ee-4685-b2ea-e801ef120bea/Blog_Cover.jpg?cache-buster=2026-10-15T15:17:03.985Z",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://assets.nebius.com/assets/24e27307-e134-43b5-b2ea-7715c76fcc96/Platinum%20in%20SemiAnalysis-1%20%282%29.png?cache-buster=2026-09-23T22:05:10.125Z",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "avride-grubhub-wonder-four-market-expansion-2026",
+      "storyKey": "avride-grubhub-wonder-four-market-expansion-2026",
+      "originalTitle": "More food delivery robots — now from Grubhub — will start taking orders in Philly from Wonder food hall",
+      "urls": [
+        "https://www.phillyvoice.com/wonder-delivery-robots-philly-grubhub-avride/"
+      ],
+      "references": [
+        "https://www.phillyvoice.com/wonder-delivery-robots-philly-grubhub-avride/"
+      ],
+      "publishedAt": "2026-10-21T09:01:00Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "การขยายพื้นที่และพันธมิตรส่งอาหารมีขอบเขตชัดเจน เป็นงานบริการจริงและไม่มีเหตุการณ์ซ้ำในเว็บ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TMX5L69",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ewc_Lung022024__521.2e16d0ba.fill-220x140_w7dGoSv.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/JH44182_1920x1080_Image-1_-_North_.2e16d0ba.fill-220x140.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Philadelphia_Job_Seekers_Your_Next.2e16d0ba.fill-220x140.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/073026_IndependenceBlueCross_Carro.2e16d0ba.fill-220x140.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Headshot_Tanenbaum.503657e3.fill-54x45-c0.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Headshot_Tanenbaum.503657e3.fill-108x90-c0.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/iStock-1678741974_-_100_percent.2e16d0ba.fill-265x140.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ewc_TempleOncDocs__21_1.2e16d0ba.fill-265x140_31mVZO7.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/101926_best_middle_schools_pa.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/halloweencollage.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/JH_195x33_JNKWLxP.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/101926_Jalen_Hurts_Clots.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Adam_Joseph_6ABC_meteorologist.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Philadelphia_Job_Seekers_Your_Next.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/2026-10-18T183719Z_358334246_MT1US.614af3ac.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/FCCC-Native-101526-HealthyChest.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ewc_Lung022024__521.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/IBC-125.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/iStock-1475358566.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/wellknown-logo-195x33.max-125x32.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/wellknown-moving.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/JH44071_2026_-Logo.max-125x32.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/JH43909_700x500--PV-SponsoredConte.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/balletx-native-101226.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/BalletX-Fall2026-Main.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/PMA-Native-100926-CraftShow.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Kekic_Nick_-_Glass.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/AVA-Native-100926-romance.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Philly_Voice_Lelisir_damore_Image_.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/symphonyinclogo.max-125x32.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Symphony_in_C_Produciton_Photo.2e16d0ba.fill-100x100_3Fng5Ex.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/AlzheimersAssociation-SponsorBadge.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/PhiladelphiaWalk_700x500_V1.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Philadelphia_Film_Society_Logo.max-125x32.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/PFF_Line_Edit_1.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/visitphilly-native-092226-coltrane.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/coltrane_100.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/FCCC-Sponsor-Badge.original.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ewc_FoxChase_Bill___76.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ReviHaviv.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Merrick_-_aerial_estate.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/Sponsor-ColumbiaMontour195x33.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/CM_70f7.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/RunTheBridge-Native-080525.max-125x32.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/1022-DJI_20251102083639_0130_D.2e16d0ba.fill-100x100.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/irelandlogogreen.max-125x32.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.phillyvoice.com/media/images/ireland_food.2e16d0ba.fill-100x100.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yita-100m-yuan-seed-rounds-disclosure-2026",
+      "storyKey": "yita-100m-yuan-seed-rounds-disclosure-2026",
+      "originalTitle": "Robot hardware startup YITA secures funding from Galbot and Fourier · TechNode",
+      "urls": [
+        "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/"
+      ],
+      "references": [
+        "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/",
+        "https://www.bjnews.com.cn/detail/1792502185129625.html"
+      ],
+      "publishedAt": "2026-10-21T07:46:08Z",
+      "addedAt": "2026-10-22T02:34:15.377Z",
+      "runId": "2026-10-22",
+      "reason": "ทุนใหม่สำหรับฮาร์ดแวร์ควบคุมแรงโดยมีบริษัทหุ่นยนต์ร่วมลงทุน แยกยอดรวมสองรอบอย่างถูกต้อง",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-header.png?fit=295%2C96&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-header.png?w=295&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-header.png?fit=295%2C96&ssl=1&w=370",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-header.png?fit=295%2C96&ssl=1&w=400",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?fit=2000%2C851&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=300%2C128&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=768%2C327&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=1536%2C654&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=2048%2C871&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=1200%2C511&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=1024%2C436&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=2000%2C851&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=780%2C332&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=400%2C170&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?resize=706%2C300&ssl=1",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?fit=2000%2C851&ssl=1&w=370",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://technode.com/wp-content/uploads/2022/03/technode-icon-2020-full_512x512-80x80.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://technode.com/wp-content/uploads/2022/03/technode-icon-2020-full_512x512-160x160.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=1200%2C800&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=1200%2C800&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=1200%2C800&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=1200%2C800&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261013-cn-364764.jpg?fit=1200%2C800&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371514.png?fit=1200%2C511&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371514.png?fit=1200%2C511&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371514.png?fit=1200%2C511&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371514.png?fit=1200%2C511&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371514.png?fit=1200%2C511&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371518.png?fit=1200%2C511&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371518.png?fit=1200%2C511&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371518.png?fit=1200%2C511&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371518.png?fit=1200%2C511&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371518.png?fit=1200%2C511&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261019-cn-371435.png?fit=1200%2C511&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261019-cn-371435.png?fit=1200%2C511&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261019-cn-371435.png?fit=1200%2C511&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261019-cn-371435.png?fit=1200%2C511&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261019-cn-371435.png?fit=1200%2C511&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/hongguo-ai-microdrama-cover-20261020-scaled.png?fit=1200%2C454&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/hongguo-ai-microdrama-cover-20261020-scaled.png?fit=1200%2C454&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/hongguo-ai-microdrama-cover-20261020-scaled.png?fit=1200%2C454&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/hongguo-ai-microdrama-cover-20261020-scaled.png?fit=1200%2C454&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/hongguo-ai-microdrama-cover-20261020-scaled.png?fit=1200%2C454&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371520.jpg?fit=1200%2C406&ssl=1&resize=240%2C240",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371520.jpg?fit=1200%2C406&ssl=1&resize=360%2C360",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371520.jpg?fit=1200%2C406&ssl=1&resize=480%2C480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371520.jpg?fit=1200%2C406&ssl=1&resize=720%2C720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261020-cn-371520.jpg?fit=1200%2C406&ssl=1&resize=960%2C960",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-footer.png?fit=295%2C100&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-footer.png?w=295&ssl=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-footer.png?fit=295%2C100&ssl=1&w=370",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/technode.com/wp-content/uploads/2020/03/technode-logo-footer.png?fit=295%2C100&ssl=1&w=400",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -12336,6 +13340,23 @@
         "encord-emg1-data-labs-release-2026",
         "reliable-115m-series-d-extension-2026",
         "neura-nxai-xlstm-memory-partnership-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-22",
+      "batchHash": "5aaf4eeb24ae5be4f6f1d6d7914876a42c13c25c46ceb3d31edaab93a475f582",
+      "preparedAt": "2026-10-22T02:34:15.377Z",
+      "articleIds": [
+        "origami-s1-skill-capture-glove-launch-2026",
+        "nvidia-flora-data-engine-public-disclosure-2026",
+        "humanoid-nvidia-single-computer-architecture-2026",
+        "generative-bionics-amd-data-factory-plan-2026",
+        "peraso-60ghz-humanoid-edge-validation-2026",
+        "dexory-nvidia-halos-safety-testing-2026",
+        "robotiq-2fc-tactile-gripper-launch-2026",
+        "nebius-workbench-cosmos-sereact-expansion-2026",
+        "avride-grubhub-wonder-four-market-expansion-2026",
+        "yita-100m-yuan-seed-rounds-disclosure-2026"
       ]
     }
   ]
