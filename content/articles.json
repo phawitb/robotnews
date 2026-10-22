@@ -1788,5 +1788,115 @@
     "summary": "ทุนจากรอบ seed และ seed-plus รวมผู้ลงทุน Galbot และ Fourier มุ่งฮาร์ดแวร์สำหรับ embodied AI",
     "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261021-cn-371551.png?w=2350&ssl=1",
     "addedAt": "2026-10-22T02:34:15.377Z"
+  },
+  {
+    "id": "tesla-optimus-fremont-early-ramp-q3-2026",
+    "category": "humanoids",
+    "date": "2026-10-22",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/tesla-q3-2026-optimus-production-fremont-2027-deliveries",
+    "title": "Tesla เริ่มผลิต Optimus ที่ Fremont คาดส่งลูกค้าภายนอกปลายปี 2027",
+    "summary": "รายงานไตรมาส 3 ยืนยันเริ่มเพิ่มกำลังผลิต แต่ยังไม่เปิดยอดผลิตจริง และต้องพัฒนามือ ความทนทาน และ AI ต่อ",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-q3-2026-hero-YmP0mYbQs8bFMX93KzX7jvsYhdqv1n.webp",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "agile-one-sn-research-humanoid-launch-2026",
+    "category": "humanoids",
+    "date": "2026-10-22",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/agile-one-sn-nvidia-isaac-gr00t-research-humanoid",
+    "title": "Agile Robots เปิด Agile ONE SN ฮิวแมนนอยด์วิจัย 71 องศาอิสระ",
+    "summary": "รวมมือสัมผัส Jetson Thor และ GR00T เพื่อช่วยห้องแล็บเริ่มฝึกและทดสอบทักษะ กำหนดพร้อมใช้ต้นปี 2027",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-one-sn-hero-HeIZMeVRK40DstGZBYFi3VriJXAiht.webp",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "signode-expanded-pallet-amr-portfolio-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-22",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/22/signode-expands-autonomous-mobile-robot-portfolio-to-advance-end-of-line-and-warehouse-automation/27289/",
+    "title": "Signode ขยายกลุ่ม AMR เชื่อมปลายสายบรรจุกับคลังพาเลต",
+    "summary": "เพิ่มทางเลือกหุ่นยก รถลากพาเลต และรถยกหลายแบบ พร้อมเชื่อมระบบคลังและการจัดการกองหุ่นยนต์",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "neura-tum-robogym-opening-4ne1-gen4-2026",
+    "category": "humanoids",
+    "date": "2026-10-22",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/22/a-powerhouse-for-physical-ai-neura-robotics-and-tum-open-robogym-in-munich/27287/",
+    "title": "NEURA และ TUM เปิด RoboGym มิวนิก พร้อมเผย 4NE1 Gen 4",
+    "summary": "ศูนย์กว่า 2,300 ตร.ม. เชื่อมโจทย์อุตสาหกรรมกับข้อมูลหุ่นยนต์จริง การสาธิตจากคน และการจำลอง",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "esab-robbi-ai-adaptive-welding-cobot-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-22",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/22/esab-robbi-ai-cobot-for-mig-and-tig-welding-automation-brings-physical-ai-to-the-shop-floor/27286/",
+    "title": "ESAB เผย ROBBI AI โคบอทเชื่อมที่สร้างแนวและปรับตามรอยต่อ",
+    "summary": "ใช้ข้อมูลขั้นตอนเชื่อมเป็นกรอบให้ AI ประเมินชิ้นงานและปรับการเคลื่อนที่ โดยประมวลผลภายในโรงงาน",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "hirebotics-iphone-smart-teach-painter-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-22",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/22/hirebotics-turns-iphones-into-spatial-teaching-tools-for-cobot-painter/27285/",
+    "title": "Hirebotics ใช้ iPhone สอนเส้นทางให้ Cobot Painter โดยไม่ต้องจับแขนหุ่นยนต์",
+    "summary": "Smart Teach บันทึกตำแหน่งและทิศทางจากโทรศัพท์ แล้วให้ Beacon สร้างทางพ่นสีที่ผู้ใช้แก้ไขต่อได้",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "hfr-foley-tile-355m-three-year-contract-2026",
+    "category": "industry-news",
+    "date": "2026-10-22",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/human-friendly-robotics-signs-3-55-million-tiling-contract-with-foley-tile-of-tucson-302917229.html",
+    "title": "HFR เซ็นสัญญา 3.55 ล้านดอลลาร์ ส่ง Tyler ช่วยทีม Foley Tile ปูกระเบื้อง",
+    "summary": "ข้อตกลงสามปีใช้ค่าบริการตามพื้นที่ติดตั้ง ให้ช่างดูแลงานตัด ขอบ เก็บผิว และตรวจคุณภาพ",
+    "image": "https://mmx.prnewswire.com/media/MS2019072/Human-Friendly-Robotics-Image.jpg?id=OA3035077&p=download",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "beyond-vision-28m-production-funding-2026",
+    "category": "drones",
+    "date": "2026-10-22",
+    "source": "Tech.eu",
+    "url": "https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/",
+    "title": "Beyond Vision ได้ทุนกว่า 28 ล้านยูโร ขยายผลิตโดรนและระบบ AI",
+    "summary": "ทุนร่วมจาก Índico และ Lince พร้อม ActiveCap มุ่งเพิ่มกำลังผลิต วิจัย และตลาดต่างประเทศ",
+    "image": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829.png",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "korber-naise-strategic-stake-fleet-management-2026",
+    "category": "ai-automation",
+    "date": "2026-10-22",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html",
+    "title": "Körber ลงทุนใน NAiSE เชื่อมกองรถและหุ่นยนต์หลายยี่ห้อในคลังเดียว",
+    "summary": "ยกระดับความร่วมมือด้าน fleet management โดย NAiSE ยังดำเนินงานอิสระและร่วมงานกับผู้ผลิตรายอื่นได้",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "lg-innotek-nvidia-hsb-sensing-collaboration-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-22",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html",
+    "title": "LG Innotek ร่วม NVIDIA เชื่อมเซนเซอร์หุ่นยนต์ตรงสู่ GPU",
+    "summary": "เผยกล้อง 3 เมกะพิกเซลและระบบภาพหลายรูปแบบที่ใช้ Holoscan Sensor Bridge พร้อมแผนพัฒนาการมองเห็นและมือหุ่นยนต์",
+    "image": "",
+    "addedAt": "2026-10-22T22:07:17.841Z"
   }
 ]

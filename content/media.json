@@ -2797,5 +2797,90 @@
       }
     ],
     "videos": []
+  },
+  "tesla-optimus-fremont-early-ramp-q3-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-q3-2026-hero-YmP0mYbQs8bFMX93KzX7jvsYhdqv1n.webp",
+        "alt": "ภาพตัดต่อประกอบข่าวที่ใช้ AI ช่วย รวมภาพรายงานไตรมาส 3 กับ Optimus",
+        "caption": "ภาพตัดต่อประกอบข่าวที่ใช้ AI ช่วย รวมภาพรายงานไตรมาส 3 กับ Optimus · ภาพ: Humanoids Daily; source images: Tesla"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://livestream.tesla.com/",
+        "title": "การแถลงผลประกอบการ Tesla",
+        "note": "ต้นฉบับอ้างหน้าเว็บถ่ายทอดสด ไม่ใช่ไฟล์วิดีโอถาวร เนื้อหาในหน้าอาจเปลี่ยนตามรอบงาน"
+      }
+    ]
+  },
+  "agile-one-sn-research-humanoid-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-one-sn-hero-HeIZMeVRK40DstGZBYFi3VriJXAiht.webp",
+        "alt": "Agile ONE SN ในห้องปฏิบัติการหุ่นยนต์",
+        "caption": "Agile ONE SN ในห้องปฏิบัติการหุ่นยนต์ · ภาพ: Agile Robots"
+      }
+    ],
+    "videos": []
+  },
+  "signode-expanded-pallet-amr-portfolio-2026": {
+    "images": [],
+    "videos": []
+  },
+  "neura-tum-robogym-opening-4ne1-gen4-2026": {
+    "images": [],
+    "videos": []
+  },
+  "esab-robbi-ai-adaptive-welding-cobot-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "hirebotics-iphone-smart-teach-painter-launch-2026": {
+    "images": [],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://www.roboticstomorrow.com/news/2026/10/22/hirebotics-turns-iphones-into-spatial-teaching-tools-for-cobot-painter/27285/",
+        "title": "วิดีโอ Smart Teach ที่ต้นฉบับกล่าวถึง",
+        "note": "บทความกล่าวถึงวิดีโอแต่ไม่แนบ URL คลิป จึงเก็บลิงก์บทความไว้เป็นหลักฐาน ยังไม่สามารถเล่นคลิปนี้ในเว็บได้"
+      }
+    ]
+  },
+  "hfr-foley-tile-355m-three-year-contract-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2019072/Human-Friendly-Robotics-Image.jpg?id=OA3035077&p=download",
+        "alt": "Brent และ Jerry Foley กับ Shamoon Siddiqui ซีอีโอ HFR",
+        "caption": "Brent และ Jerry Foley กับ Shamoon Siddiqui ซีอีโอ HFR · ภาพ: Human Friendly Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "beyond-vision-28m-production-funding-2026": {
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829.png",
+        "alt": "ภาพประกอบข่าวการขยายธุรกิจ Beyond Vision",
+        "caption": "ภาพประกอบข่าวการขยายธุรกิจ Beyond Vision · ภาพ: Tech.eu"
+      }
+    ],
+    "videos": []
+  },
+  "korber-naise-strategic-stake-fleet-management-2026": {
+    "images": [],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://newsroom.ap.org/editorial-photos-videos/home",
+        "title": "แหล่งภาพ AP ที่ประกาศอ้างถึง",
+        "note": "ประกาศชี้ไปคลังภาพ AP โดยไม่ระบุไฟล์ภาพเฉพาะ จึงยังตรวจและฝังภาพดังกล่าวไม่ได้ ลิงก์นี้เป็นแหล่งภาพ ไม่ใช่วิดีโอ"
+      }
+    ]
+  },
+  "lg-innotek-nvidia-hsb-sensing-collaboration-2026": {
+    "images": [],
+    "videos": []
   }
 }

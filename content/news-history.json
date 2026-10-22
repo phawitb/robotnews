@@ -13101,6 +13101,692 @@
           }
         ]
       }
+    },
+    {
+      "id": "tesla-optimus-fremont-early-ramp-q3-2026",
+      "storyKey": "tesla-optimus-fremont-early-ramp-q3-2026",
+      "originalTitle": "Tesla Begins Optimus Production in Fremont, Targets Customer Deliveries in Late 2027 | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/tesla-q3-2026-optimus-production-fremont-2027-deliveries"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/tesla-q3-2026-optimus-production-fremont-2027-deliveries",
+        "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+      ],
+      "publishedAt": "2026-10-22T11:59:39.103Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "สถานะผลิตใหม่จากรายงานบริษัท แยกกำลังผลิตเป้าหมายและการส่งมอบในอนาคตออกจากผลจริง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/tesla-1788706441201.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/musk-optimus-gen3-interview-hero-IviLhrSFPJyacD2MujywcG818XT0J9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-ai5-memory-concept-collage-kdceff1piept8w4nY7B0vuo43FIyVy.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-original-app-comparison-5F2BR6d388Vlq3IEqLNdi5GRm2J80j.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-diner.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/terafab-elon-musk-keynote.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agile-one-sn-research-humanoid-launch-2026",
+      "storyKey": "agile-one-sn-research-humanoid-launch-2026",
+      "originalTitle": "Agile Robots Unveils Agile ONE SN as NVIDIA Expands Its Isaac Robotics Platform | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/agile-one-sn-nvidia-isaac-gr00t-research-humanoid"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/agile-one-sn-nvidia-isaac-gr00t-research-humanoid",
+        "https://www.agile-robots.com/en/news/detail/agile-robots-launches-agile-one-sn/"
+      ],
+      "publishedAt": "2026-10-22T10:31:12.073Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "ผลิตภัณฑ์วิจัยใหม่พร้อมสเปกและกำหนดเวลา ไม่ซ้ำการประกาศเครื่องมือ NVIDIA ทั่วไป",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/agile-robots-se-1788714671664.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-deepmind.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-one-hitachi-manufacturing-S6dMN4Yd0STQRNVPWUhVKyuSvG6qsd.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-robots-softbank.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-one-full.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-prototype-shop-08jdAzWNMSLzHLOjBRjseepWKOJFY2.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "signode-expanded-pallet-amr-portfolio-2026",
+      "storyKey": "signode-expanded-pallet-amr-portfolio-2026",
+      "originalTitle": "Signode Expands Autonomous Mobile Robot Portfolio to Advance  End-of-Line and Warehouse Automation  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/signode-expands-autonomous-mobile-robot-portfolio-to-advance-end-of-line-and-warehouse-automation/27289/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/signode-expands-autonomous-mobile-robot-portfolio-to-advance-end-of-line-and-warehouse-automation/27289/"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "การขยายกลุ่มสินค้าขนพาเลตใหม่มีประโยชน์กับโรงงานและคลังสินค้าไทย",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/tm-robotics-the600-scara-robot.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neura-tum-robogym-opening-4ne1-gen4-2026",
+      "storyKey": "neura-tum-robogym-opening-4ne1-gen4-2026",
+      "originalTitle": "A Powerhouse for Physical AI: NEURA Robotics and TUM Open RoboGym in Munich  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/a-powerhouse-for-physical-ai-neura-robotics-and-tum-open-robogym-in-munich/27287/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/a-powerhouse-for-physical-ai-neura-robotics-and-tum-open-robogym-in-munich/27287/"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "เปิดสถานที่และฮาร์ดแวร์ใหม่ แยกจากข่าวเปิด Neuron AI และพันธมิตร NXAI ที่ลงแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/resindek-panels-the-flooring-solution-for-robotic-platforms.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "esab-robbi-ai-adaptive-welding-cobot-launch-2026",
+      "storyKey": "esab-robbi-ai-adaptive-welding-cobot-launch-2026",
+      "originalTitle": "ESAB ROBBI AI™ Cobot for MIG and TIG Welding Automation Brings Physical AI to the Shop Floor  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/esab-robbi-ai-cobot-for-mig-and-tig-welding-automation-brings-physical-ai-to-the-shop-floor/27286/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/esab-robbi-ai-cobot-for-mig-and-tig-welding-automation-brings-physical-ai-to-the-shop-floor/27286/"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "การสร้างแนวและปรับงานเชื่อมมีสาระเทคนิคและการใช้งานโรงงานชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/you-could-be-an-investor-in-high-potential-ai-robotics-startups.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hirebotics-iphone-smart-teach-painter-launch-2026",
+      "storyKey": "hirebotics-iphone-smart-teach-painter-launch-2026",
+      "originalTitle": "Hirebotics Turns iPhones Into Spatial Teaching Tools for Cobot Painter  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/hirebotics-turns-iphones-into-spatial-teaching-tools-for-cobot-painter/27285/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/22/hirebotics-turns-iphones-into-spatial-teaching-tools-for-cobot-painter/27285/"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "วิธีสอนใหม่ไม่ซ้ำข่าวระบบติดตามสายพานและรางเลื่อนเดิมของ Hirebotics",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/e4t-s4t-miniature-optical-kit-encoders-available-in-cprs-up-to-500.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hfr-foley-tile-355m-three-year-contract-2026",
+      "storyKey": "hfr-foley-tile-355m-three-year-contract-2026",
+      "originalTitle": "Human Friendly Robotics Signs $3.55 Million Tiling Contract with Foley Tile of Tucson",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/human-friendly-robotics-signs-3-55-million-tiling-contract-with-foley-tile-of-tucson-302917229.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/human-friendly-robotics-signs-3-55-million-tiling-contract-with-foley-tile-of-tucson-302917229.html"
+      ],
+      "publishedAt": "2026-10-22T13:57:00-04:00",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "สัญญาลูกค้ารายใหม่มีระยะเวลา มูลค่า และรูปแบบบริการชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2019072/Human-Friendly-Robotics-Image.jpg?id=OA3035077&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=PH79169&Transmission_Id=202610221357PR_NEWS_USPR_____PH79169&DateId=20261022",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2003479/Human-Friendly-Robotics-image.jpg?id=OA2990326",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CST.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HMI.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beyond-vision-28m-production-funding-2026",
+      "storyKey": "beyond-vision-28m-production-funding-2026",
+      "originalTitle": "Portuguese drone maker Beyond Vision raises over €28M to scale production and global expansion - Tech.eu",
+      "urls": [
+        "https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/"
+      ],
+      "references": [
+        "https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/"
+      ],
+      "publishedAt": "2026-10-22T09:33:37.000000+00:00",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "เงินทุนใหม่เชื่อมกับกำลังผลิตและงานติดตามโครงสร้างพื้นฐาน ไม่ใช่ข่าวโดรนทั่วไป",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TLK3423",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://tech.eu/img/techeu-color.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829_48x27.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829_240x135.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829_400x225.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829_800x450.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://tech.eu/v8/img/bg_comment.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/enact-708_48x27.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/enact-708_240x135.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/enact-708_400x225.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.tech.eu/uploads/2026/10/enact-708_800x450.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://sa-api.tech.eu/noscript.gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "korber-naise-strategic-stake-fleet-management-2026",
+      "storyKey": "korber-naise-strategic-stake-fleet-management-2026",
+      "originalTitle": "Körber invests in NAiSE and advances vendor-agnostic fleet management in intralogistics",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html"
+      ],
+      "publishedAt": "2026-10-22T03:30:00-04:00",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "การลงทุนใหม่ช่วยระบบคลังหลายผู้ผลิต โดยแยกแผนฮิวแมนนอยด์จากงานที่พร้อมใช้งาน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=LN77875&Transmission_Id=202610220330PR_NEWS_USPR_____LN77875&DateId=20261022",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/SCL.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/TRN.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lg-innotek-nvidia-hsb-sensing-collaboration-2026",
+      "storyKey": "lg-innotek-nvidia-hsb-sensing-collaboration-2026",
+      "originalTitle": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html"
+      ],
+      "publishedAt": "2026-10-22T03:00:00-04:00",
+      "addedAt": "2026-10-22T22:07:17.841Z",
+      "runId": "2026-10-23",
+      "reason": "ความร่วมมือเซนเซอร์ใหม่มีผลิตภัณฑ์ที่แสดงจริงและแผนขยายที่แยกชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1069927/logo-LG-Innotek-Logo.jpg?id=OA3031350",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN77493&Transmission_Id=202610220300PR_NEWS_EURO_ND__EN77493&DateId=20261022",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1069927/logo-LG-Innotek-Logo.jpg?id=OA3031290",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1069927/logo-LG-Innotek-Logo.jpg?id=OA2978570",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRD.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/ECP.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -13357,6 +14043,23 @@
         "nebius-workbench-cosmos-sereact-expansion-2026",
         "avride-grubhub-wonder-four-market-expansion-2026",
         "yita-100m-yuan-seed-rounds-disclosure-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-23",
+      "batchHash": "54707e66fee073fb49faf0636247fe6c4a59a944c867757cf83b0dfdc7e6fd8f",
+      "preparedAt": "2026-10-22T22:07:17.841Z",
+      "articleIds": [
+        "tesla-optimus-fremont-early-ramp-q3-2026",
+        "agile-one-sn-research-humanoid-launch-2026",
+        "signode-expanded-pallet-amr-portfolio-2026",
+        "neura-tum-robogym-opening-4ne1-gen4-2026",
+        "esab-robbi-ai-adaptive-welding-cobot-launch-2026",
+        "hirebotics-iphone-smart-teach-painter-launch-2026",
+        "hfr-foley-tile-355m-three-year-contract-2026",
+        "beyond-vision-28m-production-funding-2026",
+        "korber-naise-strategic-stake-fleet-management-2026",
+        "lg-innotek-nvidia-hsb-sensing-collaboration-2026"
       ]
     }
   ]

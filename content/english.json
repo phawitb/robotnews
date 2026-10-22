@@ -6317,5 +6317,307 @@
       }
     ],
     "videos": []
+  },
+  "tesla-optimus-fremont-early-ramp-q3-2026": {
+    "title": "Tesla starts Optimus production in Fremont, eyes late-2027 customer deliveries",
+    "summary": "The Q3 update confirms an early production ramp, while output figures remain undisclosed and hands, durability and AI need further work.",
+    "sections": [
+      {
+        "heading": "Manufacturing enters an early ramp",
+        "paragraphs": [
+          "Tesla’s Q3 update says its Fremont Optimus line has started producing robots it calls production-quality. California is classified as an early ramp and Texas as construction. Current weekly output and cumulative production were not disclosed."
+        ]
+      },
+      {
+        "heading": "A training fleet remains a target",
+        "paragraphs": [
+          "On the October 21 earnings call, Elon Musk described a need for roughly 10,000–20,000 robots to practice and generate experience in Optimus Academy. That is not a completed production total. Training combines human demonstrations with practice on physical robots and in simulation."
+        ]
+      },
+      {
+        "heading": "Commercial delivery still depends on development",
+        "paragraphs": [
+          "Musk forecasts outside-company deliveries around late 2027, initially for industrial work. Hands, durability and AI behavior need refinement, with AI5 integration targeted around April 2027 if the program stays on schedule. These are forecasts; no household launch date or price was provided."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-q3-2026-hero-YmP0mYbQs8bFMX93KzX7jvsYhdqv1n.webp",
+        "alt": "AI-assisted editorial collage of Tesla’s Q3 graphic and Optimus",
+        "caption": "AI-assisted editorial collage of Tesla’s Q3 graphic and Optimus · Image: Humanoids Daily; source images: Tesla"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://livestream.tesla.com/",
+        "title": "Tesla earnings webcast",
+        "note": "The source links to the webcast portal, not a permanent video file; its content may change between events."
+      }
+    ]
+  },
+  "agile-one-sn-research-humanoid-launch-2026": {
+    "title": "Agile Robots introduces Agile ONE SN research humanoid with 71 degrees of freedom",
+    "summary": "Tactile hands, Jetson Thor and GR00T combine in a laboratory platform scheduled for early 2027.",
+    "sections": [
+      {
+        "heading": "A compact laboratory platform",
+        "paragraphs": [
+          "Unveiled at GTC Berlin on October 21, Agile ONE SN is 1.4 meters tall, with 31 body degrees of freedom plus 20 in each Wuji hand, totaling 71. Payload is up to 3 kg per arm. Agile lists 43 kg while NVIDIA lists 40 kg, leaving the delivered specification worth checking."
+        ]
+      },
+      {
+        "heading": "Reducing integration before experiments",
+        "paragraphs": [
+          "Jetson Thor, multi-view cameras and lidar accompany preconfigured GR00T 1.7 and whole-body control. Isaac Sim and Isaac Lab assets support demonstration capture, data generation, training, evaluation and physical testing. Researchers can integrate selected components with their existing stack."
+        ]
+      },
+      {
+        "heading": "Transfer and safety require validation",
+        "paragraphs": [
+          "Agile intends skills and data to transfer to its larger industrial Agile ONE, but cross-body transfer needs task-specific validation. Availability is planned for early 2027. Halos integration remains exploratory, rather than proof of a fully implemented or certified safety platform."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-one-sn-hero-HeIZMeVRK40DstGZBYFi3VriJXAiht.webp",
+        "alt": "Agile ONE SN in a robotics laboratory",
+        "caption": "Agile ONE SN in a robotics laboratory · Image: Agile Robots"
+      }
+    ],
+    "videos": []
+  },
+  "signode-expanded-pallet-amr-portfolio-2026": {
+    "title": "Signode expands pallet AMR portfolio to connect packaging and storage",
+    "summary": "Lifting robots, pallet trucks and forklift configurations extend material flow beyond end-of-line packaging.",
+    "sections": [
+      {
+        "heading": "More configurations for pallet handling",
+        "paragraphs": [
+          "On October 22, Signode expanded its AMR portfolio with lifting robots, pallet trucks, counterbalanced forklifts, reach trucks and stacker forklifts. These move completed pallet loads between production, storage and distribution, with configurations selected for lifting and load requirements."
+        ]
+      },
+      {
+        "heading": "Connecting movement and storage",
+        "paragraphs": [
+          "Signode says the robots navigate without fixed floor lines or magnetic strips and can reroute around obstructions. Deployments are designed to integrate warehouse and fleet-management software, including pallet delivery into StorFast ASRS to connect packaging, transport and storage."
+        ]
+      },
+      {
+        "heading": "Scaling fleets with demand",
+        "paragraphs": [
+          "Customers can add capacity and capabilities over time. Signode cites one warehouse with more than 17 robots; its broader figure of over 800 vehicles across more than 80 locations is not a sales total for the new models. Individual prices and performance specifications were not detailed."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "neura-tum-robogym-opening-4ne1-gen4-2026": {
+    "title": "NEURA and TUM open Munich RoboGym and unveil 4NE1 Gen 4",
+    "summary": "The 2,300-plus-square-meter center combines industrial tasks, robot experience, human demonstrations and simulation.",
+    "sections": [
+      {
+        "heading": "A research and training center at LabCampus",
+        "paragraphs": [
+          "NEURA Robotics and TUM opened RoboGym near Munich Airport on October 22, spanning more than 2,300 square meters. The initial three-year initiative involves about €17 million, including roughly €11 million from NEURA. Partners from over ten industries began training workflows in September."
+        ]
+      },
+      {
+        "heading": "Three complementary data streams",
+        "paragraphs": [
+          "Robot sensors record physical tasks; people provide demonstrations through sensing suits, motion capture and teleoperation; simulation and Data Amplifier add variations before validation on hardware. Example tasks include box handling, bottle filling and loading wooden components."
+        ]
+      },
+      {
+        "heading": "New hardware operating in training facilities",
+        "paragraphs": [
+          "The accompanying 4NE1 Gen 4 has a slimmer body that NEURA says is 20% lighter, a sensorized exterior and locally responding Smart Limbs. It runs Neuron AI and is being prepared for series production. Training-center operation is not a published benchmark or a general customer delivery date."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "esab-robbi-ai-adaptive-welding-cobot-launch-2026": {
+    "title": "ESAB introduces ROBBI AI for adaptive cobot welding",
+    "summary": "The system generates weld paths and adapts to joints within procedure limits, using local computing at the factory.",
+    "sections": [
+      {
+        "heading": "Generating paths instead of teaching every point",
+        "paragraphs": [
+          "ESAB detailed ROBBI AI for MIG and TIG on October 22. Operators position it near a joint and supply materials, consumables, weld type and WPS parameters. Sensing identifies the joint and generates a path, targeting low-volume, high-mix work and variable fit-up."
+        ]
+      },
+      {
+        "heading": "Adaptation inside procedure limits",
+        "paragraphs": [
+          "ESAB says AI can adjust travel, oscillation and welding parameters as gaps change, or stop on conditions that threaten quality. InduSuite helps constrain decisions to specified procedures and qualification requirements. Operators can also disable full-AI mode for conventional cobot use."
+        ]
+      },
+      {
+        "heading": "Local data and application validation",
+        "paragraphs": [
+          "Simulation precedes deployment, while weld data and video collected onsite support defect review. Computing stays at the facility without requiring continuous cloud communication. Claimed capabilities still need validation against customer materials and WPS; the announcement does not replace application-specific quality inspection."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "hirebotics-iphone-smart-teach-painter-launch-2026": {
+    "title": "Hirebotics brings iPhone spatial teaching to Cobot Painter",
+    "summary": "Smart Teach records phone positions and orientations so Beacon can generate editable painting paths.",
+    "sections": [
+      {
+        "heading": "Teaching around the physical workpiece",
+        "paragraphs": [
+          "Hirebotics introduced updated Smart Teach at FABTECH on October 22. Operators move an iPhone around a part and capture positions and orientations, allowing Beacon to generate a paint path without code or a CAD model. This supplements physically guiding a cobot through individual points."
+        ]
+      },
+      {
+        "heading": "Reaching awkward surfaces",
+        "paragraphs": [
+          "A small phone can capture points behind, beside or inside large and complex parts more easily than moving the full robot arm. Operators can review generated paths and adjust points, spray parameters and other settings. Programs still need application review rather than automatic acceptance of coating quality."
+        ]
+      },
+      {
+        "heading": "Painting first, other processes later",
+        "paragraphs": [
+          "Cobot Painter is the first target, with the required iPhone supplied with the system. Cobot Welder and Cobot Cutter are future expansion plans. No measured teaching-time comparison or supported-phone list was provided. The article mentions a video but supplies no clip URL."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.roboticstomorrow.com/news/2026/10/22/hirebotics-turns-iphones-into-spatial-teaching-tools-for-cobot-painter/27285/",
+        "title": "Smart Teach video mentioned by the source",
+        "note": "The article mentions a video but supplies no clip URL. This article reference is retained; the clip cannot be played here."
+      }
+    ]
+  },
+  "hfr-foley-tile-355m-three-year-contract-2026": {
+    "title": "HFR signs $3.55 million Tyler robot contract with Foley Tile",
+    "summary": "The three-year agreement charges by installed area while skilled workers handle cutting, edges, finishing and quality.",
+    "sections": [
+      {
+        "heading": "A contract for contractor expansion",
+        "paragraphs": [
+          "Human Friendly Robotics announced a three-year, $3.55 million agreement with Foley Tile on October 22. Tyler robots will accompany installers in Arizona and beyond, aiming to let the Tucson crew take larger distant projects without depending as heavily on local recruitment."
+        ]
+      },
+      {
+        "heading": "Robots place tiles, installers retain skilled work",
+        "paragraphs": [
+          "Tyler handles repetitive placement involving lifting, bending and kneeling. Installers retain cuts, edges, finishing and quality control. Pricing is per installed square foot without an equipment purchase, shifting the contractor’s model toward service-based delivery."
+        ]
+      },
+      {
+        "heading": "Pilot performance is company-reported",
+        "paragraphs": [
+          "The release says Tyler and the crew at Puerto Rico’s Plaza Las Américas achieved eight times the stated human benchmark pace. It does not detail measurement methods or guarantee every site’s results. This Foley Tile agreement is distinct from the previously announced Flooring Concepts of NJ deal."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2019072/Human-Friendly-Robotics-Image.jpg?id=OA3035077&p=download",
+        "alt": "Brent and Jerry Foley with HFR CEO Shamoon Siddiqui",
+        "caption": "Brent and Jerry Foley with HFR CEO Shamoon Siddiqui · Image: Human Friendly Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "beyond-vision-28m-production-funding-2026": {
+    "title": "Beyond Vision raises over €28 million to scale drones and AI systems",
+    "summary": "Índico and Lince co-lead the round with ActiveCap participating, supporting manufacturing, R&D and international expansion.",
+    "sections": [
+      {
+        "heading": "Funding industrial expansion",
+        "paragraphs": [
+          "Portuguese unmanned-aircraft developer Beyond Vision raised over €28 million, according to an October 22 report. Índico Capital Partners and Lince Capital co-led, with existing investor ActiveCap participating. The company employs 150 people and serves civilian and military customers."
+        ]
+      },
+      {
+        "heading": "Hardware with cloud management",
+        "paragraphs": [
+          "Founded in 2013, Beyond Vision moved from software into AI-powered drones and cloud-based management. Funding will strengthen operations and manufacturing while supporting algorithm research and new management-platform functions for security and critical-infrastructure monitoring."
+        ]
+      },
+      {
+        "heading": "Capacity targets remain unspecified",
+        "paragraphs": [
+          "The NATO-registered supplier plans further international expansion, but the report gives no annual drone-production target, new order total or funding allocation breakdown. Financing supports the expansion plan; it does not establish that manufacturing goals have already been achieved."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.tech.eu/uploads/2026/10/untitled-design-43-829.png",
+        "alt": "Image accompanying the Beyond Vision expansion report",
+        "caption": "Image accompanying the Beyond Vision expansion report · Image: Tech.eu"
+      }
+    ],
+    "videos": []
+  },
+  "korber-naise-strategic-stake-fleet-management-2026": {
+    "title": "Körber takes a stake in NAiSE for mixed-fleet orchestration",
+    "summary": "The partnership deepens warehouse fleet integration while NAiSE remains independent and open to other manufacturers.",
+    "sections": [
+      {
+        "heading": "An existing collaboration becomes an investment",
+        "paragraphs": [
+          "Körber announced a stake in NAiSE on October 22 to expand intralogistics fleet-management software. Founded in 2017, NAiSE had been self-funded. The deal deepens an existing collaboration, without disclosing investment size or ownership percentage."
+        ]
+      },
+      {
+        "heading": "A common layer for mixed vehicles",
+        "paragraphs": [
+          "The platform connects AGVs, AMRs from multiple vendors and manually driven industrial trucks through a shared control layer. Integration with WMS, WES and WCS supports coordinated material flow instead of isolated vendor-specific fleets."
+        ]
+      },
+      {
+        "heading": "Independence and future applications",
+        "paragraphs": [
+          "NAiSE’s founders retain operational management and the company remains open to other integrators and vehicle manufacturers. The partners plan deeper Körber warehouse integration and future humanoid use cases. That roadmap is not an announcement of an operational commercial humanoid fleet."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://newsroom.ap.org/editorial-photos-videos/home",
+        "title": "AP photo source referenced in the release",
+        "note": "The release links to the AP library without identifying a specific image. That image could not be verified or embedded; this is a photo reference, not a video."
+      }
+    ]
+  },
+  "lg-innotek-nvidia-hsb-sensing-collaboration-2026": {
+    "title": "LG Innotek and NVIDIA collaborate on direct sensor-to-GPU connectivity",
+    "summary": "A 3-megapixel camera and Multimodal Vision System use Holoscan Sensor Bridge, with robot vision and hands on the roadmap.",
+    "sections": [
+      {
+        "heading": "Sensing products shown in Berlin",
+        "paragraphs": [
+          "LG Innotek announced the NVIDIA collaboration on October 22 after presenting a 3-megapixel camera and Multimodal Vision System at GTC Berlin on October 20. The products are designed around Holoscan Sensor Bridge for robot and machine sensing."
+        ]
+      },
+      {
+        "heading": "Shortening the data path",
+        "paragraphs": [
+          "HSB uses an open Ethernet-connected fabric to send sensor data to GPU-based AI computing without routing it through the CPU. LG Innotek brings camera, lidar and radar capabilities to the work. The goal is a shorter sensing-to-inference path, but no measured latency was disclosed."
+        ]
+      },
+      {
+        "heading": "Vision and hands remain expansion plans",
+        "paragraphs": [
+          "The companies plan further humanoid vision-sensing and robotic-hand work, with additional systems to be shown at CES and GTC in 2027. Pricing and delivery schedules were not specified. Planned hand-related work should not be treated as a finished product available today."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
   }
 }
