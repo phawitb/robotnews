@@ -1898,5 +1898,115 @@
     "summary": "เผยกล้อง 3 เมกะพิกเซลและระบบภาพหลายรูปแบบที่ใช้ Holoscan Sensor Bridge พร้อมแผนพัฒนาการมองเห็นและมือหุ่นยนต์",
     "image": "",
     "addedAt": "2026-10-22T22:07:17.841Z"
+  },
+  {
+    "id": "enact-30m-preseed-force-assembly-launch-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-23",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/enact-30m-pre-seed-force-sensing-robots",
+    "title": "Enact ได้ทุน 30 ล้านดอลลาร์ พัฒนาหุ่นยนต์ประกอบที่รับรู้แรงผ่านตัวขับ",
+    "summary": "สตาร์ตอัปซูริกออกแบบมอเตอร์ ระบบควบคุม และ AI ร่วมกัน เน้นงานประกอบล็อตเล็ก แต่ยังไม่เปิดผลทดสอบเชิงปริมาณ",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/enact-team-hero-4wsfyxDHG8fQdMPxXcxyLriKhk6jGK.webp",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "agibot-world-release4-physical-reasoning-2026",
+    "category": "research",
+    "date": "2026-10-23",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/agibot-world-release-4-physical-reasoning-dataset",
+    "title": "AGIBOT เปิดข้อมูล Physical Reasoning เชื่อมการตัดสินใจกับการเคลื่อนไหวของหุ่นยนต์",
+    "summary": "Release 4 รวมงานที่เป้าหมายเหมือนเดิมแต่สภาพเริ่มต้นเปลี่ยน พร้อมตัวอย่างสำเร็จและผิดพลาด ภายใต้เงื่อนไขไม่ใช้เชิงพาณิชย์",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-release4-minibar-s78VUnOeAZxt1kQdiSV4YjQsiqsaLp.gif",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "figure04-design-lock-index-allhands-update-2026",
+    "category": "humanoids",
+    "date": "2026-10-23",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/figure-all-hands-figure-04-index-data-helix-3",
+    "title": "Figure 04 ล็อกแบบแล้ว เริ่มทดสอบชิ้นส่วน พร้อมอัปเดตข้อมูล Index 37.5 ล้านคลิป",
+    "summary": "วิดีโอประชุมบริษัทเผยสถานะฮาร์ดแวร์รุ่นใหม่และแผน Helix 3.0 แต่ยังไม่ประกาศราคา วันส่งมอบ หรือผลทดสอบมือแบบมาตรฐาน",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-all-hands-hero-638iyxyfESl0cA5721vhGwfw3oZmEV.webp",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "xpeng-iron-vla2-gesture-interaction-demo-2026",
+    "category": "humanoids",
+    "date": "2026-10-23",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo",
+    "title": "XPENG สาธิต IRON เปลี่ยนจากจับมือเป็นชนหมัดและไฮไฟว์ตามคน",
+    "summary": "หุ่นยนต์ปรับท่าจากภาพโดยไม่ใช้คำสั่งเสียง บริษัทอ้างอัปเดตการให้เหตุผลทุก 0.2 วินาที แต่ยังเป็นรุ่นวิจัย",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "everoyal-robot-enclosure-pilot-production-2026",
+    "category": "industrial-robots",
+    "date": "2026-10-23",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/23/everoyal-precision-reports-pilot-production-for-humanoid-and-service-robot-enclosures/27290/",
+    "title": "Everoyal เผยงานเปลือกหุ่นยนต์เข้าสู่ล็อตทดลอง ราว 60 ชิ้นต่อแบบปรับปรุง",
+    "summary": "ผู้ผลิตชิ้นส่วนซูโจวรวมหล่อสุญญากาศ CNC พิมพ์สามมิติ และงานโลหะแผ่นในโรงงานเดียว พร้อมระบุแนวทางตรวจคุณภาพ",
+    "image": "",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "advantech-five-layer-independent-safety-platform-2026",
+    "category": "ai-automation",
+    "date": "2026-10-22",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/advantech-advances-physical-ai-and-robotics-with-integrated-functional-safety-302913768.html",
+    "title": "Advantech เสนอแพลตฟอร์มหุ่นยนต์ห้าชั้น แยกวงจรความปลอดภัยออกจาก AI",
+    "summary": "MIC-735-IT บน IGX Thor เลือกติดตั้ง Safety MCU ได้ พร้อมเอกสารช่วยพัฒนา แต่การรับรองทั้งระบบยังเป็นหน้าที่ผู้รวมระบบ",
+    "image": "https://mmx.prnewswire.com/media/MS2016867/20261020021550EDT_image_1.jpg?id=OA3028628&p=download",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "kabam-november20-closure-announcement-2026",
+    "category": "industry-news",
+    "date": "2026-10-23",
+    "source": "VnExpress International",
+    "url": "https://e.vnexpress.net/news/tech/enterprises/award-winning-singapore-robot-maker-serving-world-s-best-airport-to-shut-down-after-6-years-5135927.html",
+    "title": "Kabam Robotics เตรียมหยุดกิจการ 20 พฤศจิกายน หลังทำหุ่นยนต์รักษาความปลอดภัยหกปี",
+    "summary": "รายงานระบุว่าแจ้งลูกค้าแล้ว และผู้บริหารกำลังพิจารณาเปลี่ยนสู่งาน AI ส่วนการดูแลหุ่นยนต์ที่ติดตั้งยังต้องติดตาม",
+    "image": "https://vcdn1-english.vnecdn.net/2026/10/23/KABAM-Robot-Security-robot-dep-4602-2132-1792726369.png?w=680&h=0&q=100&dpr=2&fit=crop&s=1snhfJpez-loBe4b5i3bng",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "warp-sciences-wetlab-215m-launch-2026",
+    "category": "research",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "title": "Warp Sciences เปิดตัวพร้อมทุน 215 ล้านดอลลาร์ ตั้งเป้าใช้หุ่นยนต์ทำงานแล็บยา",
+    "summary": "Kevin Weil วางแนวทางให้นักเคมีสวมกล้องและถุงมือเซนเซอร์สอนหุ่นยนต์สังเคราะห์และทดสอบสาร ยังไม่เปิดผลผลิตจริง",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "fort-20m-additional-financing-pipe-2026",
+    "category": "industry-news",
+    "date": "2026-10-22",
+    "source": "FORT Robotics",
+    "url": "https://www.fortrobotics.com/news/fort-robotics-secures-approximately-20-million-in-additional-funding-led-by-tiger-global-and-mark-cuban-companies",
+    "title": "FORT ได้ข้อผูกพันเงินทุนเพิ่มราว 20 ล้านดอลลาร์ ขยายระบบความปลอดภัยหุ่นยนต์",
+    "summary": "เงินสองส่วนมีเงื่อนไขต่างกัน โดยส่วน PIPE ผูกกับการควบรวม Newbury Street II และการเข้าตลาดยังไม่เสร็จสิ้น",
+    "image": "",
+    "addedAt": "2026-10-24T01:37:30.599Z"
+  },
+  {
+    "id": "maxinsights-30m-seed-maxloop-maxglove-2026",
+    "category": "ai-automation",
+    "date": "2026-10-22",
+    "source": "Business Wire via MarketMinute",
+    "url": "https://whnstv.marketminute.com/article/bizwire-2026-10-22-waymo-google-and-microsoft-alums-raise-30m-to-build-the-data-layer-for-physical-ai",
+    "title": "Maxinsights ได้ทุน 30 ล้านดอลลาร์ เปิด MaxLoop และพัฒนา MaxGlove เก็บข้อมูลสอนหุ่นยนต์",
+    "summary": "บริษัทระบุว่ามีข้อมูลพร้อมฝึก 1.5 ล้านชั่วโมงจากวิดีโอเกิน 2 ล้านชั่วโมง ส่วนเป้าหมายข้อมูลแรงสัมผัสหนึ่งล้านชั่วโมงอยู่ในปี 2027",
+    "image": "",
+    "addedAt": "2026-10-24T01:37:30.599Z"
   }
 ]

@@ -13787,6 +13787,1551 @@
           }
         ]
       }
+    },
+    {
+      "id": "enact-30m-preseed-force-assembly-launch-2026",
+      "storyKey": "enact-30m-preseed-force-assembly-launch-2026",
+      "originalTitle": "Enact Raises $30M Pre-Seed to Give Factory Robots a Sense of Force | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/enact-30m-pre-seed-force-sensing-robots"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/enact-30m-pre-seed-force-sensing-robots",
+        "https://www.notioncapital.com/resources/zurich-in-limmat-valley-is-the-silicon-valley-of-robotics",
+        "https://x.com/enact_intel/status/2113165676323987840"
+      ],
+      "publishedAt": "2026-10-23T18:20:18.369Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "งานประกอบที่ต้องรับรู้แรงมีประโยชน์ต่อโรงงานไทย มีผู้ลงทุนยืนยันทุน แต่ยังต้องติดตามผลทดสอบจริง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/yann-lecun-pioneer-works.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/yann-lecun-unsupervised-learning.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lewm.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lecun-ami.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/images/yann-lecun.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2x-guardian-hero-GCIrEb1ngLTm3XhclBwEt2TyLZQhUi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agibot-world-release4-physical-reasoning-2026",
+      "storyKey": "agibot-world-release4-physical-reasoning-2026",
+      "originalTitle": "AGIBOT Releases Physical Reasoning Dataset to Connect Robot Decisions With Actions | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/agibot-world-release-4-physical-reasoning-dataset"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/agibot-world-release-4-physical-reasoning-dataset",
+        "https://huggingface.co/datasets/agibot-world/AgiBotWorld2026",
+        "https://agibot-world.com/"
+      ],
+      "publishedAt": "2026-10-23T12:01:29.592Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "ข้อมูลเปิดเชื่อมเหตุผลกับการกระทำพร้อมตัวอย่างผิดพลาด เหมาะต่อทีมวิจัยและระบุใบอนุญาตชัดเจน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/pa-1772058601999.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/agibot-zhiyuan-robotics-1788205013321.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie-sim-hero.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-roboto-origin.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/idc-h1-vendor-growth-B9myxgfbC8IVtn52YsEfAy4yeuwUhr.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2x-guardian-hero-GCIrEb1ngLTm3XhclBwEt2TyLZQhUi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "figure04-design-lock-index-allhands-update-2026",
+      "storyKey": "figure04-design-lock-index-allhands-update-2026",
+      "originalTitle": "Figure 04 Reaches Design Lock as Adcock Details a Multibillion-Dollar AI Push | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/figure-all-hands-figure-04-index-data-helix-3"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/figure-all-hands-figure-04-index-data-helix-3",
+        "https://www.youtube.com/watch?v=AoFwpf43wK0",
+        "https://x.com/adcock_brett/status/2113291696725516506"
+      ],
+      "publishedAt": "2026-10-23T06:46:04.919Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "สถานะ Figure 04 ล็อกแบบและทดสอบชิ้นส่วนเป็นพัฒนาการใหม่จากข่าวเดินลู่วิ่งเดิม มีวิดีโอประชุมอ้างอิง",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/figure-1788467322697.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-04-design-review.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-02-decommission-jump-a0X6WZ1QW7g6MMawZT879lj3d0VOKm.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-02-ai-sendoff-teaser-mRHj2E6wHEy5VbgbTWjwtRgxc68YEA.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-robot-vehicle-clip-9cupQLgckMGuJh0vJt9YslP7ZmOjNH.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2x-guardian-hero-GCIrEb1ngLTm3XhclBwEt2TyLZQhUi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xpeng-iron-vla2-gesture-interaction-demo-2026",
+      "storyKey": "xpeng-iron-vla2-gesture-interaction-demo-2026",
+      "originalTitle": "XPENG Shows IRON Switching Between Handshakes, Fist Bumps and High-Fives | Humanoids Daily",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo",
+        "https://x.com/XPENG_Global/status/2113187695304327409",
+        "https://x.com/xiaopenghexpeng/status/2113210909250502802"
+      ],
+      "publishedAt": "2026-10-23T06:04:08.198Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "มีวิดีโอพฤติกรรมโต้ตอบจริง ใช้ศึกษาปฏิสัมพันธ์คนกับหุ่นยนต์ แต่ไม่อ้างความพร้อมเกินหลักฐาน",
+      "score": 13,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/authors/default-1772057003828.webp",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/china-tour/rich-robinson.webp",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/logos/xpeng-1788712682508.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/iron-7.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/first-iron.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lc-mi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-lineup-2026.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-red-envelope.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-masterpiece.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/humanoid-europe/logo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-h2x-guardian-hero-GCIrEb1ngLTm3XhclBwEt2TyLZQhUi.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eka-manipulation-hero-UvMLGvilyD27lmoiHOImnBUyuRBoVi.webp",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "everoyal-robot-enclosure-pilot-production-2026",
+      "storyKey": "everoyal-robot-enclosure-pilot-production-2026",
+      "originalTitle": "Everoyal Precision reports pilot production for humanoid and service robot enclosures  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/10/23/everoyal-precision-reports-pilot-production-for-humanoid-and-service-robot-enclosures/27290/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/10/23/everoyal-precision-reports-pilot-production-for-humanoid-and-service-robot-enclosures/27290/"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "ความคืบหน้าล็อตทดลองและการตรวจคุณภาพเกี่ยวข้องกับซัพพลายเชนไทย แม้ยังไม่มีลูกค้าระบุชื่อ",
+      "score": 14,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/where-cts-components-fit-in-robotic-systems.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "advantech-five-layer-independent-safety-platform-2026",
+      "storyKey": "advantech-five-layer-independent-safety-platform-2026",
+      "originalTitle": "Advantech Advances Physical AI and Robotics With Integrated Functional Safety",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/advantech-advances-physical-ai-and-robotics-with-integrated-functional-safety-302913768.html",
+        "https://dailyaibrief.com/news/advantech-expands-robotics-platform-functional-safety-Bvk6S5ZD"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/advantech-advances-physical-ai-and-robotics-with-integrated-functional-safety-302913768.html"
+      ],
+      "publishedAt": "2026-10-22T08:00:00-04:00",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "แยก AI กับความปลอดภัยชัดเจนและมีแพลตฟอร์มรองรับ เหมาะกับผู้รวมระบบอุตสาหกรรมไทย",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2016867/20261020021550EDT_image_1.jpg?id=OA3028628&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=HK76396&Transmission_Id=202610220800PR_NEWS_USPR_____HK76396&DateId=20261022",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/newWidget-mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/amplify-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2018022/20261021081856EDT_image_1.jpg?id=OA3031888",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2014839/20261016011311EDT_image_1.jpg?id=OA3023087",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/IOT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRD.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kabam-november20-closure-announcement-2026",
+      "storyKey": "kabam-november20-closure-announcement-2026",
+      "originalTitle": "Award-winning Singapore robot maker serving world's best airport to shut down after 6 years - VnExpress International",
+      "urls": [
+        "https://e.vnexpress.net/news/tech/enterprises/award-winning-singapore-robot-maker-serving-world-s-best-airport-to-shut-down-after-6-years-5135927.html",
+        "https://dailyaibrief.com/news/kabam-robotics-close-after-six-years-8tvXxcIo"
+      ],
+      "references": [
+        "https://e.vnexpress.net/news/tech/enterprises/award-winning-singapore-robot-maker-serving-world-s-best-airport-to-shut-down-after-6-years-5135927.html"
+      ],
+      "publishedAt": "2026-10-23T04:41:00Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "การปิดผู้ให้บริการจริงในอาเซียนสะท้อนความเสี่ยงบริการหลังขายที่ลูกค้าไทยควรติดตาม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/Logo_mobile.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/vne_international.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/logo-x.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/icon-reddit.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/share-x.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/share-whatsapp.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/icon-link.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/print.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/22/bangkokbasilricethumb1500x900-8555-9749-1792659926.jpg?w=100&h=100&q=100&dpr=1&fit=crop&s=rZU-VXmaJEvYFUNy8YOflw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/1-1792760326-2382-1792760346.jpg?w=100&h=100&q=100&dpr=1&fit=crop&s=Q0ropAlGBF5rHsepu1MHgg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-ngoisao.vnecdn.net/2026/10/22/Queen-Suthida-111-1792603325.jpg?w=100&h=100&q=100&dpr=1&fit=crop&s=bfySXI-9pXbcH2TuIZ2ORg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/penang21721358738-1792708101-6524-1792708742.png?w=100&h=100&q=100&dpr=1&fit=crop&s=03lj_sWqj-csMJR2LGWJyw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/22/2-1792657554-3822-1792670382.jpg?w=100&h=100&q=100&dpr=1&fit=crop&s=hII1TkTHH4W6JKEOL5qUKw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/fdownvninstagramvideodownl7597-1583-8071-1792751550.webp?w=100&h=100&q=100&dpr=1&fit=crop&s=ALf5tUnJWmyPHr0-KNMClg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/22/900x9001-1792657247-1299-1792657423.png?w=100&h=100&q=100&dpr=1&fit=crop&s=8JMaL_F79SYtdTjI6nXSkA",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/npbhcdunnjmfhacgthwd5rlwwy-179-7692-3731-1792712225.png?w=100&h=100&q=100&dpr=1&fit=crop&s=9ddhHaJHoSg05ZFX4WWxSw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/screenshot-1792723094-6940-1792723099.jpg?w=100&h=100&q=100&dpr=1&fit=crop&s=Q8ojZ8qZmtwSNzm0lw7Guw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/afp-b8qk4lm-v1-highres-malaysi-3869-7124-1792723773.webp?w=100&h=100&q=100&dpr=1&fit=crop&s=_B8qBl2-6rnZlGdTgUqhHw",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/logo-google.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/info_icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://vcdn1-english.vnecdn.net/2026/10/23/KABAM-Robot-Security-robot-dep-4602-2132-1792726369.png?w=680&h=0&q=100&dpr=1&fit=crop&s=_U3vKj8Cjw4dT4CSMl374g",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/img_blank.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/app_evne.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/apple_app.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/android_app.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/qr_app_review.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/logo_site_5.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scdn.vnecdn.net/english/i/v68/graphics/icon_gototop.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "warp-sciences-wetlab-215m-launch-2026",
+      "storyKey": "warp-sciences-wetlab-215m-launch-2026",
+      "originalTitle": "Former OpenAI science lead launches Warp Science to automate wet labs with robots | TechCrunch",
+      "urls": [
+        "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "https://dailyaibrief.com/news/warp-sciences-raises-215-million-automate-drug-discovery-labs-53ZyIZh4"
+      ],
+      "references": [
+        "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "https://x.com/kevinweil/status/2113294657673466060"
+      ],
+      "publishedAt": "2026-10-22T18:38:47Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "ทุนขนาดใหญ่หนุนหุ่นยนต์ในแล็บและกระบวนการสอนผ่านเซนเซอร์ แยกเป้าหมายออกจากผลจริง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=150",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/113",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=300",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/225",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=768",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/576",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=680",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/510",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=430",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/323",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=720",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/540",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=900",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/675",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=800",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/600",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=668",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/501",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=500",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/375",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=823",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/617",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=708",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/531",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?resize=50",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/38",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_0758.jpg?w=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/02/FoundersSummit-2026_Logos_founderSummit_logo_horiz_color-blk-01.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?w=563",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/100",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=300",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/512",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/453",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1280",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/853",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=430",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/287",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/480",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=900",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/533",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1536",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/1024",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/445",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=563",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=926",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/472",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=50",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/33",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?w=564",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=150",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=300",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/511",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=680",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/452",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/798",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1280",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/852",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=430",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/286",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=720",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/479",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=900",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/599",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=800",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/532",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1536",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/1022",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=2048",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/1362",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=668",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/444",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=564",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=927",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=708",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/471",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=50",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?w=665",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/85",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=300",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/169",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/433",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/383",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/676",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1280",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/721",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=430",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/242",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/406",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=900",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/507",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/451",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1536",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/866",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=2048",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/1154",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/376",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=665",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1095",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/399",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=50",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/28",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?w=606",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/93",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=300",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/186",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/476",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/421",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/743",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1280",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/793",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=430",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/266",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/446",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=900",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/557",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/495",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1536",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/951",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=2048",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/1268",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/414",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=606",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=996",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/438",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=50",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/31",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?w=563",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=300",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1280",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=430",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=900",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1536",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=563",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=926",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=50",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=562",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=150",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=300",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=768",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=680",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/454",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=430",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=720",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=900",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=800",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/534",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=668",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=562",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=925",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=708",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?resize=50",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fort-20m-additional-financing-pipe-2026",
+      "storyKey": "fort-20m-additional-financing-pipe-2026",
+      "originalTitle": "FORT Robotics Secures Approximately $20 Million in Additional Funding Led by Tiger Global and Mark Cuban Companies",
+      "urls": [
+        "https://www.fortrobotics.com/news/fort-robotics-secures-approximately-20-million-in-additional-funding-led-by-tiger-global-and-mark-cuban-companies",
+        "https://dailyaibrief.com/news/fort-robotics-gets-20-million-in-investor-commitments-c8FI2vOE"
+      ],
+      "references": [
+        "https://www.fortrobotics.com/news/fort-robotics-secures-approximately-20-million-in-additional-funding-led-by-tiger-global-and-mark-cuban-companies",
+        "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004909/ntwo28k425102126.htm"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "เพิ่มทุนโครงสร้างความปลอดภัยของหุ่นยนต์ มีประกาศบริษัทและ SEC ยืนยัน แยกจากข่าวซอฟต์แวร์เดิม",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-PR8H44N",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Logo%20White.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://no-cache.hubspot.com/cta/default/8105241/3a6d2563-398a-43be-b9ff-5b9f93c9d40f.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=280&height=257&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=140&height=129&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=420&height=386&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=560&height=514&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=700&height=643&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/FORT%20Solution%20Building%20Blocks.webp?width=840&height=771&name=FORT%20Solution%20Building%20Blocks.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=280&height=257&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=140&height=129&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=420&height=386&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=560&height=514&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=700&height=643&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hs-fs/hubfs/GettyImages-94985760%201.png?width=840&height=771&name=GettyImages-94985760%201.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Featured%20Logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Connectivity%20Aggregation%20for%20Defense.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.fortrobotics.com/hubfs/FORT%20Safe%20Remote%20Control%20Pro.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://no-cache.hubspot.com/cta/default/8105241/18cf8435-9538-4cf1-8a23-50fd681a5fd7.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maxinsights-30m-seed-maxloop-maxglove-2026",
+      "storyKey": "maxinsights-30m-seed-maxloop-maxglove-2026",
+      "originalTitle": "Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI | MarketMinute",
+      "urls": [
+        "https://whnstv.marketminute.com/article/bizwire-2026-10-22-waymo-google-and-microsoft-alums-raise-30m-to-build-the-data-layer-for-physical-ai",
+        "https://www.businesswire.com/news/home/20261022672609/en/",
+        "https://dailyaibrief.com/news/maxinsights-raises-30-million-for-robot-training-data-DQSPB9qp"
+      ],
+      "references": [
+        "https://whnstv.marketminute.com/article/bizwire-2026-10-22-waymo-google-and-microsoft-alums-raise-30m-to-build-the-data-layer-for-physical-ai",
+        "https://www.businesswire.com/news/home/20261022672609/en/"
+      ],
+      "publishedAt": "2026-10-22T12:00:00-04:00",
+      "addedAt": "2026-10-24T01:37:30.599Z",
+      "runId": "2026-10-24",
+      "reason": "โครงสร้างข้อมูลและการตรวจคุณภาพมีความสำคัญต่อการฝึกหุ่นยนต์ มีประกาศทุนพร้อมผลิตภัณฑ์ใหม่",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://images.financialcontent.com/investcenter/marketminute.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20261022672609r1&sid=fincn&distro=ftp",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://whnstv.marketminute.com/images/fcon_dark.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -14060,6 +15605,23 @@
         "beyond-vision-28m-production-funding-2026",
         "korber-naise-strategic-stake-fleet-management-2026",
         "lg-innotek-nvidia-hsb-sensing-collaboration-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-24",
+      "batchHash": "03605e44b8ea5ec71bd2f13f890992046dee78b9fb80f62e22608e762d73d0ac",
+      "preparedAt": "2026-10-24T01:37:30.599Z",
+      "articleIds": [
+        "enact-30m-preseed-force-assembly-launch-2026",
+        "agibot-world-release4-physical-reasoning-2026",
+        "figure04-design-lock-index-allhands-update-2026",
+        "xpeng-iron-vla2-gesture-interaction-demo-2026",
+        "everoyal-robot-enclosure-pilot-production-2026",
+        "advantech-five-layer-independent-safety-platform-2026",
+        "kabam-november20-closure-announcement-2026",
+        "warp-sciences-wetlab-215m-launch-2026",
+        "fort-20m-additional-financing-pipe-2026",
+        "maxinsights-30m-seed-maxloop-maxglove-2026"
       ]
     }
   ]

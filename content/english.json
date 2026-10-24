@@ -6619,5 +6619,352 @@
     ],
     "images": [],
     "videos": []
+  },
+  "enact-30m-preseed-force-assembly-launch-2026": {
+    "title": "Enact raises $30M to build force-aware assembly robots",
+    "summary": "The Zurich startup combines actuators, control and AI for small-batch assembly, with quantitative performance results still undisclosed.",
+    "sections": [
+      {
+        "heading": "Funding hardware and AI together",
+        "paragraphs": [
+          "Enact Intelligence has emerged with a $30 million pre-seed round co-led by redalpine and Notion Capital. Founded in Zurich in March 2026 by former 1X and Physical Intelligence engineer Manuel Yves Galliker, it is developing actuators, control systems and models together."
+        ]
+      },
+      {
+        "heading": "Contact feedback for assembly",
+        "paragraphs": [
+          "The intended robot would use forces during movement to judge whether connectors or seals have seated correctly. Learning from demonstrations targets varied, small-batch work that otherwise needs repeated programming. The company briefing says this approach does not require added artificial skin."
+        ]
+      },
+      {
+        "heading": "Commercial evidence is still missing",
+        "paragraphs": [
+          "Enact says its first motors exist, but has not disclosed accuracy, success rates, cycle times, pricing or delivery dates. Measuring force over 1,000 times per second and reducing training from months to days remain development targets, not demonstrated production performance."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/enact-team-hero-4wsfyxDHG8fQdMPxXcxyLriKhk6jGK.webp",
+        "alt": "Enact’s Zurich team",
+        "caption": "Enact’s Zurich team · Image: Notion Capital"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/enact_intel/status/2113165676323987840",
+        "title": "Enact launch announcement",
+        "note": "Open the post and its media directly on X; this website does not embed an X player."
+      }
+    ]
+  },
+  "agibot-world-release4-physical-reasoning-2026": {
+    "title": "AGIBOT releases physical-reasoning data linking decisions to actions",
+    "summary": "Release 4 varies starting conditions around shared goals and includes success and error annotations; the repository carries a non-commercial license.",
+    "sections": [
+      {
+        "heading": "One goal, different action sequences",
+        "paragraphs": [
+          "Announced on October 22, Physical Reasoning is AGIBOT WORLD 2026 Release 4. Restocking a minibar with three full bottles requires identifying empty bottles, counting existing stock and deciding what to add or remove instead of replaying a fixed motion sequence."
+        ]
+      },
+      {
+        "heading": "Annotations connect intent and execution",
+        "paragraphs": [
+          "The data links questions, answers, high-level instructions, subtasks and action trajectories. Labels describe objects, locations, arm roles, gripper states and expected outcomes. Nine reasoning categories and three difficulty levels include erroneous examples for studying mistake detection and recovery."
+        ]
+      },
+      {
+        "heading": "A research resource with conditions",
+        "paragraphs": [
+          "AGIBOT says it is using the data for an upcoming agent framework and model, but reports neither a Release 4 episode count nor measured success-rate gains. The Hugging Face repository lists CC BY-NC-SA 4.0, including a non-commercial restriction; product developers need to check the terms."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-release4-minibar-s78VUnOeAZxt1kQdiSV4YjQsiqsaLp.gif",
+        "alt": "Animation of a robot restocking minibar bottles",
+        "caption": "Animation of a robot restocking minibar bottles · Image: AGIBOT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-release4-annotated-YNIGeiqcslANFWNniqJ8EDnXNEqy2i.gif",
+        "alt": "Animation showing instruction annotations and tool placement",
+        "caption": "Animation showing instruction annotations and tool placement · Image: AGIBOT"
+      }
+    ],
+    "videos": []
+  },
+  "figure04-design-lock-index-allhands-update-2026": {
+    "title": "Figure 04 reaches design lock as Index uploads reach 37.5 million",
+    "summary": "An all-hands recording details component testing and a Helix 3.0 teaser, without pricing, delivery dates or standardized hand benchmarks.",
+    "sections": [
+      {
+        "heading": "New hardware enters component testing",
+        "paragraphs": [
+          "Figure’s October 22 all-hands recording says Figure 04 has reached design lock and parts are shipping. Actuators are in the test lab and ten complete battery packs were brought up the previous week, with load and thermal testing still ahead. This is not a customer-delivery announcement."
+        ]
+      },
+      {
+        "heading": "Hands and human data evolve together",
+        "paragraphs": [
+          "Brett Adcock described the fourth hand iteration, designed to better reproduce human motion. Figure reports 37.5 million Index video uploads across 112 countries. Upload totals are not equivalent to cleaned training data, and claims of human-like dexterity lack a standardized benchmark."
+        ]
+      },
+      {
+        "heading": "Helix 3.0 remains a preview",
+        "paragraphs": [
+          "The presentation teased Helix 3.0 without a full capability disclosure or release date. This update concerns next-generation hardware and training, distinct from the earlier Figure 03 treadmill endurance story. It does not establish reliable general-purpose operation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-all-hands-hero-638iyxyfESl0cA5721vhGwfw3oZmEV.webp",
+        "alt": "Brett Adcock presenting robot generations with Figure 04 blurred",
+        "caption": "Brett Adcock presenting robot generations with Figure 04 blurred · Image: Figure"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=AoFwpf43wK0",
+        "title": "Figure All Hands 2026",
+        "note": ""
+      },
+      {
+        "url": "https://x.com/adcock_brett/status/2113291696725516506",
+        "title": "Figure all-hands companion post",
+        "note": "Open the post and its media directly on X; this website does not embed an X player."
+      }
+    ]
+  },
+  "xpeng-iron-vla2-gesture-interaction-demo-2026": {
+    "title": "XPENG demonstrates IRON adapting to changing hand gestures",
+    "summary": "The research robot follows visual cues without spoken commands; XPENG reports a 0.2-second reasoning-update interval.",
+    "sections": [
+      {
+        "heading": "Following a changing interaction",
+        "paragraphs": [
+          "A new video shows a tester changing from a handshake to a fist bump and high-five. IRON adapts and uses its other arm when the target moves out of reach. XPENG attributes the visual, speech-free interaction to VLA 2.0."
+        ]
+      },
+      {
+        "heading": "Update frequency is not total latency",
+        "paragraphs": [
+          "XPENG describes continuous observation, planning and movement with reasoning updates every 0.2 seconds, or five times per second. That interval is not total camera-to-motion latency. The demonstration also does not establish that the system is identical to the model in XPENG vehicles."
+        ]
+      },
+      {
+        "heading": "A demonstration rather than a rollout",
+        "paragraphs": [
+          "The footage is labeled an R&D test version. Attempt counts, success rates and separate prediction-accuracy tests are absent. It demonstrates adaptation to changing gestures, without establishing readiness for general customer use."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp",
+        "alt": "IRON exchanging a fist bump in an R&D demonstration",
+        "caption": "IRON exchanging a fist bump in an R&D demonstration · Image: XPENG"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/XPENG_Global/status/2113187695304327409",
+        "title": "IRON gesture-adaptation video",
+        "note": "Open the post and its media directly on X; this website does not embed an X player."
+      },
+      {
+        "url": "https://x.com/xiaopenghexpeng/status/2113210909250502802",
+        "title": "He Xiaopeng’s demonstration post",
+        "note": "Open the post and its media directly on X; this website does not embed an X player."
+      }
+    ]
+  },
+  "everoyal-robot-enclosure-pilot-production-2026": {
+    "title": "Everoyal reports pilot production of robot enclosures",
+    "summary": "The Suzhou supplier describes roughly 60-unit revisions and combined casting, machining, printing and sheet-metal processes.",
+    "sections": [
+      {
+        "heading": "Moving beyond display parts",
+        "paragraphs": [
+          "Suzhou Everoyal Precision says its humanoid and service-robot enclosure work has moved into pilot production, typically around 60 units per revision. Its October 23 announcement describes a batch size, not sales or deliveries of complete robots."
+        ]
+      },
+      {
+        "heading": "Processes under one roof",
+        "paragraphs": [
+          "The company reports a 10,000-square-meter facility with two lines and over 50 machines covering vacuum casting, CNC machining, 3D printing, sheet metal and rapid tooling. Covers, mounting faces and brackets can move between processes without changing suppliers."
+        ]
+      },
+      {
+        "heading": "Inspection and remaining unknowns",
+        "paragraphs": [
+          "Everoyal says prototypes and machined parts receive 100% inspection using Zeiss CMM and ROMER equipment, with reports. Batch work uses 5% random inspection at an agreed depth. Customers, delivery schedules and independent results are undisclosed, so these remain supplier-reported capabilities."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "advantech-five-layer-independent-safety-platform-2026": {
+    "title": "Advantech separates robot safety from AI in a five-layer platform",
+    "summary": "Its IGX Thor-based MIC-735-IT supports an optional Safety MCU and engineering evidence; final system certification remains application-specific.",
+    "sections": [
+      {
+        "heading": "A platform spanning the robot lifecycle",
+        "paragraphs": [
+          "Advantech presents five layers: perception, AI computing and motion control, functional safety, production and validation, and deployment and management. The architecture aims to help robot builders integrate hardware, software and validation evidence."
+        ]
+      },
+      {
+        "heading": "An independent safety path",
+        "paragraphs": [
+          "AI computation is separated from health monitoring and fault detection to support application-defined safe states. The NVIDIA IGX Thor-based MIC-735-IT can include a Renesas Safety MCU. Diagnostics, a safety manual and FMEDA-related evidence support engineering work."
+        ]
+      },
+      {
+        "heading": "System certification remains specific",
+        "paragraphs": [
+          "Support for standards such as IEC 61508 and ISO 13849 does not certify every robot built on the platform. Integrators or customers remain responsible for hazard analysis, integration, validation and final certification. Advantech plans demonstrations at NVIDIA GTC Berlin."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2016867/20261020021550EDT_image_1.jpg?id=OA3028628&p=download",
+        "alt": "Advantech’s robot-platform architecture",
+        "caption": "Advantech’s robot-platform architecture · Image: Advantech"
+      }
+    ],
+    "videos": []
+  },
+  "kabam-november20-closure-announcement-2026": {
+    "title": "Kabam Robotics plans November 20 shutdown after six years",
+    "summary": "Customers have reportedly been notified as executives consider an AI-focused direction; arrangements for deployed robots remain to be clarified.",
+    "sections": [
+      {
+        "heading": "Customers notified ahead of closure",
+        "paragraphs": [
+          "VnExpress, citing The Business Times, reports that Singapore’s Kabam Robotics emailed customers about a November 20 shutdown and asked them to resolve outstanding matters beforehand. Founded under Patec in 2020, Kabam merged with Cognicept Systems in 2022."
+        ]
+      },
+      {
+        "heading": "Deployments did not remove business pressure",
+        "paragraphs": [
+          "Its patrol, surveillance and inspection robots served customers including Changi Airport Group, Certis and Aetos. The report cites over 150 deployments as of 2023, not a current count. Patec attributed the decision to production costs and market conditions despite industry awards."
+        ]
+      },
+      {
+        "heading": "Staff and service arrangements remain open",
+        "paragraphs": [
+          "A co-founder confirmed closure to Lianhe Zaobao and discussed shifting from hardware toward AI. A new company and some staff transfers were still under discussion. The affected workforce count and support arrangements for installed robots remain unclear."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://vcdn1-english.vnecdn.net/2026/10/23/KABAM-Robot-Security-robot-dep-4602-2132-1792726369.png?w=680&h=0&q=100&dpr=2&fit=crop&s=1snhfJpez-loBe4b5i3bng",
+        "alt": "Kabam robots with Marina Bay in the background",
+        "caption": "Kabam robots with Marina Bay in the background · Image: Kabam Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "warp-sciences-wetlab-215m-launch-2026": {
+    "title": "Warp Sciences launches with $215M to automate wet labs",
+    "summary": "Kevin Weil’s startup plans to train robots through chemists wearing cameras and sensor gloves; operational results remain undisclosed.",
+    "sections": [
+      {
+        "heading": "A new venture for Kevin Weil",
+        "paragraphs": [
+          "Former OpenAI science lead Kevin Weil has announced Warp Sciences. TechCrunch reports $215 million raised at an $865 million valuation, citing his announcement. Lightspeed led, joined by IVP, Mayfield, Lux, Premji and Menlo."
+        ]
+      },
+      {
+        "heading": "Teaching physical laboratory work",
+        "paragraphs": [
+          "Chemists wearing cameras and sensor gloves would train robots to synthesize and test compounds selected by researchers. The focus is physical wet-lab work supporting drug discovery rather than generating text-only research suggestions."
+        ]
+      },
+      {
+        "heading": "Targets still need operational proof",
+        "paragraphs": [
+          "Warp aims for continuous operation and domestic synthesis capacity that reduces reliance on overseas contractors. The report gives no daily throughput, accuracy figures or service-launch date, so faster drug development remains an objective rather than a demonstrated outcome."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg",
+        "alt": "Illustrative laboratory photograph, not a verified image of Warp’s system",
+        "caption": "Illustrative laboratory photograph, not a verified image of Warp’s system · Image: Amy / Flickr via TechCrunch"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/kevinweil/status/2113294657673466060",
+        "title": "Kevin Weil’s Warp Sciences announcement",
+        "note": "Open the post and its media directly on X; this website does not embed an X player."
+      }
+    ]
+  },
+  "fort-20m-additional-financing-pipe-2026": {
+    "title": "FORT announces about $20M in additional funding commitments",
+    "summary": "The financing includes a merger-linked PIPE commitment; the planned public listing has not yet completed.",
+    "sections": [
+      {
+        "heading": "Two financing components",
+        "paragraphs": [
+          "FORT announced about $20 million in commitments on October 22: roughly $10 million led by Tiger Global with Mark Cuban Companies, expected to close that week, and another $10 million Tiger PIPE commitment tied to the Newbury Street II merger."
+        ]
+      },
+      {
+        "heading": "Resources for deployment",
+        "paragraphs": [
+          "FORT plans to expand staffing and operating capacity. It reports over 19,500 safety-system units across more than 600 customers; these are company figures, not new robots manufactured with this financing."
+        ]
+      },
+      {
+        "heading": "Listing remains conditional",
+        "paragraphs": [
+          "The expected Nasdaq symbol FROB depends on merger completion and approvals. This financing development is separate from the previously covered connectivity-software launch and does not confirm a completed public listing."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "maxinsights-30m-seed-maxloop-maxglove-2026": {
+    "title": "Maxinsights raises $30M and introduces MaxLoop and MaxGlove",
+    "summary": "It reports 1.5 million model-ready hours from over 2 million captured hours; its million-hour force-data goal is for 2027.",
+    "sections": [
+      {
+        "heading": "Capturing everyday work",
+        "paragraphs": [
+          "Maxinsights announced a $30 million seed round led by Peak XV on October 22. It pays over 5,000 collectors to record real tasks such as cooking and cleaning, reporting more than 2 million captured hours, including 1.5 million model-ready hours. These are company figures."
+        ]
+      },
+      {
+        "heading": "Quality checks and contact data",
+        "paragraphs": [
+          "MaxLoop scores incoming recordings and feeds guidance back to collectors. MaxGlove, developed with Genesis AI, captures touch and force, including grip and object-weight information that video alone cannot reveal."
+        ]
+      },
+      {
+        "heading": "Separating inventory from targets",
+        "paragraphs": [
+          "One million hours of force data in 2027 is a target, not delivered inventory. Data volume does not establish better robot success rates. This report uses the accessible Business Wire syndication on MarketMinute; the direct Business Wire page could not be inspected during this run."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.businesswire.com/news/home/20261022672609/en/",
+        "title": "Unavailable original Business Wire page",
+        "note": "The syndicated text was accessible, but the direct Business Wire page was not. Additional media there could not be confirmed; this is a source reference, not a video."
+      }
+    ]
   }
 }
