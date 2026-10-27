@@ -6966,5 +6966,351 @@
         "note": "The syndicated text was accessible, but the direct Business Wire page was not. Additional media there could not be confirmed; this is a source reference, not a video."
       }
     ]
+  },
+  "gxo-agility-statesville-lebanon-expansion-2026": {
+    "title": "GXO expands Digit agreement to two more US sites for early 2027",
+    "summary": "The expansion covers Statesville and Lebanon, beginning with Digit 4 and moving to Digit 5 when commercially available.",
+    "sections": [
+      {
+        "heading": "Two additional fulfillment sites",
+        "paragraphs": [
+          "GXO and Agility announced an expanded agreement on October 26 for repetitive material handling at e-commerce sites in Statesville, North Carolina, and Lebanon, Tennessee. Deployments are expected in early 2027; these are planned additions, not sites already operating Digit."
+        ]
+      },
+      {
+        "heading": "Building on the existing service",
+        "paragraphs": [
+          "The Flowery Branch, Georgia, operation began a Robots-as-a-Service agreement in 2024, combining tote-to-conveyor work with Agility Arc fleet integration. The companies report over 100,000 totes moved there cumulatively. That is historical output at the existing site, not throughput or results from the new locations."
+        ]
+      },
+      {
+        "heading": "A staged hardware transition",
+        "paragraphs": [
+          "The new sites will begin with Digit 4 and migrate to Digit 5 when it becomes commercially available. Robot counts, contract value and payback are undisclosed. Expansion by an existing customer signals adoption, while operators still need to assess safety and economics for their own workflows."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6adec09733608046a13bde69_Press-Release_251026_01.png",
+        "alt": "Artwork accompanying the Agility–GXO agreement",
+        "caption": "Artwork accompanying the Agility–GXO agreement · Image: Agility Robotics / GXO"
+      }
+    ],
+    "videos": []
+  },
+  "bedrock-600m-series-c-construction-expansion-2026": {
+    "title": "Bedrock raises $600M to expand autonomous excavators on construction sites",
+    "summary": "CapitalG and Emergence lead the Series C as Bedrock expands field support and contractor deployments after beginning paid autonomous work.",
+    "sections": [
+      {
+        "heading": "Capital for deployment capacity",
+        "paragraphs": [
+          "Bedrock Robotics announced a $600 million Series C at a $4.1 billion post-money valuation, co-led by CapitalG and Emergence Capital. Total financing is now nearly $1 billion. The company plans to expand deployed equipment and contractor support, including the field organization needed beyond research."
+        ]
+      },
+      {
+        "heading": "Retrofitting existing equipment",
+        "paragraphs": [
+          "Bedrock develops autonomy retrofits for heavy equipment, starting with excavators. It says fully autonomous paid work on live sites began in mid-August 2026. New partner Haydon is deploying the technology in Texas, while additional customers extend its footprint into states including Minnesota and Florida."
+        ]
+      },
+      {
+        "heading": "Further applications remain trials",
+        "paragraphs": [
+          "Haydon plans to test trench work and larger machine models; the announcement does not establish autonomous readiness for every proposed task. Funding also supports field, commercial and operating teams. Independently verified hourly costs, accident rates and productivity comparisons with human operation are not supplied."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "robotis-pollen-750000-xl330-supply-contract-2026": {
+    "title": "ROBOTIS signs deal for roughly 750,000 MicroDuck actuators",
+    "summary": "The Pollen Robotics agreement covers XL330 joint actuators, with additional manufacturing capacity planned in Uzbekistan.",
+    "sections": [
+      {
+        "heading": "A component supply agreement",
+        "paragraphs": [
+          "ROBOTIS and Pollen Robotics signed on October 26 for approximately 750,000 XL330 actuators for MicroDuck. Each robot uses 15 actuators, and Pollen reports current demand for 50,000 robots. Contracted components should not be confused with completed robot deliveries."
+        ]
+      },
+      {
+        "heading": "Manufacturing capacity matters",
+        "paragraphs": [
+          "ROBOTIS reportedly runs its Magok facility at full capacity of about 500,000 actuators annually. The contract therefore represents 1.5 times that annual capacity. A plant under construction in Uzbekistan is planned for completion this year and operation next year."
+        ]
+      },
+      {
+        "heading": "Forecasts versus contracted volume",
+        "paragraphs": [
+          "ROBOTIS expects contract revenue from 2027. Pollen separately forecasts demand for at least one million actuators next year, beyond the roughly 750,000 contracted units. The story highlights small-joint supply constraints, while contract value and individual shipment schedules remain undisclosed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://biz.chosun.com/resizer/v2/P5N4TJ2ZUJEFZHBJJISXBZQRSU.jpg?auth=70619dc67fc5bda390da65d38edc93d73c347637a257e0d2377ea54d7fcc73ff&width=1280",
+        "alt": "ROBOTIS and Pollen Robotics signing the supply agreement",
+        "caption": "ROBOTIS and Pollen Robotics signing the supply agreement · Image: Kim Soo-a / ChosunBiz"
+      },
+      {
+        "url": "https://biz.chosun.com/resizer/v2/6M46ASTJVNFZVAXUFF6GWAVNII.gif?auth=2d078cb131aaaf2f17a03235a2944e3093a779bcab60acff36e5298fea0087fe&width=400&height=225&smart=true",
+        "alt": "Animated MicroDuck demonstration at ROBOTIS",
+        "caption": "Animated MicroDuck demonstration at ROBOTIS · Image: Kim Soo-a / ChosunBiz"
+      }
+    ],
+    "videos": []
+  },
+  "agibot-g2-max-heavy-load-launch-2026": {
+    "title": "AGIBOT launches G2 Max with a 40 kg rated dual-arm payload",
+    "summary": "The robot combines picking, transport and placement, with reported warehouse results and component feeding on a Qiyuan T1 assembly line.",
+    "sections": [
+      {
+        "heading": "Rated and peak loads differ",
+        "paragraphs": [
+          "Launched on October 26, G2 Max is rated for 20 kg per arm or 40 kg across both arms; 50 kg is a peak figure. AGIBOT specifies arm repeatability within ±0.5 mm. This is not a guarantee of end-to-end task accuracy after perception and mobile-base errors."
+        ]
+      },
+      {
+        "heading": "Results in a specified warehouse setting",
+        "paragraphs": [
+          "The system combines force-controlled arms and vision for differently shaped materials. In the cited e-commerce warehouse setting, AGIBOT reports 80 boxes per hour depalletizing, 75 palletizing and over 99% task success. Those figures describe that setting, not every warehouse."
+        ]
+      },
+      {
+        "heading": "Feeding production across shifts",
+        "paragraphs": [
+          "AGIBOT also describes joint-component transport on Huguang’s Qiyuan T1 line. Dual hot-swappable batteries, autonomous recharging and Genie Studio 2.0 support sustained work. Safety hardware includes lidar, ultrasound, contact edges and emergency stops; comprehensive certification results, pricing and customer delivery schedules are not specified."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://pic2.pedaily.cn/26/202610/202610261551238814.png",
+        "alt": "G2 Max promotional artwork",
+        "caption": "G2 Max promotional artwork · Image: AGIBOT / PEdaily · Embedded image loading was rejected during browser testing; use the original image link."
+      },
+      {
+        "url": "https://pic2.pedaily.cn/26/202610/202610261551238761.png",
+        "alt": "G2 Max lifting two boxes in a warehouse",
+        "caption": "G2 Max lifting two boxes in a warehouse · Image: AGIBOT / PEdaily · Embedded image loading was rejected during browser testing; use the original image link."
+      },
+      {
+        "url": "https://pic2.pedaily.cn/26/202610/202610261551247771.png",
+        "alt": "G2 Max handling a component tote",
+        "caption": "G2 Max handling a component tote · Image: AGIBOT / PEdaily · Embedded image loading was rejected during browser testing; use the original image link."
+      }
+    ],
+    "videos": []
+  },
+  "ntt-telwel-cleaning-quality-service-partnership-2026": {
+    "title": "NTT and Telwel plan sensor-based cleaning quality service",
+    "summary": "Targeting April 2027, the service would use cleanliness and building-use data to support outcome-based contracts.",
+    "sections": [
+      {
+        "heading": "Measuring cleaning outcomes",
+        "paragraphs": [
+          "Telwel West Japan and NTT DOCOMO BUSINESS have begun developing a cleaning quality-assurance service targeting April 2027. Shared measures would let customers and providers define service-level agreements around cleanliness outcomes rather than only staffing and cleaning frequency."
+        ]
+      },
+      {
+        "heading": "Combining several measurements",
+        "paragraphs": [
+          "The plan combines ATP, odor, color-difference and gloss measurements with restroom-use and bin-fill sensors. Image-based dirt recognition is also under development and consideration. A dashboard would flag locations below SLA targets and provide evidence for reports and improvement decisions."
+        ]
+      },
+      {
+        "heading": "People and robots have complementary roles",
+        "paragraphs": [
+          "Telwel will design evaluation, SLA terms and operating processes; NTT will connect sensors and develop analytics, AI and robot-assisted management. The partners intend to combine human and robotic cleaning and later extend to building operations. Quantified savings and general service availability are not yet demonstrated."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/press-releases/img/2026/1026a.png",
+        "alt": "Concept for outcome-based procurement of cleaning services",
+        "caption": "Concept for outcome-based procurement of cleaning services · Image: Telwel West Japan / NTT DOCOMO BUSINESS · Direct image retrieval returned HTTP 403; use the original image link to view it."
+      },
+      {
+        "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/press-releases/img/2026/1026b.png",
+        "alt": "Examples of devices collecting cleaning quality data",
+        "caption": "Examples of devices collecting cleaning quality data · Image: Telwel West Japan / NTT DOCOMO BUSINESS · Direct image retrieval returned HTTP 403; use the original image link to view it."
+      },
+      {
+        "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/press-releases/img/2026/1026c.png",
+        "alt": "Illustrative cleaning-quality dashboard",
+        "caption": "Illustrative cleaning-quality dashboard · Image: Telwel West Japan / NTT DOCOMO BUSINESS · Direct image retrieval returned HTTP 403; use the original image link to view it."
+      }
+    ],
+    "videos": []
+  },
+  "realbotix-echo-reservations-pricing-launch-2026": {
+    "title": "Realbotix opens Echo reservations with pricing and a 250-unit first run",
+    "summary": "Tabletop costs $11,950 and Full Body $59,950, with a required monthly subscription; the $199 reservation is not the robot price.",
+    "sections": [
+      {
+        "heading": "Reservations, prices and production plans",
+        "paragraphs": [
+          "Realbotix launched Echo for conversation, education and wellness applications. The first run is planned as 225 Tabletop and 25 Full Body units, for delivery in the second half of 2027. Prices are $11,950 and $59,950 respectively; the $199 reservation deposit is not the purchase price."
+        ]
+      },
+      {
+        "heading": "Motion and continuing service costs",
+        "paragraphs": [
+          "Tabletop has 17 degrees of freedom and Full Body 39. Realbotix describes silicone skin, expressive faces and support for over 100 languages. Operation and management require an app subscription starting at $19.99 per month. Vinci adds optional on-device vision and AI."
+        ]
+      },
+      {
+        "heading": "Claims, privacy and remaining milestones",
+        "paragraphs": [
+          "The release proposes social and wellness applications without clinical outcome evidence. Local processing is an option, but necessary content may go to external providers when cloud AI or speech features are used. Delivery timing and future features remain company plans rather than evidence of immediate availability."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "noitom-prea-plusplusplus-huirong-funding-2026": {
+    "title": "Noitom secures Huirong-backed Pre-A+++ round for robot training data",
+    "summary": "The company combines motion capture, dexterous-operation data and egocentric observations for different robot embodiments.",
+    "sections": [
+      {
+        "heading": "A new data-services financing round",
+        "paragraphs": [
+          "Noitom Robotics has completed a Pre-A+++ round solely backed by Huirong Fund, according to the October 26 report. Founded in Beijing in 2012, it supplies data and infrastructure to robot builders, model teams and researchers. Financing size and valuation are undisclosed."
+        ]
+      },
+      {
+        "heading": "Three complementary collection systems",
+        "paragraphs": [
+          "MOV covers large-space interaction, OM focuses on dexterous operation, and ITW+ captures multimodal egocentric observations in real environments. Together these address movement and object interaction rather than relying on a single visual data type."
+        ]
+      },
+      {
+        "heading": "Downstream performance remains unquantified",
+        "paragraphs": [
+          "Noitom describes processing, annotation, quality checks and cross-embodiment mapping, with plans to broaden tasks and scenes. The report gives no new dataset volume, service price or measured improvement in model success. This is financing and service-development news, not a robot performance benchmark."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "mosense-angel-plus-tactile-financing-2026": {
+    "title": "MoSense raises RMB100-million-scale angel+ funding for robot touch",
+    "summary": "MoSkin, MoTact and MoWorld connect tactile structures, signal interpretation and decisions during physical contact.",
+    "sections": [
+      {
+        "heading": "Financing a complete touch stack",
+        "paragraphs": [
+          "Shanghai-based MoSense, founded in May 2026, has raised angel+ financing described as RMB100-million-scale, co-led by CDH Investments and Oasis Capital. Participants include LimX Dynamics. The exact amount is undisclosed. Its approach spans electronic skin through action models."
+        ]
+      },
+      {
+        "heading": "Turning contact into useful signals",
+        "paragraphs": [
+          "MoSkin uses deformable lattice structures to distribute loads. MoTact interprets multi-axis magnetic signals as force, displacement, slip and material information. The company describes 3D forming for curved surfaces and calibration methods intended to reduce integration work."
+        ]
+      },
+      {
+        "heading": "Tactile action models are still developing",
+        "paragraphs": [
+          "MoWorld aims to combine touch with other modalities to revise actions during contact and narrow the simulation-to-reality gap. The report mentions robot-manufacturer collaborations without naming customers or providing independent benchmarks. Technical descriptions therefore do not establish factory durability or accuracy."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "cybopal-tcl-shenzhen-strategic-financing-2026": {
+    "title": "CyboPal gains TCL and Shenzhen Capital backing for desktop robot interfaces",
+    "summary": "The company targets interaction with PC-based agents and reports over 1,000 presold units, distinct from deliveries.",
+    "sections": [
+      {
+        "heading": "Strategic backing for interaction hardware",
+        "paragraphs": [
+          "CyboPal announced strategic financing from TCL Industrial and Shenzhen Capital Group without disclosing its size. It aims to connect users, PCs and AI agents through tools for issuing goals, revising instructions and reviewing results. Potential supply-chain and channel benefits are not confirmed sales."
+        ]
+      },
+      {
+        "heading": "Two different device formats",
+        "paragraphs": [
+          "CyboPal ONE is a desktop robot connected to users’ computers and existing workflows. WhisPrompt is a voice, button and dial-based device for laptops and mobile work. They share an interaction approach, but WhisPrompt is not described as a walking or object-manipulating robot."
+        ]
+      },
+      {
+        "heading": "Presales are not deliveries",
+        "paragraphs": [
+          "CyboPal reports over 1,000 units presold across channels in the past month, worth over RMB10 million. Next steps include CyboPal deliveries, WhisPrompt sales and improvements from real use. Command-accuracy benchmarks and firm delivery dates are absent, leaving post-delivery performance to be established."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "deep-robotics-brain-five-research-architecture-2026": {
+    "title": "DEEP Robotics outlines Brain architecture across five research areas",
+    "summary": "The announcement brings together contact-aware prediction, video learning, policy improvement, revisable memory and real-robot evaluation.",
+    "sections": [
+      {
+        "heading": "Connecting complementary research",
+        "paragraphs": [
+          "DEEP Robotics outlined DEEPRobotics-Brain on October 24, linking world modeling, navigation and manipulation, policy improvement, memory and evaluation. The announcement explains how these components fit together; it does not imply that every underlying study originated or first appeared that day."
+        ]
+      },
+      {
+        "heading": "Physical prediction and motion learning",
+        "paragraphs": [
+          "DR-WM-1.0 incorporates geometry and surface properties such as friction rather than relying only on plausible-looking video. DR-VLA combines human egocentric video with robot demonstrations through EgoLynx. AMC represents arm motion with 13 primitives to connect language, direction and force feedback."
+        ]
+      },
+      {
+        "heading": "Simulation and physical results differ",
+        "paragraphs": [
+          "DR-APO reports navigation success rising from 70.33% to 89.55% in simulation and from 25% to 65% on physical LYNX M20 tests under research conditions. These are separate evaluations. DR-Agent meanwhile uses time-indexed object memory and replans as environments change."
+        ]
+      },
+      {
+        "heading": "Benchmarks do not certify deployment",
+        "paragraphs": [
+          "DR-Benchmark uses LynxScenes, described as 833.6 hours and 3,294.7 kilometers of real operation, for perception, trajectory prediction, future scenes and reconstruction. The reported studies provide research evidence, not certification that an integrated system works everywhere or that a new commercial product is shipping."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/d9904360-3a8b-4d37-9a4c-617f11d853e2/dr-wm.jpg",
+        "alt": "DR-WM workflow and motion outcomes under different contact conditions",
+        "caption": "DR-WM workflow and motion outcomes under different contact conditions · Image: DEEP Robotics"
+      },
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/1c879e9e-e245-4fa4-8edc-bd16f32aa8fe/dr-vla-overview.jpg",
+        "alt": "DR-VLA learning from human videos and robot demonstrations",
+        "caption": "DR-VLA learning from human videos and robot demonstrations · Image: DEEP Robotics"
+      },
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/58acf734-f667-40ed-b8dc-79ae827b4276/deep-robotics.jpg",
+        "alt": "Opposite motion-atom responses in AMC",
+        "caption": "Opposite motion-atom responses in AMC · Image: DEEP Robotics"
+      },
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/a633fd25-bbf8-427e-b0a4-b88bd249222a/dr-apo.jpg",
+        "alt": "Policy improvement and action fitting in DR-APO",
+        "caption": "Policy improvement and action fitting in DR-APO · Image: DEEP Robotics"
+      },
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/a2325259-2967-45dc-a9c5-91eccb5ddd21/evoworld.jpg",
+        "alt": "Predictive belief and navigation framework for DR-Agent",
+        "caption": "Predictive belief and navigation framework for DR-Agent · Image: DEEP Robotics"
+      },
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/c4e24e92-21af-4333-83a6-45e6d4a0a231/lynx-scenes.jpg",
+        "alt": "LynxScenes data collection and evaluation tasks",
+        "caption": "LynxScenes data collection and evaluation tasks · Image: DEEP Robotics"
+      }
+    ],
+    "videos": []
   }
 }

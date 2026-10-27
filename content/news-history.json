@@ -15332,6 +15332,733 @@
           }
         ]
       }
+    },
+    {
+      "id": "gxo-agility-statesville-lebanon-expansion-2026",
+      "storyKey": "gxo-agility-statesville-lebanon-expansion-2026",
+      "originalTitle": "GXO and Agility Robotics Expand Partnership to Accelerate Deployment of Humanoids in U.S. Operations | Agility",
+      "urls": [
+        "https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations"
+      ],
+      "references": [
+        "https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations"
+      ],
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "ข้อตกลงใหม่ครอบคลุม Statesville และ Lebanon เริ่มด้วย Digit 4 ก่อนเปลี่ยนเป็น Digit 5 เมื่อพร้อมจำหน่าย",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fbd90e0d765ae6afc3_Solutions.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fb4a03cba1e814f948_Company.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fb24ac5a67c54e036f_Resources.avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6adec09733608046a13bde69_Press-Release_251026_01-p-500.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6adec09733608046a13bde69_Press-Release_251026_01-p-800.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6adec09733608046a13bde69_Press-Release_251026_01-p-1080.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6adec09733608046a13bde69_Press-Release_251026_01-p-1600.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-500.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-800.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-1080.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-1600.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-2000.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-2600.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826-p-3200.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ade9171cb09ded84e3a9d69_261023_Agility-GXO-Digit_1280x960-revised%20copy.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ade9171cb09ded84e3a9d69_261023_Agility-GXO-Digit_1280x960-revised%20copy-p-500.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ade9171cb09ded84e3a9d69_261023_Agility-GXO-Digit_1280x960-revised%20copy-p-800.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ade9171cb09ded84e3a9d69_261023_Agility-GXO-Digit_1280x960-revised%20copy-p-1080.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-500.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-800.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-1080.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-1600.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-2000.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-2600.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image-p-3200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7e2a7117acf1c722c41ff_Agility%20Pittsburg%20Skyline.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7e2a7117acf1c722c41ff_Agility%20Pittsburg%20Skyline-p-500.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7e2a7117acf1c722c41ff_Agility%20Pittsburg%20Skyline-p-800.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7e2a7117acf1c722c41ff_Agility%20Pittsburg%20Skyline-p-1080.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7e2a7117acf1c722c41ff_Agility%20Pittsburg%20Skyline-p-1600.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://px.ads.linkedin.com/collect/?pid=9560156&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bedrock-600m-series-c-construction-expansion-2026",
+      "storyKey": "bedrock-600m-series-c-construction-expansion-2026",
+      "originalTitle": "Bedrock Robotics Raises $600 Million Series C to Scale Autonomous Construction Equipment Across U.S. Sites Intrado",
+      "urls": [
+        "https://pr.hopedaletownnews.com/article/Bedrock-Robotics-Raises-dollar600-Million-Series-C-to-Scale-Autonomous-Construction-Equipment-Across-US-Sites/6adf57e0dba4ed9cc76d9921"
+      ],
+      "references": [
+        "https://pr.hopedaletownnews.com/article/Bedrock-Robotics-Raises-dollar600-Million-Series-C-to-Scale-Autonomous-Construction-Equipment-Across-US-Sites/6adf57e0dba4ed9cc76d9921"
+      ],
+      "publishedAt": "2026-10-26T13:35:00Z",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "CapitalG และ Emergence นำ Series C บริษัทเตรียมขยายงานภาคสนามและฐานผู้รับเหมา หลังเริ่มงานรับเงินจริง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/newsroom/ti?nf=OTg1Mjk5NiM3OTE1MDE4IzIzMjQwODU=",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/NjJlNDdhNTItMmJjZi00ODAwLWIxNjAtNTA1MzQxYTY0MzM2LTEzMzU2MzUtMjAyNi0xMC0yNi1lbg==/tiny/Bedrock-Robotics.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/7f6c8d68-122e-4c24-982b-7d7fb506d7ff/small/bedrock-full-logo-color-dark-png.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn2.locable.com/uploads/logo_image/file/728/Hopedale_news_logo-localtownpage.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robotis-pollen-750000-xl330-supply-contract-2026",
+      "storyKey": "robotis-pollen-750000-xl330-supply-contract-2026",
+      "originalTitle": "Robotis secures MicroDuck actuator deal as Korea gears for surging demand - CHOSUNBIZ",
+      "urls": [
+        "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/?outputType=amp"
+      ],
+      "references": [
+        "https://biz.chosun.com/en/en-industry/2026/10/26/D5ARVCUOWVCOLN4XIOKXT4TKXY/?outputType=amp"
+      ],
+      "publishedAt": "2026-10-26T02:13:01.903Z",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "สัญญากับ Pollen Robotics เน้น XL330 สำหรับข้อต่อหุ่นยนต์ขนาดเล็ก พร้อมเตรียมกำลังผลิตเพิ่มเติมในอุซเบกิสถาน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://biz.chosun.com/resizer/v2/P5N4TJ2ZUJEFZHBJJISXBZQRSU.jpg?auth=70619dc67fc5bda390da65d38edc93d73c347637a257e0d2377ea54d7fcc73ff&width=216",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/P5N4TJ2ZUJEFZHBJJISXBZQRSU.jpg?auth=70619dc67fc5bda390da65d38edc93d73c347637a257e0d2377ea54d7fcc73ff&width=464",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/P5N4TJ2ZUJEFZHBJJISXBZQRSU.jpg?auth=70619dc67fc5bda390da65d38edc93d73c347637a257e0d2377ea54d7fcc73ff&width=616",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/6M46ASTJVNFZVAXUFF6GWAVNII.gif?auth=2d078cb131aaaf2f17a03235a2944e3093a779bcab60acff36e5298fea0087fe&width=216",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/63HEULLH2ZBVPMWHDFTKCS4YMI.jpg?auth=ffb36e143eb02304e5183ece1942900f67c9de4ff7b58330b84093058311a794&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/MH545RKNMNDQ3IPGYX6IQVBFFQ.png?auth=ed74119c999c31a130af42e10b3133e1e48a35692832d08c744917d687936bf9&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GM2TMZJTMZRGIZRVMRRTKMRYGA.jpg?auth=6f11ac190df9de564a2de78f968b7b559c17c17ade6179deb8723dc65cd191d3&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/YRZAP3R622OOPEOA7C3MXVXIRI.jpg?auth=de455a6d354a1045049b9852e13425afe192f92a5e7da04fbb004b44a5bf7bbb&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/MMYDCODEHE2GGNZYGQ4DIYJRG4.jpg?auth=c0b9a76bd9bad99841e330d602e460924d765623d0d7d7cf665074f0288d5429&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/MQ3GEZJQGUYDQMJWG5QWKOJQGA.jpg?auth=134c0cc9931499285063c9218f916881f99721aa32778185e66848acc82c7e5b&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GZQTGOJTMYYWMNTEMM4DEYZXHA.jpg?auth=3475ae4dee2dc5c6b4d051ba70f9b73b1a664db8285c8c02d530f796601cec56&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/MMYTOZDGGE3GIY3BMJQWKZTGG4.jpg?auth=a3763f720c350cffa4f13b183a52485d431ef969b03640a28d1f582f51689c31&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/XFJTO577SREJ7D7PFWJBQB6DO4.png?auth=748d9a5bf6b0488259ee736e536df2c301d50605cd341b8873ce7d5b75bbcff9&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/G5RDGNLBGU2WEMZWMYZTMOLGME.jpg?auth=91eb4f8da023b506338d0b2fb3b5eb6c06afed96c27bdb489eea1349f93bf69a&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GIZGMZDDGEZGGN3FMYZDSMJVMI.jpg?auth=6cd5d69bc5f5566fac1643238dafd2d67e4f7b13e02d77a25ac4b2b0e8da7128&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GVRDAODCGBSDQNJXMYYTSMZQMU.jpg?auth=d17412ea2e00c46090c9f2e4d5045c991cfc965f986ed1eee7be27ead0536b88&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/SA6P6HHUCLHAOSFSO257RTKACM.png?auth=ab45f363f53275e9f55dfddb08c08674be531800915cd625c4580bee6301f0dc&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GY2DGYJVMY2DINRRGBSTKMJTMI.jpg?auth=8eb2e3c635efcf3200d8f181359241316a7c48f994355da8718eddaa462b0dac&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/HBRTCMJTHBTGINTBGBRTOMRVMI.jpg?auth=28cb8cee065adfcaed86eae7ceb17aa8362afdd89a3c55b7482c7660d7420994&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/HBRTONZWMQYGIMRXMYZWGYJTHE.jpg?auth=34d790652d32d34ded16ad06bfc253cafc1c5098af5391c1575915f1cbafc6bd&width=400&height=400&smart=true",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://biz.chosun.com/resizer/v2/MY3GEYRUHAYWEMJSHA2GCNJTMM.jpg?auth=6d8bd79a216722c550aff67c9efc8a02874baec3b3dafb86b0d0643b69b87c65&width=400&height=400&smart=true",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agibot-g2-max-heavy-load-launch-2026",
+      "storyKey": "agibot-g2-max-heavy-load-launch-2026",
+      "originalTitle": "智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得_投资界",
+      "urls": [
+        "https://news.pedaily.cn/202610/570870.shtml"
+      ],
+      "references": [
+        "https://news.pedaily.cn/202610/570870.shtml"
+      ],
+      "publishedAt": "2026-10-26T15:51:00+08:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "หุ่นยนต์รวมการหยิบ ขน และวางชิ้นงาน พร้อมรายงานผลคลังสินค้าและการป้อนชิ้นส่วนในสายประกอบ Qiyuan T1",
+      "score": 18,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://pic2.pedaily.cn/22/202212/2022122910060433433.png",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/21/202111/20211117@499313.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntt-telwel-cleaning-quality-service-partnership-2026",
+      "storyKey": "ntt-telwel-cleaning-quality-service-partnership-2026",
+      "originalTitle": "ニュース 2026年10月26日:テルウェル西日本とNTTドコモビジネス、「センシング×AI×ロボティクスによる清掃品質保証サービス(仮称)」の提供に向けた協業を開始｜NTTドコモビジネス 企業情報",
+      "urls": [
+        "https://www.ntt.com/about-us/press-releases/news/article/2026/1026.html"
+      ],
+      "references": [
+        "https://www.ntt.com/about-us/press-releases/news/article/2026/1026.html"
+      ],
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "ตั้งเป้าเมษายน 2027 ใช้ข้อมูลความสะอาดและการใช้อาคารกำหนดบริการตามผลลัพธ์ แทนการนับจำนวนรอบงานอย่างเดียว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/download.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/btn_facebook_s.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/btn_twitter_s.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/press-releases/img/2026/1026.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/about-us/press-releases/img/logo/nttdocomobusiness-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/logo_ntt-docomo-business_jp.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-open_hub.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-regional-effort.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-aicentricictpf.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/ico_external.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-rink-v2.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-dbp.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner_lp-business-smartphone.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-seminar.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-smb-dbw_v2.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-smb-smb.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-nttxstore-shop.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/lp-smb-cushara.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-lp-nttdocomobusiness.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-evangelist.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/header-banner/banner-docomobusiness-cx.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/header/txt_business_d_account.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/index/img/2026/cmn/ico_earth.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/footer/logo_x.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/footer/logo_facebook.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/footer/logo_instagram.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.ntt.com/content/dam/nttcom/cmn/img/2026/footer/logo_youtube.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "realbotix-echo-reservations-pricing-launch-2026",
+      "storyKey": "realbotix-echo-reservations-pricing-launch-2026",
+      "originalTitle": "Realbotix Corp",
+      "urls": [
+        "https://realbotix.ai/news/realbotix-launches-echo-humanoid-robot-line"
+      ],
+      "references": [
+        "https://realbotix.ai/news/realbotix-launches-echo-humanoid-robot-line",
+        "https://cdn.prod.website-files.com/66607b8e2bcc809d7b9d283e/6adbb89a5c6ea6dd33d2966a_Echo%20Gen%201%20Robot%20PR%202026%2006%2019.pdf"
+      ],
+      "publishedAt": "2026-10-26T00:00:00-07:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "รุ่นตั้งโต๊ะเริ่ม 11,950 ดอลลาร์ รุ่นเต็มตัว 59,950 ดอลลาร์ ต้องมีค่าสมาชิกรายเดือน และเงินจอง 199 ดอลลาร์ไม่ใช่ราคาหุ่นยนต์",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-500.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-800.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-1080.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-1600.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-2000.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-2600.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efaa1aecc29b3560974_Logo%20Only%20-%20White-p-3200.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d90e5c47d7d2b7a56cf_Vector.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-500.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-800.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-1080.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-1600.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-2000.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-2600.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/67641efadeef7bb709eabdb4_Logo%20Only%20-%20Blue%20%26%20Black-p-3200.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d9c7c52add4f8ddce3c_Vector.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d9c7c52add4f8ddce38_linkedin-fill.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d9c7c52add4f8ddce21_youtube-fill.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d9c7c52add4f8ddce09_facebook-fill.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/66607d9c7c52add4f8ddcdf3_instagram-line.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/6762ce33ce983fa0da4d9a83_Vector%20(6).svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6655b1a239c70c0be4c6e48d/6762cdef37d37e03df244fcc_Logo.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "noitom-prea-plusplusplus-huirong-funding-2026",
+      "storyKey": "noitom-prea-plusplusplus-huirong-funding-2026",
+      "originalTitle": "诺亦腾机器人完成Pre-A+++轮融资，专注于PhysicalAI全模态数据服务_投资界",
+      "urls": [
+        "https://news.pedaily.cn/202610/570868.shtml"
+      ],
+      "references": [
+        "https://news.pedaily.cn/202610/570868.shtml"
+      ],
+      "publishedAt": "2026-10-26T15:49:00+08:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "บริษัทใช้ข้อมูลจับการเคลื่อนไหว งานมือ และภาพมุมมองผู้สวม เพื่อรองรับโมเดลและตัวหุ่นยนต์หลายแบบ",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://pic2.pedaily.cn/zerocity/202610/20261012153332777.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/22/202212/20221229120676037603.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/21/202111/20211117@499313.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202610/20261026143616611661.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202610/20261026@1184421.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202610/20261025112098489848.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202610/20261023@1183957.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202603/20260313@1137289.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pic2.pedaily.cn/26/202604/20260402153930563056.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mosense-angel-plus-tactile-financing-2026",
+      "storyKey": "mosense-angel-plus-tactile-financing-2026",
+      "originalTitle": "模感科技完成亿元级天使+轮融资，提供覆盖硬件、算法与模型的全栈方案_投资界",
+      "urls": [
+        "https://news.pedaily.cn/202610/570873.shtml"
+      ],
+      "references": [
+        "https://news.pedaily.cn/202610/570873.shtml"
+      ],
+      "publishedAt": "2026-10-26T17:46:00+08:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "แนวทางรวม MoSkin, MoTact และ MoWorld เชื่อมโครงสร้างผิว การแปลสัญญาณ และการตัดสินใจขณะสัมผัส",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": []
+      }
+    },
+    {
+      "id": "cybopal-tcl-shenzhen-strategic-financing-2026",
+      "storyKey": "cybopal-tcl-shenzhen-strategic-financing-2026",
+      "originalTitle": "细胞壁科技CyboPal完成新一轮融资，探索Personal Agent的通用交互系统_投资界",
+      "urls": [
+        "https://news.pedaily.cn/202610/570864.shtml"
+      ],
+      "references": [
+        "https://news.pedaily.cn/202610/570864.shtml"
+      ],
+      "publishedAt": "2026-10-26T14:55:00+08:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "บริษัทเน้นการสั่งงานและตรวจผล AI บนคอมพิวเตอร์ พร้อมรายงานยอดจองกว่า 1,000 ตัว ซึ่งยังไม่ใช่ยอดส่งมอบ",
+      "score": 13,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": []
+      }
+    },
+    {
+      "id": "deep-robotics-brain-five-research-architecture-2026",
+      "storyKey": "deep-robotics-brain-five-research-architecture-2026",
+      "originalTitle": "DEEP Robotics Unveils Five Research Advances in Embodied",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/10/24/3387678/0/en/deep-robotics-unveils-five-research-advances-in-embodied-ai.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/10/24/3387678/0/en/deep-robotics-unveils-five-research-advances-in-embodied-ai.html"
+      ],
+      "publishedAt": "2026-10-24T08:20:00-04:00",
+      "addedAt": "2026-10-27T02:29:12.493Z",
+      "runId": "2026-10-27",
+      "reason": "ประกาศรวมงานทำนายแรงสัมผัส เรียนจากวิดีโอ ปรับนโยบาย และอัปเดตความจำ พร้อมชุดประเมินข้อมูลหุ่นยนต์จริง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 6,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/15ede06b-6405-47d8-9a17-a879604c36da?size=3",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/NTg0OTk4MGQtOGVkNy00NmYzLWI4MmUtMGEyMmJhZGNlNzM4LTUwMDE1NTU2OS0yMDI2LTEwLTI0LWVu/tiny/DEEP-Robotics.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/05f67131-adf9-460d-9b7d-0a3aec653754?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/7f60c456-51b6-4096-a862-d5d3beda6cc5?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KTB664ZR",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-KMH7P3LL",
+            "reason": "tracking"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -15622,6 +16349,23 @@
         "warp-sciences-wetlab-215m-launch-2026",
         "fort-20m-additional-financing-pipe-2026",
         "maxinsights-30m-seed-maxloop-maxglove-2026"
+      ]
+    },
+    {
+      "runId": "2026-10-27",
+      "batchHash": "9649038d7d284a9f5585d8473b5277a5decc8109628280e9bf3bc67c40855beb",
+      "preparedAt": "2026-10-27T02:29:12.493Z",
+      "articleIds": [
+        "gxo-agility-statesville-lebanon-expansion-2026",
+        "bedrock-600m-series-c-construction-expansion-2026",
+        "robotis-pollen-750000-xl330-supply-contract-2026",
+        "agibot-g2-max-heavy-load-launch-2026",
+        "ntt-telwel-cleaning-quality-service-partnership-2026",
+        "realbotix-echo-reservations-pricing-launch-2026",
+        "noitom-prea-plusplusplus-huirong-funding-2026",
+        "mosense-angel-plus-tactile-financing-2026",
+        "cybopal-tcl-shenzhen-strategic-financing-2026",
+        "deep-robotics-brain-five-research-architecture-2026"
       ]
     }
   ]
