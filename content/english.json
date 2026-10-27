@@ -7312,5 +7312,504 @@
       }
     ],
     "videos": []
+  },
+  "comau-hygienic-oil-robot-family-cibustec-2026": {
+    "title": "Comau introduces Hygienic Oil robot family for food and beverage lines",
+    "summary": "The Cibus Tec introduction combines NSF H1 food-grade lubricants with examples linking production and warehouse automation.",
+    "sections": [
+      {
+        "heading": "A new food-industry family",
+        "paragraphs": [
+          "Comau introduced Hygienic Oil, or HO, at Cibus Tec in Parma, October 27–30. The range covers Rebel SCARA, Racer, NJ and palletizing robots using NSF H1 food-grade lubricants to reduce contamination risk. Lubricant selection alone does not establish direct-food-contact approval for every model."
+        ]
+      },
+      {
+        "heading": "From handling to palletizing",
+        "paragraphs": [
+          "Displays include the four-axis S-18-1.7 HO, a partner-integrated Racer5 SE cell and a MyCo cell handling packaged products. Comau distinguishes HO from its FCM/MOCA food-contact range, so factories must select equipment against their particular processes and requirements."
+        ]
+      },
+      {
+        "heading": "Connecting production and storage",
+        "paragraphs": [
+          "Automha shows the four-direction Quaterways shuttle with AWMS and Autosat GTR for multi-depth storage. The combined offering connects production, packaging and warehousing. Common pricing and standardized throughput across the displayed cells are not supplied; integration needs assessment against actual products."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "lucid-starvis-camera-lineup-expansion-2026": {
+    "title": "LUCID expands STARVIS and STARVIS 2 industrial camera lineup",
+    "summary": "New 26, 12.5 and 8.3 MP sensors expand the portfolio across GigE, 2.5GigE and 10GigE interfaces.",
+    "sections": [
+      {
+        "heading": "More sensor choices",
+        "paragraphs": [
+          "LUCID Vision Labs announced new cameras on October 27: a 26 MP Triton10 with Sony IMX571 STARVIS and an 8.3 MP version with IMX585 STARVIS 2. Triton and Triton2 add 12.5 MP IMX676 STARVIS 2 models, broadening choices for field of view and inspection detail."
+        ]
+      },
+      {
+        "heading": "Moving the image data",
+        "paragraphs": [
+          "The portfolio spans GigE, 2.5GigE and 10GigE. Triton10 supports GigE Vision 3.0 with RDMA to move data into host memory while reducing CPU overhead. Interface bandwidth should not be mistaken for the frame rate of every camera model."
+        ]
+      },
+      {
+        "heading": "Evaluating low-light applications",
+        "paragraphs": [
+          "LUCID emphasizes sensitivity in low light and near infrared for inspection, logistics and robot vision. Orders are available through LUCID and its distributors. The announcement does not provide pricing or independent comparative results; lens, lighting and moving-part behavior still require application testing."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "luxonis-oak4-ffc-multicamera-launch-2026": {
+    "title": "Luxonis launches OAK 4 FFC for five-camera robot vision",
+    "summary": "The RVC4 board offers 52 TOPS of aggregate AI compute and flexible camera placement, with development kits planned for November 2026.",
+    "sections": [
+      {
+        "heading": "Flexible camera placement",
+        "paragraphs": [
+          "OAK 4 FFC supports up to five Luxonis camera modules around a six-core RVC4 processor with 52 TOPS of aggregate AI compute. Nine module options include 48 MP IMX586 color, 1 MP OV9282 and 5 MP OG05 global-shutter sensors. The compute rating is not an application-level AI benchmark."
+        ]
+      },
+      {
+        "heading": "Calibration and integration",
+        "paragraphs": [
+          "Modules have factory intrinsic calibration; users arrange them and configure OAK Viewer. Inter-camera calibration uses overlapping views and ordinary textures. Linux-based Luxonis OS lets the board act as a main computer or perception coprocessor, with 2.5GbE, USB-C, CAN-FD and synchronization interfaces."
+        ]
+      },
+      {
+        "heading": "Pricing and delivery plans",
+        "paragraphs": [
+          "The $849 development kit is scheduled for November 2026; the $729 barebone board for Q1 2027. Both prices already include a temporary $200 surcharge. Cameras are separate, starting at $34.99. The 36-gram barebone board requires developers to provide cooling, housing and power integration."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "kddi-elyza-robotics-formation-2030-program-2026": {
+    "title": "KDDI outlines ELYZA Robotics and a ¥30 billion R&D plan through FY2030",
+    "summary": "The company was formed October 1; the newly announced Physical AI program targets more than 1,000 deployed robots.",
+    "sections": [
+      {
+        "heading": "Formation and long-term targets",
+        "paragraphs": [
+          "KDDI and ELYZA disclosed on October 27 that ELYZA Robotics was established October 1. The group targets roughly ¥30 billion in R&D through FY2030 and an organization of over 300 specialists. The investment target differs from the new company’s stated ¥100 million capital."
+        ]
+      },
+      {
+        "heading": "Data, models and operations",
+        "paragraphs": [
+          "The approach combines vision-language and robot-action models, egocentric data and simulation with KDDI compute and communications. Plans cover both a research/data foundation and an operating platform for distributed inference, remote monitoring and coordination across robots."
+        ]
+      },
+      {
+        "heading": "Partner-based demonstrations",
+        "paragraphs": [
+          "KDDI targets more than 1,000 robot deployments by FY2030, beginning proofs of concept in 2026. Applications include replenishment, transport and manufacturing with partners such as Lawson and group companies. Robot counts and business outcomes remain targets rather than completed deployments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://newsroom.kddi.com/news/assets/2026/kddi_nr-1209_4783/kddi_nr-1209_4783_img_01.png",
+        "alt": "ELYZA Robotics identity accompanying the company announcement",
+        "caption": "ELYZA Robotics identity accompanying the company announcement · Image: KDDI / ELYZA"
+      },
+      {
+        "url": "https://newsroom.kddi.com/news/assets/2026/kddi_nr-1209_4783/kddi_nr-1209_4783_img_02.png",
+        "alt": "Physical AI research and partner structure",
+        "caption": "Physical AI research and partner structure · Image: KDDI / ELYZA"
+      }
+    ],
+    "videos": []
+  },
+  "docomo-a2a-physical-ai-gateway-disclosure-2026": {
+    "title": "DOCOMO develops an AI-to-robot platform that checks rules before actions",
+    "summary": "An A2A Gateway evaluates user and situational constraints, ahead of a demonstration at NTT R&D FORUM 2026.",
+    "sections": [
+      {
+        "heading": "A bridge between assistants and robots",
+        "paragraphs": [
+          "NTT DOCOMO disclosed a Physical AI integration platform on October 27 to connect personal AI assistants with different robots through agent-to-agent communication. Its A2A Gateway checks commands and constraints before forwarding them, adding a control step between model requests and physical actions."
+        ]
+      },
+      {
+        "heading": "Context with limited attribute sharing",
+        "paragraphs": [
+          "The platform considers user attributes such as age and situational restrictions. Restaurant examples illustrate screening alcohol-related or dietary requests. Attributes remain within the platform while action instructions go to the robot; requests and actions are logged."
+        ]
+      },
+      {
+        "heading": "Demonstration before wider use",
+        "paragraphs": [
+          "A demonstration is planned at NTT R&D FORUM in Musashino on November 18–20 and 24–25. Internal use and joint projects with robot makers remain subsequent steps. The screening examples do not establish universal safety certification or clinical effectiveness."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotstart.info/imgs/zoom/108566.jpg",
+        "alt": "A2A Gateway architecture connecting assistants and robots",
+        "caption": "A2A Gateway architecture connecting assistants and robots · Image: NTT DOCOMO / Robosta"
+      },
+      {
+        "url": "https://robotstart.info/imgs/zoom/108567.png",
+        "alt": "Three components of the Physical AI integration platform",
+        "caption": "Three components of the Physical AI integration platform · Image: NTT DOCOMO / Robosta"
+      },
+      {
+        "url": "https://robotstart.info/imgs/zoom/108568.png",
+        "alt": "Examples of permissions, action history and behavior controls",
+        "caption": "Examples of permissions, action history and behavior controls · Image: NTT DOCOMO / Robosta"
+      }
+    ],
+    "videos": []
+  },
+  "machenta-instant-robot-learning-vda-reveal-2026": {
+    "title": "Machenta demonstrates one-shot robot learning without task-specific retraining",
+    "summary": "A simulation-trained VDA model uses a real demonstration as context to control different robot embodiments.",
+    "sections": [
+      {
+        "heading": "Demonstrations instead of per-task weight updates",
+        "paragraphs": [
+          "Machenta’s Instant Robot Learning uses a vision-demo-action, or VDA, model to predict closed-loop actions from images and an example. The company says model training uses only simulation, but deployment still receives real demonstrations and observations. It is not a system that needs no real-world input."
+        ]
+      },
+      {
+        "heading": "Multiple robots and teaching modes",
+        "paragraphs": [
+          "The same model is shown across six robot embodiments and four teaching modes, including leader-follower, VR, kinesthetic and human-hand demonstrations. Examples adapt to moved objects, disturbances and a three-robot workflow. Additional demonstrations can clarify ambiguity or compose longer tasks."
+        ]
+      },
+      {
+        "heading": "Results within specified tasks",
+        "paragraphs": [
+          "One-hour continuous tests report 74/74 block placements, 78/78 screwdriver handovers and 97/99 bottle-standing attempts. Machenta describes these tasks as relatively simple. These company-reported results do not establish general factory reliability; scaling to more complex work remains to be demonstrated."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/5225ebe0050d0862eb8406a0aaa4d29f1c5ef245-2400x1350.jpg",
+        "alt": "Conceptual VLA model receiving vision and language",
+        "caption": "Conceptual VLA model receiving vision and language · Image: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/6498bcf37855bf77ff3f8c7ff3d69e2f1d08bbd7-2400x1350.jpg",
+        "alt": "Illustration of pretraining and task-specific data distributions",
+        "caption": "Illustration of pretraining and task-specific data distributions · Image: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/8dad6ca5a574abf639c4beb894adfa955ed7ce54-2400x1350.jpg",
+        "alt": "Conceptual VDA model receiving vision and demonstrations",
+        "caption": "Conceptual VDA model receiving vision and demonstrations · Image: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/73aeacb941db4991c18da960a4d81700c1efc398-1920x1080.png",
+        "alt": "Hypothesis linking compute to instantly learnable tasks",
+        "caption": "Hypothesis linking compute to instantly learnable tasks · Image: Machenta"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/0425015635801ee60163bd58794197ff/manifest/video.m3u8",
+        "title": "Reactivity and recovery · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/fc87c59a6735ad4535b9e3acdbd60a5b/manifest/video.m3u8",
+        "title": "Industrial tasks and changed object positions · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://cdn.sanity.io/files/c3ujyoa0/production/4aa51b8c3cf6d1340534339f210150d6b4636fcf.mp4",
+        "title": "One-person three-robot factory · Machenta",
+        "note": ""
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7ed2bf8940611c9cfa08c62d43666861/manifest/video.m3u8",
+        "title": "Humanoid learning 1 · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/09298b9dadf56643e7ad21cf1c1e3088/manifest/video.m3u8",
+        "title": "Paper roll replacement · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/708c5354f54803bc0631afd3ce5f80cd/manifest/video.m3u8",
+        "title": "Pen placement · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/bb560312152e24be7b769c95409dbf66/manifest/video.m3u8",
+        "title": "Screwdriver tidying · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/066c6ee95ed5a402b916e67b93846bec/manifest/video.m3u8",
+        "title": "Toolbox tidying · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/3ed67ae86ea31b9df95bdd8542823efe/manifest/video.m3u8",
+        "title": "Stacking cans · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/aaaef2ad6635d53119e2e8f93a717770/manifest/video.m3u8",
+        "title": "Bag-sealer tending · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7022051b073905ff8eec8a73db4fba11/manifest/video.m3u8",
+        "title": "Workshop tidying · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b8784162e1b8492c60fadcb10fe68adb/manifest/video.m3u8",
+        "title": "Centrifugal-machine tending · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/8442d182a0879261344f2dbfe1b5e084/manifest/video.m3u8",
+        "title": "Mannequin dressing · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b878b890d23515ec036dee91f69c8cc9/manifest/video.m3u8",
+        "title": "Kitchen utensil tidying · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/832a48cb5a8a59440f68e384f8d89423/manifest/video.m3u8",
+        "title": "Cable sorting · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2fc94237907fbc3fe2e5915714f04d07/manifest/video.m3u8",
+        "title": "Steering behavior through examples · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a7ab3a59a6ef259aefcdabc26943ee5e/manifest/video.m3u8",
+        "title": "Clarifying ambiguous demonstrations · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7f435ad87afb00a4b14665552cd0d97d/manifest/video.m3u8",
+        "title": "Generalizing to new objects · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/6326f5a5ecd31f2b8c5050cd7ef72502/manifest/video.m3u8",
+        "title": "Stitching demonstrations · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/449a712c6d2d0e412bc49a976b35c3b3/manifest/video.m3u8",
+        "title": "Double handover · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1f6e8440a3d435cdc454403d5678af49/manifest/video.m3u8",
+        "title": "Learning from human hands 1 · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1c281e838c0ec4b4a3183da0dee678d8/manifest/video.m3u8",
+        "title": "Learning from human hands 2 · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2362e941434be5514dbbf205ca7882b2/manifest/video.m3u8",
+        "title": "Humanoid learning 2 · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/80d2707b74e49102526f751dd20a81ee/manifest/video.m3u8",
+        "title": "Humanoid learning 3 · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/787ac9ff9fd0b9af89cc15a53b4a5442/manifest/video.m3u8",
+        "title": "Continuous test: block placement · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/c7cf3b973325ff16137dfc3abc7eb98c/manifest/video.m3u8",
+        "title": "Continuous test: screwdriver handover · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      },
+      {
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a54349d482e8fa5b70ac4efbbc86f44f/manifest/video.m3u8",
+        "title": "Continuous test: bottle standing · Machenta",
+        "note": "Original HLS stream. If your browser cannot play it directly, view the corresponding clip on the Machenta source article."
+      }
+    ]
+  },
+  "fassto-amr-subscription-fx100-bx100-launch-2026": {
+    "title": "FASSTO launches an AMR subscription with orchestration and maintenance",
+    "summary": "The package combines FX100 or BX100 robots with FASSTO Brain to reduce upfront warehouse investment.",
+    "sections": [
+      {
+        "heading": "Hardware and service in a monthly package",
+        "paragraphs": [
+          "FASSTO Robotics introduced an AMR subscription with its FASSTO Brain warehouse execution system. Installation, configuration, training, maintenance and cloud updates are included, while outright purchase remains available. Monthly rates are undisclosed, preventing a payback calculation from the announcement alone."
+        ]
+      },
+      {
+        "heading": "Matching the warehouse workflow",
+        "paragraphs": [
+          "FX100 supports different picking carts, including existing carts. BX100 is described as suitable for 75-centimeter aisles. FASSTO offers deployment without mandatory proofs of concept or rack rebuilding and cites about one month for setup, subject to suitability at each warehouse."
+        ]
+      },
+      {
+        "heading": "Site results are not universal guarantees",
+        "paragraphs": [
+          "FASSTO cites its Yongin Mega Smart logistics center, using AMRs since 2022, with worker travel below half and throughput tripled. These are company-reported results at its own site, not independent measurements or guaranteed outcomes for every warehouse."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49229_105004_232.png",
+        "alt": "Worker using FX100 at Yongin Mega Smart logistics center",
+        "caption": "Worker using FX100 at Yongin Mega Smart logistics center · Image: FASSTO Robotics / Robot Newspaper"
+      }
+    ],
+    "videos": []
+  },
+  "percepto-axion-hardware-agnostic-launch-2026": {
+    "title": "Percepto launches hardware-agnostic Axion inspection platform",
+    "summary": "The software combines drone, sensor and historical imagery to prioritize anomalies and answer asset-related questions.",
+    "sections": [
+      {
+        "heading": "Software independent of the drone stack",
+        "paragraphs": [
+          "Percepto launched Axion SaaS on October 27, describing it as immediately available for third-party drone and sensor data as well as existing imagery. Customers need not buy a Percepto drone to begin analysis. Ranger and the Harbor station remain options for new data collection."
+        ]
+      },
+      {
+        "heading": "From imagery to decisions",
+        "paragraphs": [
+          "Axion links observations with asset context and history. Percepto cites over 160 AI models developed from more than 100,000 hours of autonomous inspection, with expert validation. It prioritizes anomalies and supports natural-language questions; training experience is not an accuracy score."
+        ]
+      },
+      {
+        "heading": "Commercial and operating disclosures",
+        "paragraphs": [
+          "Percepto also announced a multi-year extension with an unnamed US energy-transmission customer, without contract value, while moving to consolidate engineering and production in the US. Axion pricing and independent comparisons across anomaly types are not supplied. Operators still need asset-specific evaluation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1IEvu2LMwY6Kq9CEI_aJ0Hz7YCf-477FE",
+        "alt": "Axion example showing assets and inspection imagery",
+        "caption": "Axion example showing assets and inspection imagery · Image: Percepto"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1y76_XPH7ZoPHIt52IMLlQKQViKJigam8",
+        "alt": "Example query about an insulator defect",
+        "caption": "Example query about an insulator defect · Image: Percepto"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1SVGrwVhFe2chFpdYSb6YyWGYL5sq9YsB",
+        "alt": "Example anomaly regions in inspection imagery",
+        "caption": "Example anomaly regions in inspection imagery · Image: Percepto"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=16-ULRSmL2gkVo1WQZPMjvJJp01wDlNmr",
+        "alt": "Example linking transmission-tower imagery with components",
+        "caption": "Example linking transmission-tower imagery with components · Image: Percepto"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1yACy5Yuorr-VCGWQaz-afQbXPM2u8_IU",
+        "alt": "Example Axion workflow list and image library",
+        "caption": "Example Axion workflow list and image library · Image: Percepto"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://drive.google.com/file/d/1RyAL4N9IlUDhjVaw0iXX_jmZ3Zr_ZEYq/view",
+        "title": "Axion press-kit demonstration 6 · Percepto",
+        "note": "Watch in Percepto’s original Google Drive player."
+      },
+      {
+        "url": "https://drive.google.com/file/d/1DWyW88739Nlqs8xPWkyRtvdPXPv-bsBO/view",
+        "title": "Axion press-kit demonstration 7 · Percepto",
+        "note": "Watch in Percepto’s original Google Drive player."
+      }
+    ]
+  },
+  "dynamic-map-toshiba-lidar-cooperation-study-2026": {
+    "title": "Dynamic Map and Toshiba study roadside lidar integration with 3D maps",
+    "summary": "The collaboration will test dynamic road-user data to support autonomous vehicles and mobility inside industrial facilities.",
+    "sections": [
+      {
+        "heading": "Infrastructure data beyond onboard sensors",
+        "paragraphs": [
+          "Selected for Toshiba OPEN INNOVATION PROGRAM 2026, Dynamic Map Platform has begun studying integration of Toshiba Hybrid-3D LiDAR with high-precision 3D maps. The aim is to inform vehicles and fleet systems about people and vehicles that onboard sensors may struggle to see."
+        ]
+      },
+      {
+        "heading": "Alignment and latency are central",
+        "paragraphs": [
+          "The study covers object types, data formats, interfaces, map alignment, latency, communications and reliability. Lidar point clouds and tracking outputs would be associated with map coordinates before integration into a shared information platform for vehicles and control systems."
+        ]
+      },
+      {
+        "heading": "Planned demonstrations, not proven outcomes",
+        "paragraphs": [
+          "Proposed settings include intersections, factories, warehouses, ports and airports with mixed traffic, as well as night, rain and fog. The partners plan system definition and demonstrations toward a mid-December 2026 results event. Accident reductions and commercial service availability have not yet been established."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/63188/243/63188-243-a271d909f0dacb8e44af3a75fa7e143e-1909x420.jpg",
+        "alt": "Toshiba and Dynamic Map Platform identities accompanying the cooperation announcement",
+        "caption": "Toshiba and Dynamic Map Platform identities accompanying the cooperation announcement · Image: Toshiba / Dynamic Map Platform"
+      }
+    ],
+    "videos": []
+  },
+  "daincube-tp-suit-tablet-pendant-launch-2026": {
+    "title": "Daincube introduces TP Suit tablet-based robot teaching device",
+    "summary": "The device adds emergency-stop, enable and select controls around Windows or Android tablet applications.",
+    "sections": [
+      {
+        "heading": "A tablet as the teaching interface",
+        "paragraphs": [
+          "Daincube introduced TP Suit, which turns a tablet into an industrial robot teaching interface. The concept combines a familiar display and application platform with dedicated controls. The company plans to show it publicly at Roboworld."
+        ]
+      },
+      {
+        "heading": "Dedicated physical controls",
+        "paragraphs": [
+          "TP Suit adds an emergency-stop EMG button plus Enable and Select switches, so operation need not rely solely on a touchscreen. These support robot-control workflows, but the report does not identify a safety certification level or compatibility with every controller."
+        ]
+      },
+      {
+        "heading": "Application and integration choices",
+        "paragraphs": [
+          "Daincube describes Windows and Android support for customer-specific applications, drawing on over 20 years in control systems. Pricing, tested tablet lists and detailed delivery schedules are not disclosed. Cell builders must verify interfaces and compatibility before deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49233_105006_226.jpg",
+        "alt": "TP Suit examples with tablets and physical switches",
+        "caption": "TP Suit examples with tablets and physical switches · Image: Daincube / Robot Newspaper"
+      }
+    ],
+    "videos": []
   }
 }

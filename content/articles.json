@@ -2118,5 +2118,115 @@
     "summary": "ประกาศรวมงานทำนายแรงสัมผัส เรียนจากวิดีโอ ปรับนโยบาย และอัปเดตความจำ พร้อมชุดประเมินข้อมูลหุ่นยนต์จริง",
     "image": "https://ml.globenewswire.com/Resource/Download/d9904360-3a8b-4d37-9a4c-617f11d853e2/dr-wm.jpg",
     "addedAt": "2026-10-27T02:29:12.493Z"
+  },
+  {
+    "id": "comau-hygienic-oil-robot-family-cibustec-2026",
+    "category": "industrial-robots",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/27/comau-and-automha-bring-end-to-end-automation-for-foodbeverage-to-cibus-tec-2026/27310/",
+    "date": "2026-10-27",
+    "title": "Comau เปิดกลุ่มหุ่นยนต์ Hygienic Oil สำหรับสายอาหารและเครื่องดื่ม",
+    "summary": "เปิดตัวที่ Cibus Tec พร้อมสารหล่อลื่นเกรดอาหาร NSF H1 และตัวอย่างระบบเชื่อมการผลิตกับคลังสินค้า",
+    "image": "",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "lucid-starvis-camera-lineup-expansion-2026",
+    "category": "industrial-robots",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/27/lucid-expands-starvis-and-starvis-2-camera-lineup-with-new-gige-25gige-and-10gige-models/27307/",
+    "date": "2026-10-27",
+    "title": "LUCID เพิ่มกล้อง STARVIS และ STARVIS 2 สำหรับระบบมองเห็นอุตสาหกรรม",
+    "summary": "เพิ่มเซนเซอร์ 26, 12.5 และ 8.3 เมกะพิกเซล พร้อมทางเลือก Ethernet ตั้งแต่ GigE ถึง 10GigE",
+    "image": "",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "luxonis-oak4-ffc-multicamera-launch-2026",
+    "category": "ai-automation",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/27/luxonis-oak-4-ffc-lets-robot-builders-design-their-own-multi-camera-vision-system-on-one-board/27304/",
+    "date": "2026-10-27",
+    "title": "Luxonis เปิด OAK 4 FFC ต่อกล้องได้ห้าตัวบนบอร์ดประมวลผลเดียว",
+    "summary": "บอร์ด RVC4 รวมกำลัง AI 52 TOPS เปิดให้เลือกตำแหน่งกล้องเอง ชุดพัฒนาเตรียมส่งพฤศจิกายน 2026",
+    "image": "",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "kddi-elyza-robotics-formation-2030-program-2026",
+    "category": "industry-news",
+    "source": "KDDI",
+    "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1209_4783.html",
+    "date": "2026-10-27",
+    "title": "KDDI เปิดแผน ELYZA Robotics ตั้งเป้าลงทุนวิจัย 3 หมื่นล้านเยนถึงปีงบ 2030",
+    "summary": "ตั้งบริษัทเมื่อ 1 ตุลาคม ก่อนประกาศแผน Physical AI และเป้าหมายติดตั้งหุ่นยนต์มากกว่า 1,000 ตัว",
+    "image": "https://newsroom.kddi.com/news/assets/2026/kddi_nr-1209_4783/kddi_nr-1209_4783_img_01.png",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "docomo-a2a-physical-ai-gateway-disclosure-2026",
+    "category": "ai-automation",
+    "source": "Robosta",
+    "url": "https://robotstart.info/article/2026/10/27/382567.html",
+    "date": "2026-10-27",
+    "title": "DOCOMO พัฒนาฐานเชื่อม AI กับหุ่นยนต์ ตรวจเงื่อนไขก่อนส่งคำสั่ง",
+    "summary": "A2A Gateway ใช้ข้อมูลผู้ใช้และสถานการณ์ควบคุมคำสั่ง พร้อมเตรียมแสดงใน NTT R&D FORUM 2026",
+    "image": "https://robotstart.info/imgs/zoom/108566.jpg",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "machenta-instant-robot-learning-vda-reveal-2026",
+    "category": "research",
+    "source": "Machenta",
+    "url": "https://machenta.com/blog/instant-robot-learning",
+    "date": "2026-10-27",
+    "title": "Machenta สาธิตหุ่นยนต์เรียนงานจากตัวอย่างเดียว โดยไม่ฝึกโมเดลใหม่สำหรับแต่ละงาน",
+    "summary": "โมเดล VDA ฝึกจากการจำลอง แล้วใช้การสาธิตจริงเป็นบริบทในการควบคุมหุ่นยนต์หลายแบบ",
+    "image": "https://cdn.sanity.io/images/c3ujyoa0/production/5225ebe0050d0862eb8406a0aaa4d29f1c5ef245-2400x1350.jpg",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "fassto-amr-subscription-fx100-bx100-launch-2026",
+    "category": "industrial-robots",
+    "source": "Robot Newspaper",
+    "url": "https://www.irobotnews.com/news/articleView.html?idxno=49229",
+    "date": "2026-10-27",
+    "title": "FASSTO เปิดบริการ AMR รายเดือน รวมระบบจัดงานและบำรุงรักษา",
+    "summary": "แพ็กเกจรวม FX100 หรือ BX100 กับ FASSTO Brain ลดการลงทุนเริ่มต้นสำหรับคลังสินค้า",
+    "image": "https://cdn.irobotnews.com/news/photo/202610/49229_105004_232.png",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "percepto-axion-hardware-agnostic-launch-2026",
+    "category": "drones",
+    "source": "Percepto",
+    "url": "https://percepto.com/percepto-launches-hardware-agnostic-axion-platform-bringing-physical-ai-to-mission-critical-operations/",
+    "date": "2026-10-27",
+    "title": "Percepto เปิด Axion วิเคราะห์งานตรวจสอบโดยไม่ผูกกับโดรนยี่ห้อเดียว",
+    "summary": "ซอฟต์แวร์รวมข้อมูลโดรน เซนเซอร์ และภาพเดิม เพื่อจัดลำดับสิ่งผิดปกติและตอบคำถามเกี่ยวกับสินทรัพย์",
+    "image": "/assets/2026-10-28/percepto-axion-1.png",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "dynamic-map-toshiba-lidar-cooperation-study-2026",
+    "category": "ai-automation",
+    "source": "Dynamic Map Platform / PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000243.000063188.html",
+    "date": "2026-10-27",
+    "title": "Dynamic Map และ Toshiba ศึกษาเชื่อม LiDAR ริมทางกับแผนที่สามมิติ",
+    "summary": "เตรียมทดสอบข้อมูลคนและรถในจุดอับสายตา เพื่อสนับสนุนรถอัตโนมัติและการขนส่งภายในโรงงาน",
+    "image": "https://prcdn.freetls.fastly.net/release_image/63188/243/63188-243-a271d909f0dacb8e44af3a75fa7e143e-1909x420.jpg",
+    "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "daincube-tp-suit-tablet-pendant-launch-2026",
+    "category": "industrial-robots",
+    "source": "Robot Newspaper",
+    "url": "https://www.irobotnews.com/news/articleView.html?idxno=49233",
+    "date": "2026-10-27",
+    "title": "Daincube เปิด TP Suit เปลี่ยนแท็บเล็ตเป็นอุปกรณ์สอนงานหุ่นยนต์",
+    "summary": "เพิ่มปุ่มหยุดฉุกเฉิน Enable และ Select พร้อมรองรับแอปควบคุมบน Windows และ Android",
+    "image": "https://cdn.irobotnews.com/news/photo/202610/49233_105006_226.jpg",
+    "addedAt": "2026-10-27T23:11:15.654Z"
   }
 ]

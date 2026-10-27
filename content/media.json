@@ -3136,5 +3136,345 @@
       }
     ],
     "videos": []
+  },
+  "comau-hygienic-oil-robot-family-cibustec-2026": {
+    "images": [],
+    "videos": []
+  },
+  "lucid-starvis-camera-lineup-expansion-2026": {
+    "images": [],
+    "videos": []
+  },
+  "luxonis-oak4-ffc-multicamera-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "kddi-elyza-robotics-formation-2030-program-2026": {
+    "images": [
+      {
+        "url": "https://newsroom.kddi.com/news/assets/2026/kddi_nr-1209_4783/kddi_nr-1209_4783_img_01.png",
+        "alt": "ตรา ELYZA Robotics ที่ประกาศพร้อมบริษัทใหม่",
+        "caption": "ตรา ELYZA Robotics ที่ประกาศพร้อมบริษัทใหม่ · ภาพ: KDDI / ELYZA"
+      },
+      {
+        "url": "https://newsroom.kddi.com/news/assets/2026/kddi_nr-1209_4783/kddi_nr-1209_4783_img_02.png",
+        "alt": "โครงสร้างพันธมิตรและการวิจัย Physical AI",
+        "caption": "โครงสร้างพันธมิตรและการวิจัย Physical AI · ภาพ: KDDI / ELYZA"
+      }
+    ],
+    "videos": []
+  },
+  "docomo-a2a-physical-ai-gateway-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://robotstart.info/imgs/zoom/108566.jpg",
+        "alt": "ภาพรวมการเชื่อมผู้ช่วย AI และหุ่นยนต์ผ่าน A2A Gateway",
+        "caption": "ภาพรวมการเชื่อมผู้ช่วย AI และหุ่นยนต์ผ่าน A2A Gateway · ภาพ: NTT DOCOMO / Robosta"
+      },
+      {
+        "url": "https://robotstart.info/imgs/zoom/108567.png",
+        "alt": "สามองค์ประกอบของฐานเชื่อม Physical AI",
+        "caption": "สามองค์ประกอบของฐานเชื่อม Physical AI · ภาพ: NTT DOCOMO / Robosta"
+      },
+      {
+        "url": "https://robotstart.info/imgs/zoom/108568.png",
+        "alt": "ตัวอย่างการควบคุมสิทธิ์ ประวัติ และพฤติกรรม",
+        "caption": "ตัวอย่างการควบคุมสิทธิ์ ประวัติ และพฤติกรรม · ภาพ: NTT DOCOMO / Robosta"
+      }
+    ],
+    "videos": []
+  },
+  "machenta-instant-robot-learning-vda-reveal-2026": {
+    "images": [
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/5225ebe0050d0862eb8406a0aaa4d29f1c5ef245-2400x1350.jpg",
+        "alt": "ภาพแนวคิดโมเดล VLA รับภาพและภาษา",
+        "caption": "ภาพแนวคิดโมเดล VLA รับภาพและภาษา · ภาพ: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/6498bcf37855bf77ff3f8c7ff3d69e2f1d08bbd7-2400x1350.jpg",
+        "alt": "ภาพอธิบายการกระจายข้อมูลฝึกก่อนและหลังปรับเฉพาะงาน",
+        "caption": "ภาพอธิบายการกระจายข้อมูลฝึกก่อนและหลังปรับเฉพาะงาน · ภาพ: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/8dad6ca5a574abf639c4beb894adfa955ed7ce54-2400x1350.jpg",
+        "alt": "ภาพแนวคิดโมเดล VDA รับภาพและการสาธิต",
+        "caption": "ภาพแนวคิดโมเดล VDA รับภาพและการสาธิต · ภาพ: Machenta"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/c3ujyoa0/production/73aeacb941db4991c18da960a4d81700c1efc398-1920x1080.png",
+        "alt": "สมมติฐานความสัมพันธ์ระหว่างคอมพิวต์กับงานที่เรียนรู้ได้ทันที",
+        "caption": "สมมติฐานความสัมพันธ์ระหว่างคอมพิวต์กับงานที่เรียนรู้ได้ทันที · ภาพ: Machenta"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/0425015635801ee60163bd58794197ff/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/0425015635801ee60163bd58794197ff/manifest/video.m3u8",
+        "title": "การตอบสนองและกู้คืนงาน · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/fc87c59a6735ad4535b9e3acdbd60a5b/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/fc87c59a6735ad4535b9e3acdbd60a5b/manifest/video.m3u8",
+        "title": "งานอุตสาหกรรมและการย้ายตำแหน่งวัตถุ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "video",
+        "url": "https://cdn.sanity.io/files/c3ujyoa0/production/4aa51b8c3cf6d1340534339f210150d6b4636fcf.mp4",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b494730d89237d95ea0b180606b657f7/manifest/video.m3u8",
+        "title": "สอนหุ่นยนต์สามตัวทำงานร่วมกัน · Machenta",
+        "poster": "https://cdn.sanity.io/images/c3ujyoa0/production/5f6fb7a3cbdd86c8e185dfe53dc1a6bba555365b-1920x1080.jpg?w=1600&q=80&fit=crop&auto=format"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7ed2bf8940611c9cfa08c62d43666861/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7ed2bf8940611c9cfa08c62d43666861/manifest/video.m3u8",
+        "title": "การเรียนรู้บนหุ่นยนต์ฮิวแมนนอยด์ 1 · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/09298b9dadf56643e7ad21cf1c1e3088/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/09298b9dadf56643e7ad21cf1c1e3088/manifest/video.m3u8",
+        "title": "การเปลี่ยนม้วนกระดาษ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/708c5354f54803bc0631afd3ce5f80cd/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/708c5354f54803bc0631afd3ce5f80cd/manifest/video.m3u8",
+        "title": "การวางปากกาในที่ใส่ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/bb560312152e24be7b769c95409dbf66/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/bb560312152e24be7b769c95409dbf66/manifest/video.m3u8",
+        "title": "การจัดไขควง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/066c6ee95ed5a402b916e67b93846bec/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/066c6ee95ed5a402b916e67b93846bec/manifest/video.m3u8",
+        "title": "การจัดกล่องเครื่องมือ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/3ed67ae86ea31b9df95bdd8542823efe/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/3ed67ae86ea31b9df95bdd8542823efe/manifest/video.m3u8",
+        "title": "การเรียงกระป๋องบนชั้น · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/aaaef2ad6635d53119e2e8f93a717770/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/aaaef2ad6635d53119e2e8f93a717770/manifest/video.m3u8",
+        "title": "การป้อนงานให้เครื่องซีลถุง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7022051b073905ff8eec8a73db4fba11/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7022051b073905ff8eec8a73db4fba11/manifest/video.m3u8",
+        "title": "การจัดพื้นที่ช่าง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b8784162e1b8492c60fadcb10fe68adb/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b8784162e1b8492c60fadcb10fe68adb/manifest/video.m3u8",
+        "title": "การป้อนงานให้เครื่องหมุนเหวี่ยง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/8442d182a0879261344f2dbfe1b5e084/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/8442d182a0879261344f2dbfe1b5e084/manifest/video.m3u8",
+        "title": "การแต่งตัวให้หุ่นจำลอง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b878b890d23515ec036dee91f69c8cc9/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/b878b890d23515ec036dee91f69c8cc9/manifest/video.m3u8",
+        "title": "การจัดอุปกรณ์ครัว · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/832a48cb5a8a59440f68e384f8d89423/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/832a48cb5a8a59440f68e384f8d89423/manifest/video.m3u8",
+        "title": "การคัดแยกสายไฟ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2fc94237907fbc3fe2e5915714f04d07/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2fc94237907fbc3fe2e5915714f04d07/manifest/video.m3u8",
+        "title": "การชี้นำพฤติกรรมด้วยตัวอย่าง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a7ab3a59a6ef259aefcdabc26943ee5e/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a7ab3a59a6ef259aefcdabc26943ee5e/manifest/video.m3u8",
+        "title": "การเพิ่มตัวอย่างเพื่อคลายความกำกวม · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7f435ad87afb00a4b14665552cd0d97d/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/7f435ad87afb00a4b14665552cd0d97d/manifest/video.m3u8",
+        "title": "การปรับตัวกับวัตถุใหม่ · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/6326f5a5ecd31f2b8c5050cd7ef72502/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/6326f5a5ecd31f2b8c5050cd7ef72502/manifest/video.m3u8",
+        "title": "การต่อการสาธิตหลายขั้น · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/449a712c6d2d0e412bc49a976b35c3b3/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/449a712c6d2d0e412bc49a976b35c3b3/manifest/video.m3u8",
+        "title": "การส่งวัตถุระหว่างแขนสองครั้ง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1f6e8440a3d435cdc454403d5678af49/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1f6e8440a3d435cdc454403d5678af49/manifest/video.m3u8",
+        "title": "การเรียนจากมือคน 1 · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1c281e838c0ec4b4a3183da0dee678d8/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/1c281e838c0ec4b4a3183da0dee678d8/manifest/video.m3u8",
+        "title": "การเรียนจากมือคน 2 · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2362e941434be5514dbbf205ca7882b2/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/2362e941434be5514dbbf205ca7882b2/manifest/video.m3u8",
+        "title": "การเรียนรู้บนหุ่นยนต์ฮิวแมนนอยด์ 2 · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/80d2707b74e49102526f751dd20a81ee/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/80d2707b74e49102526f751dd20a81ee/manifest/video.m3u8",
+        "title": "การเรียนรู้บนหุ่นยนต์ฮิวแมนนอยด์ 3 · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/787ac9ff9fd0b9af89cc15a53b4a5442/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/787ac9ff9fd0b9af89cc15a53b4a5442/manifest/video.m3u8",
+        "title": "การทดสอบต่อเนื่อง: วางบล็อก · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/c7cf3b973325ff16137dfc3abc7eb98c/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/c7cf3b973325ff16137dfc3abc7eb98c/manifest/video.m3u8",
+        "title": "การทดสอบต่อเนื่อง: ส่งไขควง · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      },
+      {
+        "kind": "link",
+        "url": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a54349d482e8fa5b70ac4efbbc86f44f/manifest/video.m3u8",
+        "sourceUrl": "https://customer-c409glhmyqz9j5oa.cloudflarestream.com/a54349d482e8fa5b70ac4efbbc86f44f/manifest/video.m3u8",
+        "title": "การทดสอบต่อเนื่อง: ตั้งขวด · Machenta",
+        "note": "วิดีโอต้นฉบับแบบ HLS; หากเบราว์เซอร์เปิดสตรีมไม่ได้ ให้ชมคลิปชื่อเดียวกันในบทความ Machenta ที่ลิงก์แหล่งข่าว"
+      }
+    ]
+  },
+  "fassto-amr-subscription-fx100-bx100-launch-2026": {
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49229_105004_232.png",
+        "alt": "พนักงานใช้รถเข็น FX100 ในศูนย์ Yongin Mega Smart",
+        "caption": "พนักงานใช้รถเข็น FX100 ในศูนย์ Yongin Mega Smart · ภาพ: FASSTO Robotics / Robot Newspaper"
+      }
+    ],
+    "videos": []
+  },
+  "percepto-axion-hardware-agnostic-launch-2026": {
+    "images": [
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1IEvu2LMwY6Kq9CEI_aJ0Hz7YCf-477FE",
+        "alt": "ตัวอย่างหน้าจอ Axion แสดงสินทรัพย์และภาพตรวจสอบ",
+        "caption": "ตัวอย่างหน้าจอ Axion แสดงสินทรัพย์และภาพตรวจสอบ · ภาพ: Percepto",
+        "local": "/assets/2026-10-28/percepto-axion-1.png"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1y76_XPH7ZoPHIt52IMLlQKQViKJigam8",
+        "alt": "ตัวอย่างการสอบถามข้อบกพร่องของฉนวน",
+        "caption": "ตัวอย่างการสอบถามข้อบกพร่องของฉนวน · ภาพ: Percepto",
+        "local": "/assets/2026-10-28/percepto-axion-2.png"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1SVGrwVhFe2chFpdYSb6YyWGYL5sq9YsB",
+        "alt": "ตัวอย่างการระบุพื้นที่ผิดปกติในภาพตรวจสอบ",
+        "caption": "ตัวอย่างการระบุพื้นที่ผิดปกติในภาพตรวจสอบ · ภาพ: Percepto",
+        "local": "/assets/2026-10-28/percepto-axion-3.png"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=16-ULRSmL2gkVo1WQZPMjvJJp01wDlNmr",
+        "alt": "ตัวอย่างการเชื่อมภาพเสาส่งกับรายการอุปกรณ์",
+        "caption": "ตัวอย่างการเชื่อมภาพเสาส่งกับรายการอุปกรณ์ · ภาพ: Percepto",
+        "local": "/assets/2026-10-28/percepto-axion-4.png"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1yACy5Yuorr-VCGWQaz-afQbXPM2u8_IU",
+        "alt": "ตัวอย่างรายการงานและคลังภาพบน Axion",
+        "caption": "ตัวอย่างรายการงานและคลังภาพบน Axion · ภาพ: Percepto",
+        "local": "/assets/2026-10-28/percepto-axion-5.png"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://drive.google.com/file/d/1RyAL4N9IlUDhjVaw0iXX_jmZ3Zr_ZEYq/view",
+        "title": "วิดีโอสาธิต Axion จากชุดสื่อ 6 · Percepto",
+        "note": "ชมวิดีโอในเครื่องเล่น Google Drive ของ Percepto"
+      },
+      {
+        "kind": "link",
+        "url": "https://drive.google.com/file/d/1DWyW88739Nlqs8xPWkyRtvdPXPv-bsBO/view",
+        "title": "วิดีโอสาธิต Axion จากชุดสื่อ 7 · Percepto",
+        "note": "ชมวิดีโอในเครื่องเล่น Google Drive ของ Percepto"
+      }
+    ]
+  },
+  "dynamic-map-toshiba-lidar-cooperation-study-2026": {
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/63188/243/63188-243-a271d909f0dacb8e44af3a75fa7e143e-1909x420.jpg",
+        "alt": "ตรา Toshiba และ Dynamic Map Platform ประกอบประกาศความร่วมมือ",
+        "caption": "ตรา Toshiba และ Dynamic Map Platform ประกอบประกาศความร่วมมือ · ภาพ: Toshiba / Dynamic Map Platform"
+      }
+    ],
+    "videos": []
+  },
+  "daincube-tp-suit-tablet-pendant-launch-2026": {
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49233_105006_226.jpg",
+        "alt": "ตัวอย่างอุปกรณ์ TP Suit พร้อมแท็บเล็ตและสวิตช์",
+        "caption": "ตัวอย่างอุปกรณ์ TP Suit พร้อมแท็บเล็ตและสวิตช์ · ภาพ: Daincube / Robot Newspaper"
+      }
+    ],
+    "videos": []
   }
 }
