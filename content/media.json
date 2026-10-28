@@ -3476,5 +3476,97 @@
       }
     ],
     "videos": []
+  },
+  "a3-q3-2026-robot-orders-report": {
+    "images": [],
+    "videos": []
+  },
+  "reach-ten-hour-wireless-drone-flight-disclosure-2026": {
+    "images": [],
+    "videos": []
+  },
+  "rapyuta-nippon-express-numazu-pa-amr-start-2026": {
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/21229/198/21229-198-89c6eff4c045e41e9f3008e93ca9281f-2000x1336.jpg",
+        "alt": "PA-AMR ทำงานที่ศูนย์ Numazu",
+        "caption": "PA-AMR ทำงานที่ศูนย์ Numazu · ภาพ: Rapyuta Robotics"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/21229/198/21229-198-c78892bd9ef5a5507ec94f5d54b22fa3-2000x1333.jpg",
+        "alt": "การใช้งานหุ่นยนต์ช่วยหยิบสินค้าในคลัง",
+        "caption": "การใช้งานหุ่นยนต์ช่วยหยิบสินค้าในคลัง · ภาพ: Rapyuta Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "metacognition-airtree-five-million-extension-2026": {
+    "images": [
+      {
+        "url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/10/Dr-Paul-Dalby_Professor-Anton-van-den-Hengel_Professor_Stephen-Gould-copy.jpg",
+        "alt": "ผู้ก่อตั้ง Metacognition: Paul Dalby, Anton van den Hengel และ Stephen Gould",
+        "caption": "ผู้ก่อตั้ง Metacognition: Paul Dalby, Anton van den Hengel และ Stephen Gould · ภาพ: Metacognition / Startup Daily"
+      }
+    ],
+    "videos": []
+  },
+  "otto-sereact-poland-25-returns-robot-plan-2026": {
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/9f531c22-18d0-4cde-86e5-d05308235661",
+        "alt": "ระบบสองแขนในโครงการ Otto Group และ Sereact",
+        "caption": "ระบบสองแขนในโครงการ Otto Group และ Sereact · ภาพ: Otto Group / Sereact"
+      }
+    ],
+    "videos": []
+  },
+  "trinatracker-buildex-first-europe-portugal-shipment-2026": {
+    "images": [],
+    "videos": []
+  },
+  "kodiak-dtl-75-driverless-trucks-agreement-2026": {
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/cba368be-f596-49b2-a8b7-7bfcb60de491",
+        "alt": "ภาพประกอบข้อตกลง Kodiak และ DTL",
+        "caption": "ภาพประกอบข้อตกลง Kodiak และ DTL · ภาพ: Kodiak AI / DTL"
+      }
+    ],
+    "videos": []
+  },
+  "yaskawa-gazoo-gr-kart-autonomous-welding-deployment-2026": {
+    "images": [
+      {
+        "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/01.jpg",
+        "alt": "กระบวนการเชื่อมด้วย MOTOMAN NEXT",
+        "caption": "กระบวนการเชื่อมด้วย MOTOMAN NEXT · ภาพ: Yaskawa Electric"
+      }
+    ],
+    "videos": []
+  },
+  "und-magbot-modular-humanoid-production-plan-2026": {
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49267_105038_1335.png",
+        "alt": "แนวคิดหุ่นยนต์โมดูลาร์ของ UND",
+        "caption": "แนวคิดหุ่นยนต์โมดูลาร์ของ UND · ภาพ: UND Robotics / Robot Newspaper"
+      },
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49267_105039_148.jpg",
+        "alt": "ผู้บริหาร UND รับรางวัลที่ FIX 2026",
+        "caption": "ผู้บริหาร UND รับรางวัลที่ FIX 2026 · ภาพ: UND Robotics / Robot Newspaper"
+      }
+    ],
+    "videos": []
+  },
+  "xpeng-iron-battery-small-batch-production-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp",
+        "alt": "XPENG IRON ที่งาน Beijing Auto Show 2026",
+        "caption": "XPENG IRON ที่งาน Beijing Auto Show 2026 · ภาพ: Humanoids Daily"
+      }
+    ],
+    "videos": []
   }
 }

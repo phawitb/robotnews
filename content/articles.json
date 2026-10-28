@@ -2228,5 +2228,115 @@
     "summary": "เพิ่มปุ่มหยุดฉุกเฉิน Enable และ Select พร้อมรองรับแอปควบคุมบน Windows และ Android",
     "image": "https://cdn.irobotnews.com/news/photo/202610/49233_105006_226.jpg",
     "addedAt": "2026-10-27T23:11:15.654Z"
+  },
+  {
+    "id": "a3-q3-2026-robot-orders-report",
+    "category": "industry-news",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/28/north-american-robot-orders-increase-248-in-third-quarter-of-2026/27313/",
+    "date": "2026-10-28",
+    "title": "A3 รายงานยอดสั่งหุ่นยนต์อเมริกาเหนือไตรมาส 3 โต 24.8%",
+    "summary": "ยอดสั่ง 10,989 ตัว มูลค่า 723.5 ล้านดอลลาร์ โดยชิ้นส่วนรถยนต์และอิเล็กทรอนิกส์เติบโตเด่น",
+    "image": "",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "reach-ten-hour-wireless-drone-flight-disclosure-2026",
+    "category": "drones",
+    "source": "RoboticsTomorrow",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/28/reach-power-achieves-first-of-its-kind-persistent-autonomous-drone-flight-powered-wirelessly-for-10-hours/27312/",
+    "date": "2026-10-28",
+    "title": "Reach เผยโดรนบิน 10 ชั่วโมงด้วยพลังงานไร้สายและจัดการชาร์จเอง",
+    "summary": "การสาธิตเดือนกันยายนเพิ่งเปิดเผยรายละเอียด ใช้การนำทางด้วยภาพและรับพลังงาน RF โดยไม่มีสายผูก",
+    "image": "",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "rapyuta-nippon-express-numazu-pa-amr-start-2026",
+    "category": "industrial-robots",
+    "source": "Rapyuta Robotics / PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000198.000021229.html",
+    "date": "2026-10-28",
+    "title": "Nippon Express เริ่มใช้ PA-AMR ที่ศูนย์ Numazu",
+    "summary": "เริ่มในบางพื้นที่ของคลัง ก่อนขยายตามความพร้อม พร้อมปรับแผนที่และขั้นตอนทำงานต่อเนื่อง",
+    "image": "https://prcdn.freetls.fastly.net/release_image/21229/198/21229-198-89c6eff4c045e41e9f3008e93ca9281f-2000x1336.jpg",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "metacognition-airtree-five-million-extension-2026",
+    "category": "ai-automation",
+    "source": "Startup Daily",
+    "url": "https://www.startupdaily.net/topic/funding/airtree-tops-up-ai-robotics-startups-pre-seed-with-another-5-million/",
+    "date": "2026-10-28",
+    "title": "Airtree ลงทุนเพิ่ม 5 ล้านดอลลาร์ออสเตรเลียใน Metacognition",
+    "summary": "รอบ pre-seed รวมเป็น 15 ล้านดอลลาร์ออสเตรเลีย เพื่อพัฒนาซอฟต์แวร์ความจำ เหตุผล และการนำทางหุ่นยนต์",
+    "image": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/10/Dr-Paul-Dalby_Professor-Anton-van-den-Hengel_Professor_Stephen-Gould-copy.jpg",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "otto-sereact-poland-25-returns-robot-plan-2026",
+    "category": "industrial-robots",
+    "source": "Sereact / GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3389884/0/en/otto-group-and-sereact-bring-nvidia-powered-physical-ai-to-returns-processing.html",
+    "date": "2026-10-28",
+    "title": "Otto และ Sereact วางแผนหุ่นยนต์จัดการสินค้าคืนสูงสุด 25 ชุดในโปแลนด์",
+    "summary": "เริ่มด้วยระบบสองแขน 10 ชุด แล้วพิจารณาเพิ่มอีก 15 ตามผลระยะแรก ภายใต้บริการ RaaS",
+    "image": "https://ml.globenewswire.com/Resource/Download/9f531c22-18d0-4cde-86e5-d05308235661",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "trinatracker-buildex-first-europe-portugal-shipment-2026",
+    "category": "industrial-robots",
+    "source": "TrinaTracker / pv magazine",
+    "url": "https://www.pv-magazine.com/press-releases/trinatracker-ships-first-buildex-installation-robots-to-europe-to-advance-solar-construction-automation/",
+    "date": "2026-10-28",
+    "title": "TrinaTracker ส่งหุ่นยนต์ติดแผง Buildex ชุดแรกไปยุโรป",
+    "summary": "ส่งสำหรับโครงการโซลาร์ในโปรตุเกส พร้อม ESI Robotics ดูแลการบูรณาการและเริ่มระบบหน้างาน",
+    "image": "",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "kodiak-dtl-75-driverless-trucks-agreement-2026",
+    "category": "ai-automation",
+    "source": "Kodiak AI",
+    "url": "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-and-dtl-transport-reach-historic-agreement-deploy-75",
+    "date": "2026-10-28",
+    "title": "Kodiak เซ็นสัญญา DTL ใช้ระบบขับไร้คนในรถบรรทุก 75 คัน",
+    "summary": "DTL จะเป็นเจ้าของและเดินรถเอง จ่ายค่าระบบตามระยะทาง เริ่มเส้นทาง Dallas–El Paso และ Dallas–Atlanta",
+    "image": "https://ml.globenewswire.com/Resource/Download/cba368be-f596-49b2-a8b7-7bfcb60de491",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "yaskawa-gazoo-gr-kart-autonomous-welding-deployment-2026",
+    "category": "industrial-robots",
+    "source": "Yaskawa Electric",
+    "url": "https://www.yaskawa-global.com/newsrelease/267239",
+    "date": "2026-10-28",
+    "title": "Yaskawa และ GAZOO ใช้ MOTOMAN NEXT เชื่อมและตรวจแก้โครง GR KART",
+    "summary": "เทคโนโลยีเริ่มใช้งานเดือนกันยายน ก่อนเปิดเผยรายละเอียดการใช้ภาพ เสียง และข้อมูลกระบวนการควบคุมงาน",
+    "image": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/01.jpg",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "und-magbot-modular-humanoid-production-plan-2026",
+    "category": "humanoids",
+    "source": "Robot Newspaper",
+    "url": "https://www.irobotnews.com/news/articleView.html?idxno=49267",
+    "date": "2026-10-28",
+    "title": "UND เตรียมเปิดรุ่นผลิตของฮิวแมนนอยด์ล้อเลื่อน MAGBOT ที่ Roboworld",
+    "summary": "ใช้แขนคู่ Hanwha และฐาน AMR 500 กก. พร้อมระบบเปลี่ยนเครื่องมือแม่เหล็ก",
+    "image": "https://cdn.irobotnews.com/news/photo/202610/49267_105038_1335.png",
+    "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "xpeng-iron-battery-small-batch-production-2026",
+    "category": "humanoids",
+    "source": "Humanoids Daily",
+    "url": "https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production",
+    "date": "2026-10-28",
+    "title": "XPENG ระบุแบตเตอรี่ IRON เริ่มผลิตล็อตเล็ก แต่หุ่นยนต์ยังไม่เริ่มผลิตเต็มรูปแบบ",
+    "summary": "ผู้บริหารยืนยันพัฒนาการของแบตเตอรี่ โดยยังไม่เปิดความจุ ความหนาแน่นพลังงาน หรือจำนวนผลิต",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp",
+    "addedAt": "2026-10-28T23:09:27.604Z"
   }
 ]

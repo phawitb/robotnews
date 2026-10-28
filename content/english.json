@@ -7811,5 +7811,317 @@
       }
     ],
     "videos": []
+  },
+  "a3-q3-2026-robot-orders-report": {
+    "title": "North American Q3 robot orders rise 24.8%, A3 reports",
+    "summary": "Orders reached 10,989 units worth $723.5 million, led by strong automotive-component and electronics demand.",
+    "sections": [
+      {
+        "heading": "Orders strengthen",
+        "paragraphs": [
+          "A3 reported 10,989 North American robot orders worth $723.5 million in Q3, up 24.8% in units and 26.1% in value year over year. Nine-month orders reached 28,984 units and about $1.89 billion. These are orders, not completed installations."
+        ]
+      },
+      {
+        "heading": "Industries diverge",
+        "paragraphs": [
+          "Automotive-component orders rose 90.4%, and semiconductors, electronics and photonics rose 97.6%. Automotive OEM orders grew 7.5% in the quarter but remained 17% lower over nine months. Food and consumer goods declined 23.7%, illustrating uneven demand."
+        ]
+      },
+      {
+        "heading": "Collaborative robots expand",
+        "paragraphs": [
+          "Cobots accounted for 1,831 units worth $63.8 million, approximately 56% unit growth and 16.7% of quarterly robot orders. The figures indicate automation demand rather than guaranteed project returns or a direct measure of Thailand’s market."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "reach-ten-hour-wireless-drone-flight-disclosure-2026": {
+    "title": "Reach reports a ten-hour drone flight with autonomous wireless charging",
+    "summary": "Newly disclosed details of a September demonstration describe visual navigation and untethered RF power delivery.",
+    "sections": [
+      {
+        "heading": "A newly reported earlier test",
+        "paragraphs": [
+          "On October 28, Reach Power disclosed a ten-hour autonomous flight conducted at Virginia Tech on September 22. It reports onboard visual navigation without GPS, external flight-tracking sensors or manual control. Publication and demonstration dates are distinct."
+        ]
+      },
+      {
+        "heading": "Aircraft-controlled energy cycles",
+        "paragraphs": [
+          "The drone monitored charge, moved away when full and returned to request power at a threshold. An electronically steered RF beam reacquired the receiver. The demonstration tested machine-to-machine energy management without an operator issuing each charging instruction."
+        ]
+      },
+      {
+        "heading": "A specific endurance baseline",
+        "paragraphs": [
+          "Ten hours is approximately 400 times the test configuration’s roughly 90-second battery-only endurance. That is not a universal multiplier for ordinary drones. Transmission range, power levels and overall efficiency needed for field evaluation are not detailed in the announcement."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "rapyuta-nippon-express-numazu-pa-amr-start-2026": {
+    "title": "Nippon Express starts PA-AMR operations at Numazu",
+    "summary": "The rollout starts in part of the warehouse, with staged expansion and continuing map and workflow adjustments.",
+    "sections": [
+      {
+        "heading": "Operations begin at Numazu",
+        "paragraphs": [
+          "Rapyuta Robotics says its PA-AMR picking assistants have begun operating at Nippon Express’s Numazu Logistics Center in the Shizuoka branch. The project transfers lessons from earlier sites to improve productivity and reduce work burdens at a regional facility."
+        ]
+      },
+      {
+        "heading": "A staged site rollout",
+        "paragraphs": [
+          "Operations currently cover only part of the target area, with expansion tied to site readiness. Improvements include upper-tray use, supporting tasks, travel maps and parameter adjustments. Site staff hold regular reviews with Rapyuta’s customer-success team."
+        ]
+      },
+      {
+        "heading": "Results remain unquantified",
+        "paragraphs": [
+          "The deployment supports preparations for a customer’s new products and addresses labor constraints. Robot counts, picking rates and cost savings are undisclosed. Results after expansion will be needed to judge economics or compare the installation with other warehouses."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/21229/198/21229-198-89c6eff4c045e41e9f3008e93ca9281f-2000x1336.jpg",
+        "alt": "PA-AMR operating at Numazu",
+        "caption": "PA-AMR operating at Numazu · Image: Rapyuta Robotics"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/21229/198/21229-198-c78892bd9ef5a5507ec94f5d54b22fa3-2000x1333.jpg",
+        "alt": "Picking-assistant robot deployment in the warehouse",
+        "caption": "Picking-assistant robot deployment in the warehouse · Image: Rapyuta Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "metacognition-airtree-five-million-extension-2026": {
+    "title": "Airtree adds A$5 million to Metacognition’s pre-seed",
+    "summary": "The pre-seed reaches A$15 million for robot reasoning, memory and navigation software.",
+    "sections": [
+      {
+        "heading": "An extension of the existing round",
+        "paragraphs": [
+          "Startup Daily reported on October 28 Australian time that Airtree invested another A$5 million in Adelaide-based Metacognition, following A$10 million a month earlier. The pre-seed totals A$15 million; it is not a separate additional A$15 million round."
+        ]
+      },
+      {
+        "heading": "Software for consequential tasks",
+        "paragraphs": [
+          "Metacognition develops Zeos, navigation models, reasoning and memory tools. It aims to help agents and robots retain instructions, respond to emergencies and improve over time. Initial work includes simulations of open-cut mines and electricity grids controlled through verbal instructions."
+        ]
+      },
+      {
+        "heading": "Deployment evidence is still needed",
+        "paragraphs": [
+          "The investment coincides with NavGPT-3, developed with collaborators and promoted as a strong language-navigation model. The report does not supply full benchmark results or deployed robot counts. Financing supports development rather than certifying reliability across tasks."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/10/Dr-Paul-Dalby_Professor-Anton-van-den-Hengel_Professor_Stephen-Gould-copy.jpg",
+        "alt": "Metacognition founders Paul Dalby, Anton van den Hengel and Stephen Gould",
+        "caption": "Metacognition founders Paul Dalby, Anton van den Hengel and Stephen Gould · Image: Metacognition / Startup Daily"
+      }
+    ],
+    "videos": []
+  },
+  "otto-sereact-poland-25-returns-robot-plan-2026": {
+    "title": "Otto and Sereact plan up to 25 returns-processing robots in Poland",
+    "summary": "The project starts with ten dual-arm systems and plans another fifteen subject to early results, under a RaaS model.",
+    "sections": [
+      {
+        "heading": "Two deployment phases",
+        "paragraphs": [
+          "Otto Group and Sereact announced a project at a Polish logistics center, beginning with ten dual-arm systems and planning fifteen more depending on initial results, for up to 25. This is staged deployment and joint development, not confirmation that all systems are already installed."
+        ]
+      },
+      {
+        "heading": "Handling unpredictable returns",
+        "paragraphs": [
+          "Sereact’s Cortex is intended to grasp, identify, assess and sort folded, crumpled or repackaged goods. Isaac Sim, Isaac Lab and Cosmos generate simulated cases before model updates are tested on held-out examples. Updates within days describe the company’s proposed development process."
+        ]
+      },
+      {
+        "heading": "People retain quality decisions",
+        "paragraphs": [
+          "Sereact will operate and maintain the systems through Robotics-as-a-Service. Staff focus on supervision, exceptions and final quality decisions. Throughput, pricing and first-phase acceptance criteria are undisclosed; broader network rollout depends on subsequent results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/9f531c22-18d0-4cde-86e5-d05308235661",
+        "alt": "Dual-arm system for the Otto Group and Sereact project",
+        "caption": "Dual-arm system for the Otto Group and Sereact project · Image: Otto Group / Sereact"
+      }
+    ],
+    "videos": []
+  },
+  "trinatracker-buildex-first-europe-portugal-shipment-2026": {
+    "title": "TrinaTracker ships first Buildex installation robots to Europe",
+    "summary": "The shipment serves a Portuguese solar project, with ESI Robotics supporting integration and commissioning.",
+    "sections": [
+      {
+        "heading": "A shipment for Portugal",
+        "paragraphs": [
+          "TrinaTracker announced its first European shipment of Buildex module-installation robots for a Portuguese solar project. ESI Robotics will support integration, commissioning and engineering. Shipment is a new milestone, not evidence of sustained operating results at this project."
+        ]
+      },
+      {
+        "heading": "Leveling and module handling",
+        "paragraphs": [
+          "Buildex provides automatic angular adjustment up to 17 degrees and supports fixed-tilt structures and TrinaTracker’s 1P and 2P tracking systems. Multi-source vision identifies installation positions, flexible suction grips modules, and lidar with AI sensing detects people and obstacles."
+        ]
+      },
+      {
+        "heading": "Company-reported field results",
+        "paragraphs": [
+          "TrinaTracker cites 600–700 modules per day, three to four times manual productivity, 22.2% lower module-installation costs and 17.5% shorter project installation time. These are reported field-test figures, not independently certified outcomes or established results for every condition at the Portuguese site."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "kodiak-dtl-75-driverless-trucks-agreement-2026": {
+    "title": "Kodiak signs DTL agreement for 75 driverless trucks",
+    "summary": "DTL will own and operate the trucks and pay per mile, starting with Dallas–El Paso and Dallas–Atlanta routes.",
+    "sections": [
+      {
+        "heading": "A binding commercial agreement",
+        "paragraphs": [
+          "Kodiak AI and DTL Transport announced a binding agreement for Kodiak Driver in 75 driverless trucks owned and operated by DTL. Driver-as-a-Service fees will be charged per mile. Pricing and a date for completing all deliveries are not disclosed."
+        ]
+      },
+      {
+        "heading": "Two initial corridors",
+        "paragraphs": [
+          "Plans begin on Interstate 10 between Dallas and El Paso and Interstate 20 between Dallas and Atlanta, where Kodiak has already tested, with other routes later. Identifying planned corridors does not establish that all commercial driverless operations have started."
+        ]
+      },
+      {
+        "heading": "Distinct from earlier trials",
+        "paragraphs": [
+          "The agreement follows a September pilot hauling goods roughly 225 miles between Fresno and Los Angeles under California testing permission. Kodiak separately targets year-end driverless highway service for IKEA. That separate goal is not a delivery deadline for all 75 DTL trucks."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml.globenewswire.com/Resource/Download/cba368be-f596-49b2-a8b7-7bfcb60de491",
+        "alt": "Image accompanying the Kodiak–DTL agreement",
+        "caption": "Image accompanying the Kodiak–DTL agreement · Image: Kodiak AI / DTL"
+      }
+    ],
+    "videos": []
+  },
+  "yaskawa-gazoo-gr-kart-autonomous-welding-deployment-2026": {
+    "title": "Yaskawa and GAZOO deploy MOTOMAN NEXT for GR KART welding and correction",
+    "summary": "Introduced in September, the newly detailed system combines images, welding sounds and process data.",
+    "sections": [
+      {
+        "heading": "Operating in production",
+        "paragraphs": [
+          "Yaskawa and GAZOO Racing disclosed on October 28 that AI-powered robot production technology entered the Gamagori GR KART Workshop in September. It welds pipe frames, inspects quality and corrects results. Yaskawa describes actual production use rather than only a proof of concept."
+        ]
+      },
+      {
+        "heading": "Responding to workpiece conditions",
+        "paragraphs": [
+          "MOTOMAN NEXT combines GPU-based AI and robot control to evaluate assembly conditions, joint gaps and post-weld outcomes. Welding sounds and process data complement images, supporting decisions and corrections previously dependent on experienced welders."
+        ]
+      },
+      {
+        "heading": "Keep earlier results separate",
+        "paragraphs": [
+          "The project builds on the SFA Process developed in 2024 for racing roll cages. The earlier reduction from two or three weeks to three days belongs to that project, not current GR KART throughput. New cycle times, defect rates and investment costs are not disclosed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/10/01.jpg",
+        "alt": "Welding process using MOTOMAN NEXT",
+        "caption": "Welding process using MOTOMAN NEXT · Image: Yaskawa Electric"
+      }
+    ],
+    "videos": []
+  },
+  "und-magbot-modular-humanoid-production-plan-2026": {
+    "title": "UND plans production-version MAGBOT mobile humanoid debut at Roboworld",
+    "summary": "The design combines Hanwha dual arms, a 500 kg-class AMR base and magnetic tool changing.",
+    "sections": [
+      {
+        "heading": "Production version planned",
+        "paragraphs": [
+          "UND Robotics reports Tier-1 registration with a major Korean company and plans a production-version modular humanoid debut at November’s Roboworld after showing a draft at FIX 2026. The customer and contracted robot quantities are not named."
+        ]
+      },
+      {
+        "heading": "Mobile base and interchangeable tools",
+        "paragraphs": [
+          "The design combines two Hanwha arms with MAGBOT magnetic tool changers, for which UND cites 0.2-second switching. Its independently driven and steered four-wheel AMR base is in the 500 kg class; that is not the payload of each arm."
+        ]
+      },
+      {
+        "heading": "Harsh-environment ambitions need qualification",
+        "paragraphs": [
+          "UND targets battery, ESS and hydrogen manufacturing, mentioning heat, water and explosion-protection requirements without listing complete-system certifications. This does not establish every rating for every model. An 80 kg-class slim lifting AMR and mixed-robot management are also described."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49267_105038_1335.png",
+        "alt": "UND modular robot concept",
+        "caption": "UND modular robot concept · Image: UND Robotics / Robot Newspaper"
+      },
+      {
+        "url": "https://cdn.irobotnews.com/news/photo/202610/49267_105039_148.jpg",
+        "alt": "UND executive receiving an award at FIX 2026",
+        "caption": "UND executive receiving an award at FIX 2026 · Image: UND Robotics / Robot Newspaper"
+      }
+    ],
+    "videos": []
+  },
+  "xpeng-iron-battery-small-batch-production-2026": {
+    "title": "XPENG reports small-batch IRON battery production while robot remains pre-SOP",
+    "summary": "An executive reported the battery milestone without capacity, energy-density or production-volume figures.",
+    "sections": [
+      {
+        "heading": "A component milestone",
+        "paragraphs": [
+          "XPENG vice president Gu Jie says the solid-state battery for IRON has entered small-batch production, according to October 28 reporting. The robot remains before start of production, or pre-SOP. This is not evidence of large-scale robot deliveries."
+        ]
+      },
+      {
+        "heading": "Designed around constrained space",
+        "paragraphs": [
+          "Reports describe energy-density goals, protection against thermal propagation, impact and puncture. Capacity, runtime, cycle life and detailed test conditions are not supplied, preventing a direct quantitative comparison with other robot batteries."
+        ]
+      },
+      {
+        "heading": "Chemistry remains uncertain",
+        "paragraphs": [
+          "XPENG has promoted all-solid-state batteries, while earlier reporting also described a semi-solid option. The latest account does not settle which chemistry is in this production batch. The supported claim is limited output, not independent safety certification or a disclosed manufacturing rate."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp",
+        "alt": "XPENG IRON at the 2026 Beijing Auto Show",
+        "caption": "XPENG IRON at the 2026 Beijing Auto Show · Image: Humanoids Daily"
+      }
+    ],
+    "videos": []
   }
 }
