@@ -2338,5 +2338,115 @@
     "summary": "ผู้บริหารยืนยันพัฒนาการของแบตเตอรี่ โดยยังไม่เปิดความจุ ความหนาแน่นพลังงาน หรือจำนวนผลิต",
     "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp",
     "addedAt": "2026-10-28T23:09:27.604Z"
+  },
+  {
+    "id": "aeon-mujin-kawaguchi-higashi-xd-operation-2026",
+    "category": "industrial-robots",
+    "title": "AEON เปิดศูนย์ Kawaguchi Higashi XD ใช้หุ่นยนต์จัดสินค้าคละส่งร้าน",
+    "summary": "Mujin เชื่อมการเรียงกล่อง แขนหุ่นยนต์ และงานคน ตั้งแต่คัดแยกตามร้านถึงจัดขึ้นรถเข็น",
+    "source": "AEON / PR TIMES",
+    "date": "2026-10-29",
+    "url": "https://prtimes.jp/main/html/rd/p/000006163.000007505.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-090cd955b62b3b538e3e191c86a5dd7b-2816x1584.png",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "tieriv-ntro-rita-autonomous-bus-acquisition-2026",
+    "category": "ai-automation",
+    "title": "NTRO ซื้อรถบัสอัตโนมัติ TIER IV เตรียมทดลองบริการในออสเตรเลีย",
+    "summary": "รถไฟฟ้า Rita ขนาด 15 ที่นั่งผ่านการปรับบนสนามทดสอบ ก่อนเปิดให้หน่วยงานร่วมทดลอง",
+    "source": "TIER IV",
+    "date": "2026-10-29",
+    "url": "https://tier4.co.jp/en/updates/press-release/20261029-tieriv-and-ntro-advance-autonomous-transit-initiative-in-australia",
+    "image": "https://tier4.co.jp/hs-fs/hubfs/20261029%20press%20release%20image_02.jpg",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "angel-suit-h10-thailand-registration-announcement-2026",
+    "category": "industry-news",
+    "title": "Angel Robotics แจ้งขึ้นทะเบียน Angel Suit H10 ในไทย",
+    "summary": "หุ่นยนต์สวมใส่ช่วยเดินเพิ่มตลาดต่างประเทศแห่งที่สาม ต่อจากมาเลเซียและเวียดนาม",
+    "source": "Electronic Times",
+    "date": "2026-10-29",
+    "url": "https://www.etnews.com/20261029000171",
+    "image": "https://img.etnews.com/news/article/2026/10/29/news-p.v1.20261029.5071d387bc9741e3bca7b79d5729b7e8_P1.jpg",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "forcesteed-fos-agentic-robotics-development-2026",
+    "category": "ai-automation",
+    "title": "Forcesteed พัฒนา AI ช่วยประกอบโปรแกรมหุ่นยนต์ โดยคนอนุมัติก่อนรัน",
+    "summary": "Luqua ผสมการสอนจุด กฎควบคุม และ VLA เป็นโปรแกรมย่อยสำหรับ FOS ยังอยู่ระยะพัฒนา",
+    "source": "Forcesteed Robotics / PR TIMES",
+    "date": "2026-10-29",
+    "url": "https://prtimes.jp/main/html/rd/p/000000040.000157769.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-c64753529f4dca25cb25fe06461694ce-2560x1440.png",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "nec-850mhz-halow-tractor-kilometer-trial-2026",
+    "category": "ai-automation",
+    "title": "NEC ทดลอง Wi-Fi HaLow คุมรถแทรกเตอร์หุ่นยนต์ไกล 1 กิโลเมตร",
+    "summary": "การทดลองใน Tokachi ใช้ย่าน 850 MHz ส่งภาพต่อเนื่องและควบคุมงานจำลองปลูกมันยาว",
+    "source": "NEC Networks & System Integration / PR TIMES",
+    "date": "2026-10-29",
+    "url": "https://prtimes.jp/main/html/rd/p/000000216.000082252.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/82252/216/82252-216-36c497867ce8534cd89f0a6a885bfe43-886x588.png",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "bleu-five-million-preseed-industrial-learning-2026",
+    "category": "humanoids",
+    "title": "Bleu ได้ทุน 5 ล้านยูโร พัฒนาหุ่นยนต์เรียนงานโรงงานจากตัวอย่างไม่กี่ครั้ง",
+    "summary": "บริษัทอธิบายขั้นตอนเก็บตัวอย่างราว 20 นาที แล้วรออีก 20 นาทีก่อนเริ่มงาน ไม่ใช่ทั้งหมดจบใน 20 นาที",
+    "source": "Humanoids Daily",
+    "date": "2026-10-29",
+    "url": "https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "agibot-worken-go3-linku-innovation-day-2026",
+    "category": "ai-automation",
+    "title": "AGIBOT เสนอ Worken วัดผลงานหุ่นยนต์ พร้อม GO-3 และแผนเปิด Link-U OS",
+    "summary": "งาน Innovation Day เพิ่มตัวชี้วัดชั่วโมงงานที่มีประสิทธิผลและโมเดลใหม่ เป็นพัฒนาการเพิ่มเติมจาก G2 Max ที่รายงานไปแล้ว",
+    "source": "Humanoids Daily",
+    "date": "2026-10-29",
+    "url": "https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max",
+    "image": "https://www.humanoidsdaily.com/api/article-media/4a245d5c-4a8e-4f42-87af-eb8e6a3f5c1d/b1446c98-35d6-48d2-a30e-fd76e7b82e39.webp",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "scale-huggingface-fineart-dataset-vla-release-2026",
+    "category": "research",
+    "title": "Scale AI และ Hugging Face เปิด FineART พร้อมข้อมูลย่อยกว่า 5 แสนขั้น",
+    "summary": "ชุดข้อมูล 40,543 ตอนจับคู่กับ FineART-VLA ซึ่งแบ่งการวางแผนงานออกจากการควบคุมการเคลื่อนไหว",
+    "source": "Scale AI",
+    "date": "2026-10-29",
+    "url": "https://labs.scale.com/blog/fineart",
+    "image": "https://cdn.sanity.io/images/50zba0eo/labs/89f241d063df476a0f6b1d3922e60bfbfb60a40d-3538x1257.png",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "pi-semicon-six-axis-maglev-demonstrators-2026",
+    "category": "industrial-robots",
+    "title": "PI เผยแท่น MagLev หกแกนสำหรับงานชิปและวัดพื้นผิว",
+    "summary": "ระบบลอยด้วยแม่เหล็กลดการสัมผัสตลับลูกปืน พร้อมแก้แนวและตำแหน่งระหว่างทำงาน",
+    "source": "RoboticsTomorrow",
+    "date": "2026-10-29",
+    "url": "https://www.roboticstomorrow.com/news/2026/10/29/6-dof-maglev-systems-for-advanced-packaging-introduced-at-semicon-west-2026-new-from-pi-/27321/",
+    "image": "",
+    "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "san-bernardino-seneca-five-aircraft-contract-2026",
+    "category": "drones",
+    "title": "San Bernardino เซ็นสัญญาโดรนดับไฟ Seneca ห้าลำ",
+    "summary": "ชุด Strike Team รวมฐานปฏิบัติการลากจูงและซอฟต์แวร์ เตรียมรวมเข้าระบบก่อนฤดูไฟปี 2027",
+    "source": "Seneca / PR Newswire",
+    "date": "2026-10-28",
+    "url": "https://www.prnewswire.com/news-releases/san-bernardino-county-fire-becomes-californias-first-fire-agency-to-acquire-seneca-firefighting-drones-302921871.html",
+    "image": "",
+    "addedAt": "2026-10-29T23:03:52.466Z"
   }
 ]

@@ -8123,5 +8123,444 @@
       }
     ],
     "videos": []
+  },
+  "aeon-mujin-kawaguchi-higashi-xd-operation-2026": {
+    "title": "AEON opens Kawaguchi Higashi XD with mixed-load robotic handling",
+    "summary": "Mujin links case sequencing, robot arms and human work from store sorting through mixed-load cart stacking.",
+    "sections": [
+      {
+        "heading": "Operations begin",
+        "paragraphs": [
+          "AEON, AEON Global SCM and Mujin began operating Kawaguchi Higashi XD in Saitama on October 29 under their 2023 partnership. AEON describes it as its first connected automation of store-specific sorting and mixed-load stacking, serving small urban supermarkets."
+        ]
+      },
+      {
+        "heading": "Planning meets feedback",
+        "paragraphs": [
+          "The system simulates a stacking plan from shipment orders and uses 3D vision to inspect loads while placing goods on carts. It adjusts motion when boxes shift or the stack changes. Supporting equipment includes sequencing shuttles, depalletizing robots and AGVs linked to fixed-position picking."
+        ]
+      },
+      {
+        "heading": "Coordinating people and machines",
+        "paragraphs": [
+          "The WES schedules supply, equipment activity and handheld instructions for workers against each store’s deadline, while exposing progress and utilization. The announcement provides no measured post-opening labor or cost reduction, so the new center’s return on investment remains unquantified."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-090cd955b62b3b538e3e191c86a5dd7b-2816x1584.png",
+        "alt": "Overview of WES and warehouse data",
+        "caption": "Overview of WES and warehouse data · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-84329f769fcfa3bd2d6af444355678f9-1920x1080.png",
+        "alt": "Automated warehouse process diagram",
+        "caption": "Automated warehouse process diagram · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-587c8fef8f4a5467baa2f06b0dee63b4-1920x1080.png",
+        "alt": "Robotic case stacking and simulation",
+        "caption": "Robotic case stacking and simulation · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-e5adaf365e098daadc951af6aabf50a1-1920x1080.png",
+        "alt": "Warehouse management interface and site map",
+        "caption": "Warehouse management interface and site map · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-dd0bc5de7f696be14be298c47d6d15b0-1186x1082.png",
+        "alt": "Case-sequencing shuttle rack",
+        "caption": "Case-sequencing shuttle rack · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-dbab191c1590b509be3a190ceb9e7ffc-1779x1623.png",
+        "alt": "Handling area and conveyors",
+        "caption": "Handling area and conveyors · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-ded8b828e8b52a3237078c6a26aa9256-1186x1082.png",
+        "alt": "Robot picking cases from a pallet",
+        "caption": "Robot picking cases from a pallet · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-491bb00f83ba4c028aee0f62c6698818-1186x1082.png",
+        "alt": "Simulated case-picking operation",
+        "caption": "Simulated case-picking operation · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-9fb8c635ec0f61b5e88083d030ad1676-1186x1082.png",
+        "alt": "Mixed-load cart stacking plan",
+        "caption": "Mixed-load cart stacking plan · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-989ceebded77d6853a75b16f44d7d42a-1186x1082.png",
+        "alt": "Robot arm in the stacking cell",
+        "caption": "Robot arm in the stacking cell · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-d9bf6d413ec9301b5441091fc00475fa-1186x1082.png",
+        "alt": "Picking and transport area",
+        "caption": "Picking and transport area · Image: AEON / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/7505/6163/7505-6163-2a8f5221e60a20dc66204d27c24b3520-1186x1082.png",
+        "alt": "Simulation of multiple workstations",
+        "caption": "Simulation of multiple workstations · Image: AEON / PR TIMES"
+      }
+    ],
+    "videos": []
+  },
+  "tieriv-ntro-rita-autonomous-bus-acquisition-2026": {
+    "title": "NTRO acquires TIER IV autonomous bus for Australian transit trials",
+    "summary": "The 15-seat electric Rita bus has been tuned on a test track ahead of demonstrations and service trials.",
+    "sections": [
+      {
+        "heading": "From partnership to vehicle",
+        "paragraphs": [
+          "Australia’s NTRO has purchased a 15-seat electric bus with TIER IV’s automated driving system, following their 2024 collaboration. The vehicle is named Rita after Rita Excell, who helped establish an Australian autonomous-vehicle trial in 2015."
+        ]
+      },
+      {
+        "heading": "Local testing and demonstrations",
+        "paragraphs": [
+          "The partners tested and tuned the bus on a dedicated track for driverless demonstrations and conditional automation with a driver present. NTRO is offering transport agencies, operators, councils and airports in Australia and New Zealand demonstrations and service trials, including on public roads."
+        ]
+      },
+      {
+        "heading": "Trials are not a nationwide service",
+        "paragraphs": [
+          "The initiative targets short local trips and driver shortages, but names no permanent commercial route or launch date. Procurement and trials do not establish unrestricted driverless operation. Statements about lower costs and environmental benefits remain the project operators’ expectations."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://tier4.co.jp/hs-fs/hubfs/Imported_Blog_Media/20240319_Press_Release_Image.jpg",
+        "alt": "TIER IV and NTRO partnership graphic",
+        "caption": "TIER IV and NTRO partnership graphic · Image: TIER IV"
+      },
+      {
+        "url": "https://tier4.co.jp/hs-fs/hubfs/20261029%20press%20release%20image_02.jpg",
+        "alt": "Rita autonomous electric bus",
+        "caption": "Rita autonomous electric bus · Image: TIER IV"
+      }
+    ],
+    "videos": []
+  },
+  "angel-suit-h10-thailand-registration-announcement-2026": {
+    "title": "Angel Robotics reports Thai registration for Angel Suit H10",
+    "summary": "The walking-assistance wearable adds its third overseas registration after Malaysia and Vietnam.",
+    "sections": [
+      {
+        "heading": "A broader Thai lineup",
+        "paragraphs": [
+          "Electronic Times reports that Angel Robotics announced completion of Thai FDA registration for Angel Suit H10 on October 29. It is the model’s third overseas registration after Malaysia and Vietnam, complementing the Angel Legs M20 rehabilitation product already registered in Thailand."
+        ]
+      },
+      {
+        "heading": "Sensors guide assistance",
+        "paragraphs": [
+          "H10 launched in Korea in June of the preceding year. According to the company’s description, seven high-precision sensors analyze user movement and adapt assistance. Modes include walking, sitting and standing support, as well as resistance training."
+        ]
+      },
+      {
+        "heading": "Market access and deployment differ",
+        "paragraphs": [
+          "The company plans Southeast Asian expansion through local registrations. The report provides no Thai price, sales date or clinical results and relays the company’s announcement rather than reproducing a complete registration document. It does not establish identical treatment benefits for every user."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://img.etnews.com/news/article/2026/10/29/news-p.v1.20261029.5071d387bc9741e3bca7b79d5729b7e8_P1.jpg",
+        "alt": "Angel Suit H10 concept image (1)",
+        "caption": "Angel Suit H10 concept image (1) · Image: Electronic Times"
+      }
+    ],
+    "videos": []
+  },
+  "forcesteed-fos-agentic-robotics-development-2026": {
+    "title": "Forcesteed develops AI-assisted robot programming with human approval",
+    "summary": "Luqua combines taught motions, rule-based control and VLA skills within FOS, with product development continuing.",
+    "sections": [
+      {
+        "heading": "Turning requests into steps",
+        "paragraphs": [
+          "Forcesteed has developed Agentic Robotics within FOS. Its local Luqua agent decomposes a requested job into stages such as finding, approaching, grasping, placing and checking, then assembles a node program through LEIVOR. Local operation targets sites without reliable internet access."
+        ]
+      },
+      {
+        "heading": "Combining control methods",
+        "paragraphs": [
+          "Individual stages can use rule-based vision and planning, a learned VLA model or manually taught motion. An operator identifies a failed stage and the agent proposes a targeted revision. Approved motions, skills and tasks become reusable assets to reduce repeated programming."
+        ]
+      },
+      {
+        "heading": "Approval before execution",
+        "paragraphs": [
+          "People review, edit or approve programs and define exclusion zones and stop conditions. The agent reasons before execution and after failures, while existing controllers execute motions. Internal and partner trials precede productization; simulation success does not establish real-machine safety."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-c64753529f4dca25cb25fe06461694ce-2560x1440.png",
+        "alt": "Luqua motion-program creation interface",
+        "caption": "Luqua motion-program creation interface · Image: Forcesteed Robotics / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-5e8b813df1438b52d5bdac29e9764ffc-2557x1437.png",
+        "alt": "Human and agent collaboration cycle",
+        "caption": "Human and agent collaboration cycle · Image: Forcesteed Robotics / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-490a2e3b5ba11d48919e896e094ed164-1006x1006.jpg",
+        "alt": "Professor Hironobu Fujiyoshi, quoted in the announcement",
+        "caption": "Professor Hironobu Fujiyoshi, quoted in the announcement · Image: Forcesteed Robotics / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-d851d50c7afdc624b9e4ff7a40dc4bb1-1672x941.png",
+        "alt": "FOS concept architecture",
+        "caption": "FOS concept architecture · Image: Forcesteed Robotics / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-0aec84780e82bb1e4ba589126dc6d236-736x338.png",
+        "alt": "Forcesteed graphic included in the article",
+        "caption": "Forcesteed graphic included in the article · Image: Forcesteed Robotics / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/157769/40/157769-40-6645acf99392f70c1026ab3e163f42d1-1138x639.png",
+        "alt": "Agentic Robotics announcement gallery graphic",
+        "caption": "Agentic Robotics announcement gallery graphic · Image: Forcesteed Robotics / PR TIMES"
+      }
+    ],
+    "videos": []
+  },
+  "nec-850mhz-halow-tractor-kilometer-trial-2026": {
+    "title": "NEC partners test Wi-Fi HaLow tractor control over one kilometer",
+    "summary": "The Tokachi trial used 850 MHz connectivity for continuous video and simulated yam cultivation.",
+    "sections": [
+      {
+        "heading": "A large-field trial",
+        "paragraphs": [
+          "JA Obihiro Kawanishi, NEC, NEC Networks & System Integration and Morse Micro disclosed a trial with a Yanmar robotic tractor in Tokachi, Hokkaido. It used 850 MHz Wi-Fi HaLow for remote monitoring and control up to 1,000 meters, alongside autonomous operation in simulated yam cultivation."
+        ]
+      },
+      {
+        "heading": "Continuous video over distance",
+        "paragraphs": [
+          "The team used MM8108-EKH01 evaluation hardware to measure throughput against range and installed it on the tractor. The tested 850 MHz band avoids Japanese transmission-time constraints associated with 920 MHz. Participants reported no range shortfall or video-delay problem that disrupted this trial."
+        ]
+      },
+      {
+        "heading": "Multi-vehicle work remains ahead",
+        "paragraphs": [
+          "Next steps include considering simultaneous tractors and AI-based work monitoring. This site-specific result is not a one-kilometer guarantee in every environment. Detailed latency and throughput figures were not provided, and the same spectrum arrangements do not automatically apply in other countries."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/82252/216/82252-216-36c497867ce8534cd89f0a6a885bfe43-886x588.png",
+        "alt": "Tractor trial field in Tokachi",
+        "caption": "Tractor trial field in Tokachi · Image: NEC Networks & System Integration / PR TIMES"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/82252/216/82252-216-0f091642d4734b0890694cef699d05bd-1297x846.jpg",
+        "alt": "Communication equipment and field evaluation team",
+        "caption": "Communication equipment and field evaluation team · Image: NEC Networks & System Integration / PR TIMES"
+      }
+    ],
+    "videos": []
+  },
+  "bleu-five-million-preseed-industrial-learning-2026": {
+    "title": "Bleu raises €5 million for demonstration-based factory robot learning",
+    "summary": "The claimed workflow takes about 20 minutes of demonstrations plus another 20 minutes before execution.",
+    "sections": [
+      {
+        "heading": "Funding product development",
+        "paragraphs": [
+          "Paris-based Bleu Robotics raised €5 million in pre-seed funding led by Contrarian Ventures and OVNI Capital. Its software targets factories with frequent product and process changes. Initial industrial partners are lined up, while the product for routine deployment remains under development."
+        ]
+      },
+      {
+        "heading": "Understanding the timing",
+        "paragraphs": [
+          "The co-founder describes roughly 20 minutes of handheld-gripper demonstrations and another 20 minutes before robot execution, about 40 minutes overall. Training and inference run onboard. Demonstrations use Unitree G1 and Franka hardware, but the turnaround remains a company claim."
+        ]
+      },
+      {
+        "heading": "Limits and business model",
+        "paragraphs": [
+          "The approach incorporates pre-trained perception rather than learning everything from scratch. It focuses on rigid objects, excludes textiles for now and is designed to stop for help in unfamiliar situations. Autonomous travel between workstations remains future work. The proposed model is a per-robot monthly software subscription through manufacturers and integrators."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp",
+        "alt": "Dual-arm robot at the engraving workstation",
+        "caption": "Dual-arm robot at the engraving workstation · Image: Bleu Robotics / Humanoids Daily"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-demonstration-Gw7Ve2bh8UbLHacqQ0dXsk4hCwhkJw.webp",
+        "alt": "Operator collecting demonstrations with a handheld gripper",
+        "caption": "Operator collecting demonstrations with a handheld gripper · Image: Bleu Robotics / Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=G5eSArN0Lck",
+        "title": "Bleu Robotics engraving-workstation demonstration"
+      }
+    ]
+  },
+  "agibot-worken-go3-linku-innovation-day-2026": {
+    "title": "AGIBOT proposes Worken output metric alongside GO-3 and Link-U roadmap",
+    "summary": "Innovation Day adds an effective-work metric and new models beyond the previously reported G2 Max launch.",
+    "sections": [
+      {
+        "heading": "Measuring useful output",
+        "paragraphs": [
+          "At Innovation Day on October 29, AGIBOT proposed Worken: active robot count multiplied by autonomous working hours and an output-efficiency ratio against a task benchmark. It distinguishes productive activity from powered-on time, but remains a proposed company framework rather than an established industry standard."
+        ]
+      },
+      {
+        "heading": "Reasoning and interaction",
+        "paragraphs": [
+          "GO-3 Preview uses a WRAM framework to link reasoning, prediction and action selection. WITA-Omni 1.0 combines vision, speech, conversation and movement. Reported benchmark leadership is not independently verified in this coverage. AHA3 hardware and new OmniHand devices support the broader architecture."
+        ]
+      },
+      {
+        "heading": "Open-source plans are pending",
+        "paragraphs": [
+          "Selected partners are trialing Link-U OS 1.0, with full open sourcing planned by the end of 2026 rather than already complete. This update focuses on the metric, models and operating system. G2 Max, also featured at the event, was covered previously and is not treated here as another launch."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/4a245d5c-4a8e-4f42-87af-eb8e6a3f5c1d/b1446c98-35d6-48d2-a30e-fd76e7b82e39.webp",
+        "alt": "AGIBOT Innovation Day 2026 stage",
+        "caption": "AGIBOT Innovation Day 2026 stage · Image: AGIBOT / Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/4a245d5c-4a8e-4f42-87af-eb8e6a3f5c1d/eda55256-5dd5-4bf3-abc3-4384d8bb7835.webp",
+        "alt": "Peng Zhihui presenting Worken",
+        "caption": "Peng Zhihui presenting Worken · Image: AGIBOT / Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/4a245d5c-4a8e-4f42-87af-eb8e6a3f5c1d/3a854a24-e1af-4cad-a823-24c50ced54d3.webp",
+        "alt": "OmniHand hands and gripper",
+        "caption": "OmniHand hands and gripper · Image: AGIBOT / Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/4a245d5c-4a8e-4f42-87af-eb8e6a3f5c1d/9a0d346f-de58-4591-addc-68a270661692.webp",
+        "alt": "Yao Maoqing presenting GO-3 Preview",
+        "caption": "Yao Maoqing presenting GO-3 Preview · Image: AGIBOT / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "scale-huggingface-fineart-dataset-vla-release-2026": {
+    "title": "Scale AI and Hugging Face release FineART with over 500,000 labeled steps",
+    "summary": "The 40,543-episode dataset accompanies FineART-VLA, separating subtask planning from motor control.",
+    "sections": [
+      {
+        "heading": "Labels below the task level",
+        "paragraphs": [
+          "Scale AI and Hugging Face released FineART with 40,543 episodes, 1,718 hours, 151 tasks and 533,913 subtasks. Timestamped steps have natural-language descriptions, exposing sequences such as opening a box before removing objects instead of only a single overall instruction."
+        ]
+      },
+      {
+        "heading": "Data and model structure",
+        "paragraphs": [
+          "Pick-and-place and sorting account for 77% of the data; the remaining 23% covers textiles, cables, tools and precision insertion. FineART-VLA takes images, instructions and robot state, predicts subtasks and converts them into actions. Separate teams collected, annotated and validated the data."
+        ]
+      },
+      {
+        "heading": "Available for further evaluation",
+        "paragraphs": [
+          "The dataset, model and training tools integrate with Hugging Face’s LeRobot. The authors report 3,400 real-world evaluations and spatial, long-horizon and cross-hardware capabilities. The post supplies no universal success rate for all tasks; deployment requires evaluation on the intended robot and environment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sanity.io/images/50zba0eo/labs/89f241d063df476a0f6b1d3922e60bfbfb60a40d-3538x1257.png",
+        "alt": "FineART dataset structure (1)",
+        "caption": "FineART dataset structure (1) · Image: Scale AI"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://fast.wistia.net/embed/iframe/vwhdqzwzyd",
+        "title": "Introducing FineART by Scale AI and Hugging Face",
+        "note": "Open the video in the original Wistia player."
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/10s3six2bc",
+        "title": "FineART-VLA demonstration",
+        "note": "Open the video in the original Wistia player."
+      },
+      {
+        "url": "https://fast.wistia.net/embed/iframe/ivillz68bz",
+        "title": "FineART evaluation examples",
+        "note": "Open the video in the original Wistia player."
+      }
+    ]
+  },
+  "pi-semicon-six-axis-maglev-demonstrators-2026": {
+    "title": "PI details six-axis MagLev demonstrators for semiconductor processing",
+    "summary": "Magnetic levitation removes bearing contact and supports active position and alignment correction.",
+    "sections": [
+      {
+        "heading": "Contact-free positioning",
+        "paragraphs": [
+          "PI detailed magnetic-levitation demonstrators presented at SEMICON West 2026, covering linear, rotary and AFM-scanning platforms with active six-degree-of-freedom control. Applications include bonding, wafer inspection and surface metrology, avoiding mechanical bearing friction, lubricant and bearing-generated particles."
+        ]
+      },
+      {
+        "heading": "Different motion configurations",
+        "paragraphs": [
+          "The linear stage has 400 mm primary travel and micrometer-scale auxiliary adjustment, supports bonding forces above 100 N and configurations up to 6g acceleration. The rotary version adjusts height and tilt during continuous rotation. The AFM scanner lists 50-picometer X/Y positioning resolution over scan ranges up to 50 mm."
+        ]
+      },
+      {
+        "heading": "Resolution is not universal accuracy",
+        "paragraphs": [
+          "Active multi-axis control can correct errors electronically without stacking multiple stages. The 50-picometer figure is positioning resolution, not proof of absolute accuracy under every condition. The announcement describes demonstrators and does not specify prices, delivery dates or customer-line performance."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "san-bernardino-seneca-five-aircraft-contract-2026": {
+    "title": "San Bernardino contracts for five Seneca firefighting aircraft",
+    "summary": "The Strike Team includes a towable operations base and software, with integration planned before the 2027 fire season.",
+    "sections": [
+      {
+        "heading": "Adding initial-attack capability",
+        "paragraphs": [
+          "San Bernardino County Fire announced a contract for five Seneca autonomous suppression aircraft, a towable operations base and autonomy software. The design allows one pilot to oversee multiple aircraft, adding capability to existing resources rather than replacing firefighters."
+        ]
+      },
+      {
+        "heading": "Hard-to-reach and nighttime work",
+        "paragraphs": [
+          "The release says the five-aircraft team can deliver over 500 gallons of finished foam and aims to reach new fires within 5–10 minutes or less. Roles include night operations, structure protection and hotspot suppression. These are supplier-described capabilities, not measured routine results from this agency."
+        ]
+      },
+      {
+        "heading": "Reading the delivery schedule",
+        "paragraphs": [
+          "Although the release’s introductory strapline mentions 2026, its detailed schedule places deliveries in the first and second quarters of 2027, with prior training and integration before peak fire season. This report follows that detailed schedule and notes the inconsistency. Contract value and agency test results are undisclosed."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
   }
 }
