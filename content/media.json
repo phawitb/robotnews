@@ -3795,5 +3795,255 @@
   "san-bernardino-seneca-five-aircraft-contract-2026": {
     "images": [],
     "videos": []
+  },
+  "globallogic-haystack-hospital-platform-design-report-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured.jpg",
+        "alt": "หุ่นยนต์ฆ่าเชื้อ UV ในห้องโรงพยาบาล",
+        "caption": "หุ่นยนต์ฆ่าเชื้อ UV ในห้องโรงพยาบาล · ภาพ: GlobalLogic"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=tMfobhwvsAg",
+        "embed": "https://www.youtube-nocookie.com/embed/tMfobhwvsAg",
+        "title": "Violet AI: หุ่นยนต์ UV สำหรับโรงพยาบาล"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=VTRVKb-zAcU",
+        "embed": "https://www.youtube-nocookie.com/embed/VTRVKb-zAcU",
+        "title": "Violet Gen4 ในงาน ASHE 2025"
+      }
+    ]
+  },
+  "liberai-liber0-60-task-evaluation-release-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026.png",
+        "alt": "ผลทดสอบ Liber-0 กับงานเป้าหมายใหม่",
+        "caption": "ผลทดสอบ Liber-0 กับงานเป้าหมายใหม่ · ภาพ: LiberAI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-image1-november2026.png",
+        "alt": "แนวคิดถ่ายโอนทักษะคนไปยังหุ่นยนต์ LEO",
+        "caption": "แนวคิดถ่ายโอนทักษะคนไปยังหุ่นยนต์ LEO · ภาพ: LiberAI"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=wW0lrimeWsw",
+        "embed": "https://www.youtube-nocookie.com/embed/wW0lrimeWsw",
+        "title": "สาธิต Liber-0 จัดการวัตถุหลายขั้น"
+      },
+      {
+        "kind": "link",
+        "url": "https://x.com/liberai_robot/status/2117803284039905456",
+        "title": "โพสต์สาธิต Liber-0 จากผู้พัฒนา",
+        "note": "เปิดดูสื่อต้นฉบับบน X ซึ่งไม่ได้ฝังผู้เล่นในเว็บไซต์นี้"
+      }
+    ]
+  },
+  "iso21423-mobile-robot-interoperability-report-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/AdobeStock_2225516731-copy.jpg",
+        "alt": "ภาพจำลองการสื่อสารระหว่างหุ่นยนต์เคลื่อนที่",
+        "caption": "ภาพจำลองการสื่อสารระหว่างหุ่นยนต์เคลื่อนที่ · ภาพ: mansyupasara AI / Adobe Stock"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=6TD7VKJ8jnc",
+        "embed": "https://www.youtube-nocookie.com/embed/6TD7VKJ8jnc",
+        "title": "การสาธิตจัดการหุ่นยนต์หลายระบบใน Automate 2026"
+      }
+    ]
+  },
+  "agility-nasdaq-aglt-trading-business-combination-2026": {
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aec6faf77fbae9b23a165ea_Press-Release_051126.jpg",
+        "alt": "ภาพประกอบประกาศเข้าซื้อขาย Nasdaq ของ Agility",
+        "caption": "ภาพประกอบประกาศเข้าซื้อขาย Nasdaq ของ Agility · ภาพ: Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "serve-physical-ai-services-bedrock-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "nippybot-angel-funding-uk-deployment-2026": {
+    "images": [],
+    "videos": []
+  },
+  "renesas-rzt2n-four-axis-mpu-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "topr-dji-dock4-mountain-rescue-pilot-2026": {
+    "images": [],
+    "videos": []
+  },
+  "estun-robodk-europe-integration-partnership-2026": {
+    "images": [],
+    "videos": []
+  },
+  "anker-eufy-e35-c30-edge-japan-sales-2026": {
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 1",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 1 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-16ff1a4178c4dbce76919871b7c5658d-3900x975.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 2",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 2 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-048ddabacf07e5ae8c87176be19eb8eb-3900x975.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 3",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 3 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-92bd4ec12845e5b1cd9188f5a2cb04c5-1652x1652.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 4",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 4 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2b3452eb0aec8fcf16e8262392c245f0-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 5",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 5 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c5e9b000310190ec6968a8161de8d3ce-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 6",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 6 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-bc7208b8495dc3bc904431c76108e564-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 7",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 7 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-84b5bcef35e9ce47c43e275d85d2e33c-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 8",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 8 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-78f04ea6cbc4ab6d9bbd7202f775ce27-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 9",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 9 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-959dc4b4888e250c8067bd0f37c79bc6-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 10",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 10 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c4a93481ee373d07398be8e02bfe37ca-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 11",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 11 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-9696a5f5728c28fbccc924c4085ed210-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 12",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 12 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-17b92100159cf7b3c2bcf1c86498f524-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 13",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 13 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-637088784121653c9fe6bf04748b7a39-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 14",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 14 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-87e9682a47de3c5cc54fe2a49c124dae-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 15",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 15 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-1d2cdafe8078296aebdd746eac8da4f0-1262x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 16",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 16 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a2d0e4ce03df6c79ab646bf7b926a88e-1063x589.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 17",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 17 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2fa5e3342dfff89f250aea40dfcd3c47-2090x2372.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 18",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 18 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-60d8a3d853492380b979c271269b0a88-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 19",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 19 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-523493b6dceca03dff52927da493228f-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 20",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 20 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-0bf89e8618704365c50b8bf82bc00123-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 21",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 21 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-7cdb70276454d9a8b39aa911442987c9-3900x3900.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 22",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 22 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c8e9c53c749f72da53158be9f1d265e0-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 23",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 23 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-3fc681bc2c9c14fd083ea2e47142f64a-1464x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 24",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 24 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-5cf9a5c0775e418c252d03586d95b2fb-1262x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 25",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 25 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prtimes.jp/i/16775/684/resize/d16775-684-5a4ea5aa4eb8c99bf844-22.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 26",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 26 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-108a23d53dc8c33f7f6799e8aa7c5ef5-1454x600.png",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 27",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 27 · ภาพ: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a0866a7509b934ae3c2e136795924f9f-3654x1800.jpg",
+        "alt": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 28",
+        "caption": "ภาพผลิตภัณฑ์และข้อมูล Eufy E35 / C30 Edge ชุดที่ 28 · ภาพ: Anker Japan"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=_WANUp_o5NI",
+        "embed": "https://www.youtube-nocookie.com/embed/_WANUp_o5NI",
+        "title": "วิดีโอแนะนำ Eufy Omni E35 โดยผู้ผลิต"
+      }
+    ]
   }
 }

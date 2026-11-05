@@ -8562,5 +8562,464 @@
     ],
     "images": [],
     "videos": []
+  },
+  "globallogic-haystack-hospital-platform-design-report-2026": {
+    "title": "GlobalLogic explains the reusable design behind Haystack’s hospital robot",
+    "summary": "A new engineering interview describes a modular mobile base and a caregiver-following mode for complex hospital environments.",
+    "sections": [
+      {
+        "heading": "New details about an existing project",
+        "paragraphs": [
+          "A November 4 interview in The Robot Report describes GlobalLogic’s engineering work with Haystack Robotics, begun during the pandemic. The aim was more consistent UV disinfection with less manual effort. This is new reporting on the design, not a new robot launch or a new disinfection-efficacy trial."
+        ]
+      },
+      {
+        "heading": "A reusable mobile architecture",
+        "paragraphs": [
+          "The team separated the mobile base from its UV payload so other equipment could be mounted later. The architecture combines perception, onboard processing and ROS-based programming and sensor fusion. Engineers said motor-control approaches and software components have already informed other projects."
+        ]
+      },
+      {
+        "heading": "Caregivers remain part of the workflow",
+        "paragraphs": [
+          "Alongside autonomous navigation, a following mode lets a caregiver open doors and prepare rooms. Cost, return on investment, medical standards and staff acceptance remain barriers. Crowded corridors and urgent tasks require workflow changes; the report does not establish that robots can immediately replace staff across hospital duties."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured.jpg",
+        "alt": "UV disinfection robot in a hospital room",
+        "caption": "UV disinfection robot in a hospital room · Credit: GlobalLogic"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=tMfobhwvsAg",
+        "title": "Violet AI: a UV robot for hospitals"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=VTRVKb-zAcU",
+        "title": "Violet Gen4 at ASHE 2025"
+      }
+    ]
+  },
+  "liberai-liber0-60-task-evaluation-release-2026": {
+    "title": "LiberAI reports 36% success for Liber-0 on 60 new manipulation tasks",
+    "summary": "The model combines video, glove recordings and robot data, while difficult multi-step tasks remain substantially harder than pick-and-place.",
+    "sections": [
+      {
+        "heading": "A company-reported evaluation",
+        "paragraphs": [
+          "LiberAI described Liber-0 on November 4 in sponsored content in The Robot Report. Pretrained on more than 2.2 million hours of human experience, it achieved 36% overall success across 600 trials of 60 GPT-6-proposed tasks. These are company-reported results, not independent certification."
+        ]
+      },
+      {
+        "heading": "Connecting observation and action",
+        "paragraphs": [
+          "Human video, LiberSense Glove motion recordings and an embodiment representation connect human experience to robot control. The model predicts future observations and actions together. Zero-shot here means no robot demonstrations collected specifically for the target tasks; robot data was still part of pretraining."
+        ]
+      },
+      {
+        "heading": "Complex manipulation remains difficult",
+        "paragraphs": [
+          "Success was 63.5% for pick-and-place, 34% for other manipulation and 10.5% for the challenging or long-horizon group. The glove currently records hand poses and trajectories, not contact or force. Insertion, fastening and soft-material handling therefore remain important development areas. The evaluation does not establish general industrial readiness."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026.png",
+        "alt": "Liber-0 evaluation on new target tasks",
+        "caption": "Liber-0 evaluation on new target tasks · Credit: LiberAI"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-image1-november2026.png",
+        "alt": "Human-to-robot skill transfer to LEO",
+        "caption": "Human-to-robot skill transfer to LEO · Credit: LiberAI"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=wW0lrimeWsw",
+        "title": "Liber-0 multi-step manipulation demonstration"
+      },
+      {
+        "url": "https://x.com/liberai_robot/status/2117803284039905456",
+        "title": "Liber-0 demonstration post from the developer",
+        "note": "Open the original media on X; its player is not embedded on this site."
+      }
+    ]
+  },
+  "iso21423-mobile-robot-interoperability-report-2026": {
+    "title": "ISO 21423 sets a common communication basis for mixed robot fleets",
+    "summary": "The interoperability standard covers robots, fleet managers and building systems; it is not a safety certification.",
+    "sections": [
+      {
+        "heading": "A basis for mixed fleets",
+        "paragraphs": [
+          "A November 3 report says A3 announced ISO 21423:2026 the previous day. Developed by ISO Technical Committee 299, it addresses communication and interoperability between industrial mobile robots such as AGVs and AMRs from different suppliers. Publication does not mean every vendor already supports it."
+        ]
+      },
+      {
+        "heading": "Exchanging state and requests",
+        "paragraphs": [
+          "The standard defines exchanges and action requests between robots, fleet managers and other equipment. Information includes location, speed, direction, condition, tasks and availability. A3 expects fewer path conflicts and better efficiency, but the report provides no universal throughput or return-on-investment result."
+        ]
+      },
+      {
+        "heading": "Beyond robot-to-robot communication",
+        "paragraphs": [
+          "The scope includes tended machines, ERP systems, lifts, automatic doors and alarms, as well as people’s mobile or wearable devices. This is a non-safety standard. Buyers still need to establish actual implementation support and assess site safety separately before connecting mixed fleets."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/AdobeStock_2225516731-copy.jpg",
+        "alt": "Illustration of communication between mobile robots",
+        "caption": "Illustration of communication between mobile robots · Credit: mansyupasara AI / Adobe Stock"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=6TD7VKJ8jnc",
+        "title": "Multi-system robot orchestration at Automate 2026"
+      }
+    ]
+  },
+  "agility-nasdaq-aglt-trading-business-combination-2026": {
+    "title": "Agility begins Nasdaq trading after closing its business combination",
+    "summary": "The completed transaction brings approximately $465 million in gross capital, advancing beyond the previously announced shareholder-vote timetable.",
+    "sections": [
+      {
+        "heading": "From a vote timetable to completion",
+        "paragraphs": [
+          "Agility announced November 5 trading on Nasdaq under AGLT and AGLTW following its completed combination with Churchill Capital Corp XI. The transaction and related financings raised approximately $465 million before expenses. This advances beyond earlier reporting about the vote timetable and estimated proceeds."
+        ]
+      },
+      {
+        "heading": "Funding commercial expansion",
+        "paragraphs": [
+          "Proceeds are intended to support orders, deployments, Digit production and AI development. The company reports more than 65,000 operating hours and over $300 million in multi-year Digit 5 orders. Those orders remain subject to contractual milestones, product features and specifications."
+        ]
+      },
+      {
+        "heading": "Delivery targets remain prospective",
+        "paragraphs": [
+          "Early customer access to Digit 5 is expected in the first half of 2027, with general availability targeted for late 2027. RoboFab is designed for up to 10,000 robots annually; that is design capacity, not current output. Completing the listing does not establish that all manufacturing and delivery targets have been achieved."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aec6faf77fbae9b23a165ea_Press-Release_051126.jpg",
+        "alt": "Agility Nasdaq trading announcement image",
+        "caption": "Agility Nasdaq trading announcement image · Credit: Agility Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "serve-physical-ai-services-bedrock-launch-2026": {
+    "title": "Serve opens its fleet technology through Physical AI Services",
+    "summary": "Launch customer Bedrock Robotics uses Serve Link to connect construction equipment across multiple network types.",
+    "sections": [
+      {
+        "heading": "Commercializing fleet infrastructure",
+        "paragraphs": [
+          "Serve Robotics launched Physical AI Services on November 5 to offer technology developed for its own fleets to other companies. It reports over 2,000 deployed robots across more than 40 cities and 27 hospitals. This is a new infrastructure offering, not a new delivery-robot model."
+        ]
+      },
+      {
+        "heading": "Three parts of the offering",
+        "paragraphs": [
+          "Serve Link connects machines to offboard computing and supervision. Serve Data Curator identifies valuable events within large datasets for model training. A foundation-model data catalog draws on sidewalk deployments, including terrain and infrastructure. The release does not disclose pricing, data-license terms or comparative benchmarks."
+        ]
+      },
+      {
+        "heading": "A construction customer",
+        "paragraphs": [
+          "Bedrock Robotics is among launch customers, connecting machines over Wi-Fi, LTE, 5G and satellite through Serve Link. Serve says the services support thousands of vehicles across roughly a dozen industries, including its own fleet. These are company-reported figures; connectivity does not imply every machine operates without supervision."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "nippybot-angel-funding-uk-deployment-2026": {
+    "title": "Nippybot raises angel funding for UK delivery-robot deployments",
+    "summary": "The Middlesbrough startup plans more robots and site deployments spanning hospitals, campuses and other controlled environments.",
+    "sections": [
+      {
+        "heading": "Funding deployment work",
+        "paragraphs": [
+          "Nippybot disclosed an angel investment round of undisclosed size in a November 5 announcement. Based in Middlesbrough in the Tees Valley, it develops robots for short-distance transport of food, parcels and other goods. Funding supports additional robot production, technology development and commercial partnerships."
+        ]
+      },
+      {
+        "heading": "Targeting repetitive goods movement",
+        "paragraphs": [
+          "The company is exploring logistics facilities, hospitals, universities, business parks and other controlled sites. Its stated objective is reliable everyday delivery, beyond simply demonstrating movement between two points. Opportunities are being explored across these sectors rather than presented as completed nationwide deployment."
+        ]
+      },
+      {
+        "heading": "Human oversight remains available",
+        "paragraphs": [
+          "Autonomous navigation is paired with remote operational capabilities so people can supervise when necessary. Founder Samson Adewole says additional sites will provide operational data and new problems to solve. The announcement does not disclose a production quantity, newly contracted customer names or measured delivery-success rates."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "renesas-rzt2n-four-axis-mpu-launch-2026": {
+    "title": "Renesas launches RZ/T2N for four-axis control and industrial networking",
+    "summary": "The MPU and evaluation board are available, while functional-safety software is planned for the second half of 2027.",
+    "sections": [
+      {
+        "heading": "Consolidating industrial functions",
+        "paragraphs": [
+          "Renesas introduced the 64-bit RZ/T2N MPU on November 5, combining real-time motor control, industrial Ethernet and application processing. It targets industrial robots, multi-axis servos and PLCs. Fewer chips could simplify boards, but the announcement gives no universal percentage saving in cost or footprint."
+        ]
+      },
+      {
+        "heading": "Different cores for different workloads",
+        "paragraphs": [
+          "Two Cortex-A55 cores run at up to 1.2 GHz, alongside two Cortex-R52 cores at up to 800 MHz. Integrated peripherals support up to four motor axes. EtherCAT, PROFINET RT/IRT, EtherNet/IP and TSN support controller and device roles, with Linux handling application workloads."
+        ]
+      },
+      {
+        "heading": "Available hardware and future software",
+        "paragraphs": [
+          "The MPU and evaluation board are available, with secure boot, secure firmware updates and Arm TrustZone. Functional-safety software solutions are planned for the second half of 2027. Developers must distinguish currently available hardware from that roadmap and assess the safety requirements of their complete system."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "topr-dji-dock4-mountain-rescue-pilot-2026": {
+    "title": "Poland’s TOPR trials DJI Dock 4 for early mountain-rescue assessment",
+    "summary": "Relay stations, thermal imagery and a loudspeaker support reconnaissance before rescue teams commit to difficult terrain.",
+    "sections": [
+      {
+        "heading": "A new rescue-service trial",
+        "paragraphs": [
+          "A November 4 report says TOPR, Poland’s volunteer Tatra mountain rescue service, has begun a DJI Dock 4 pilot after using earlier equipment. Launching from a rooftop dock before ground teams depart can help determine whether assistance is needed and which people and equipment to send."
+        ]
+      },
+      {
+        "heading": "Reconnaissance and communication",
+        "paragraphs": [
+          "A Matrice 5TD loudspeaker lets rescuers give instructions and ask questions, with people responding through gestures. Thermal and low-light imagery help identify headlamps and terrain. O4 relay stations on towers and distant peaks are being used to maintain links across terrain that blocks signals."
+        ]
+      },
+      {
+        "heading": "A trial supporting ground rescuers",
+        "paragraphs": [
+          "The manufacturer’s 25-second battery-swap figure comes from controlled testing, and features depend on equipment and region. Daily hazard and trail monitoring are also being explored. No rescue-count or measured response-time reduction is disclosed. This is a TOPR deployment development, distinct from the earlier Dock 4 product launch."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "estun-robodk-europe-integration-partnership-2026": {
+    "title": "ESTUN and RoboDK formalize European robot-programming partnership",
+    "summary": "The agreement follows months of integration testing and connects simulation with program generation for ESTUN controllers.",
+    "sections": [
+      {
+        "heading": "An agreement after joint engineering",
+        "paragraphs": [
+          "ESTUN Robotics and RoboDK announced their agreement on November 4 at ESTUN Robotics Iberia in DFactory Barcelona. Technical teams had spent several months developing, testing and refining the integration before formalizing the partnership for integrators and industrial users."
+        ]
+      },
+      {
+        "heading": "Simulation before deployment",
+        "paragraphs": [
+          "RoboDK supports simulation and offline programming for ESTUN robots, including direct generation of controller programs. Integrators can customize post-processors for their applications. The companies expect easier validation and shorter commissioning, but disclose no average time saving or comparative field benchmark."
+        ]
+      },
+      {
+        "heading": "Local support and expansion plans",
+        "paragraphs": [
+          "ESTUN emphasizes European engineering, applications and support teams from feasibility through after-sales service. The partners intend to explore extending the collaboration to other European operations, including the Polish factory. That expansion is a plan, not evidence that every facility has completed deployment."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "anker-eufy-e35-c30-edge-japan-sales-2026": {
+    "title": "Anker opens Japanese Eufy E35 preorders and C30 Edge sales",
+    "summary": "Both robot vacuums use onboard cyclonic dust separation and automatic mop care; E35 general sales are scheduled for November 17.",
+    "sections": [
+      {
+        "heading": "Two Japanese market launches",
+        "paragraphs": [
+          "Anker Japan opened Eufy Robot Vacuum Omni E35 preorders on November 5, with general sales scheduled for November 17 at ¥199,900 including tax. C30 Edge sales began November 5 at ¥129,900. Both use onboard cyclonic dust separation to reduce filter clogging. No Thai price is announced in this release."
+        ]
+      },
+      {
+        "heading": "Different cleaning hardware",
+        "paragraphs": [
+          "E35 offers up to 35,000 Pa suction, a continuously washed roller mop extending 32 mm, and AI.See 3.0 recognition of over 280 object types with LED illumination. C30 Edge has the same stated peak suction, dual rotating mops extending 7.6 cm and a station approximately 31.5 cm tall."
+        ]
+      },
+      {
+        "heading": "Laboratory claims have limits",
+        "paragraphs": [
+          "The manufacturer claims up to 365 days of sustained high suction under test conditions. E35’s reported removal of over 99% of certain microbes refers to wiping or mop-washing tests. These results do not cover every bacterium or virus, and performance varies with the home and operating mode; they are not universal real-world outcomes."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 1",
+        "caption": "Eufy E35 / C30 Edge product and information image 1 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-16ff1a4178c4dbce76919871b7c5658d-3900x975.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 2",
+        "caption": "Eufy E35 / C30 Edge product and information image 2 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-048ddabacf07e5ae8c87176be19eb8eb-3900x975.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 3",
+        "caption": "Eufy E35 / C30 Edge product and information image 3 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-92bd4ec12845e5b1cd9188f5a2cb04c5-1652x1652.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 4",
+        "caption": "Eufy E35 / C30 Edge product and information image 4 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2b3452eb0aec8fcf16e8262392c245f0-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 5",
+        "caption": "Eufy E35 / C30 Edge product and information image 5 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c5e9b000310190ec6968a8161de8d3ce-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 6",
+        "caption": "Eufy E35 / C30 Edge product and information image 6 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-bc7208b8495dc3bc904431c76108e564-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 7",
+        "caption": "Eufy E35 / C30 Edge product and information image 7 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-84b5bcef35e9ce47c43e275d85d2e33c-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 8",
+        "caption": "Eufy E35 / C30 Edge product and information image 8 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-78f04ea6cbc4ab6d9bbd7202f775ce27-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 9",
+        "caption": "Eufy E35 / C30 Edge product and information image 9 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-959dc4b4888e250c8067bd0f37c79bc6-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 10",
+        "caption": "Eufy E35 / C30 Edge product and information image 10 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c4a93481ee373d07398be8e02bfe37ca-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 11",
+        "caption": "Eufy E35 / C30 Edge product and information image 11 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-9696a5f5728c28fbccc924c4085ed210-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 12",
+        "caption": "Eufy E35 / C30 Edge product and information image 12 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-17b92100159cf7b3c2bcf1c86498f524-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 13",
+        "caption": "Eufy E35 / C30 Edge product and information image 13 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-637088784121653c9fe6bf04748b7a39-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 14",
+        "caption": "Eufy E35 / C30 Edge product and information image 14 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-87e9682a47de3c5cc54fe2a49c124dae-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 15",
+        "caption": "Eufy E35 / C30 Edge product and information image 15 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-1d2cdafe8078296aebdd746eac8da4f0-1262x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 16",
+        "caption": "Eufy E35 / C30 Edge product and information image 16 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a2d0e4ce03df6c79ab646bf7b926a88e-1063x589.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 17",
+        "caption": "Eufy E35 / C30 Edge product and information image 17 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2fa5e3342dfff89f250aea40dfcd3c47-2090x2372.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 18",
+        "caption": "Eufy E35 / C30 Edge product and information image 18 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-60d8a3d853492380b979c271269b0a88-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 19",
+        "caption": "Eufy E35 / C30 Edge product and information image 19 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-523493b6dceca03dff52927da493228f-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 20",
+        "caption": "Eufy E35 / C30 Edge product and information image 20 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-0bf89e8618704365c50b8bf82bc00123-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 21",
+        "caption": "Eufy E35 / C30 Edge product and information image 21 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-7cdb70276454d9a8b39aa911442987c9-3900x3900.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 22",
+        "caption": "Eufy E35 / C30 Edge product and information image 22 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c8e9c53c749f72da53158be9f1d265e0-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 23",
+        "caption": "Eufy E35 / C30 Edge product and information image 23 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-3fc681bc2c9c14fd083ea2e47142f64a-1464x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 24",
+        "caption": "Eufy E35 / C30 Edge product and information image 24 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-5cf9a5c0775e418c252d03586d95b2fb-1262x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 25",
+        "caption": "Eufy E35 / C30 Edge product and information image 25 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prtimes.jp/i/16775/684/resize/d16775-684-5a4ea5aa4eb8c99bf844-22.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 26",
+        "caption": "Eufy E35 / C30 Edge product and information image 26 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-108a23d53dc8c33f7f6799e8aa7c5ef5-1454x600.png",
+        "alt": "Eufy E35 / C30 Edge product and information image 27",
+        "caption": "Eufy E35 / C30 Edge product and information image 27 · Credit: Anker Japan"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a0866a7509b934ae3c2e136795924f9f-3654x1800.jpg",
+        "alt": "Eufy E35 / C30 Edge product and information image 28",
+        "caption": "Eufy E35 / C30 Edge product and information image 28 · Credit: Anker Japan"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=_WANUp_o5NI",
+        "title": "Manufacturer introduction to Eufy Omni E35"
+      }
+    ]
   }
 }

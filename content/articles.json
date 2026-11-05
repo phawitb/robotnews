@@ -2448,5 +2448,115 @@
     "url": "https://www.prnewswire.com/news-releases/san-bernardino-county-fire-becomes-californias-first-fire-agency-to-acquire-seneca-firefighting-drones-302921871.html",
     "image": "",
     "addedAt": "2026-10-29T23:03:52.466Z"
+  },
+  {
+    "id": "globallogic-haystack-hospital-platform-design-report-2026",
+    "category": "industrial-robots",
+    "title": "GlobalLogic เผยแนวทางออกแบบหุ่นยนต์ฆ่าเชื้อ Haystack ให้ใช้ฐานระบบซ้ำได้",
+    "summary": "บทสัมภาษณ์ใหม่อธิบายการแยกฐานเคลื่อนที่จากอุปกรณ์ UV และโหมดติดตามเจ้าหน้าที่ เพื่อรับมือสภาพโรงพยาบาลจริง",
+    "source": "The Robot Report",
+    "date": "2026-11-04",
+    "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured.jpg",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "liberai-liber0-60-task-evaluation-release-2026",
+    "category": "ai-automation",
+    "title": "LiberAI เผย Liber-0 เรียนจากประสบการณ์คน ทดสอบงานใหม่สำเร็จเฉลี่ย 36%",
+    "summary": "โมเดลผสานวิดีโอ ข้อมูลถุงมือและข้อมูลหุ่นยนต์ แต่ผลงานงานหลายขั้นยังต่ำกว่างานหยิบวางอย่างชัดเจน",
+    "source": "The Robot Report",
+    "date": "2026-11-04",
+    "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026.png",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "iso21423-mobile-robot-interoperability-report-2026",
+    "category": "industry-news",
+    "title": "ISO 21423 วางแนวทางให้หุ่นยนต์เคลื่อนที่หลายยี่ห้อแลกข้อมูลกัน",
+    "summary": "มาตรฐานครอบคลุมหุ่นยนต์ ผู้จัดการกองหุ่นยนต์ และระบบอาคาร โดยไม่ใช่มาตรฐานรับรองความปลอดภัย",
+    "source": "The Robot Report",
+    "date": "2026-11-03",
+    "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/AdobeStock_2225516731-copy.jpg",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "agility-nasdaq-aglt-trading-business-combination-2026",
+    "category": "humanoids",
+    "title": "Agility เริ่มซื้อขายบน Nasdaq หลังปิดดีล รับทุนรวมก่อนค่าใช้จ่ายราว 465 ล้านดอลลาร์",
+    "summary": "ความคืบหน้าครั้งนี้เป็นการปิดธุรกรรมและเริ่มซื้อขายจริง ต่างจากข่าวกำหนดโหวตก่อนหน้า",
+    "source": "Agility Robotics",
+    "date": "2026-11-05",
+    "url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+    "image": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aec6faf77fbae9b23a165ea_Press-Release_051126.jpg",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "serve-physical-ai-services-bedrock-launch-2026",
+    "category": "ai-automation",
+    "title": "Serve เปิด Physical AI Services ให้บริษัทอื่นใช้ระบบเชื่อมต่อและข้อมูลกองหุ่นยนต์",
+    "summary": "Bedrock Robotics เป็นหนึ่งในลูกค้าเปิดตัว ใช้ Serve Link เชื่อมเครื่องจักรก่อสร้างผ่านเครือข่ายหลายแบบ",
+    "source": "StockTitan / Serve Robotics",
+    "date": "2026-11-05",
+    "url": "https://www.stocktitan.net/news/SERV/serve-robotics-launches-physical-ai-services-opening-technology-k83foir780e8.html",
+    "image": "",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "nippybot-angel-funding-uk-deployment-2026",
+    "category": "industry-news",
+    "title": "Nippybot ได้ทุน Angel เตรียมขยายหุ่นยนต์ขนส่งระยะสั้นในอังกฤษ",
+    "summary": "สตาร์ตอัปจาก Middlesbrough จะเพิ่มการผลิตและทดลองใช้งานในโรงพยาบาล มหาวิทยาลัย และพื้นที่ควบคุม",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-05",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/05/middlesbrough-robotics-startup-nippybot-raises-angel-funding-to-accelerate-uk-deployment/27350/",
+    "image": "",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "renesas-rzt2n-four-axis-mpu-launch-2026",
+    "category": "industrial-robots",
+    "title": "Renesas เปิด RZ/T2N รวมควบคุมมอเตอร์สี่แกน เครือข่าย และ Linux ในชิปเดียว",
+    "summary": "ชิปพร้อมบอร์ดประเมินเริ่มจำหน่าย โดยซอฟต์แวร์ functional safety ยังวางแผนไว้ครึ่งหลังปี 2027",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-05",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/05/renesas-new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment-/27347/",
+    "image": "",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "topr-dji-dock4-mountain-rescue-pilot-2026",
+    "category": "drones",
+    "title": "TOPR ทดลอง DJI Dock 4 ส่งโดรนประเมินเหตุบนภูเขาก่อนทีมกู้ภัยออกเดินทาง",
+    "summary": "หน่วยกู้ภัยโปแลนด์ใช้สถานีถ่ายทอดสัญญาณและภาพความร้อน ช่วยประเมินกำลังคนและอุปกรณ์ที่ต้องส่ง",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-04",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/04/automated-drone-technology-further-transforms-polish-mountain-rescue-operations/27339/",
+    "image": "",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "estun-robodk-europe-integration-partnership-2026",
+    "category": "industrial-robots",
+    "title": "ESTUN จับมือ RoboDK เชื่อมการจำลองและเขียนโปรแกรมหุ่นยนต์ในยุโรป",
+    "summary": "ความร่วมมือที่ DFactory Barcelona ต่อยอดการทดสอบร่วมหลายเดือน พร้อมสร้างโปรแกรมสำหรับตัวควบคุม ESTUN",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-04",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/04/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe-/27338/",
+    "image": "",
+    "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "anker-eufy-e35-c30-edge-japan-sales-2026",
+    "category": "ai-automation",
+    "title": "Anker เปิดจอง Eufy E35 และขาย C30 Edge ในญี่ปุ่น ใช้ไซโคลนในตัวหุ่นยนต์",
+    "summary": "สองรุ่นแยกฝุ่นด้วยแรงเหวี่ยงและดูแลม็อปอัตโนมัติ โดย E35 กำหนดขายทั่วไป 17 พฤศจิกายน",
+    "source": "PR TIMES / Anker Japan",
+    "date": "2026-11-05",
+    "url": "https://prtimes.jp/main/html/rd/p/000000684.000016775.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png",
+    "addedAt": "2026-11-05T23:13:45.386Z"
   }
 ]

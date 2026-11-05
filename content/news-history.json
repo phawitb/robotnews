@@ -19505,6 +19505,858 @@
           }
         ]
       }
+    },
+    {
+      "id": "globallogic-haystack-hospital-platform-design-report-2026",
+      "storyKey": "globallogic-haystack-hospital-platform-design-report-2026",
+      "originalTitle": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+        "https://haystackrobotics.com/"
+      ],
+      "publishedAt": "2026-11-04T15:22:55+00:00",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "เปิดรายละเอียดวิศวกรรมจากบทสัมภาษณ์ใหม่ มีประโยชน์ต่อโรงพยาบาลและผู้พัฒนาฐาน AMR ไม่อ้างเป็นการเปิดตัวใหม่",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/UGlWIi4HtvU4V3cDUJZltR2NJnma8DXDOjQtxiVT3LUgP8Te-KSARH1nciOisv4FMlcbcQzbXg=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://yt3.ggpht.com/WBoBx-HS7a_k8t5dMMUlo4SGe5Slto2ohAWK4CZ0hvLrdG5xpGt2ALb83r6jk9qdJyGKVsJ1hg=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/ThermAffyx-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/06/intrinsic-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/AdobeStock_2229090794-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/generativebionics-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "liberai-liber0-60-task-evaluation-release-2026",
+      "storyKey": "liberai-liber0-60-task-evaluation-release-2026",
+      "originalTitle": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+        "https://www.liberai.com/"
+      ],
+      "publishedAt": "2026-11-04T15:02:57+00:00",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "มีผลทดสอบเชิงตัวเลขและขอบเขต zero-shot ชัดเจน ช่วยประเมินข้อจำกัดของ AI ควบคุมหุ่นยนต์",
+      "score": 18,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-268x170.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "iso21423-mobile-robot-interoperability-report-2026",
+      "storyKey": "iso21423-mobile-robot-interoperability-report-2026",
+      "originalTitle": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors - The Robot Report",
+      "urls": [
+        "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+        "https://www.automate.org/store/categories/industrial-robot-standards"
+      ],
+      "publishedAt": "2026-11-03T14:40:33+00:00",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "มาตรฐานใหม่ช่วยลดการผูกระบบกับผู้ผลิตรายเดียว มีผลต่อโรงงานและคลังสินค้าไทย",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://yt3.ggpht.com/7QwceCD0A56V1w90sWN8S1XRkKI8v9Xn9L-lp7_HQssh2p0bJxix6rpPh3rcvtvbvPHCfl3_4Q=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/wibotic-jackel-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/TRRoctobertop1026-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Beetle_robot-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agility-nasdaq-aglt-trading-business-combination-2026",
+      "storyKey": "agility-nasdaq-aglt-trading-business-combination-2026",
+      "originalTitle": "Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company, Begins Trading Today on Nasdaq as AGLT | Agility",
+      "urls": [
+        "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt"
+      ],
+      "references": [
+        "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "ปิดดีลและเริ่มซื้อขายจริงเป็นความคืบหน้าใหม่จากข่าว S-4 และกำหนดโหวตเดิม พร้อมยอดทุนที่เปลี่ยนไป",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fbd90e0d765ae6afc3_Solutions.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fb4a03cba1e814f948_Company.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/6aa6c3fb24ac5a67c54e036f_Resources.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://px.ads.linkedin.com/collect/?pid=9560156&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "serve-physical-ai-services-bedrock-launch-2026",
+      "storyKey": "serve-physical-ai-services-bedrock-launch-2026",
+      "originalTitle": "Technology behind food-delivery robots now connects construction machines",
+      "urls": [
+        "https://www.stocktitan.net/news/SERV/serve-robotics-launches-physical-ai-services-opening-technology-k83foir780e8.html"
+      ],
+      "references": [
+        "https://www.stocktitan.net/news/SERV/serve-robotics-launches-physical-ai-services-opening-technology-k83foir780e8.html",
+        "https://www.serverobotics.com/physical-ai-services"
+      ],
+      "publishedAt": "2026-11-05T21:01:00.000Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "เปิดบริการจริงพร้อมลูกค้าระบุชื่อ เชื่อมงานก่อสร้างกับโครงสร้างพื้นฐานข้อมูลและการดูแลหุ่นยนต์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://static.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/iren-md-ext.png?v=44d24ca3dd",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/soun-md-ext.png?v=6166dfa10e",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/open-md-ext.png?v=2cca1ea68f",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/aaoi-md-ext.png?v=2ff4e2a4b0",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/dfns-md-ext.png?v=75ee6dee34",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/elpw-md-ext.png?v=13bf4376e6",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/x-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/reddit-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/facebook-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/Google_News_icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/img/icons/link-icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.globenewswire.com/newsroom/ti?nf=OTg3MTM5OSM3OTQ4NDQ2IzIyODkyOTY=",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/MmUxNThjMDQtNWYyMC00NDhmLThhZGYtNmUxYjQ2ZjJkODE0LTEzMDA4NDYtMjAyNi0xMS0wNS1lbg==/tiny/Serve-Robotics-Inc-.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static.stocktitan.net/company-logo/serv.png?v=01b8591c79",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nippybot-angel-funding-uk-deployment-2026",
+      "storyKey": "nippybot-angel-funding-uk-deployment-2026",
+      "originalTitle": "Middlesbrough Robotics Startup Nippybot Raises Angel Funding to Accelerate UK Deployment  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/middlesbrough-robotics-startup-nippybot-raises-angel-funding-to-accelerate-uk-deployment/27350/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/middlesbrough-robotics-startup-nippybot-raises-angel-funding-to-accelerate-uk-deployment/27350/",
+        "https://www.nippybot.com/"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "มีเงินทุนใหม่เพื่อขยายการใช้งานหุ่นยนต์ส่งของและอธิบายการกำกับดูแลระยะไกลอย่างชัดเจน",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/precision-drive-systems-spindles-for-robotics.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "renesas-rzt2n-four-axis-mpu-launch-2026",
+      "storyKey": "renesas-rzt2n-four-axis-mpu-launch-2026",
+      "originalTitle": "Renesas' New RZ/T2N MPU Integrates Motor Control, Industrial Ethernet and Application Processing for Robots and Industrial Equipment   | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/renesas-new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment-/27347/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/renesas-new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment-/27347/",
+        "https://renesas.com/rzt2n"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "ชิปพร้อมขายรวมหลายหน้าที่ เหมาะกับผู้พัฒนาหุ่นยนต์และโรงงาน พร้อมแยกแผนซอฟต์แวร์ความปลอดภัยที่ยังไม่พร้อม",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/destaco-automatic-tool-changers-.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "topr-dji-dock4-mountain-rescue-pilot-2026",
+      "storyKey": "topr-dji-dock4-mountain-rescue-pilot-2026",
+      "originalTitle": "Automated Drone Technology Further Transforms Polish Mountain Rescue Operations  | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/04/automated-drone-technology-further-transforms-polish-mountain-rescue-operations/27339/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/04/automated-drone-technology-further-transforms-polish-mountain-rescue-operations/27339/",
+        "https://enterprise.dji.com/dock-4"
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "กรณีทดลองกู้ภัยจริงเป็นความคืบหน้าจากข่าวเปิดตัว Dock 4 เดิม มีรายละเอียดการประเมินเหตุก่อนส่งทีม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/e4t-s4t-miniature-optical-kit-encoders-available-in-cprs-up-to-500.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "estun-robodk-europe-integration-partnership-2026",
+      "storyKey": "estun-robodk-europe-integration-partnership-2026",
+      "originalTitle": "ESTUN Robotics and RoboDK announce strategic partnership at DFactory Barcelona to simplify and accelerate the adoption of industrial robots in Europe   | RoboticsTomorrow",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/04/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe-/27338/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/04/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe-/27338/",
+        "https://robodk.com/"
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "ข้อตกลงใหม่หลังทดสอบเชื่อมระบบ มีประโยชน์ต่อผู้รวมระบบและลดภาระเขียนโปรแกรมหุ่นยนต์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/pi-usa-why-use-a-hexapod-robot.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anker-eufy-e35-c30-edge-japan-sales-2026",
+      "storyKey": "anker-eufy-e35-c30-edge-japan-sales-2026",
+      "originalTitle": "【Anker】ロボット掃除機にサイクロン搭載という“新常識”「Anker Eufy Robot Vacuum Omni E35 / C30 Edge」2製品を販売開始",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000684.000016775.html"
+      ],
+      "references": [
+        "https://prtimes.jp/main/html/rd/p/000000684.000016775.html"
+      ],
+      "publishedAt": "2026-11-05T11:00:02+09:00",
+      "addedAt": "2026-11-05T23:13:45.386Z",
+      "runId": "2026-11-06",
+      "reason": "เริ่มจำหน่ายจริงในตลาดญี่ปุ่น มีความแตกต่างของระบบไซโคลนและม็อป พร้อมระบุข้อจำกัดผลทดสอบ",
+      "score": 17,
+      "mediaAudit": {
+        "images": 28,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-16ff1a4178c4dbce76919871b7c5658d-3900x975.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-048ddabacf07e5ae8c87176be19eb8eb-3900x975.png?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-16ff1a4178c4dbce76919871b7c5658d-3900x975.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-048ddabacf07e5ae8c87176be19eb8eb-3900x975.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-92bd4ec12845e5b1cd9188f5a2cb04c5-1652x1652.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2b3452eb0aec8fcf16e8262392c245f0-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c5e9b000310190ec6968a8161de8d3ce-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-bc7208b8495dc3bc904431c76108e564-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-84b5bcef35e9ce47c43e275d85d2e33c-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-78f04ea6cbc4ab6d9bbd7202f775ce27-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-959dc4b4888e250c8067bd0f37c79bc6-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c4a93481ee373d07398be8e02bfe37ca-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-9696a5f5728c28fbccc924c4085ed210-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-17b92100159cf7b3c2bcf1c86498f524-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-637088784121653c9fe6bf04748b7a39-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-87e9682a47de3c5cc54fe2a49c124dae-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-1d2cdafe8078296aebdd746eac8da4f0-1262x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a2d0e4ce03df6c79ab646bf7b926a88e-1063x589.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-2fa5e3342dfff89f250aea40dfcd3c47-2090x2372.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-60d8a3d853492380b979c271269b0a88-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-523493b6dceca03dff52927da493228f-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-0bf89e8618704365c50b8bf82bc00123-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-7cdb70276454d9a8b39aa911442987c9-3900x3900.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-c8e9c53c749f72da53158be9f1d265e0-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-3fc681bc2c9c14fd083ea2e47142f64a-1464x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-5cf9a5c0775e418c252d03586d95b2fb-1262x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-108a23d53dc8c33f7f6799e8aa7c5ef5-1454x600.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-a0866a7509b934ae3c2e136795924f9f-3654x1800.jpg?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prtimes.jp/data/corp/16775/logo/pc-98ad4e0f31c362ef857fdcbfbb36bed2-ba14569532a278a861334a732aeddc31.png?auto=avif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/683/16775-683-381e9579f0068f8ed4254a0676ee8c3c-1500x700.jpg?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/682/16775-682-3fa36b82837aa4aa3eb134867c8dea97-1464x600.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/681/16775-681-387275d5f5c9caafbf9da603d4f0eef5-1920x1080.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/679/16775-679-6609b659e3f023e5d3d9cf5643f7dae6-1500x700.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/678/16775-678-1ffa760a2c1e9efbf834d13218eaf29b-1500x450.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/676/16775-676-68429389b6f9c0ab0c4e20a6071faa2c-3900x2194.jpg?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/674/16775-674-d2cc1b77b7d2d82bcca22db2bbfbbc75-1500x500.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/675/16775-675-9bd4e4aaedf29d0140e6e001adae04c5-1500x700.jpg?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/673/16775-673-a04420031794ffa2d1e5024314ded4dc-1200x675.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/669/16775-669-895628681ad318b040c86bf23875cbf5-2928x1200.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/671/16775-671-20fe1e42eb3a1f322989c69b0e08bfe8-1500x470.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/670/16775-670-9323e0680cd145986da2c41186b9014d-3900x2080.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/668/16775-668-3f3076ca29e642df83d64a5a16366dca-1500x650.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/667/16775-667-3e90a02fcc69f7d4614cd44c5ceb0d3a-1500x400.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/666/16775-666-a4c1fabaebe54725b75d811ebf13a833-1500x700.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/665/16775-665-617c8a597565a292dc0088f97d13265a-1500x700.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/664/16775-664-eb53b98ced85c908fb2c7367c3e60bd4-1500x750.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/662/16775-662-a49dd914c479320b7d87c7020b1ed93e-1464x600.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/661/16775-661-c4c638d24fdcf9dfe29ed960379be241-1513x600.jpg?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/16775/658/16775-658-78a0c54586f85f5ec5bde039015646dc-1920x1080.png?width=295&height=195&canvas=118%3A78&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "related-story"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -19863,6 +20715,23 @@
         "scale-huggingface-fineart-dataset-vla-release-2026",
         "pi-semicon-six-axis-maglev-demonstrators-2026",
         "san-bernardino-seneca-five-aircraft-contract-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-06",
+      "batchHash": "5c7eac9bef2cc22a4ef49a78ccb2fc83669122c54bb1da7643d3a677182ab4d0",
+      "preparedAt": "2026-11-05T23:13:45.386Z",
+      "articleIds": [
+        "globallogic-haystack-hospital-platform-design-report-2026",
+        "liberai-liber0-60-task-evaluation-release-2026",
+        "iso21423-mobile-robot-interoperability-report-2026",
+        "agility-nasdaq-aglt-trading-business-combination-2026",
+        "serve-physical-ai-services-bedrock-launch-2026",
+        "nippybot-angel-funding-uk-deployment-2026",
+        "renesas-rzt2n-four-axis-mpu-launch-2026",
+        "topr-dji-dock4-mountain-rescue-pilot-2026",
+        "estun-robodk-europe-integration-partnership-2026",
+        "anker-eufy-e35-c30-edge-japan-sales-2026"
       ]
     }
   ]
