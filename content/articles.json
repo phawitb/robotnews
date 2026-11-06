@@ -2558,5 +2558,115 @@
     "url": "https://prtimes.jp/main/html/rd/p/000000684.000016775.html",
     "image": "https://prcdn.freetls.fastly.net/release_image/16775/684/16775-684-647b39c43bd75a0074efd9d7d5cae510-3900x1598.png",
     "addedAt": "2026-11-05T23:13:45.386Z"
+  },
+  {
+    "id": "boston-dynamics-stretch-gen2-reliability-launch-2026",
+    "category": "industrial-robots",
+    "title": "Boston Dynamics เผย Stretch Gen 2 ลดสายไฟและเปลี่ยนชุดขับเคลื่อนได้เร็วขึ้น",
+    "summary": "Stretch รุ่นใหม่ใช้ประสบการณ์หน้างานปรับโครงสร้าง การหยิบกล่อง และงานซ่อมบำรุง โดยความเร็วจริงยังขึ้นกับลักษณะสินค้า",
+    "source": "The Robot Report",
+    "date": "2026-11-06",
+    "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "ambi-eight-facility-peak-season-installations-2026",
+    "category": "industrial-robots",
+    "title": "Ambi เตรียมติดตั้งระบบใน 8 แห่ง พร้อมทีมและอะไหล่รับฤดูขายสูงสุด",
+    "summary": "Ambi Robotics เผยแผนติดตั้งและการเตรียมบริการหน้างาน โดยคาดว่าปริมาณงานของลูกค้าจะสูงกว่าฤดูเดียวกันปีก่อน 9–10%",
+    "source": "The Robot Report",
+    "date": "2026-11-05",
+    "url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/Ambi-Robotics_Series-B-featured.jpg",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "china-blocks-softbank-abb-robotics-acquisition-2026",
+    "category": "industry-news",
+    "title": "จีนคัดค้านดีล SoftBank ซื้อ ABB Robotics สองบริษัทยังหารือทางออก",
+    "summary": "ABB ยืนยันกับ The Robot Report ว่าหน่วยงานจีนห้ามการเข้าซื้อในจีน แต่ยังไม่ใช่ประกาศยกเลิกดีลทั่วโลก",
+    "source": "The Robot Report",
+    "date": "2026-11-05",
+    "url": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/ABBrobots-featured.jpg",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "mvtec-bmg-halcon-ctrlx-os-integration-2026",
+    "category": "ai-automation",
+    "title": "MVTec และ BMG เชื่อม HALCON กับ ctrlX OS ลดงานต่อระบบมองเห็นกับเครื่องจักร",
+    "summary": "Nexeed Integrated Vision ทำหน้าที่เชื่อมซอฟต์แวร์ภาพกับแพลตฟอร์มควบคุมของ Bosch Rexroth สำหรับงานตรวจและนำทางหุ่นยนต์",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-05",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/05/mvtec-bmg-and-bosch-rexroth-simplify-the-use-of-machine-vision-on-ctrlx-os/27345/",
+    "image": "",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "knapp-boston-somerville-robotics-ai-hub-2026",
+    "category": "industry-news",
+    "title": "KNAPP ตั้งศูนย์หุ่นยนต์และ AI ใกล้ Boston วางเป้าทีม 30–35 คนต้นปี 2027",
+    "summary": "KNAPPRobotics.ai ใน Somerville จะเชื่อมงานวิจัยกับการพัฒนาสินค้าและฐานโลจิสติกส์ของ KNAPP ที่ Graz",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-04",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/04/knapp-establishes-robotics-and-ai-innovation-hub-in-boston-ma/27341/",
+    "image": "",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "syncere-eleven-million-preseed-lume-home-robot-2026",
+    "category": "industry-news",
+    "title": "SYNCERE ได้ทุน Pre-seed 11 ล้านดอลลาร์ ขยายหุ่นยนต์โคมไฟ LUME",
+    "summary": "บริษัทจะใช้ทุนขยายการผลิตและส่งมอบหุ่นยนต์ทำงานบ้านรูปแบบโคมไฟ โดยความสามารถและยอดสั่งซื้อมาจากข้อมูลผู้ผลิต",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-04",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/04/syncere-raises-11m-pre-seed-to-bring-home-robotics-to-the-mass-market/27340/",
+    "image": "",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "embodied-ai-air-tendon-wheeled-humanoid-launch-2026",
+    "category": "humanoids",
+    "title": "Embodied AI เปิด AIR ฮิวแมนนอยด์ล้อเลื่อน ใช้แขนเบาและเรียนจากคนหน้างาน",
+    "summary": "ทีมจาก EPFL วางมอเตอร์ในลำตัวเพื่อลดมวลแขน และให้คนช่วยสอนงานก่อนเพิ่มความอัตโนมัติ โดย CE ยังเป็นแผนปี 2027",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-06",
+    "url": "https://www.roboticstomorrow.com/content.php?post=27353",
+    "image": "",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "airoa-zero-handheld-data-model-release-2026",
+    "category": "research",
+    "title": "AIRoA เปิด AIRoA-0 เรียนงานสองแขนจากข้อมูลมือถือ YUBI 16,151 ชั่วโมง",
+    "summary": "โมเดลและโค้ดเปิดให้ใช้แล้ว รายงานผลสำเร็จเฉลี่ย 78% ในสิบงานตามเงื่อนไขการทดสอบ ขณะที่ชุดข้อมูลยังมีกำหนดเปิดภายหลัง",
+    "source": "PR TIMES / AIRoA",
+    "date": "2026-11-06",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000158322.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-17569f80efceac5f05987e9043e668de-1500x533.png",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "physicl-ten-million-seed-studio-launch-2026",
+    "category": "ai-automation",
+    "title": "Physicl ได้ทุน 10 ล้านดอลลาร์ เปิด Studio สร้างฉากจำลองเพื่อฝึกหุ่นยนต์",
+    "summary": "แพลตฟอร์มนำเครื่องมือสร้างภาพสามมิติจากงานอีคอมเมิร์ซมาต่อยอดข้อมูลฝึก Physical AI โดย Studio ยังอยู่ใน private beta",
+    "source": "TechCrunch",
+    "date": "2026-11-06",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg",
+    "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "robocolosseum-open-physical-robot-evaluation-launch-2026",
+    "category": "research",
+    "title": "RoboColosseum เปิดสนามทดสอบ AI บนหุ่นยนต์จริง พร้อมชั่วโมงประเมินฟรีสำหรับนักวิจัย",
+    "summary": "โครงการเสนอการทดสอบบนหุ่นยนต์กว่า 100 ตัว และ 10,000 ชั่วโมงฟรี พร้อมแยกคะแนนความคืบหน้าออกจากการทำงานสำเร็จครบ",
+    "source": "Humanoids Daily",
+    "date": "2026-11-04",
+    "url": "https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png",
+    "addedAt": "2026-11-06T23:09:06.785Z"
   }
 ]

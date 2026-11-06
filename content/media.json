@@ -4045,5 +4045,164 @@
         "title": "วิดีโอแนะนำ Eufy Omni E35 โดยผู้ผลิต"
       }
     ]
+  },
+  "boston-dynamics-stretch-gen2-reliability-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
+        "alt": "ภาพจำลอง Stretch Gen 2",
+        "caption": "ภาพจำลอง Stretch Gen 2 · ภาพ: Boston Dynamics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=RpvSMqOT7ls",
+        "embed": "https://www.youtube-nocookie.com/embed/RpvSMqOT7ls",
+        "title": "ห้องทดสอบ Stretch"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=_dhwRYdZs9w",
+        "embed": "https://www.youtube-nocookie.com/embed/_dhwRYdZs9w",
+        "title": "Stretch ทำงานที่ Gap"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=q6TuHGJamR8",
+        "embed": "https://www.youtube-nocookie.com/embed/q6TuHGJamR8",
+        "title": "Stretch ที่ Otto Group ในยุโรป"
+      }
+    ]
+  },
+  "ambi-eight-facility-peak-season-installations-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Ambi-Robotics_Series-B-featured.jpg",
+        "alt": "หุ่นยนต์ AmbiSort หยิบกล่อง",
+        "caption": "หุ่นยนต์ AmbiSort หยิบกล่อง · ภาพ: Ambi Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=z_697RHFz7Q",
+        "embed": "https://www.youtube-nocookie.com/embed/z_697RHFz7Q",
+        "title": "AmbiStack ในการทำงานเชิงพาณิชย์"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=ZcDuO9eDeQc",
+        "embed": "https://www.youtube-nocookie.com/embed/ZcDuO9eDeQc",
+        "title": "แนะนำ AmbiStack"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=r3SkVHUTgp0",
+        "embed": "https://www.youtube-nocookie.com/embed/r3SkVHUTgp0",
+        "title": "Ambi และ Pickle Robot ในงานโลจิสติกส์ขาเข้า"
+      }
+    ]
+  },
+  "china-blocks-softbank-abb-robotics-acquisition-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/ABBrobots-featured.jpg",
+        "alt": "แขนหุ่นยนต์ ABB ในสายผลิต",
+        "caption": "แขนหุ่นยนต์ ABB ในสายผลิต · ภาพ: ABB Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=B3tDhF3pGok",
+        "embed": "https://www.youtube-nocookie.com/embed/B3tDhF3pGok",
+        "title": "ตัวอย่างระบบหุ่นยนต์ประกอบโครงเหล็กเสริมจากต้นฉบับ"
+      }
+    ]
+  },
+  "mvtec-bmg-halcon-ctrlx-os-integration-2026": {
+    "images": [],
+    "videos": []
+  },
+  "knapp-boston-somerville-robotics-ai-hub-2026": {
+    "images": [],
+    "videos": []
+  },
+  "syncere-eleven-million-preseed-lume-home-robot-2026": {
+    "images": [],
+    "videos": []
+  },
+  "embodied-ai-air-tendon-wheeled-humanoid-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "airoa-zero-handheld-data-model-release-2026": {
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-17569f80efceac5f05987e9043e668de-1500x533.png",
+        "alt": "ตัวอย่างผลการประเมิน AIRoA-0",
+        "caption": "ตัวอย่างผลการประเมิน AIRoA-0 · ภาพ: AIRoA"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-fe4f549ca5b62494efa7c907f716d616-1983x1032.png",
+        "alt": "พื้นที่ภาพที่โมเดลให้ความสำคัญระหว่างจัดชิ้นส่วน",
+        "caption": "พื้นที่ภาพที่โมเดลให้ความสำคัญระหว่างจัดชิ้นส่วน · ภาพ: AIRoA"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-b72dfce61b4c2371bb86b725373025c2-2930x1646.png",
+        "alt": "ภาพประกอบการเปิดตัว AIRoA-0",
+        "caption": "ภาพประกอบการเปิดตัว AIRoA-0 · ภาพ: AIRoA"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=AqZY1ESVRZQ",
+        "embed": "https://www.youtube-nocookie.com/embed/AqZY1ESVRZQ",
+        "title": "สาธิต AIRoA-0"
+      },
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=EJ24SE1DoV4",
+        "embed": "https://www.youtube-nocookie.com/embed/EJ24SE1DoV4",
+        "title": "สรุปอุปกรณ์เก็บข้อมูล YUBI"
+      }
+    ]
+  },
+  "physicl-ten-million-seed-studio-launch-2026": {
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg",
+        "alt": "ฉากครัวจำลองใน Physicl Studio",
+        "caption": "ฉากครัวจำลองใน Physicl Studio · ภาพ: Physicl"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://cdn.jwplayer.com/videos/Pw4aTdll-VdyLbzBg.mp4",
+        "sourceUrl": "https://cdn.jwplayer.com/players/Pw4aTdll.html",
+        "poster": "https://cdn.jwplayer.com/v2/media/Pw4aTdll/poster.jpg?width=720",
+        "title": "สาธิตการสร้างฉากใน Physicl Studio"
+      }
+    ]
+  },
+  "robocolosseum-open-physical-robot-evaluation-launch-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png",
+        "alt": "กองหุ่นยนต์ Unitree G1 ในโครงการ RoboColosseum",
+        "caption": "กองหุ่นยนต์ Unitree G1 ในโครงการ RoboColosseum · ภาพ: RoboColosseum"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/RoboColosseum/status/2117982605274710483",
+        "title": "วิดีโอเปิดตัว RoboColosseum",
+        "note": "ชมวิดีโอจากโพสต์ต้นฉบับบน X ซึ่งอาจต้องเข้าสู่ระบบ"
+      }
+    ]
   }
 }

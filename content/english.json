@@ -9021,5 +9021,362 @@
         "title": "Manufacturer introduction to Eufy Omni E35"
       }
     ]
+  },
+  "boston-dynamics-stretch-gen2-reliability-launch-2026": {
+    "title": "Boston Dynamics redesigns Stretch Gen 2 for uptime and easier servicing",
+    "summary": "The new Stretch applies fleet experience to wiring, case handling and maintenance; actual throughput still depends on the load.",
+    "sections": [
+      {
+        "heading": "A redesign informed by fleet use",
+        "paragraphs": [
+          "Boston Dynamics detailed Stretch Gen 2 after roughly two and a half years of development, drawing on more than 100,000 operating hours and tens of millions of handled cases. Its stated ceiling of 1,000 cases per hour depends on weight and stacking conditions."
+        ]
+      },
+      {
+        "heading": "Simpler wiring and more selective gripping",
+        "paragraphs": [
+          "Internal cabling was reduced by 81%, using automotive-style harnesses and connectors with Hyundai supply-chain support. Continuous-rotation joints reduce cable constraints. Individually sensed and controlled suction cups support multi-case picks followed by separate releases onto the conveyor."
+        ]
+      },
+      {
+        "heading": "Serviceability and operating conditions",
+        "paragraphs": [
+          "A swerve-drive replacement is designed to take one hour rather than a full day, with standardized fasteners and improved diagnostics. The company also cites two-shift battery capacity and charging to 90% in 75 minutes. These are supplier figures to validate against each site’s cases and schedule."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
+        "alt": "Rendering of Stretch Gen 2",
+        "caption": "Rendering of Stretch Gen 2 · Image: Boston Dynamics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=RpvSMqOT7ls",
+        "title": "Inside the Stretch Test Lab"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_dhwRYdZs9w",
+        "title": "Stretch at Gap"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=q6TuHGJamR8",
+        "title": "Stretch at Otto Group in Europe"
+      }
+    ]
+  },
+  "ambi-eight-facility-peak-season-installations-2026": {
+    "title": "Ambi prepares eight facility installations for peak season",
+    "summary": "Ambi Robotics describes new installations and service preparation as customers anticipate 9–10% more volume than last peak season.",
+    "sections": [
+      {
+        "heading": "New sites ahead of higher volumes",
+        "paragraphs": [
+          "COO Stephen McKinley told The Robot Report that Ambi is installing new systems at eight facilities before peak season, mostly a new AmbiSort configuration. Customers anticipate 9–10% more volume than last peak; that is a demand forecast, not a measured robot-speed improvement."
+        ]
+      },
+      {
+        "heading": "People and spares are part of capacity",
+        "paragraphs": [
+          "Part of the team visits sites and trains operators while others remain ready to respond. Critical spares, including computers, are positioned at customer sites and regional US locations. The approach targets recovery time as well as picking and sorting performance."
+        ]
+      },
+      {
+        "heading": "Updates remain controlled",
+        "paragraphs": [
+          "Ambi says production AI does not independently retrain itself. Collected data informs retraining and controlled A/B tests before fleet rollout. An internal assistant helps support staff using service-ticket knowledge, while customers still deal with people. The preparation combines hardware, maintenance and supervised software changes."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Ambi-Robotics_Series-B-featured.jpg",
+        "alt": "AmbiSort robot picking a case",
+        "caption": "AmbiSort robot picking a case · Image: Ambi Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=z_697RHFz7Q",
+        "title": "AmbiStack in commercial operations"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ZcDuO9eDeQc",
+        "title": "Introducing AmbiStack"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=r3SkVHUTgp0",
+        "title": "Ambi and Pickle Robot in inbound logistics"
+      }
+    ]
+  },
+  "china-blocks-softbank-abb-robotics-acquisition-2026": {
+    "title": "China blocks SoftBank’s ABB Robotics acquisition as talks continue",
+    "summary": "ABB confirmed a Chinese prohibition to The Robot Report; the companies continue discussions and have not announced a global cancellation.",
+    "sections": [
+      {
+        "heading": "A new approval obstacle",
+        "paragraphs": [
+          "ABB confirmed to The Robot Report that China’s foreign-investment security-review office prohibited SoftBank’s acquisition of ABB Robotics in China. The previously agreed $5.375 billion transaction therefore faces a significant approval obstacle."
+        ]
+      },
+      {
+        "heading": "China’s role in the business",
+        "paragraphs": [
+          "The report says Shanghai produces about 90% of ABB robots serving Chinese customers. Concerns about robot data being used for overseas AI training were reported by the Financial Times; that reported rationale should be distinguished from ABB’s confirmation of the prohibition itself."
+        ]
+      },
+      {
+        "heading": "Discussions continue",
+        "paragraphs": [
+          "ABB and SoftBank say they remain in close dialogue and are working constructively. This is not an announcement that the entire global deal has been cancelled. Customers should follow further transaction updates; the report does not announce a halt to existing robot deliveries or service."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/ABBrobots-featured.jpg",
+        "alt": "ABB robot arms in a production line",
+        "caption": "ABB robot arms in a production line · Image: ABB Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=B3tDhF3pGok",
+        "title": "Rebar assembly automation example included in the source"
+      }
+    ]
+  },
+  "mvtec-bmg-halcon-ctrlx-os-integration-2026": {
+    "title": "MVTec and BMG bring HALCON procedures to ctrlX OS",
+    "summary": "Nexeed Integrated Vision connects machine-vision procedures with Bosch Rexroth’s control environment for inspection and robot guidance.",
+    "sections": [
+      {
+        "heading": "Vision joins the control environment",
+        "paragraphs": [
+          "MVTec, Bosch Manufacturing Solutions (BMG) and Bosch Rexroth announced their collaboration on November 5. MVTec and BMG join ctrlX World, aiming to simplify how machine builders and integrators combine vision with other automation functions."
+        ]
+      },
+      {
+        "heading": "How the components fit",
+        "paragraphs": [
+          "HALCON supplies image-processing procedures, while BMG’s Nexeed Integrated Vision app makes them available on ctrlX OS. The Linux-based environment underpins ctrlX CORE and is also hardware-independent, providing a defined link between vision and control technology."
+        ]
+      },
+      {
+        "heading": "Applications and validation",
+        "paragraphs": [
+          "Potential uses include inspection, identification, measurement and robot guidance, using rule-based vision, 3D methods or deep learning. The partners claim reduced integration work but provide no universal time-saving benchmark. Camera, lighting and machine-cycle requirements still need application-specific validation."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "knapp-boston-somerville-robotics-ai-hub-2026": {
+    "title": "KNAPP establishes a Boston-area robotics and AI hub",
+    "summary": "KNAPPRobotics.ai in Somerville will connect research and product development with KNAPP’s logistics expertise in Graz.",
+    "sections": [
+      {
+        "heading": "An additional development base",
+        "paragraphs": [
+          "KNAPP has established KNAPPRobotics.ai Inc. in Somerville, Massachusetts, for warehouse robotics and AI. The hub complements Graz, Austria, which retains robotics development, logistics expertise and industrialization responsibilities."
+        ]
+      },
+      {
+        "heading": "From perception to warehouse work",
+        "paragraphs": [
+          "Target applications include piece picking, bin picking and cycle counting. KNAPP Brain combines AI, vision, grasp-point calculation, motion planning and learning. The organization links product management, development and rollout to help turn research into maintainable, scalable systems."
+        ]
+      },
+      {
+        "heading": "Hiring and research connections",
+        "paragraphs": [
+          "The target is 30–35 staff by early 2027, including about 20 software roles, under CEO Wolfgang Toferer; these are planned numbers. KNAPP joined MIT’s Industrial Liaison Program in 2026. The announcement outlines development capacity rather than measured productivity gains from a new warehouse product."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "syncere-eleven-million-preseed-lume-home-robot-2026": {
+    "title": "SYNCERE raises $11 million pre-seed for its LUME home robot",
+    "summary": "The company plans to scale production and deliveries of its lamp-shaped home robot; capability and order figures are company claims.",
+    "sections": [
+      {
+        "heading": "Funding production and delivery",
+        "paragraphs": [
+          "SYNCERE announced an $11 million pre-seed round led by a16z Speedrun. Founded by Aaron Tan and Angus Fung in Palo Alto, the company combines a floor lamp with a mobile household robot called LUME. The funding supports manufacturing, deliveries and further commercial applications."
+        ]
+      },
+      {
+        "heading": "A familiar household form",
+        "paragraphs": [
+          "The supplier presents LUME as a lamp that can also fold laundry, tidy and make beds, with announced pricing from $2,699. It says deliveries have begun and preorders total millions of dollars. Preorders should not be treated as recognized revenue or confirmed delivered units."
+        ]
+      },
+      {
+        "heading": "Deployment still needs scrutiny",
+        "paragraphs": [
+          "Personalized onboarding remains under development. The funding report does not provide independent evidence that every advertised task works across all homes. Human assistance, supported tasks and delivery terms still matter; the development is financing for scale, not proof of universal household autonomy."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "embodied-ai-air-tendon-wheeled-humanoid-launch-2026": {
+    "title": "Embodied AI unveils AIR, a wheeled humanoid with tendon-driven arms",
+    "summary": "The EPFL spinout puts motors in the torso to reduce arm mass and learns from operators; CE certification remains a 2027 target.",
+    "sections": [
+      {
+        "heading": "Designed around factory work",
+        "paragraphs": [
+          "Swiss company Embodied AI unveiled AIR on November 6 after about nine months of development. The EPFL spinout combines a human-like upper body with a wheeled base for flat industrial floors, targeting repetitive manipulation rather than bipedal locomotion."
+        ]
+      },
+      {
+        "heading": "Tendons reduce moving arm mass",
+        "paragraphs": [
+          "Motors, gearboxes and electronics sit in the torso, transmitting motion through tendons to lighter, compliant arms. The company cites design work under ISO/TS 15066:2016, while CE certification is planned for 2027. That does not establish completed certification today."
+        ]
+      },
+      {
+        "heading": "Operators teach before autonomy expands",
+        "paragraphs": [
+          "Deployment begins with human operation and recorded demonstrations. The company says autonomy typically follows in about a month, with operators available for difficult cases. It reports tests with unnamed major manufacturers and plans to scale production. The training period is a supplier claim, not a guarantee for every task."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "airoa-zero-handheld-data-model-release-2026": {
+    "title": "AIRoA releases AIRoA-0 trained on 16,151 hours of handheld demonstrations",
+    "summary": "Weights and code are available, with 78% average success reported on ten evaluation tasks; the training dataset is planned for later release.",
+    "sections": [
+      {
+        "heading": "Learning from handheld demonstrations",
+        "paragraphs": [
+          "AIRoA released AIRoA-0 on November 6, starting from Physical Intelligence’s π0.5 base weights and using 16,151 hours of YUBI demonstrations. The handheld device records images and gripper trajectories. The reported training uses no robot teleoperation, reinforcement learning or on-robot corrections."
+        ]
+      },
+      {
+        "heading": "Results within a defined evaluation",
+        "paragraphs": [
+          "Ten tasks were tested 15 times each on Franka at a site outside data collection, averaging 78% success versus at most 27% for four comparison models post-trained on the same data. This is not a universal success rate. Separate operation demonstrations cover Franka, TX-G2, OpenArm and UR."
+        ]
+      },
+      {
+        "heading": "Released tools and hardware requirements",
+        "paragraphs": [
+          "The model outputs gripper poses rather than robot-specific joint angles; each controller translates them into arm motion, with YUBI fitted. Released resources include weights, data-collection and post-training code, plus inference examples. Sub-four-hour post-training uses one eight-H200 node. Training-data release remains forthcoming."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-17569f80efceac5f05987e9043e668de-1500x533.png",
+        "alt": "AIRoA-0 evaluation examples",
+        "caption": "AIRoA-0 evaluation examples · Image: AIRoA"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-fe4f549ca5b62494efa7c907f716d616-1983x1032.png",
+        "alt": "Visual regions emphasized during manipulation",
+        "caption": "Visual regions emphasized during manipulation · Image: AIRoA"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/158322/20/158322-20-b72dfce61b4c2371bb86b725373025c2-2930x1646.png",
+        "alt": "AIRoA-0 release illustration",
+        "caption": "AIRoA-0 release illustration · Image: AIRoA"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=AqZY1ESVRZQ",
+        "title": "AIRoA-0 demonstrations"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=EJ24SE1DoV4",
+        "title": "YUBI data-collection overview"
+      }
+    ]
+  },
+  "physicl-ten-million-seed-studio-launch-2026": {
+    "title": "Physicl raises $10 million for Studio synthetic training environments",
+    "summary": "The platform repurposes 3D commerce tooling for physical-AI training data; Studio remains in private beta.",
+    "sections": [
+      {
+        "heading": "A new use for a 3D pipeline",
+        "paragraphs": [
+          "Physicl raised $10 million in seed funding led by Inovia Capital, TechCrunch reports. Founder Alex de Vigan is adapting experience from nfinite’s 3D commerce-rendering pipeline to robot and world-model training, aiming for representations with suitable geometry, materials and physics."
+        ]
+      },
+      {
+        "heading": "Targeting difficult examples",
+        "paragraphs": [
+          "Studio is described as offering 10,000 3D environments and 100,000 assets. Users can construct cases such as a cup on a cluttered or shadowed counter, producing targeted post-training examples rather than relying solely on recorded footage or teleoperated robot data."
+        ]
+      },
+      {
+        "heading": "Early collaboration, limited access",
+        "paragraphs": [
+          "SpAItial is an early customer collaborating on higher-fidelity data. Physicl’s website labels Studio a private beta requiring access requests. Neither the funding nor the asset count proves that the sim-to-real gap is solved; improvement still needs measurement on physical robots."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg",
+        "alt": "Simulated kitchen in Physicl Studio",
+        "caption": "Simulated kitchen in Physicl Studio · Image: Physicl"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://cdn.jwplayer.com/videos/Pw4aTdll-VdyLbzBg.mp4",
+        "title": "Physicl Studio scene-building walkthrough"
+      }
+    ]
+  },
+  "robocolosseum-open-physical-robot-evaluation-launch-2026": {
+    "title": "RoboColosseum launches shared real-robot AI evaluation",
+    "summary": "The initiative advertises more than 100 robots and 10,000 free evaluation hours, distinguishing partial progress from completed tasks.",
+    "sections": [
+      {
+        "heading": "Shared hardware for researchers",
+        "paragraphs": [
+          "RoboColosseum’s launch involves Hugging Face, BitRobot and Singapore research partners, advertising more than 100 robots, over 140 scenes and 10,000 free academic evaluation hours. Platforms include Unitree G1, SO-101, YAM and Franka, allowing teams to test policies without owning the hardware."
+        ]
+      },
+      {
+        "heading": "Common protocols, distinct metrics",
+        "paragraphs": [
+          "Open Track evaluates without task-specific adaptation. Fine-tune Track supplies the same 100 demonstrations per task and runs 25 attempts. Reported launch results on G1 covered 625 trials across five policies and five tasks, with no fully completed tasks despite nonzero partial-progress scores."
+        ]
+      },
+      {
+        "heading": "Making failures inspectable",
+        "paragraphs": [
+          "The initiative uses standardized hardware and trained evaluators and aims to release recordings including failures. Applicants must accept public performance results. The launch reporting does not establish that every recording is already available or that teams must release all model weights and code."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png",
+        "alt": "Unitree G1 fleet in RoboColosseum",
+        "caption": "Unitree G1 fleet in RoboColosseum · Image: RoboColosseum"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/RoboColosseum/status/2117982605274710483",
+        "title": "RoboColosseum launch video",
+        "note": "Watch the original video on X; sign-in may be required."
+      }
+    ]
   }
 }
