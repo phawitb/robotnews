@@ -21126,6 +21126,1037 @@
           }
         ]
       }
+    },
+    {
+      "id": "atlas-samsung-sdi-70-cell-battery-report-2026",
+      "storyKey": "atlas-samsung-sdi-70-cell-battery-report-2026",
+      "originalTitle": "Atlas Battery Pack to Use 70 Samsung SDI Cells, Report Says",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh",
+        "https://www.thelec.kr/news/articleView.html?idxno=65065"
+      ],
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "The Elec รายงานการเลือกซัพพลายเออร์แบตเตอรี่ของ Atlas โดย Samsung SDI รับปริมาณเริ่มต้นเป็นส่วนใหญ่",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=384&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=640&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=750&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=828&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=1080&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp&w=1200&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fboston-dynamics-1788647098194.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fboston-dynamics-1788647098194.webp&w=48&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkapex-robot-lg-max.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmunoz-hyundai-investor-day-2026.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fscott-kuindersma-leaving-bd.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fkia-investors-day-2026-ho-sung-song.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbd-atlas-fullbody.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fatlas-sorting-roof.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1200&q=75",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unitree-hangzhou-factory-visit-manual-assembly-2026",
+      "storyKey": "unitree-hangzhou-factory-visit-manual-assembly-2026",
+      "originalTitle": "Inside Unitree's Hangzhou Factory, Robots Are Still Mostly Built by Hand",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen",
+        "https://josef.cn/blog/unitree"
+      ],
+      "publishedAt": "2026-11-07T11:31:16Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "Josef Chen เล่าการเยี่ยมโรงงาน Hangzhou พร้อมวิเคราะห์ว่าต้นทุนชิ้นส่วนและการเปลี่ยนแบบมีผลต่อความคุ้มค่าของระบบอัตโนมัติ",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Funitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2F1x-technologies-1788204384237.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fagibot-zhiyuan-robotics-1788205013321.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Ffigure-1788467322697.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Ftesla-1788706441201.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Funitree-robotics-1788703267381.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-valuation-article.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ftesla-optimus-25.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fpeek-pellets-ai-generated-illustration-9jAJiR0zC78OfngsoblJT8RfTMFxRe.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ftesla-optimus-diner.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fcardenas-fox-biz-2026.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fus-fcc-ban.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmeta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1920&q=75",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eon-enviam-neura-grid-robotics-2027-pilot-2026",
+      "storyKey": "eon-enviam-neura-grid-robotics-2027-pilot-2026",
+      "originalTitle": "E.ON, enviaM-Gruppe und NEURA Robotics starten Partnerschaft für Physical AI in der kritischen Energieinfrastruktur",
+      "urls": [
+        "https://www.eon.com/de/ueber-uns/presse/pressemitteilungen/2026/eon-enviam-group-und-neura-robotics-starten-partnerschaft.html"
+      ],
+      "references": [
+        "https://www.eon.com/de/ueber-uns/presse/pressemitteilungen/2026/eon-enviam-group-und-neura-robotics-starten-partnerschaft.html"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "เริ่มจากกำหนดงานกับเจ้าหน้าที่ ฝึกใน RoboGym แล้วทดสอบกับ MITNETZ STROM",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.eon.com/content/dam/eon/eon-com/logo/logo-eon-red.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.eon.com/cdm-assets/is/image/eon/eon-its-on-us-tl-img-wb-3%3A3-4?fmt=webp&wid=324&hei=432&dpr=on",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.eon.com/de/ueber-uns/presse/pressemitteilungen/2026/1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.eon.com/cdm-assets/is/image/eon/eon-its-on-us-tl-img-wb-3%3A3-4?fmt=webp&wid=324&hei=432&dpr=on,1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.eon.com/cdm-assets/is/image/eon/kai-robert-blum%3A1-1?qlt=75&fmt=webp&wid=208&hei=208&dpr=on",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.eon.com/cdm-assets/is/image/eon/kai-robert-blum?qlt=75&fmt=webp&wid=208&dpr=on",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.eon.com/cdm-assets/is/image/eon/kai-robert-blum%3A1-1?qlt=75&fmt=webp&wid=208&hei=208&dpr=on,1",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.eon.com/content/dam/eon/eon-com/eon-com-assets/documents/press-photos/press-release/eon-enviam-neura-robotics/202611-neura-eon-enviam-final-01-1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wing-125m-fort-worth-aircraft-manufacturing-2026",
+      "storyKey": "wing-125m-fort-worth-aircraft-manufacturing-2026",
+      "originalTitle": "Investing in the next chapter of American innovation in the skies",
+      "urls": [
+        "https://wing.com/news/investing-in-american-innovation-aviation"
+      ],
+      "references": [
+        "https://wing.com/news/investing-in-american-innovation-aviation"
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "โรงงาน Fort Worth ขนาด 15,000 ตารางฟุตตั้งเป้าสร้างงานสูงสุด 100 ตำแหน่ง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://framerusercontent.com/images/66QHRSLMFLUuKfYCgxZr57w0y34.svg?width=11&height=11",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/vM3cyeNrx0yZUv5fNPv9NoKGSg.svg?width=12&height=12",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/8HnP83p6AEHlCNj6hV5wkv7V0w.jpg?width=3323&height=2107",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/eNYGvpPXdiBZF2hCwReTwMh6HI.jpg?width=4123&height=2749",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/xCjD776bJpR2heliWKeCns3vhs.jpg?width=3304&height=2261",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://framerusercontent.com/images/O4QdU9lCPYV3lXa8yHTN1rla0.jpg?width=2400&height=1600",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ti-tics100mod-tiom2212-industrial-network-launch-2026",
+      "storyKey": "ti-tics100mod-tiom2212-industrial-network-launch-2026",
+      "originalTitle": "Texas Instruments adds pre-certified multiprotocol module and advanced IO-Link master to expand industrial communication portfolio",
+      "urls": [
+        "https://www.robotics247.com/article/texas-instruments-adds-pre-certified-multiprotocol-module-and-advanced-io-link-master-to-expand-industrial-communication-portfolio"
+      ],
+      "references": [
+        "https://www.robotics247.com/article/texas-instruments-adds-pre-certified-multiprotocol-module-and-advanced-io-link-master-to-expand-industrial-communication-portfolio"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "โมดูล Ethernet สลับโปรโตคอลตอนบูต ส่วน IO-Link master เชื่อมอุปกรณ์ระดับหน้างาน",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robo247.s3.amazonaws.com/images/site/robotics247-logo-white.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/summit/rac2026-small-header-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/jcogs_img/cache/pudurobotics-europeansummit-ai-robots-main-robotics247-2026_-_76a700_-_f1f6d6a5bc0c46d4dd2db5d0267840dd3756d98e.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/aetina-edgecomputing-physicalai-main-robotics247-2026_-_76a700_-_f1f6d6a5bc0c46d4dd2db5d0267840dd3756d98e.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/sereact-ottogroup-nvidia-physicalai-returns-deployment-main-robotics247-2026_-_76a700_-_f1f6d6a5bc0c46d4dd2db5d0267840dd3756d98e.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/robotics247-picking-packing-delivery-1026-sfi-cover_-_76a700_-_f1f6d6a5bc0c46d4dd2db5d0267840dd3756d98e.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/site/email-sample.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/jcogs_img/cache/aetina-edgecomputing-physicalai-main-robotics247-2026_-_76a700_-_60838f774bb7b88ce71f5e3207f5a4cdb0c807f9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/abb-robotics-softbank-divestment-robotics247-2025_-_76a700_-_60838f774bb7b88ce71f5e3207f5a4cdb0c807f9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/president-donald-trump-commerce-secretary-howard-lutnick-national-robotics-strategy-robotics247-2025_-_76a700_-_60838f774bb7b88ce71f5e3207f5a4cdb0c807f9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://scg-robotics.s3.amazonaws.com/images/generated/osaro-sightworks-packing-main-robotics247-2026_-_76a700_-_60838f774bb7b88ce71f5e3207f5a4cdb0c807f9.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://px.ads.linkedin.com/collect/?pid=8420554&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zipline-1-5b-funding-300-walmart-sites-2026",
+      "storyKey": "zipline-1-5b-funding-300-walmart-sites-2026",
+      "originalTitle": "Zipline Raises $1.5 Billion to Build Nationwide Drone Delivery Network",
+      "urls": [
+        "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network"
+      ],
+      "references": [
+        "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network"
+      ],
+      "publishedAt": "2026-11-05T07:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "ประกาศข้อตกลงหลายปีกับ Walmart สำหรับจุดบริการเพิ่ม 300 แห่ง โดยยังเป็นแผนขยาย",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.zipline.com/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1003963%2F1440x1191%2F9af4d86c57%2Fmelanie_01.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shield-echodyne-5-3b-acquisition-agreement-2026",
+      "storyKey": "shield-echodyne-5-3b-acquisition-agreement-2026",
+      "originalTitle": "Shield to acquire Echodyne in a transaction valued at $5.3 billion and raise $2.5 billion at a $28.8 billion valuation",
+      "urls": [
+        "https://www.echodyne.com/ja/newsroom/shield-to-acquire-echodyne"
+      ],
+      "references": [
+        "https://www.echodyne.com/ja/newsroom/shield-to-acquire-echodyne"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "ดีลผู้ผลิตเรดาร์ยังรอเงื่อนไขปิดธุรกรรม คาดต้นปี 2027 พร้อมคงผลิตภัณฑ์ MESA แยกจำหน่าย",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://cdn.prod.website-files.com/6a847bd932b6b758ce189d30/6a847bd932b6b758ce18a0a5_echodyne-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6a847bd932b6b758ce189d30/6a847bd932b6b758ce18a07d_echodyne-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.prod.website-files.com/6a847bd932b6b758ce189d30/6a847bd932b6b758ce18a338_icon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pudu-one-brain-multiple-embodiments-strategy-2026",
+      "storyKey": "pudu-one-brain-multiple-embodiments-strategy-2026",
+      "originalTitle": "Pudu Robotics Unveils One Brain, Multiple Embodiments Strategy and Showcases Full Portfolio in European First",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/27348/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/27348/"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "ประกาศยุทธศาสตร์ในงานพันธมิตรยุโรป เชื่อม PuduFM และ PuduAgent OS ข้ามกลุ่มผลิตภัณฑ์",
+      "score": 14,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/ai-business-optimization.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "axon-skydio-1-2b-investment-exclusive-channel-2026",
+      "storyKey": "axon-skydio-1-2b-investment-exclusive-channel-2026",
+      "originalTitle": "Axon Invests $1.2 Billion in Skydio to Build the Future of Drone as First Responder",
+      "urls": [
+        "https://investor.axon.com/2026-11-05-Axon-Invests-1-2-Billion-in-Skydio-to-Build-the-Future-of-Drone-as-First-Responder"
+      ],
+      "references": [
+        "https://investor.axon.com/2026-11-05-Axon-Invests-1-2-Billion-in-Skydio-to-Build-the-Future-of-Drone-as-First-Responder"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "ข้อตกลงรวมสิทธิ์จำหน่ายด้านความปลอดภัยสาธารณะเฉพาะรายในสหรัฐฯ และแคนาดา",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://stats.drivetheweb.com/piwik.php?idsite=6349&rec=1",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "humble-51m-series-a-regional-freight-2026",
+      "storyKey": "humble-51m-series-a-regional-freight-2026",
+      "originalTitle": "Humble Robotics Raises $51 Million Series A to Scale Its Unified Approach to Autonomous and Electric Freight",
+      "urls": [
+        "https://finance.yahoo.com/technology/ai/articles/humble-robotics-raises-51-million-150000145.html"
+      ],
+      "references": [
+        "https://finance.yahoo.com/technology/ai/articles/humble-robotics-raises-51-million-150000145.html",
+        "https://www.businesswire.com/news/home/20261105576352/en/"
+      ],
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "addedAt": "2026-11-07T23:17:21.482Z",
+      "runId": "2026-11-08",
+      "reason": "เงินทุนจะหนุนการทดลองกับลูกค้า การตรวจสอบระบบ และการผลิตเริ่มต้นสำหรับขนส่งระดับภูมิภาค",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/5cdcc5e34ca69a5a5e37760dc98236b2813e6c28d819b6ff6723ce2e0c8b7567/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/AU0000185993/light/72203ec5.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/91c06474f28b0cf5ad46b304d6e432abf8cac58b02726fc389f7846643ba5082/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US67066G1040/light/ee5279f6.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/f4ab4d3627be0ab78ee53a6de917878cafc8974a4e19d7fecc413393ab3df5f2/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US18915M1071/light/a9a260ed.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/f360158bd6a14f576b7df4a973a3f3756278f392fb46c73a921375f6ba0fe3e3/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US0090661010/light/1f6026ee.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/55a8a7e879d29f94c73d96cb7fd5cc3941f02912482c8ec6e578d0d27626885c/finance/resizefill_w150_h150/https://s.yimg.com/lg/logos/US4330001060/light/b8427de0.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/eo/images/48a19300e989d4e3a81c3d99849e0d297cde1b71d279caecfcae10c55efa7ad0.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/a434150eeab9eaa53d0820d57e3678e30850f335eb15977de3e82d879d7d7c9b/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbusiness-wire-logo-primarywhite-regular_7008.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/2fa5f385d0037bc7aede65c283ef04ae613bac7feff78cb0bd2638af07387f9d/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbusiness-wire-logo-primarynavy-regular_2905.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/lo/mysterio/api/e3c699b2d0dd6826f34e44252a81661cffa059786dac65096b60579896189fed/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Fb8461d2af805be183094d0181cdd1ca9.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://s.yimg.com/cv/apiv2/finance/ai/ai_loading_loop_v3.gif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -21518,6 +22549,23 @@
         "airoa-zero-handheld-data-model-release-2026",
         "physicl-ten-million-seed-studio-launch-2026",
         "robocolosseum-open-physical-robot-evaluation-launch-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-08",
+      "batchHash": "e87f76d8eda068461d59886d3480ca69cda6740b92c07e691953a1b8a7f6758d",
+      "preparedAt": "2026-11-07T23:17:21.482Z",
+      "articleIds": [
+        "atlas-samsung-sdi-70-cell-battery-report-2026",
+        "unitree-hangzhou-factory-visit-manual-assembly-2026",
+        "eon-enviam-neura-grid-robotics-2027-pilot-2026",
+        "wing-125m-fort-worth-aircraft-manufacturing-2026",
+        "ti-tics100mod-tiom2212-industrial-network-launch-2026",
+        "zipline-1-5b-funding-300-walmart-sites-2026",
+        "shield-echodyne-5-3b-acquisition-agreement-2026",
+        "pudu-one-brain-multiple-embodiments-strategy-2026",
+        "axon-skydio-1-2b-investment-exclusive-channel-2026",
+        "humble-51m-series-a-regional-freight-2026"
       ]
     }
   ]

@@ -2668,5 +2668,115 @@
     "url": "https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1",
     "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png",
     "addedAt": "2026-11-06T23:09:06.785Z"
+  },
+  {
+    "id": "atlas-samsung-sdi-70-cell-battery-report-2026",
+    "category": "humanoids",
+    "title": "รายงานเผย Atlas ใช้เซลล์ Samsung SDI 70 ก้อน รวมพลังงานราว 1.3 kWh",
+    "summary": "The Elec รายงานการเลือกซัพพลายเออร์แบตเตอรี่ของ Atlas โดย Samsung SDI รับปริมาณเริ่มต้นเป็นส่วนใหญ่",
+    "source": "Humanoids Daily",
+    "date": "2026-11-07",
+    "url": "https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "unitree-hangzhou-factory-visit-manual-assembly-2026",
+    "category": "industry-news",
+    "title": "รายงานเยี่ยมโรงงาน Unitree พบคนยังทำงานประกอบเป็นหลัก",
+    "summary": "Josef Chen เล่าการเยี่ยมโรงงาน Hangzhou พร้อมวิเคราะห์ว่าต้นทุนชิ้นส่วนและการเปลี่ยนแบบมีผลต่อความคุ้มค่าของระบบอัตโนมัติ",
+    "source": "Humanoids Daily",
+    "date": "2026-11-07",
+    "url": "https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "eon-enviam-neura-grid-robotics-2027-pilot-2026",
+    "category": "humanoids",
+    "title": "E.ON และ enviaM ร่วม NEURA เตรียมทดลองหุ่นยนต์ดูแลโครงข่ายไฟฟ้าปี 2027",
+    "summary": "เริ่มจากกำหนดงานกับเจ้าหน้าที่ ฝึกใน RoboGym แล้วทดสอบกับ MITNETZ STROM",
+    "source": "E.ON",
+    "date": "2026-11-05",
+    "url": "https://www.eon.com/de/ueber-uns/presse/pressemitteilungen/2026/eon-enviam-group-und-neura-robotics-starten-partnerschaft.html",
+    "image": "",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "wing-125m-fort-worth-aircraft-manufacturing-2026",
+    "category": "drones",
+    "title": "Wing วางแผนลงทุนผลิตโดรนสหรัฐฯ สูงสุด 125 ล้านดอลลาร์ในสองปี",
+    "summary": "โรงงาน Fort Worth ขนาด 15,000 ตารางฟุตตั้งเป้าสร้างงานสูงสุด 100 ตำแหน่ง",
+    "source": "Wing",
+    "date": "2026-11-06",
+    "url": "https://wing.com/news/investing-in-american-innovation-aviation",
+    "image": "https://framerusercontent.com/images/EkaeLEUAxzZmYlYekolJOEaCow.jpg?width=3600&height=2401",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "ti-tics100mod-tiom2212-industrial-network-launch-2026",
+    "category": "industrial-robots",
+    "title": "TI เพิ่ม TICS100MOD และ TIOM2212 เชื่อมระบบควบคุมกับเซนเซอร์โรงงาน",
+    "summary": "โมดูล Ethernet สลับโปรโตคอลตอนบูต ส่วน IO-Link master เชื่อมอุปกรณ์ระดับหน้างาน",
+    "source": "Robotics 24/7",
+    "date": "2026-11-05",
+    "url": "https://www.robotics247.com/article/texas-instruments-adds-pre-certified-multiprotocol-module-and-advanced-io-link-master-to-expand-industrial-communication-portfolio",
+    "image": "https://www.robotics247.com/images/2026_wide/TexasInstruments-industrialcommunication-Ethernet-wide-Robotics247-2026.jpg",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "zipline-1-5b-funding-300-walmart-sites-2026",
+    "category": "drones",
+    "title": "Zipline ระดมทุน 1.5 พันล้านดอลลาร์ เตรียมขยายผลิตและเครือข่ายโดรน",
+    "summary": "ประกาศข้อตกลงหลายปีกับ Walmart สำหรับจุดบริการเพิ่ม 300 แห่ง โดยยังเป็นแผนขยาย",
+    "source": "Zipline",
+    "date": "2026-11-05",
+    "url": "https://www.zipline.com/newsroom/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network",
+    "image": "https://a-us.storyblok.com/f/1003963/1440x1191/9af4d86c57/melanie_01.jpg",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "shield-echodyne-5-3b-acquisition-agreement-2026",
+    "category": "industry-news",
+    "title": "Shield ตกลงซื้อ Echodyne มูลค่าสูงสุด 5.3 พันล้านดอลลาร์",
+    "summary": "ดีลผู้ผลิตเรดาร์ยังรอเงื่อนไขปิดธุรกรรม คาดต้นปี 2027 พร้อมคงผลิตภัณฑ์ MESA แยกจำหน่าย",
+    "source": "Echodyne",
+    "date": "2026-11-05",
+    "url": "https://www.echodyne.com/ja/newsroom/shield-to-acquire-echodyne",
+    "image": "https://cdn.prod.website-files.com/6a847bd932b6b758ce189d29/6aebcca53515fb85c9b35e92_ShieldAnnouncement2.webp",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "pudu-one-brain-multiple-embodiments-strategy-2026",
+    "category": "ai-automation",
+    "title": "Pudu เสนอสถาปัตยกรรม AI ร่วมสำหรับหุ่นยนต์หลายรูปแบบ",
+    "summary": "ประกาศยุทธศาสตร์ในงานพันธมิตรยุโรป เชื่อม PuduFM และ PuduAgent OS ข้ามกลุ่มผลิตภัณฑ์",
+    "source": "RoboticsTomorrow / Pudu Robotics",
+    "date": "2026-11-05",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/27348/",
+    "image": "",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "axon-skydio-1-2b-investment-exclusive-channel-2026",
+    "category": "drones",
+    "title": "Axon เตรียมลงทุนเพิ่ม 1.2 พันล้านดอลลาร์ใน Skydio ขยายโดรนตอบสนองเหตุ",
+    "summary": "ข้อตกลงรวมสิทธิ์จำหน่ายด้านความปลอดภัยสาธารณะเฉพาะรายในสหรัฐฯ และแคนาดา",
+    "source": "Axon",
+    "date": "2026-11-05",
+    "url": "https://investor.axon.com/2026-11-05-Axon-Invests-1-2-Billion-in-Skydio-to-Build-the-Future-of-Drone-as-First-Responder",
+    "image": "https://mmx.prnewswire.com/media/MS367217/Axon-Logo.jpg?id=OA3060829",
+    "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "humble-51m-series-a-regional-freight-2026",
+    "category": "ai-automation",
+    "title": "Humble Robotics ได้ทุน Series A 51 ล้านดอลลาร์ พัฒนารถขนส่งไฟฟ้าอัตโนมัติ",
+    "summary": "เงินทุนจะหนุนการทดลองกับลูกค้า การตรวจสอบระบบ และการผลิตเริ่มต้นสำหรับขนส่งระดับภูมิภาค",
+    "source": "Business Wire / Yahoo Finance",
+    "date": "2026-11-05",
+    "url": "https://finance.yahoo.com/technology/ai/articles/humble-robotics-raises-51-million-150000145.html",
+    "image": "https://media.zenfs.com/en/business-wire.com/b8461d2af805be183094d0181cdd1ca9.jpg",
+    "addedAt": "2026-11-07T23:17:21.482Z"
   }
 ]

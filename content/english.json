@@ -9378,5 +9378,334 @@
         "note": "Watch the original video on X; sign-in may be required."
       }
     ]
+  },
+  "atlas-samsung-sdi-70-cell-battery-report-2026": {
+    "title": "Report details a 70-cell Samsung SDI battery for Atlas",
+    "summary": "The Elec reports that Samsung SDI will handle most initial battery supply for Atlas.",
+    "sections": [
+      {
+        "heading": "A new supply-chain report",
+        "paragraphs": [
+          "The Elec reported on November 6 that Hyundai selected Samsung SDI and LG Energy Solution for Atlas batteries, with Samsung handling most initial volumes. This is industry-source reporting, rather than a formal Boston Dynamics specification announcement."
+        ]
+      },
+      {
+        "heading": "Cells and pack energy",
+        "paragraphs": [
+          "The reported pack contains 70 cylindrical 2170 cells rated at 5,000 mAh each, providing approximately 1.3 kWh. The format denotes a roughly 21 mm diameter and 70 mm height. Cell charge capacity and total pack energy use different units and should not be compared directly."
+        ]
+      },
+      {
+        "heading": "Runtime remains unverified",
+        "paragraphs": [
+          "Battery capacity alone does not establish Atlas runtime: lifting, locomotion and computing impose different demands. The new development concerns sourcing and pack construction, not a validated endurance result or evidence of high-volume robot deliveries."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp",
+        "alt": "Boston Dynamics Atlas, illustrating the battery report",
+        "caption": "Boston Dynamics Atlas, illustrating the battery report · Image: Boston Dynamics / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "unitree-hangzhou-factory-visit-manual-assembly-2026": {
+    "title": "A Unitree factory visit highlights the continuing role of manual assembly",
+    "summary": "Josef Chen describes the Hangzhou factory and why parts costs and changing designs affect automation economics.",
+    "sections": [
+      {
+        "heading": "Observations from the visit",
+        "paragraphs": [
+          "KAIKAKU founder Josef Chen published his account on November 5 after visiting Unitree in Hangzhou. He described one or two new automated actuator lines alongside workers operating winding machines. He did not establish the share of motors made automatically, and photography was prohibited on the production floor."
+        ]
+      },
+      {
+        "heading": "Historical costs provide context",
+        "paragraphs": [
+          "The analysis cites 2025 company figures putting direct labor at roughly 8% of production cost, with materials accounting for most of the total. Halving labor therefore would not halve robot costs. These figures are historical context, not newly announced weekly financial results."
+        ]
+      },
+      {
+        "heading": "Limits of the account",
+        "paragraphs": [
+          "Chen argues that frequent design changes complicate investment in dedicated machinery. His account combines a visit with entrepreneurial and investor commentary, rather than a comprehensive independent factory audit. The article image comes from an earlier assembly demonstration, not this visit."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp",
+        "alt": "An earlier Unitree assembly demonstration, not a photograph from the recent visit",
+        "caption": "An earlier Unitree assembly demonstration, not a photograph from the recent visit · Image: Unitree / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "eon-enviam-neura-grid-robotics-2027-pilot-2026": {
+    "title": "E.ON and enviaM partner with NEURA on a 2027 grid robotics pilot",
+    "summary": "The partners plan staff-led task design, RoboGym training and later testing at MITNETZ STROM.",
+    "sections": [
+      {
+        "heading": "A grid-focused partnership",
+        "paragraphs": [
+          "E.ON, enviaM and NEURA Robotics announced a partnership on November 5 covering energy-infrastructure inspection, monitoring and site tasks. It targets repetitive, strenuous or hazardous work. The announcement describes development and preparation for trials, rather than an established operational fleet."
+        ]
+      },
+      {
+        "heading": "Training before field trials",
+        "paragraphs": [
+          "Grid staff will help define workflows before controlled training at TUM RoboGym in Munich. The approach combines human-motion data, teleoperation, simulation and real-robot interaction. Testing on enviaM subsidiary MITNETZ STROM’s network is planned for 2027."
+        ]
+      },
+      {
+        "heading": "Data control and open questions",
+        "paragraphs": [
+          "E.ON and enviaM say they will control their data and trained skills, including decisions about sharing. The development is a utility-specific application of the training infrastructure previously announced at RoboGym. Fleet size, field results and a network-wide rollout schedule remain unspecified."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.eon.com/content/dam/eon/eon-com/eon-com-assets/documents/press-photos/press-release/eon-enviam-neura-robotics/202611-neura-eon-enviam-final-01-1.jpg",
+        "alt": "Press image for the E.ON, enviaM and NEURA Robotics partnership",
+        "caption": "Press image for the E.ON, enviaM and NEURA Robotics partnership · Image: E.ON / enviaM / NEURA Robotics · The source returned HTTP 403 during verification; the original reference is retained and the image may not load."
+      }
+    ],
+    "videos": []
+  },
+  "wing-125m-fort-worth-aircraft-manufacturing-2026": {
+    "title": "Wing plans up to $125 million in U.S. drone manufacturing over two years",
+    "summary": "Its 15,000-square-foot Fort Worth facility is expected to create up to 100 manufacturing jobs.",
+    "sections": [
+      {
+        "heading": "Investment in production",
+        "paragraphs": [
+          "Wing announced plans on November 6 for up to $125 million in direct manufacturing investment over two years. Its new 15,000-square-foot Fort Worth facility is expected to create up to 100 manufacturing jobs. These are planned commitments, not completed spending or hiring totals."
+        ]
+      },
+      {
+        "heading": "Capacity for delivery expansion",
+        "paragraphs": [
+          "The facility is intended to produce tens of thousands of aircraft annually for U.S. expansion. Wing reports operating from more than 70 sites and completing over one million U.S. home deliveries this year. These operational figures are company-reported."
+        ]
+      },
+      {
+        "heading": "A manufacturing update",
+        "paragraphs": [
+          "The new development is manufacturing investment, distinct from previously announced Denver and Seattle service plans. Reaching more than 40 million Americans by 2027 remains a future target. Factory capacity does not mean every planned market is already accepting delivery orders."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/EkaeLEUAxzZmYlYekolJOEaCow.jpg?width=3600&height=2401",
+        "alt": "Image accompanying Wing’s manufacturing investment",
+        "caption": "Image accompanying Wing’s manufacturing investment · Image: Wing"
+      },
+      {
+        "url": "https://framerusercontent.com/images/haQoNEQY5fLoXUs4idkSM3U0U.jpeg?width=8192&height=5464",
+        "alt": "Operational photograph from Wing’s announcement",
+        "caption": "Operational photograph from Wing’s announcement · Image: Wing"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HCJc65kTSSrqpY3ZajQnaXUPA.png?width=1713&height=1142",
+        "alt": "Illustration included in Wing’s growth announcement",
+        "caption": "Illustration included in Wing’s growth announcement · Image: Wing"
+      }
+    ],
+    "videos": []
+  },
+  "ti-tics100mod-tiom2212-industrial-network-launch-2026": {
+    "title": "TI adds TICS100MOD and TIOM2212 for industrial connectivity",
+    "summary": "The Ethernet module switches protocols at boot, while the IO-Link master connects field-level devices.",
+    "sections": [
+      {
+        "heading": "Two communication layers",
+        "paragraphs": [
+          "Robotics 24/7 reported on November 5 that Texas Instruments added the TICS100MOD communications module and TIOM2212 IO-Link master. They address different layers between control systems, sensors and actuators, aiming to simplify networking integration for machinery and robots."
+        ]
+      },
+      {
+        "heading": "Protocol choice at startup",
+        "paragraphs": [
+          "TICS100MOD combines an AM2612 with a DP83826AI Ethernet PHY, two Arm Cortex-R5F cores and external memory. Firmware selects EtherCAT, EtherNet/IP or Profinet at boot. This should not be read as automatic simultaneous operation of all protocols without system engineering."
+        ]
+      },
+      {
+        "heading": "Field devices and availability",
+        "paragraphs": [
+          "TIOM2212 is a dual-channel IO-Link master with a frame handler for bridging field devices into higher-level networks. Preproduction TIOM2212 samples are available, while TICS100MOD availability is planned by year-end 2026. Certified components or software do not automatically certify an entire machine."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.robotics247.com/images/2026_wide/TexasInstruments-industrialcommunication-Ethernet-wide-Robotics247-2026.jpg",
+        "alt": "Examples of Texas Instruments technology across different device types",
+        "caption": "Examples of Texas Instruments technology across different device types · Image: Texas Instruments / Robotics 24/7"
+      },
+      {
+        "url": "https://www.robotics247.com/images/2026_article/TexasInstruments-industrialcommunication-Ethernet-main-Robotics247-2026.jpg",
+        "alt": "Texas Instruments industrial communication illustration",
+        "caption": "Texas Instruments industrial communication illustration · Image: Texas Instruments / Robotics 24/7"
+      }
+    ],
+    "videos": []
+  },
+  "zipline-1-5b-funding-300-walmart-sites-2026": {
+    "title": "Zipline raises $1.5 billion for manufacturing and delivery expansion",
+    "summary": "A new multiyear Walmart agreement covers 300 additional planned sites.",
+    "sections": [
+      {
+        "heading": "New capital",
+        "paragraphs": [
+          "Zipline announced a $1.5 billion raise on November 5 at a $21.5 billion post-money valuation. Paradigm, WCM Investment Management and Layer Global led the round. The company plans to expand U.S. manufacturing and hiring as it develops a nationwide delivery network."
+        ]
+      },
+      {
+        "heading": "Partner expansion plans",
+        "paragraphs": [
+          "A new multiyear agreement with Walmart covers 300 additional planned sites. Uber is targeting one million daily deliveries with Zipline by 2029. Both the site expansion and that daily volume are forward-looking, rather than completed operating milestones."
+        ]
+      },
+      {
+        "heading": "Reported operating context",
+        "paragraphs": [
+          "Zipline reports over one million Dallas–Fort Worth deliveries this year and an October median of 19 minutes from checkout to arrival, including preparation before flight. This funding and national expansion update is distinct from the earlier Round Rock launch. Service metrics remain company-reported."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://a-us.storyblok.com/f/1003963/1440x1191/9af4d86c57/melanie_01.jpg",
+        "alt": "Image accompanying Zipline’s funding and expansion announcement",
+        "caption": "Image accompanying Zipline’s funding and expansion announcement · Image: Zipline"
+      }
+    ],
+    "videos": []
+  },
+  "shield-echodyne-5-3b-acquisition-agreement-2026": {
+    "title": "Shield agrees to acquire Echodyne for up to $5.3 billion",
+    "summary": "The radar acquisition is expected to close in early 2027, subject to conditions, with standalone MESA products retained.",
+    "sections": [
+      {
+        "heading": "Transaction terms",
+        "paragraphs": [
+          "Shield agreed to acquire Echodyne for up to $5.3 billion: $4.8 billion at closing and up to $500 million tied to performance conditions. Closing is expected in early 2027, subject to approvals and other conditions. The acquisition is not yet complete."
+        ]
+      },
+      {
+        "heading": "Sensing technology",
+        "paragraphs": [
+          "Echodyne makes compact solid-state radars using MESA technology for detection and tracking. Civilian applications include airports, stadiums and airspace management for police or fire services. Linking sensing with autonomy is central to the deal, but the announcement is not a new system-performance test."
+        ]
+      },
+      {
+        "heading": "Products and manufacturing",
+        "paragraphs": [
+          "The companies intend to retain Echodyne’s team and standalone MESA radar sales after closing. A new 86,350-square-foot facility, representing a $40 million investment, is designed for about 30,000 radars annually. That describes intended capacity, not completed production or shipments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.prod.website-files.com/6a847bd932b6b758ce189d29/6aebcca53515fb85c9b35e92_ShieldAnnouncement2.webp",
+        "alt": "Echodyne acquisition graphic with radars and transaction figures",
+        "caption": "Echodyne acquisition graphic with radars and transaction figures · Image: Echodyne"
+      }
+    ],
+    "videos": []
+  },
+  "pudu-one-brain-multiple-embodiments-strategy-2026": {
+    "title": "Pudu outlines shared AI architecture across robot forms",
+    "summary": "Its European partner summit introduced a strategy built around PuduFM and PuduAgent OS.",
+    "sections": [
+      {
+        "heading": "A shared technology strategy",
+        "paragraphs": [
+          "Pudu Robotics outlined its One Brain, Multiple Embodiments strategy at its first European Partner Summit in Amsterdam, according to its November 5 announcement. It brings delivery, cleaning, industrial transport, embodied AI, commercial mowing and home lawn-care lines under a shared technological framework."
+        ]
+      },
+      {
+        "heading": "Reusable software, task-specific hardware",
+        "paragraphs": [
+          "PuduFM and PuduAgent OS are intended to share AI capabilities, software modules and skills across platforms, while hardware and motion control remain task-specific. Pudu aims to shorten development and deployment cycles, but the release does not provide a quantified comparative cost study."
+        ]
+      },
+      {
+        "heading": "Market context and limits",
+        "paragraphs": [
+          "Pudu reports operations in over 20 European countries and average regional annual revenue growth above 60% over the past two years. The news is the shared strategy and portfolio presentation. It does not mean every exhibited robot is new or every skill already transfers without adaptation."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "axon-skydio-1-2b-investment-exclusive-channel-2026": {
+    "title": "Axon plans a further $1.2 billion investment in Skydio",
+    "summary": "The agreement includes exclusive public-safety distribution in the U.S. and Canada.",
+    "sections": [
+      {
+        "heading": "Investment and distribution",
+        "paragraphs": [
+          "Axon announced approximately $1.2 billion in additional Skydio investment on November 5, alongside exclusive U.S. and Canadian public-safety distribution. Consideration combines cash and Axon shares, covering both primary capital and purchases from existing shareholders. It is not all new cash paid to Skydio."
+        ]
+      },
+      {
+        "heading": "Earlier situational awareness",
+        "paragraphs": [
+          "The partnership expands Drone as First Responder operations, using drones to assess incidents before ground teams arrive. Skydio reportedly serves over 1,500 public-safety customers. Earlier visual information is the intended benefit; the announcement does not establish identical outcomes across all agencies or incidents."
+        ]
+      },
+      {
+        "heading": "Closing remains conditional",
+        "paragraphs": [
+          "The transactions are expected to close during the fourth quarter of 2026 and first quarter of 2027, subject to closing conditions. The announcement does not confirm completion. Its novelty is the investment and distribution agreement, not a new aircraft or blanket operating authorization."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS367217/Axon-Logo.jpg?id=OA3060829",
+        "alt": "Axon logo included in the Skydio investment release",
+        "caption": "Axon logo included in the Skydio investment release · Image: Axon"
+      }
+    ],
+    "videos": []
+  },
+  "humble-51m-series-a-regional-freight-2026": {
+    "title": "Humble Robotics raises $51 million for autonomous electric freight",
+    "summary": "The Series A supports customer pilots, validation and early manufacturing for regional freight.",
+    "sections": [
+      {
+        "heading": "Funding the next development stage",
+        "paragraphs": [
+          "Humble Robotics announced a $51 million Series A on November 5, led by Obvious Ventures with Eclipse, Energy Impact Partners and others participating. Total funding reaches $75 million. Proceeds support customer pilots, testing, validation and early manufacturing."
+        ]
+      },
+      {
+        "heading": "Vehicle and autonomy together",
+        "paragraphs": [
+          "Humble develops electric Class 8 vehicles and autonomy as one platform. It focuses on regional routes under 250 miles connecting ports, rail terminals, warehouses and distribution centers, including the complex maneuvers required around freight handling areas."
+        ]
+      },
+      {
+        "heading": "Commercial preparation continues",
+        "paragraphs": [
+          "The modular platform is intended to support additional vehicle configurations. Humble is working with customers, partners and regulators toward commercial deployment. This is a funding update, not the Hauler’s original unveiling, and it does not establish driverless commercial service on every targeted route."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://media.zenfs.com/en/business-wire.com/b8461d2af805be183094d0181cdd1ca9.jpg",
+        "alt": "Humble Robotics logo in its Series A announcement",
+        "caption": "Humble Robotics logo in its Series A announcement · Image: Humble Robotics / Business Wire"
+      }
+    ],
+    "videos": []
   }
 }
