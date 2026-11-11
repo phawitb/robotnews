@@ -9707,5 +9707,377 @@
       }
     ],
     "videos": []
+  },
+  "serve-av-delivery-developer-portal-launch-2026": {
+    "title": "Serve opens a delivery API and sandbox for its robot fleet",
+    "summary": "Developers can test quotes, dispatch and tracking; live deliveries require approval and remain limited to supported service areas.",
+    "sections": [
+      {
+        "heading": "Opening access to an operating fleet",
+        "paragraphs": [
+          "Serve Robotics has launched its AV Delivery Developer Portal for developers and AI agents. It exposes delivery services using Serve’s existing fleet. This is distinct from the earlier Physical AI Services offering, which supplies connectivity and data technology for other companies’ machines."
+        ]
+      },
+      {
+        "heading": "A delivery workflow through an API",
+        "paragraphs": [
+          "Applications specify pickup and drop-off points, request a quote, dispatch a delivery and track progress. Serve handles fleet assignment, routing, navigation and remote supervision. A sandbox lets developers test workflows and edge cases before connecting to real deliveries, separating application development from direct robot control."
+        ]
+      },
+      {
+        "heading": "Live access remains conditional",
+        "paragraphs": [
+          "Production access requires Serve’s approval and depends on operating areas, service hours and cargo restrictions. A public portal does not mean robots can be requested in every city. The source’s third-generation robot video provides hardware background; this story does not announce a new robot generation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/serve-map-copy.jpg",
+        "alt": "Map illustrating robot dispatch through the Serve portal",
+        "caption": "Map illustrating robot dispatch through the Serve portal · Image: Serve Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=v5oxF3IJ7DE",
+        "title": "Third-generation Serve robot video: background, not a new launch"
+      }
+    ]
+  },
+  "dynamic-creatures-sixth-wall-character-partnership-2026": {
+    "title": "Dynamic Creatures and Sixth Wall partner on physical character robots",
+    "summary": "The partnership connects CharacterOS with robotic motion and expression, while retaining human involvement in operations.",
+    "sections": [
+      {
+        "heading": "A partnership for physical characters",
+        "paragraphs": [
+          "Dynamic Creatures is partnering with Sixth Wall Studio, Hasbro’s AI studio, on experiences delivered by mobile character robots. The new development is the partnership and character-governance approach, rather than another Hugo launch. Intended settings include theme parks, hotels, cruise ships and retail venues."
+        ]
+      },
+      {
+        "heading": "Connecting personality and expression",
+        "paragraphs": [
+          "CharacterOS and Behavioral Licensing define authorized boundaries for personality, voice and behavior, connecting them to robotic movement and expression. The partners envisage venue-specific experiences and remembering guests with their consent, rather than unlicensed character use."
+        ]
+      },
+      {
+        "heading": "Human involvement continues",
+        "paragraphs": [
+          "Initial experiences target audiences aged 13 and above, with humans still involved in the operational loop. The company describes a future transition from remote operation toward remote monitoring. That plan should not be read as proof of fully autonomous guest service or readiness for every venue."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/hasbro-and-dynamic-creatures-corporate-portrait-featured.jpg",
+        "alt": "Roberta Thomson and Marc Theermann in the partnership announcement",
+        "caption": "Roberta Thomson and Marc Theermann in the partnership announcement · Image: Sixth Wall Studio / Dynamic Creatures"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Hugo-dynamiccreatures-cropped.jpg",
+        "alt": "Hugo, Dynamic Creatures’ character robot",
+        "caption": "Hugo, Dynamic Creatures’ character robot · Image: Dynamic Creatures"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=NT7PEX4IlY8",
+        "title": "Dynamic Creatures robot-expression video included in the source"
+      }
+    ]
+  },
+  "nxp-unified-robotics-neural-axis-platform-launch-2026": {
+    "title": "NXP launches a unified robotics platform, starting with drones",
+    "summary": "The Neural Axis architecture connects sensing, AI and control; service-robot and AMR support is planned for the second half of 2027.",
+    "sections": [
+      {
+        "heading": "Reducing integration work",
+        "paragraphs": [
+          "NXP announced a robotics platform based on its Neural Axis architecture on November 9. It connects sensing, AI processing, real-time control and communications, with an open SDK and validated interoperable subsystems. The goal is to reduce hardware and software integration work for developers."
+        ]
+      },
+      {
+        "heading": "Drone hardware comes first",
+        "paragraphs": [
+          "The initial reference design combines a NavQ95 computer using i.MX 95, a Tropic VMU/FMU using i.MX RT1064, a 100Base-T1 sensor node and motor-control electronics. It supports tools including PX4, Zephyr and ROS 2, alongside drivers, middleware and sample applications."
+        ]
+      },
+      {
+        "heading": "Availability and the roadmap",
+        "paragraphs": [
+          "NXP says basic drone functionality can be brought up in about 30 minutes out of the box. That is not a claim that a fully certified autonomous drone can be built in that time. The SDK and drone reference design are available initially; broader autonomous-system, service-robot and AMR support is planned for the second half of 2027."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.nxp.com/assets/images/en/photography/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI-OG.jpg",
+        "alt": "Illustration of NXP’s Neural Axis robotics platform",
+        "caption": "Illustration of NXP’s Neural Axis robotics platform · Image: NXP"
+      }
+    ],
+    "videos": []
+  },
+  "styri-2-offline-mixed-robot-panel-launch-2026": {
+    "title": "Styri 2.0 brings ROS 2 and VDA 5050 robots into an offline operator panel",
+    "summary": "The free Core supports up to three robots with command logs and acknowledgements; its software stop is not a safety function.",
+    "sections": [
+      {
+        "heading": "One local operator view",
+        "paragraphs": [
+          "Styri has launched version 2.0, an on-site panel for ROS 2 and VDA 5050 robots. Operators can see robots on a map, send them to destinations and stop them from a browser without internet access. The Apache-2.0 Core is free for up to three robots at one site."
+        ]
+      },
+      {
+        "heading": "Status follows acknowledgement",
+        "paragraphs": [
+          "The panel distinguishes sent, accepted, running and completed commands instead of treating transmission as completion. Viewer, operator and administrator roles accompany local command logs. Pause depends on robot support, while tablet driving is offered for ROS 2 robots."
+        ]
+      },
+      {
+        "heading": "Limits before deployment",
+        "paragraphs": [
+          "The website reports simulator testing, with real-robot results added as testing proceeds. Styri does not provide traffic management or task allocation across vendors and runs alongside existing fleet managers. Operator stop is a software command, not a safety function or a substitute for an emergency-stop circuit."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "intel-altera-sensor-bridge-collaboration-2026": {
+    "title": "Intel and Altera collaborate on sensor bridges for physical AI",
+    "summary": "The partners combine Intel computing with Altera FPGAs to simplify multi-sensor integration in real-time systems.",
+    "sections": [
+      {
+        "heading": "Connecting physical data to computing",
+        "paragraphs": [
+          "Intel and Altera announced work on modular sensor-bridge approaches for edge and physical AI. The collaboration aims to simplify connections between diverse sensors and computing systems. Robotics, healthcare and aerospace are among the applications where data flow and timing must be coordinated."
+        ]
+      },
+      {
+        "heading": "Computing and programmable interfaces",
+        "paragraphs": [
+          "The approach combines Intel computing, connectivity and software with Altera FPGAs for sensor interfaces, programmable processing and deterministic timing. Moving high-bandwidth remote-I/O data into host memory is part of the announced direction."
+        ]
+      },
+      {
+        "heading": "Reference-platform development",
+        "paragraphs": [
+          "The partners intend to connect Intel Open Edge Platform tools with Altera SDK capabilities so customers can build on reference designs. The announcement does not provide a benchmark proving gains across all robot types. It describes integration development, rather than a finished drop-in product for every machine."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "robbyant-lingbot-touch-tactile-model-release-2026": {
+    "title": "Robbyant releases LingBot-Touch for shared tactile representations",
+    "summary": "The model uses nearly 5,000 hours of data and reports results on 26 tasks; a new hand still needs action-policy training.",
+    "sections": [
+      {
+        "heading": "A shared representation of touch",
+        "paragraphs": [
+          "Ant Group’s Robbyant has released LingBot-Touch to learn shared tactile representations for robots. Magnetic, visuotactile and piezoresistive sensors produce different data formats. Modality-specific tokenizers and a Haptic Transformer let the system learn common contact patterns."
+        ]
+      },
+      {
+        "heading": "Training and evaluation evidence",
+        "paragraphs": [
+          "The project reports 4,983 hours of pretraining data from gloves and robot hands, and evaluates 26 tasks on SharpaWave and XHand6 hands. Its experiments report success gains of 14–26 percentage points over versions without tactile input. These are developer-reported results, not certification across all operating conditions."
+        ]
+      },
+      {
+        "heading": "Transfer still involves training",
+        "paragraphs": [
+          "The tactile encoder can remain frozen while an action policy is trained with demonstrations from a new hand. Transferring the touch representation therefore differs from deploying a new robot without training. Code, a report and models are released for inspection, supporting manipulation research where vision alone is insufficient."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "asics-corvus-misplaced-stock-recovery-results-2026": {
+    "title": "ASICS reports 60% faster misplaced-inventory recovery with Corvus One",
+    "summary": "A new Mississippi warehouse results report describes 26 misplaced cases found in three months, with staff resolving drone-identified discrepancies.",
+    "sections": [
+      {
+        "heading": "Operational results from a warehouse",
+        "paragraphs": [
+          "ASICS America and Corvus Robotics reported results from the 855,000-square-foot Byhalia, Mississippi distribution center, including 60% faster recovery of misplaced inventory. This story focuses on reported operating results, not a claim that drone use just began: an earlier Corvus guide already discussed this site."
+        ]
+      },
+      {
+        "heading": "Night scans and human reconciliation",
+        "paragraphs": [
+          "Drones scan locations, read UPC codes and count boxes for comparison with warehouse records; staff review discrepancies the following morning. The report describes seven nightly flights totaling about 19 hours. In the returns/singles and case-reserve areas, counting rose from twice yearly to monthly, a sixfold increase that should not be generalized to the entire warehouse."
+        ]
+      },
+      {
+        "heading": "Reading the figures carefully",
+        "paragraphs": [
+          "Over three months, the system helped locate 26 misplaced cases containing more than 200 pairs of shoes. About 200 labor hours per month were reportedly redirected to exception resolution and root-cause work. The 60% figure concerns recovery speed, not a 60% labor reduction. These are customer and supplier reports, not independently audited findings."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "path-robotics-300m-series-e-georgian-2026": {
+    "title": "Path Robotics raises $300 million to expand physical AI for manufacturing",
+    "summary": "Georgian leads the Series E at a $2.45 billion post-money valuation, supporting welding and adjacent manufacturing tasks.",
+    "sections": [
+      {
+        "heading": "New capital for manufacturing",
+        "paragraphs": [
+          "Path Robotics announced a $300 million Series E led by Georgian at a $2.45 billion post-money valuation, bringing total funding above $610 million. Georgian’s Emily Walsh will join the board. The company intends to use the capital to expand its manufacturing-robotics business."
+        ]
+      },
+      {
+        "heading": "Welding and adjacent steps",
+        "paragraphs": [
+          "Obsidian combines workpiece perception, joint identification, planning and adjustments during welding. Planned investment includes expanding welding operations and tasks before or after welding, alongside models and computing. Those plans do not establish that every surrounding production step is already automated."
+        ]
+      },
+      {
+        "heading": "Growth claims and their limits",
+        "paragraphs": [
+          "Path says annual recurring revenue increased 17-fold in 18 months, without disclosing the starting revenue in this announcement. The growth ratio alone cannot establish absolute revenue. This financing is separate from the earlier Rove introduction and HII agreement; agreement values should not be counted as proceeds of this round."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/series-e-andy-alex-hero-16x9-l9HepXrYTqVlMicDlRvCDgdR1z0aeW.jpg",
+        "alt": "Andy and Alex in the Series E announcement image",
+        "caption": "Andy and Alex in the Series E announcement image · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/series-e-revenue-17x-v2-1360-5ozkeOPsTD9nnubQHPsUle8EaLq9h5.png",
+        "alt": "Company chart reporting 17-fold ARR growth in 18 months",
+        "caption": "Company chart reporting 17-fold ARR growth in 18 months · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-cutout-andy-YuB9YLG0uSlzWaTrvNNWg8tmCJVlAy.webp",
+        "alt": "Andy, pictured alongside his statement",
+        "caption": "Andy, pictured alongside his statement · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-emily-walsh-v2-g8ROyAHYyswJMcTV8TpAtO31TXQXXm.webp",
+        "alt": "Emily Walsh of Georgian",
+        "caption": "Emily Walsh of Georgian · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/path-robotics-series-e-welding-1794322316836-tjpqls.webp",
+        "alt": "A robot arm in a Path Robotics welding cell",
+        "caption": "A robot arm in a Path Robotics welding cell · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-chris-moran-v2-YDN4e97BKOCzRYi8v2TgPUBwUogVjv.webp",
+        "alt": "Chris Moran, pictured alongside his statement",
+        "caption": "Chris Moran, pictured alongside his statement · Image: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-eric-chewning-1WMYSQsTBtdwOjHHOcKIH5LX7XYd8A.webp",
+        "alt": "Eric Chewning, pictured alongside his statement",
+        "caption": "Eric Chewning, pictured alongside his statement · Image: Path Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "nvidia-gr00t2-corl-model-release-2026": {
+    "title": "NVIDIA introduces GR00T 2 and robot-learning tools at CoRL",
+    "summary": "The company reports few-demonstration results alongside Isaac Lab 3.0 and evaluation tools for identifying failures before deployment.",
+    "sections": [
+      {
+        "heading": "Learning from people and robots",
+        "paragraphs": [
+          "At CoRL, NVIDIA introduced GR00T 2, a Cosmos-based world action model trained on human and robot data, including 100,000 hours of egocentric data. NVIDIA reports at least one successful completion on 40 of 50 evaluated tasks without task-specific demonstrations. That does not mean an 80% success rate across every attempt."
+        ]
+      },
+      {
+        "heading": "Few-demonstration results",
+        "paragraphs": [
+          "The company reports 71% average success with one demonstration per task and 95% with five across its 50-task evaluation. Isaac Lab 3.0 connects PhysX and Newton simulation tools, including support for deformable objects such as cloth and cables. These figures come from developer evaluations."
+        ]
+      },
+      {
+        "heading": "Evaluating variation before deployment",
+        "paragraphs": [
+          "Tools such as Isaac Lab-Arena help teams test varied conditions and identify policy failures beyond successful demonstration clips. Simulation and benchmark results do not establish safety or reliability in every factory; real-system validation remains necessary."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/NVIDIA-corl-featured.jpg",
+        "alt": "Overview of robotics technologies presented at CoRL",
+        "caption": "Overview of robotics technologies presented at CoRL · Image: NVIDIA"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/groot-2-shipping-label.mp4",
+        "title": "GR00T 2 shipping-label demonstration · NVIDIA",
+        "note": "The source returned HTTP 403 during verification. The original video reference is retained; open it through the publisher’s website."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/newton-physx-web.mp4",
+        "title": "Newton and PhysX simulation · NVIDIA",
+        "note": "The source returned HTTP 403 during verification. The original video reference is retained; open it through the publisher’s website."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/flexion-newton-isaac-lab.mp4",
+        "title": "Flexion using Newton with Isaac Lab · NVIDIA",
+        "note": "The source returned HTTP 403 during verification. The original video reference is retained; open it through the publisher’s website."
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/robotics-montage-8s.mp4",
+        "title": "STEEL robot-simulation montage · NVIDIA",
+        "note": "The source returned HTTP 403 during verification. The original video reference is retained; open it through the publisher’s website."
+      }
+    ]
+  },
+  "ring-drone-rover-cam-robotics-launch-2026": {
+    "title": "Ring introduces Drone Cam and Rover Cam for mobile security",
+    "summary": "AI Pilot supports mapping and patrols; U.S. Rover shipments are planned for December, while Drone Cam targets January and awaits FCC authorization.",
+    "sections": [
+      {
+        "heading": "Flying and wheeled security cameras",
+        "paragraphs": [
+          "Ring announced its Ring Robotics category on November 10, comprising the indoor 2K Drone Cam and the business-focused Rover Cam, which streams up to 4K. Both integrate with Ring’s app and devices to inspect places outside fixed cameras’ views."
+        ]
+      },
+      {
+        "heading": "Mapping and patrols",
+        "paragraphs": [
+          "AI Pilot combines cameras, sensors, vision models and cloud processing to map spaces, suggest patrol points and route around obstacles. Rover has a rising camera mast, lights and a siren. Features including scheduled patrols and reviewing recordings require a compatible Ring Protect plan."
+        ]
+      },
+      {
+        "heading": "Availability and conditions",
+        "paragraphs": [
+          "Ring lists Rover Cam at $999.99, with U.S. shipments planned from December 16, 2026. Drone Cam is $249.99 and targets January 27, 2027, but remains without FCC authorization according to the announcement. Its camera turns off when docked; Rover’s Sleep Mode retracts the mast and disables the microphone. These are announced capabilities, not independent test results."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://assets.aboutamazon.com/07/c1/82d8a1204627a837d203c57dd918/ring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
+        "alt": "Ring Drone Cam and Rover Cam in the launch image",
+        "caption": "Ring Drone Cam and Rover Cam in the launch image · Image: Ring / Amazon"
+      },
+      {
+        "url": "https://assets.aboutamazon.com/2c/ca/dd0c6bb84c3896a7165e4503c268/amazon-ring-drone-camera-amazonnews-cdlt-11092026.jpeg",
+        "alt": "Ring Drone Cam, an indoor flying camera",
+        "caption": "Ring Drone Cam, an indoor flying camera · Image: Ring / Amazon"
+      },
+      {
+        "url": "https://assets.aboutamazon.com/7b/9d/a5e9a5ee4e77a798f59cc0718716/amazon-ring-rover-camera-amazonnews-cdlt-11092026.jpeg",
+        "alt": "Ring Rover Cam, a business security robot",
+        "caption": "Ring Rover Cam, a business security robot · Image: Ring / Amazon"
+      }
+    ],
+    "videos": []
   }
 }

@@ -2778,5 +2778,115 @@
     "url": "https://finance.yahoo.com/technology/ai/articles/humble-robotics-raises-51-million-150000145.html",
     "image": "https://media.zenfs.com/en/business-wire.com/b8461d2af805be183094d0181cdd1ca9.jpg",
     "addedAt": "2026-11-07T23:17:21.482Z"
+  },
+  {
+    "id": "serve-av-delivery-developer-portal-launch-2026",
+    "category": "ai-automation",
+    "title": "Serve เปิด API เรียกใช้กองหุ่นยนต์ส่งของ พร้อมระบบทดลองสำหรับนักพัฒนา",
+    "summary": "แอปและ AI agent สามารถทดลองขอราคา เรียกและติดตามหุ่นยนต์ ส่วนการส่งของจริงยังต้องได้รับสิทธิ์และอยู่ในพื้นที่บริการ",
+    "source": "The Robot Report",
+    "date": "2026-11-11",
+    "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/serve-map-copy.jpg",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "dynamic-creatures-sixth-wall-character-partnership-2026",
+    "category": "humanoids",
+    "title": "Dynamic Creatures จับมือ Sixth Wall นำตัวละคร Hasbro สู่หุ่นยนต์",
+    "summary": "ความร่วมมือใหม่เชื่อม CharacterOS กับการเคลื่อนไหวและการแสดงออกของหุ่นยนต์ โดยยังมีคนร่วมกำกับการทำงาน",
+    "source": "The Robot Report",
+    "date": "2026-11-10",
+    "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/hasbro-and-dynamic-creatures-corporate-portrait-featured.jpg",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "nxp-unified-robotics-neural-axis-platform-launch-2026",
+    "category": "ai-automation",
+    "title": "NXP เปิดแพลตฟอร์มหุ่นยนต์ร่วม เริ่มจากชุดอ้างอิงสำหรับโดรน",
+    "summary": "Neural Axis เชื่อมการรับรู้ AI และการควบคุม พร้อม SDK แบบเปิด ส่วนหุ่นยนต์บริการและ AMR อยู่ในแผนครึ่งหลังปี 2027",
+    "source": "NXP",
+    "date": "2026-11-09",
+    "url": "https://www.nxp.com/company/about-nxp/newsroom/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI",
+    "image": "https://www.nxp.com/assets/images/en/photography/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI-OG.jpg",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "styri-2-offline-mixed-robot-panel-launch-2026",
+    "category": "industrial-robots",
+    "title": "Styri 2.0 รวมหน้าจอ ROS 2 และ VDA 5050 ใช้งานในโรงงานโดยไม่ต่ออินเทอร์เน็ต",
+    "summary": "Core เปิดใช้ฟรีสูงสุดสามหุ่นยนต์ พร้อมบันทึกคำสั่งและสถานะตอบรับ แต่ปุ่มหยุดซอฟต์แวร์ไม่ใช่ระบบความปลอดภัย",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-10",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/10/styri-launches-a-free-offline-panel-to-see-send-and-stop-robots-from-different-vendors/27364/",
+    "image": "",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "intel-altera-sensor-bridge-collaboration-2026",
+    "category": "ai-automation",
+    "title": "Intel และ Altera ร่วมพัฒนา sensor bridge เชื่อมเซนเซอร์กับ Physical AI",
+    "summary": "ใช้การประมวลผลของ Intel ร่วม FPGA ของ Altera เพื่อลดงานรวมข้อมูลหลายเซนเซอร์ในระบบเวลาจริง",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-10",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/10/intel-and-altera-simplify-sensor-integration-for-edge-and-physical-ai/27361/",
+    "image": "",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "robbyant-lingbot-touch-tactile-model-release-2026",
+    "category": "research",
+    "title": "Robbyant เปิด LingBot-Touch รวมข้อมูลสัมผัสหลายแบบเพื่อฝึกหุ่นยนต์",
+    "summary": "โมเดลเรียนจากข้อมูลเกือบ 5,000 ชั่วโมง พร้อมผลทดสอบ 26 งาน แต่การย้ายไปมือใหม่ยังต้องฝึกนโยบายการกระทำ",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-10",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/10/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/27360/",
+    "image": "",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "asics-corvus-misplaced-stock-recovery-results-2026",
+    "category": "drones",
+    "title": "ASICS รายงานค้นคืนสินค้าวางผิดที่เร็วขึ้น 60% ด้วยโดรน Corvus One",
+    "summary": "รายงานผลใหม่จากศูนย์ Mississippi เผยพบ 26 ลังที่วางผิดตำแหน่งในสามเดือน โดยให้คนตรวจแก้ข้อผิดพลาดจากข้อมูลโดรน",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-10",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/10/asics-america-recovers-misplaced-inventory-60-faster-with-corvus-one-warehouse-inventory-drones/27359/",
+    "image": "",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "path-robotics-300m-series-e-georgian-2026",
+    "category": "industry-news",
+    "title": "Path Robotics ระดมทุน Series E 300 ล้านดอลลาร์ ขยาย AI สำหรับการผลิต",
+    "summary": "Georgian นำลงทุนที่มูลค่าหลังระดมทุน 2.45 พันล้านดอลลาร์ บริษัทเตรียมขยายงานเชื่อมและขั้นตอนข้างเคียง",
+    "source": "Path Robotics",
+    "date": "2026-11-10",
+    "url": "https://www.path-robotics.com/news/path-robotics-announces-300-million-series-e-led-by-georgian",
+    "image": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/series-e-andy-alex-hero-16x9-l9HepXrYTqVlMicDlRvCDgdR1z0aeW.jpg",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "nvidia-gr00t2-corl-model-release-2026",
+    "category": "research",
+    "title": "NVIDIA เปิด GR00T 2 พร้อมเครื่องมือจำลองและประเมินทักษะหุ่นยนต์ที่ CoRL",
+    "summary": "บริษัทเผยผลเรียนงานจากตัวอย่างจำนวนน้อย พร้อม Isaac Lab 3.0 และแบบทดสอบที่ช่วยค้นหาจุดล้มเหลวก่อนใช้งานจริง",
+    "source": "The Robot Report",
+    "date": "2026-11-09",
+    "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/NVIDIA-corl-featured.jpg",
+    "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "ring-drone-rover-cam-robotics-launch-2026",
+    "category": "industry-news",
+    "title": "Ring เปิด Drone Cam และ Rover Cam กล้องรักษาความปลอดภัยที่เคลื่อนที่ได้",
+    "summary": "AI Pilot ช่วยทำแผนที่และลาดตระเวน รุ่นล้อสำหรับธุรกิจกำหนดส่งสหรัฐฯ ธันวาคม ส่วนโดรนมกราคมและยังรออนุญาต FCC",
+    "source": "About Amazon",
+    "date": "2026-11-10",
+    "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+    "image": "https://assets.aboutamazon.com/07/c1/82d8a1204627a837d203c57dd918/ring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
+    "addedAt": "2026-11-11T23:12:22.720Z"
   }
 ]

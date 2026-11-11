@@ -4313,5 +4313,169 @@
       }
     ],
     "videos": []
+  },
+  "serve-av-delivery-developer-portal-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/serve-map-copy.jpg",
+        "alt": "แผนที่ประกอบการเรียกหุ่นยนต์ส่งของผ่านพอร์ทัล Serve",
+        "caption": "แผนที่ประกอบการเรียกหุ่นยนต์ส่งของผ่านพอร์ทัล Serve · ภาพ: Serve Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=v5oxF3IJ7DE",
+        "embed": "https://www.youtube-nocookie.com/embed/v5oxF3IJ7DE",
+        "title": "วิดีโอหุ่นยนต์ Serve รุ่นที่สาม เป็นข้อมูลประกอบ ไม่ใช่การเปิดตัวใหม่"
+      }
+    ]
+  },
+  "dynamic-creatures-sixth-wall-character-partnership-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/hasbro-and-dynamic-creatures-corporate-portrait-featured.jpg",
+        "alt": "Roberta Thomson และ Marc Theermann ในประกาศความร่วมมือ",
+        "caption": "Roberta Thomson และ Marc Theermann ในประกาศความร่วมมือ · ภาพ: Sixth Wall Studio / Dynamic Creatures"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Hugo-dynamiccreatures-cropped.jpg",
+        "alt": "Hugo หุ่นยนต์ตัวละครของ Dynamic Creatures",
+        "caption": "Hugo หุ่นยนต์ตัวละครของ Dynamic Creatures · ภาพ: Dynamic Creatures"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=NT7PEX4IlY8",
+        "embed": "https://www.youtube-nocookie.com/embed/NT7PEX4IlY8",
+        "title": "วิดีโอการแสดงออกของหุ่นยนต์ Dynamic Creatures จากต้นฉบับ"
+      }
+    ]
+  },
+  "nxp-unified-robotics-neural-axis-platform-launch-2026": {
+    "images": [
+      {
+        "url": "https://www.nxp.com/assets/images/en/photography/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI-OG.jpg",
+        "alt": "ภาพประกอบแพลตฟอร์มหุ่นยนต์ Neural Axis ของ NXP",
+        "caption": "ภาพประกอบแพลตฟอร์มหุ่นยนต์ Neural Axis ของ NXP · ภาพ: NXP"
+      }
+    ],
+    "videos": []
+  },
+  "styri-2-offline-mixed-robot-panel-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "intel-altera-sensor-bridge-collaboration-2026": {
+    "images": [],
+    "videos": []
+  },
+  "robbyant-lingbot-touch-tactile-model-release-2026": {
+    "images": [],
+    "videos": []
+  },
+  "asics-corvus-misplaced-stock-recovery-results-2026": {
+    "images": [],
+    "videos": []
+  },
+  "path-robotics-300m-series-e-georgian-2026": {
+    "images": [
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/series-e-andy-alex-hero-16x9-l9HepXrYTqVlMicDlRvCDgdR1z0aeW.jpg",
+        "alt": "Andy และ Alex จากภาพประกาศทุน Series E",
+        "caption": "Andy และ Alex จากภาพประกาศทุน Series E · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/series-e-revenue-17x-v2-1360-5ozkeOPsTD9nnubQHPsUle8EaLq9h5.png",
+        "alt": "กราฟรายได้ประจำต่อปีที่บริษัทระบุว่าโต 17 เท่าใน 18 เดือน",
+        "caption": "กราฟรายได้ประจำต่อปีที่บริษัทระบุว่าโต 17 เท่าใน 18 เดือน · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-cutout-andy-YuB9YLG0uSlzWaTrvNNWg8tmCJVlAy.webp",
+        "alt": "Andy จากคำกล่าวประกอบประกาศ",
+        "caption": "Andy จากคำกล่าวประกอบประกาศ · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-emily-walsh-v2-g8ROyAHYyswJMcTV8TpAtO31TXQXXm.webp",
+        "alt": "Emily Walsh จาก Georgian",
+        "caption": "Emily Walsh จาก Georgian · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/path-robotics-series-e-welding-1794322316836-tjpqls.webp",
+        "alt": "แขนหุ่นยนต์ในเซลล์เชื่อมของ Path Robotics",
+        "caption": "แขนหุ่นยนต์ในเซลล์เชื่อมของ Path Robotics · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-chris-moran-v2-YDN4e97BKOCzRYi8v2TgPUBwUogVjv.webp",
+        "alt": "Chris Moran จากคำกล่าวประกอบประกาศ",
+        "caption": "Chris Moran จากคำกล่าวประกอบประกาศ · ภาพ: Path Robotics"
+      },
+      {
+        "url": "https://mhwhartwdpbuj44w.public.blob.vercel-storage.com/blog-images/quote-headshot-eric-chewning-1WMYSQsTBtdwOjHHOcKIH5LX7XYd8A.webp",
+        "alt": "Eric Chewning จากคำกล่าวประกอบประกาศ",
+        "caption": "Eric Chewning จากคำกล่าวประกอบประกาศ · ภาพ: Path Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "nvidia-gr00t2-corl-model-release-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/NVIDIA-corl-featured.jpg",
+        "alt": "ภาพรวมเทคโนโลยีหุ่นยนต์ที่นำเสนอในงาน CoRL",
+        "caption": "ภาพรวมเทคโนโลยีหุ่นยนต์ที่นำเสนอในงาน CoRL · ภาพ: NVIDIA"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/groot-2-shipping-label.mp4",
+        "sourceUrl": "https://www.therobotreport.com/wp-content/uploads/2026/11/groot-2-shipping-label.mp4?_=1",
+        "title": "GR00T 2 สาธิตจัดการฉลากส่งของ · NVIDIA",
+        "note": "ต้นทางตอบ HTTP 403 ระหว่างตรวจสอบ จึงเก็บลิงก์วิดีโอต้นฉบับไว้ เปิดชมจากเว็บไซต์ผู้เผยแพร่"
+      },
+      {
+        "kind": "link",
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/newton-physx-web.mp4",
+        "sourceUrl": "https://www.therobotreport.com/wp-content/uploads/2026/11/newton-physx-web.mp4?_=2",
+        "title": "การจำลอง Newton และ PhysX · NVIDIA",
+        "note": "ต้นทางตอบ HTTP 403 ระหว่างตรวจสอบ จึงเก็บลิงก์วิดีโอต้นฉบับไว้ เปิดชมจากเว็บไซต์ผู้เผยแพร่"
+      },
+      {
+        "kind": "link",
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/flexion-newton-isaac-lab.mp4",
+        "sourceUrl": "https://www.therobotreport.com/wp-content/uploads/2026/11/flexion-newton-isaac-lab.mp4?_=3",
+        "title": "Flexion ใช้ Newton ร่วมกับ Isaac Lab · NVIDIA",
+        "note": "ต้นทางตอบ HTTP 403 ระหว่างตรวจสอบ จึงเก็บลิงก์วิดีโอต้นฉบับไว้ เปิดชมจากเว็บไซต์ผู้เผยแพร่"
+      },
+      {
+        "kind": "link",
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/robotics-montage-8s.mp4",
+        "sourceUrl": "https://www.therobotreport.com/wp-content/uploads/2026/11/robotics-montage-8s.mp4?_=4",
+        "title": "วิดีโอรวมการจำลองหุ่นยนต์ STEEL · NVIDIA",
+        "note": "ต้นทางตอบ HTTP 403 ระหว่างตรวจสอบ จึงเก็บลิงก์วิดีโอต้นฉบับไว้ เปิดชมจากเว็บไซต์ผู้เผยแพร่"
+      }
+    ]
+  },
+  "ring-drone-rover-cam-robotics-launch-2026": {
+    "images": [
+      {
+        "url": "https://assets.aboutamazon.com/07/c1/82d8a1204627a837d203c57dd918/ring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
+        "alt": "Ring Drone Cam และ Rover Cam ในภาพเปิดตัว",
+        "caption": "Ring Drone Cam และ Rover Cam ในภาพเปิดตัว · ภาพ: Ring / Amazon"
+      },
+      {
+        "url": "https://assets.aboutamazon.com/2c/ca/dd0c6bb84c3896a7165e4503c268/amazon-ring-drone-camera-amazonnews-cdlt-11092026.jpeg",
+        "alt": "Ring Drone Cam กล้องบินสำหรับภายในบ้าน",
+        "caption": "Ring Drone Cam กล้องบินสำหรับภายในบ้าน · ภาพ: Ring / Amazon"
+      },
+      {
+        "url": "https://assets.aboutamazon.com/7b/9d/a5e9a5ee4e77a798f59cc0718716/amazon-ring-rover-camera-amazonnews-cdlt-11092026.jpeg",
+        "alt": "Ring Rover Cam หุ่นยนต์รักษาความปลอดภัยสำหรับธุรกิจ",
+        "caption": "Ring Rover Cam หุ่นยนต์รักษาความปลอดภัยสำหรับธุรกิจ · ภาพ: Ring / Amazon"
+      }
+    ],
+    "videos": []
   }
 }
