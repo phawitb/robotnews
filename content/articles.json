@@ -2888,5 +2888,115 @@
     "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
     "image": "https://assets.aboutamazon.com/07/c1/82d8a1204627a837d203c57dd918/ring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
     "addedAt": "2026-11-11T23:12:22.720Z"
+  },
+  {
+    "id": "runway-praxis1-open-weights-apache-release-2026",
+    "category": "ai-automation",
+    "title": "Runway เปิดน้ำหนัก Praxis-1 พร้อมโค้ดปรับโมเดลภายใต้ Apache 2.0",
+    "summary": "Runway เปิดน้ำหนักโมเดล Praxis-1 พร้อมโค้ดอนุมานและปรับฝึกวันที่ 11 พฤศจิกายน ภายใต้ Apache 2.0 รวมการใช้งานเชิงพาณิชย์ นี่เป็นความคืบหน้าใหม่จากข่าวก่อนหน้าที่การเปิดน้ำหนักยังเป็นเพียงแผน และจำกัดการทดสอบอยู่กับพันธมิตร",
+    "source": "The Robot Report",
+    "date": "2026-11-11",
+    "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1-featured.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "viam-launchpad-six-month-incubator-disclosure-2026",
+    "category": "industry-news",
+    "title": "Viam เผย Launchpad บ่มเพาะทีมสร้างหุ่นยนต์จากต้นแบบสู่ลูกค้า",
+    "summary": "Viam เผยรายละเอียด Launchpad โครงการบ่มเพาะหุ่นยนต์หกเดือน รับทีม 5–10 บริษัทต่อรุ่น พร้อมการสนับสนุนด้านวิศวกรรม แล็บ และธุรกิจ บทความที่เผยรายละเอียดเขียนโดย Oliver Mitchell ซึ่งเป็นที่ปรึกษาผู้อำนวยการโครงการ จึงควรอ่านโดยรับรู้บทบาทของผู้เขียน",
+    "source": "The Robot Report",
+    "date": "2026-11-12",
+    "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/0A8A0018-1-scaled.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "gemini-robotics25-apollo-mercedes-pilot-release-2026",
+    "category": "humanoids",
+    "title": "Gemini Robotics 2.5 ทดลองให้ Apollo 2 จัดชิ้นส่วนในสายผลิต Mercedes-Benz",
+    "summary": "Google DeepMind เปิด Gemini Robotics 2.5 วันที่ 10 พฤศจิกายน พร้อมรายงานทดลอง Apollo 2 ของ Apptronik จัดชิ้นส่วนในสายผลิต Mercedes-Benz ที่ Kecskemét และ Sindelfingen บริษัทระบุความสำเร็จ 96% ในงานหยิบขายึดโลหะจากถังไปวางในถาดตามลำดับ",
+    "source": "Humanoids Daily",
+    "date": "2026-11-10",
+    "url": "https://www.humanoidsdaily.com/news/gemini-robotics-2-5-apollo-2-mercedes-benz-argon",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-5-apollo-2-mercedes-benz-kitting-ZR1USwDLy2MRfAACLehcuAOGG5Njh4.webp",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "ids-gmsl2-discovery-kit-evaluation-availability-2026",
+    "category": "industrial-robots",
+    "title": "IDS เปิดให้ยืม GMSL2 Discovery Kit ทดลองระบบกล้องหลายตัว",
+    "summary": "IDS ประกาศให้ขอใช้ GMSL2 Discovery Kit เพื่อประเมินกล้องหลายตัวกับคอมพิวเตอร์ฝังตัว NVIDIA Jetson Orin NX หลังนำเสนอแนวคิดที่งาน VISION 2026 ชุดนี้มุ่งช่วยผู้พัฒนาหุ่นยนต์และเครื่องจักรเคลื่อนที่ทดสอบโครงสร้างระบบก่อนออกแบบรุ่นใช้งานจริง",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-10",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/10/ids-simplifies-the-evaluation-of-complex-embedded-vision-systems/27368/",
+    "image": "",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "ifr-2025-robot-density-country-data-release-2026",
+    "category": "industry-news",
+    "title": "IFR เผยความหนาแน่นหุ่นยนต์ปี 2025 เกาหลีใต้นำที่ 1,066 ตัวต่อแรงงานหมื่นคน",
+    "summary": "IFR เผยข้อมูลวันที่ 12 พฤศจิกายนว่าเกาหลีใต้มีหุ่นยนต์อุตสาหกรรมใช้งาน 1,066 ตัวต่อพนักงานภาคการผลิต 10,000 คน ตามด้วยสิงคโปร์ 873 และเยอรมนี 469 ค่าเฉลี่ยทั่วโลกอยู่ที่ 152 ตัว ข้อมูลนี้วัดสัดส่วนหุ่นยนต์กับแรงงาน ไม่ใช่ยอดติดตั้งใหม่ต่อปี",
+    "source": "International Federation of Robotics",
+    "date": "2026-11-12",
+    "url": "https://ifr.org/ifr-press-releases/news/robot-density-highest-in-south-korea-singapore-and-germany",
+    "image": "https://ifr.org/downloads/press_docs/Teaser_Robot_Density.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "arrive-ai-ottonomy-investment-50-robot-framework-2026",
+    "category": "industry-news",
+    "title": "Arrive AI ลงทุน Ottonomy พร้อมกรอบขยายหุ่นยนต์ส่งของ 50 ตัว",
+    "summary": "Arrive AI ประกาศลงทุน 100,000 ดอลลาร์ผ่าน SAFE Note ของ Ottonomy พร้อมข้อตกลงที่พิจารณาติดตั้งหุ่นยนต์ภาคพื้น 50 ตัวในเครือข่ายพันธมิตร จำนวนดังกล่าวเป็นแผนที่ยังขึ้นกับการดำเนินงาน ไม่ใช่ยอดส่งมอบเสร็จแล้ว",
+    "source": "Arrive AI",
+    "date": "2026-11-11",
+    "url": "https://investors.arriveai.com/news-releases/news-release-details/arrive-ai-announces-strategic-investment-ottonomy-accelerate",
+    "image": "https://app.accessnewswire.com/imagelibrary/1a6fc389-bfcd-47c7-bda6-18558533954c/ottonomy-stats.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "agile-robots-500m-series-f-softbank-2026",
+    "category": "industry-news",
+    "title": "Agile Robots ได้ทุน Series F 500 ล้านดอลลาร์ ขยายตลาดและกำลังผลิต",
+    "summary": "Agile Robots ประกาศปิดทุน Series F 500 ล้านดอลลาร์ ที่มูลค่าบริษัท 8.5 พันล้านดอลลาร์ นำโดย SoftBank Group ร่วมด้วย NVIDIA, Hitachi Group และ T.Capital บริษัทระบุเงินทุนสะสมถึง 2 พันล้านดอลลาร์",
+    "source": "Association for Advancing Automation / Agile Robots",
+    "date": "2026-11-12",
+    "url": "https://www.automate.org/robotics/news/physical-ai-leader-agile-robots-raises-500-million-series-f-at-8-5-billion-valuation-to-accelerate-global-growth",
+    "image": "",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "akara-55m-hospital-physical-ai-funding-2026",
+    "category": "ai-automation",
+    "title": "Akara ได้ทุน 5.5 ล้านดอลลาร์ ขยายเซนเซอร์และ AI จัดงานโรงพยาบาล",
+    "summary": "Akara บริษัทแยกจาก Trinity College Dublin ระดมทุน 5.5 ล้านดอลลาร์ นำโดย Locke Health ทำให้ทุนสะสมอยู่ที่ 12.3 ล้านดอลลาร์ บริษัทพัฒนาเซนเซอร์ AI agent และหุ่นยนต์เพื่อช่วยลดงานเอกสารและประสานการใช้พื้นที่รักษาพยาบาล",
+    "source": "GlobeNewswire / Akara",
+    "date": "2026-11-11",
+    "url": "https://www.globenewswire.com/news-release/2026/11/11/3400768/0/en/akara-raises-5-5m-to-bring-privacy-preserving-ai-to-hospitals.html",
+    "image": "https://ml-eu.globenewswire.com/Resource/Download/247ee7c7-1e4a-4920-9547-4e02cdbc556b/akara-founders-1-.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "ubtech-yongda-400-u1-pro-purchase-agreement-2026",
+    "category": "humanoids",
+    "title": "Yongda ตกลงซื้อ UBTECH U1 Pro 400 ตัว ขยายช่องทางผ่านโชว์รูมรถ",
+    "summary": "UBTECH และกลุ่มตัวแทนจำหน่ายรถยนต์ Yongda ลงนามความร่วมมือวันที่ 11 พฤศจิกายน โดย Yongda จะซื้อ U1 Pro จำนวน 400 ตัว และวางแผนรับมอบภายในปี 2026 หุ่นยนต์ชุดแรกมุ่งงานสาธิตสินค้า ส่งเสริมการขาย และบริการลูกค้า",
+    "source": "The Robot Daily",
+    "date": "2026-11-11",
+    "url": "https://therobotdaily.com/ubtech-yongda-400-u1-pro",
+    "image": "https://therobotdaily.com/og-ubtech-yongda-400-u1-pro.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "hedra-model-factory-post-training-launch-2026",
+    "category": "ai-automation",
+    "title": "Hedra เปิด Model Factory ช่วยปรับฝึกและนำโมเดล Physical AI ไปใช้",
+    "summary": "Hedra เปิด Model Factory วันที่ 10 พฤศจิกายน ให้ทีมพัฒนาโมเดลเฉพาะโจทย์จากข้อมูลของตน โดยรวม GPU sandbox นักวิจัย และ AI agent สำหรับทดลองปรับฝึก ประเมิน และให้บริการโมเดล เป้าหมายรวมทีมหุ่นยนต์และการผลิตที่ไม่มีแล็บวิจัยของตนเอง",
+    "source": "GlobeNewswire / Hedra",
+    "date": "2026-11-10",
+    "url": "https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html",
+    "image": "https://ml-eu.globenewswire.com/Resource/Download/249013be-cf2a-4e04-9771-96c87c0bbcab/hedra-founder-michael-lingelbach-1-.jpg",
+    "addedAt": "2026-11-12T23:05:39.001Z"
   }
 ]

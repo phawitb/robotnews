@@ -4477,5 +4477,175 @@
       }
     ],
     "videos": []
+  },
+  "runway-praxis1-open-weights-apache-release-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1-featured.jpg",
+        "alt": "แขนหุ่นยนต์จัดการถุงเท้าจากภาพสาธิต Praxis-1",
+        "caption": "แขนหุ่นยนต์จัดการถุงเท้าจากภาพสาธิต Praxis-1 · ภาพ: Runway"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1.png",
+        "alt": "แขนหุ่นยนต์หยิบปากกาในภาพสาธิต",
+        "caption": "แขนหุ่นยนต์หยิบปากกาในภาพสาธิต · ภาพ: Runway"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
+        "embed": "https://www.youtube-nocookie.com/embed/sXiLq_3TaAI",
+        "title": "วิดีโอแนะนำ Praxis-1 จาก Runway"
+      }
+    ]
+  },
+  "viam-launchpad-six-month-incubator-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/0A8A0018-1-scaled.jpg",
+        "alt": "อุปกรณ์สาธิตแพลตฟอร์ม Viam",
+        "caption": "อุปกรณ์สาธิตแพลตฟอร์ม Viam · ภาพ: Viam"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RobOpsCon26_01.webp",
+        "alt": "ผู้ร่วมเสวนานักลงทุนที่ RobOpsCon",
+        "caption": "ผู้ร่วมเสวนานักลงทุนที่ RobOpsCon · ภาพ: Oliver Mitchell"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Gambit.webp",
+        "alt": "ภาพแนวคิดครัวหุ่นยนต์ Gambit ไม่ใช่ผลติดตั้งจริง",
+        "caption": "ภาพแนวคิดครัวหุ่นยนต์ Gambit ไม่ใช่ผลติดตั้งจริง · ภาพ: Gambit"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RoboBuilt.webp",
+        "alt": "ผู้ก่อตั้ง RoboBuilt ที่ Viam Launchpad",
+        "caption": "ผู้ก่อตั้ง RoboBuilt ที่ Viam Launchpad · ภาพ: Viam"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/F-Prime_state_of_robotics.webp",
+        "alt": "กราฟหมวดการลงทุนจากรายงาน F-Prime 2026",
+        "caption": "กราฟหมวดการลงทุนจากรายงาน F-Prime 2026 · ภาพ: F-Prime"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Launchpad.webp",
+        "alt": "แล็บหุ่นยนต์ Viam Launchpad ในนิวยอร์ก",
+        "caption": "แล็บหุ่นยนต์ Viam Launchpad ในนิวยอร์ก · ภาพ: Viam"
+      }
+    ],
+    "videos": []
+  },
+  "gemini-robotics25-apollo-mercedes-pilot-release-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-5-apollo-2-mercedes-benz-kitting-ZR1USwDLy2MRfAACLehcuAOGG5Njh4.webp",
+        "alt": "Apollo 2 ทดลองจัดชิ้นส่วนที่ Mercedes-Benz",
+        "caption": "Apollo 2 ทดลองจัดชิ้นส่วนที่ Mercedes-Benz · ภาพ: Google DeepMind"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-5-apollo-2-sindelfingen-n30ZmyKI3d3Bn8qAYyUXCdh58FTLUw.webp",
+        "alt": "ภาพจากคลิปทดลอง Apollo 2 ที่ Sindelfingen แสดงความเร็วสองเท่า",
+        "caption": "ภาพจากคลิปทดลอง Apollo 2 ที่ Sindelfingen แสดงความเร็วสองเท่า · ภาพ: Google DeepMind"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://video.twimg.com/amplify_video/2120168800934830080/vid/avc1/1280x720/6llg7QvTg8qIe-55.mp4",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120168800934830080/vid/avc1/1280x720/6llg7QvTg8qIe-55.mp4",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120168800934830080/img/HnD54hYgcdKYFBN4?format=jpg&name=small",
+        "title": "วิดีโอรวมความสามารถ Gemini Robotics 2.5 · Google DeepMind"
+      },
+      {
+        "kind": "video",
+        "url": "https://video.twimg.com/amplify_video/2120183635882184704/vid/avc1/1280x720/0pqgn3doM37yUYrt.mp4",
+        "sourceUrl": "https://video.twimg.com/amplify_video/2120183635882184704/vid/avc1/1280x720/0pqgn3doM37yUYrt.mp4",
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2120183635882184704/img/ruzmhmUI-cDeOVSm?format=jpg&name=small",
+        "title": "คลิปทดลองจัดชิ้นส่วน Apollo 2 ที่ Mercedes-Benz · Google DeepMind"
+      }
+    ]
+  },
+  "ids-gmsl2-discovery-kit-evaluation-availability-2026": {
+    "images": [],
+    "videos": []
+  },
+  "ifr-2025-robot-density-country-data-release-2026": {
+    "images": [
+      {
+        "url": "https://ifr.org/downloads/press_docs/Teaser_Robot_Density.jpg",
+        "alt": "กราฟความหนาแน่นหุ่นยนต์อุตสาหกรรมแยกประเทศปี 2025",
+        "caption": "กราฟความหนาแน่นหุ่นยนต์อุตสาหกรรมแยกประเทศปี 2025 · ภาพ: International Federation of Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "arrive-ai-ottonomy-investment-50-robot-framework-2026": {
+    "images": [
+      {
+        "url": "https://app.accessnewswire.com/imagelibrary/1a6fc389-bfcd-47c7-bda6-18558533954c/ottonomy-stats.jpg",
+        "alt": "กราฟิก Ottonomy ประกอบประกาศลงทุน",
+        "caption": "กราฟิก Ottonomy ประกอบประกาศลงทุน · ภาพ: Arrive AI / Ottonomy"
+      },
+      {
+        "url": "https://app.accessnewswire.com/imagelibrary/b964f3bd-f4fc-4071-b080-b0484c4ec0d8/1249769/hancock-robot-arrive-point.jpg",
+        "alt": "หุ่นยนต์และจุดรับส่ง Arrive Point ที่ Hancock",
+        "caption": "หุ่นยนต์และจุดรับส่ง Arrive Point ที่ Hancock · ภาพ: Arrive AI / Ottonomy"
+      }
+    ],
+    "videos": []
+  },
+  "agile-robots-500m-series-f-softbank-2026": {
+    "images": [],
+    "videos": []
+  },
+  "akara-55m-hospital-physical-ai-funding-2026": {
+    "images": [
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/247ee7c7-1e4a-4920-9547-4e02cdbc556b/akara-founders-1-.jpg",
+        "alt": "ทีมผู้ก่อตั้ง Akara จากประกาศระดมทุน",
+        "caption": "ทีมผู้ก่อตั้ง Akara จากประกาศระดมทุน · ภาพ: Akara"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/a913e9fd-c170-4c37-b3ce-980bbaa9a705/akara-ai-sensor-1-.jpg",
+        "alt": "AI Sensor ของ Akara สำหรับติดตามกิจกรรมในพื้นที่รักษา",
+        "caption": "AI Sensor ของ Akara สำหรับติดตามกิจกรรมในพื้นที่รักษา · ภาพ: Akara"
+      }
+    ],
+    "videos": []
+  },
+  "ubtech-yongda-400-u1-pro-purchase-agreement-2026": {
+    "images": [
+      {
+        "url": "https://therobotdaily.com/og-ubtech-yongda-400-u1-pro.jpg",
+        "alt": "ภาพประกอบข้อตกลง UBTECH และ Yongda",
+        "caption": "ภาพประกอบข้อตกลง UBTECH และ Yongda · ภาพ: UBTECH / Yongda"
+      },
+      {
+        "url": "https://therobotdaily.com/og-ubtech-yongda-400-u1-pro-2.jpg",
+        "alt": "ผู้บริหารลงนามความร่วมมือที่ Shanghai",
+        "caption": "ผู้บริหารลงนามความร่วมมือที่ Shanghai · ภาพ: UBTECH / Yongda"
+      }
+    ],
+    "videos": []
+  },
+  "hedra-model-factory-post-training-launch-2026": {
+    "images": [
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/249013be-cf2a-4e04-9771-96c87c0bbcab/hedra-founder-michael-lingelbach-1-.jpg",
+        "alt": "Michael Lingelbach ผู้ก่อตั้งและซีอีโอ Hedra",
+        "caption": "Michael Lingelbach ผู้ก่อตั้งและซีอีโอ Hedra · ภาพ: Hedra"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/2f35cbbb-2707-4958-844a-934b4e868379/01-model-factory-loop.png",
+        "alt": "แผนภาพวงจรการพัฒนา Model Factory",
+        "caption": "แผนภาพวงจรการพัฒนา Model Factory · ภาพ: Hedra"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/315dcd1b-7086-4dc3-a855-ea3e088de03b/02-image-editing-speed-comparison.png",
+        "alt": "ผลเปรียบเทียบความเร็วแก้ไขภาพ ไม่ใช่ความเร็วหุ่นยนต์",
+        "caption": "ผลเปรียบเทียบความเร็วแก้ไขภาพ ไม่ใช่ความเร็วหุ่นยนต์ · ภาพ: Hedra"
+      }
+    ],
+    "videos": []
   }
 }

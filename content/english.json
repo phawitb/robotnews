@@ -10079,5 +10079,387 @@
       }
     ],
     "videos": []
+  },
+  "runway-praxis1-open-weights-apache-release-2026": {
+    "title": "Runway releases Praxis-1 weights and adaptation code under Apache 2.0",
+    "summary": "Runway released Praxis-1 weights and inference and fine-tuning code on November 11 under Apache 2.0, including commercial use. This advances the earlier announcement, when open weights were still planned and testing was limited to partners.",
+    "sections": [
+      {
+        "heading": "From a promise to a release",
+        "paragraphs": [
+          "Runway released Praxis-1 weights and inference and fine-tuning code on November 11 under Apache 2.0, including commercial use. This advances the earlier announcement, when open weights were still planned and testing was limited to partners."
+        ]
+      },
+      {
+        "heading": "Video and actions together",
+        "paragraphs": [
+          "The 27-billion-parameter mixture-of-experts diffusion transformer predicts video and actions jointly. Developers can use full fine-tuning or LoRA for their embodiment, cameras and tasks. Distribution includes GitHub, Hugging Face and LeRobot, with support across several NVIDIA hardware tiers."
+        ]
+      },
+      {
+        "heading": "Benchmarks have boundaries",
+        "paragraphs": [
+          "Runway reports 46.2% success over 1,200 RoboLab-120 episodes. Its 80% SimplerEnv result followed fine-tuning on RT-1, rather than unmodified deployment on new hardware. Open access enables inspection and experimentation, but task-specific performance and safety still require validation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1-featured.jpg",
+        "alt": "Robot arms handling socks in a Praxis-1 demonstration",
+        "caption": "Robot arms handling socks in a Praxis-1 demonstration · Image: Runway"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/praxis-1.png",
+        "alt": "Robot arms picking up a marker in a demonstration",
+        "caption": "Robot arms picking up a marker in a demonstration · Image: Runway"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
+        "title": "Runway’s Praxis-1 introduction video"
+      }
+    ]
+  },
+  "viam-launchpad-six-month-incubator-disclosure-2026": {
+    "title": "Viam details Launchpad support for taking robot prototypes to customers",
+    "summary": "Viam has detailed Launchpad, a six-month robotics incubator for cohorts of five to ten companies, with engineering, laboratory and business support. The article was written by Oliver Mitchell, the program’s advising executive director, a role readers should consider when assessing its claims.",
+    "sections": [
+      {
+        "heading": "A six-month program",
+        "paragraphs": [
+          "Viam has detailed Launchpad, a six-month robotics incubator for cohorts of five to ten companies, with engineering, laboratory and business support. The article was written by Oliver Mitchell, the program’s advising executive director, a role readers should consider when assessing its claims."
+        ]
+      },
+      {
+        "heading": "Resources for integration",
+        "paragraphs": [
+          "The program website lists more than $100,000 in resources and services, including $30,000 of platform credits. Teams can access a New York robotics lab, integration engineers and mentors, covering fleet management, data, updates and remote troubleshooting."
+        ]
+      },
+      {
+        "heading": "Deployment is a goal",
+        "paragraphs": [
+          "The aim is a product or customer pilot and preparation for fundraising. RoboBuilt’s example describes a planned commercial installation, not a confirmed outcome for every cohort. Applications are rolling, and the advertised resource value is not a cash investment paid to every team."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/0A8A0018-1-scaled.jpg",
+        "alt": "Demonstration hardware for Viam’s platform",
+        "caption": "Demonstration hardware for Viam’s platform · Image: Viam"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RobOpsCon26_01.webp",
+        "alt": "Investors on a RobOpsCon panel",
+        "caption": "Investors on a RobOpsCon panel · Image: Oliver Mitchell"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Gambit.webp",
+        "alt": "Concept for Gambit’s robotic kitchen, not an installed-system result",
+        "caption": "Concept for Gambit’s robotic kitchen, not an installed-system result · Image: Gambit"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RoboBuilt.webp",
+        "alt": "RoboBuilt founders at Viam Launchpad",
+        "caption": "RoboBuilt founders at Viam Launchpad · Image: Viam"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/F-Prime_state_of_robotics.webp",
+        "alt": "Investment-category chart from F-Prime’s 2026 report",
+        "caption": "Investment-category chart from F-Prime’s 2026 report · Image: F-Prime"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Launchpad.webp",
+        "alt": "Viam Launchpad’s robotics lab in New York",
+        "caption": "Viam Launchpad’s robotics lab in New York · Image: Viam"
+      }
+    ],
+    "videos": []
+  },
+  "gemini-robotics25-apollo-mercedes-pilot-release-2026": {
+    "title": "Gemini Robotics 2.5 pilots Apollo 2 parts kitting at Mercedes-Benz",
+    "summary": "Google DeepMind introduced Gemini Robotics 2.5 on November 10, reporting an Apptronik Apollo 2 pilot on Mercedes-Benz lines in Kecskemét and Sindelfingen. It reports 96% success picking metal brackets from bulk bins into sequencing trays.",
+    "sections": [
+      {
+        "heading": "A release with factory-pilot results",
+        "paragraphs": [
+          "Google DeepMind introduced Gemini Robotics 2.5 on November 10, reporting an Apptronik Apollo 2 pilot on Mercedes-Benz lines in Kecskemét and Sindelfingen. It reports 96% success picking metal brackets from bulk bins into sequencing trays."
+        ]
+      },
+      {
+        "heading": "Reasoning and movement",
+        "paragraphs": [
+          "Gemini Robotics ER tracks the workflow while 2.5 controls hands and arms, including corrections after imperfect grasps or placements. DeepMind reports evaluation on over 200 tasks, with success increasing 30–100% depending on task type and completion 20–30% faster than previous baselines. These are company evaluations."
+        ]
+      },
+      {
+        "heading": "Proof of concept and partner access",
+        "paragraphs": [
+          "The factory work is a proof of concept, not evidence of full deployment across production lines. The announcement does not provide the trial count behind 96% or cycle time against people. Rollout is to robotics partners, without announced public API pricing. Argon assisted simulation and failure analysis during development."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-5-apollo-2-mercedes-benz-kitting-ZR1USwDLy2MRfAACLehcuAOGG5Njh4.webp",
+        "alt": "Apollo 2 in the Mercedes-Benz parts-kitting pilot",
+        "caption": "Apollo 2 in the Mercedes-Benz parts-kitting pilot · Image: Google DeepMind"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-robotics-2-5-apollo-2-sindelfingen-n30ZmyKI3d3Bn8qAYyUXCdh58FTLUw.webp",
+        "alt": "Frame from the Sindelfingen Apollo 2 pilot clip, labelled 2x speed",
+        "caption": "Frame from the Sindelfingen Apollo 2 pilot clip, labelled 2x speed · Image: Google DeepMind"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://video.twimg.com/amplify_video/2120168800934830080/vid/avc1/1280x720/6llg7QvTg8qIe-55.mp4",
+        "title": "Gemini Robotics 2.5 capabilities video · Google DeepMind"
+      },
+      {
+        "url": "https://video.twimg.com/amplify_video/2120183635882184704/vid/avc1/1280x720/0pqgn3doM37yUYrt.mp4",
+        "title": "Apollo 2 Mercedes-Benz parts-kitting pilot video · Google DeepMind"
+      }
+    ]
+  },
+  "ids-gmsl2-discovery-kit-evaluation-availability-2026": {
+    "title": "IDS makes its GMSL2 Discovery Kit available for evaluation",
+    "summary": "IDS has announced evaluation access to its GMSL2 Discovery Kit, combining multiple cameras with an NVIDIA Jetson Orin NX embedded computer after a VISION 2026 preview. It targets robot and mobile-machine developers testing architectures before building production systems.",
+    "sections": [
+      {
+        "heading": "An embedded-vision evaluation kit",
+        "paragraphs": [
+          "IDS has announced evaluation access to its GMSL2 Discovery Kit, combining multiple cameras with an NVIDIA Jetson Orin NX embedded computer after a VISION 2026 preview. It targets robot and mobile-machine developers testing architectures before building production systems."
+        ]
+      },
+      {
+        "heading": "Several signals on one cable",
+        "paragraphs": [
+          "Camera modules use onsemi AR0233 sensors for Full HD at 30 frames per second, with onboard ISP and SoC, HDR and LED flicker mitigation. GMSL carries images, control, synchronization and power over one cable. Drivers expose camera data through V4L2."
+        ]
+      },
+      {
+        "heading": "Evaluate against the application",
+        "paragraphs": [
+          "Developers can work in Python and OpenCV or stream through RTSP. Camera counts depend on the kit version. IDS offers loans with technical support and subsequent custom development; access to a kit does not establish latency or robustness compliance for every application without testing."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "ifr-2025-robot-density-country-data-release-2026": {
+    "title": "IFR reports 2025 robot density led by South Korea at 1,066 per 10,000 workers",
+    "summary": "On November 12, IFR reported 1,066 operating industrial robots per 10,000 manufacturing employees in South Korea, followed by Singapore at 873 and Germany at 469. The global average is 152. This measures robots relative to employment, not annual new installations.",
+    "sections": [
+      {
+        "heading": "The latest density figures",
+        "paragraphs": [
+          "On November 12, IFR reported 1,066 operating industrial robots per 10,000 manufacturing employees in South Korea, followed by Singapore at 873 and Germany at 469. The global average is 152. This measures robots relative to employment, not annual new installations."
+        ]
+      },
+      {
+        "heading": "Regional comparisons",
+        "paragraphs": [
+          "EU-27 density reached 240, up about 35% between 2020 and 2025. North America reached 214, up around 24%, and Asia 144, up around 47%. Japan ranks fourth at 452 and the United States eighth at 323."
+        ]
+      },
+      {
+        "heading": "The denominator matters",
+        "paragraphs": [
+          "IFR places China at 193 and nineteenth globally using National Economic Census employment data. Workforce definitions must therefore be considered alongside robot counts. Density helps compare differently sized economies but does not directly measure productivity, job quality or individual factory-project success."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ifr.org/downloads/press_docs/Teaser_Robot_Density.jpg",
+        "alt": "Industrial robot density by country in 2025",
+        "caption": "Industrial robot density by country in 2025 · Image: International Federation of Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "arrive-ai-ottonomy-investment-50-robot-framework-2026": {
+    "title": "Arrive AI invests in Ottonomy with a framework for 50 delivery robots",
+    "summary": "Arrive AI announced a $100,000 investment through an Ottonomy SAFE Note and an agreement contemplating 50 ground robots across partner locations. That number remains an implementation-dependent plan, not a completed delivery total.",
+    "sections": [
+      {
+        "heading": "Investment and expansion framework",
+        "paragraphs": [
+          "Arrive AI announced a $100,000 investment through an Ottonomy SAFE Note and an agreement contemplating 50 ground robots across partner locations. That number remains an implementation-dependent plan, not a completed delivery total."
+        ]
+      },
+      {
+        "heading": "Unattended handoffs",
+        "paragraphs": [
+          "Ottonomy robots connect with Arrive Point endpoints and Arrive OS so goods can be deposited, stored and retrieved without someone waiting beside the robot. This addresses pickup and destination coordination, an operational requirement beyond autonomous travel."
+        ]
+      },
+      {
+        "heading": "Building on hospital operations",
+        "paragraphs": [
+          "The partners already transport specimens between facilities at Hancock Regional Hospital in Indiana and intend to expand from that experience. The new development is the investment and expansion framework, not a new claim about the existing site. Timing, actual deployments and expansion beyond 50 remain unguaranteed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://app.accessnewswire.com/imagelibrary/1a6fc389-bfcd-47c7-bda6-18558533954c/ottonomy-stats.jpg",
+        "alt": "Ottonomy graphic accompanying the investment announcement",
+        "caption": "Ottonomy graphic accompanying the investment announcement · Image: Arrive AI / Ottonomy"
+      },
+      {
+        "url": "https://app.accessnewswire.com/imagelibrary/b964f3bd-f4fc-4071-b080-b0484c4ec0d8/1249769/hancock-robot-arrive-point.jpg",
+        "alt": "Robot and Arrive Point at Hancock",
+        "caption": "Robot and Arrive Point at Hancock · Image: Arrive AI / Ottonomy"
+      }
+    ],
+    "videos": []
+  },
+  "agile-robots-500m-series-f-softbank-2026": {
+    "title": "Agile Robots raises $500 million Series F for expansion and production",
+    "summary": "Agile Robots announced a $500 million Series F at an $8.5 billion valuation, led by SoftBank Group with NVIDIA, Hitachi Group and T.Capital participating. The company says total funding has reached $2 billion.",
+    "sections": [
+      {
+        "heading": "New industrial backing",
+        "paragraphs": [
+          "Agile Robots announced a $500 million Series F at an $8.5 billion valuation, led by SoftBank Group with NVIDIA, Hitachi Group and T.Capital participating. The company says total funding has reached $2 billion."
+        ]
+      },
+      {
+        "heading": "Markets and manufacturing",
+        "paragraphs": [
+          "The funds support U.S. expansion, robotics applications and production capacity, including Germany. Agile says its Fürstenfeldbruck factory, opened earlier this year, can produce up to 10,000 legged and wheeled humanoids annually. Capacity is not the number already produced or sold."
+        ]
+      },
+      {
+        "heading": "A broader industrial business",
+        "paragraphs": [
+          "Its portfolio includes arms, hands, mobile robots and software. The company reports more than 20,000 installed industrial solutions, not 20,000 humanoids. This financing is distinct from the earlier Agile ONE SN introduction, and company valuation is not revenue."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "akara-55m-hospital-physical-ai-funding-2026": {
+    "title": "Akara raises $5.5 million for hospital sensors and operational AI",
+    "summary": "Trinity College Dublin spinout Akara raised $5.5 million led by Locke Health, bringing total funding to $12.3 million. Its sensors, AI agents and robotics aim to reduce documentation and coordinate clinical-space use.",
+    "sections": [
+      {
+        "heading": "Funding for hospital operations",
+        "paragraphs": [
+          "Trinity College Dublin spinout Akara raised $5.5 million led by Locke Health, bringing total funding to $12.3 million. Its sensors, AI agents and robotics aim to reduce documentation and coordinate clinical-space use."
+        ]
+      },
+      {
+        "heading": "Thermal activity sensing",
+        "paragraphs": [
+          "Wall-mounted sensors combine thermal sensing and on-device AI to detect activity without conventional detailed patient imagery. Software alerts staff when needed and supports natural-language questions and reports. Akara sees that information as a foundation for further automation."
+        ]
+      },
+      {
+        "heading": "Expansion rather than a new robot",
+        "paragraphs": [
+          "Akara reports use in U.S. hospitals and ambulatory surgery centers. Funding will expand engineering and operations and develop AI agents. This is not a new robot launch or a quantified savings result transferable to every hospital; operational and privacy claims remain company-provided."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/247ee7c7-1e4a-4920-9547-4e02cdbc556b/akara-founders-1-.jpg",
+        "alt": "Akara’s founding team in the funding announcement",
+        "caption": "Akara’s founding team in the funding announcement · Image: Akara"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/a913e9fd-c170-4c37-b3ce-980bbaa9a705/akara-ai-sensor-1-.jpg",
+        "alt": "Akara AI Sensor for observing clinical-space activity",
+        "caption": "Akara AI Sensor for observing clinical-space activity · Image: Akara"
+      }
+    ],
+    "videos": []
+  },
+  "ubtech-yongda-400-u1-pro-purchase-agreement-2026": {
+    "title": "Yongda agrees to buy 400 UBTECH U1 Pro robots for automotive retail",
+    "summary": "UBTECH and automotive dealership group Yongda signed a cooperation agreement on November 11. Yongda will buy 400 U1 Pro robots, with delivery planned before the end of 2026. Initial uses focus on product demonstrations, sales promotion and customer service.",
+    "sections": [
+      {
+        "heading": "An order with planned deliveries",
+        "paragraphs": [
+          "UBTECH and automotive dealership group Yongda signed a cooperation agreement on November 11. Yongda will buy 400 U1 Pro robots, with delivery planned before the end of 2026. Initial uses focus on product demonstrations, sales promotion and customer service."
+        ]
+      },
+      {
+        "heading": "Dealerships as a robotics channel",
+        "paragraphs": [
+          "The partners plan a Shanghai robot experience center and potential displays inside Yongda outlets in eastern China. Cooperation covers requirements research, service design, sales, leasing and deployment support, using the automotive network for robot delivery and servicing."
+        ]
+      },
+      {
+        "heading": "Orders are not operating results",
+        "paragraphs": [
+          "U1 Pro targets human interaction, distinct from the industrial Walker range. The agreement does not prove sales conversion or sustained service performance. Contract value was not disclosed, so multiplying a retail price by 400 should not be reported as the actual purchase value."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://therobotdaily.com/og-ubtech-yongda-400-u1-pro.jpg",
+        "alt": "Image accompanying the UBTECH–Yongda agreement",
+        "caption": "Image accompanying the UBTECH–Yongda agreement · Image: UBTECH / Yongda"
+      },
+      {
+        "url": "https://therobotdaily.com/og-ubtech-yongda-400-u1-pro-2.jpg",
+        "alt": "Executives at the cooperation signing in Shanghai",
+        "caption": "Executives at the cooperation signing in Shanghai · Image: UBTECH / Yongda"
+      }
+    ],
+    "videos": []
+  },
+  "hedra-model-factory-post-training-launch-2026": {
+    "title": "Hedra launches Model Factory for physical-AI post-training and deployment",
+    "summary": "Hedra launched Model Factory on November 10 for teams building task-specific models from their own data. It combines GPU sandboxes, researchers and AI agents for post-training, evaluation and serving, including robotics and manufacturing teams without internal research labs.",
+    "sections": [
+      {
+        "heading": "Infrastructure plus researchers",
+        "paragraphs": [
+          "Hedra launched Model Factory on November 10 for teams building task-specific models from their own data. It combines GPU sandboxes, researchers and AI agents for post-training, evaluation and serving, including robotics and manufacturing teams without internal research labs."
+        ]
+      },
+      {
+        "heading": "An evaluated improvement loop",
+        "paragraphs": [
+          "Customers bring data and simulators; Hedra helps build datasets, learning environments and evaluations. Production performance informs retraining, with releases described as conditional on passing customer evaluations. People and acceptance criteria remain involved; this is not an unsupervised robot repairing itself."
+        ]
+      },
+      {
+        "heading": "The robotics result is simulated",
+        "paragraphs": [
+          "A gripper-swap study restored near-zero success to near 100% without policy retraining by matching reach and grasp points in wrist-camera views. It was simulation, not a field result. The separately advertised roughly sixfold speedup concerns image editing with an adapted model, not robot operating speed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/249013be-cf2a-4e04-9771-96c87c0bbcab/hedra-founder-michael-lingelbach-1-.jpg",
+        "alt": "Michael Lingelbach, founder and CEO of Hedra",
+        "caption": "Michael Lingelbach, founder and CEO of Hedra · Image: Hedra"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/2f35cbbb-2707-4958-844a-934b4e868379/01-model-factory-loop.png",
+        "alt": "Model Factory development-loop diagram",
+        "caption": "Model Factory development-loop diagram · Image: Hedra"
+      },
+      {
+        "url": "https://ml-eu.globenewswire.com/Resource/Download/315dcd1b-7086-4dc3-a855-ea3e088de03b/02-image-editing-speed-comparison.png",
+        "alt": "Image-editing speed comparison, not robot operating speed",
+        "caption": "Image-editing speed comparison, not robot operating speed · Image: Hedra"
+      }
+    ],
+    "videos": []
   }
 }

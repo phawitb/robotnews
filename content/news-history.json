@@ -22804,6 +22804,687 @@
           }
         ]
       }
+    },
+    {
+      "id": "runway-praxis1-open-weights-apache-release-2026",
+      "storyKey": "runway-praxis1-open-weights-apache-release-2026",
+      "originalTitle": "Runway’s Praxis-1 world action model for robotics is now available",
+      "urls": [
+        "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+        "https://runway.com/news/company-news/praxis-1-is-now-available"
+      ],
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Runway เปิดน้ำหนักโมเดล Praxis-1 พร้อมโค้ดอนุมานและปรับฝึกวันที่ 11 พฤศจิกายน ภายใต้ Apache 2.0 รวมการใช้งานเชิงพาณิชย์ นี่เป็นความคืบหน้าใหม่จากข่าวก่อนหน้าที่การเปิดน้ำหนักยังเป็นเพียงแผน และจำกัดการทดสอบอยู่กับพันธมิตร",
+      "score": 18,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/8rii4_E859zg6NzZAeJId6j2Worzbc8R-RY4as2OCZzHuP_RZPZssOZTHe3dvFx8gj2_TCfEBw=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/memoriesai-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/robosimstudio-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Hugo-dynamiccreatures-cropped-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viam-launchpad-six-month-incubator-disclosure-2026",
+      "storyKey": "viam-launchpad-six-month-incubator-disclosure-2026",
+      "originalTitle": "Viam Launchpad aims to accelerate robotics deployments",
+      "urls": [
+        "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+        "https://www.viam.com/launchpad"
+      ],
+      "publishedAt": "2026-11-12T13:30:31+00:00",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Viam เผยรายละเอียด Launchpad โครงการบ่มเพาะหุ่นยนต์หกเดือน รับทีม 5–10 บริษัทต่อรุ่น พร้อมการสนับสนุนด้านวิศวกรรม แล็บ และธุรกิจ บทความที่เผยรายละเอียดเขียนโดย Oliver Mitchell ซึ่งเป็นที่ปรึกษาผู้อำนวยการโครงการ จึงควรอ่านโดยรับรู้บทบาทของผู้เขียน",
+      "score": 14,
+      "mediaAudit": {
+        "images": 6,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/22ffbbda3f69dc9a9519bf6344ffe5aeb45bff8ee1b1e14b6d5948d4fdc8400e?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/episode-269-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/RR_Robotics-Startup-Radar_2026-Thumbnail-268x170.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Tutor_Sonny-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/episode-268-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f7426936742c0324e3e525d20",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/IMG_1588-copy-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gemini-robotics25-apollo-mercedes-pilot-release-2026",
+      "storyKey": "gemini-robotics25-apollo-mercedes-pilot-release-2026",
+      "originalTitle": "Gemini Robotics 2.5 Puts Apollo 2 on Mercedes-Benz Lines as Argon Speeds Up Training",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/gemini-robotics-2-5-apollo-2-mercedes-benz-argon"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/gemini-robotics-2-5-apollo-2-mercedes-benz-argon",
+        "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence"
+      ],
+      "publishedAt": "2026-11-10T10:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Google DeepMind เปิด Gemini Robotics 2.5 วันที่ 10 พฤศจิกายน พร้อมรายงานทดลอง Apollo 2 ของ Apptronik จัดชิ้นส่วนในสายผลิต Mercedes-Benz ที่ Kecskemét และ Sindelfingen บริษัทระบุความสำเร็จ 96% ในงานหยิบขายึดโลหะจากถังไปวางในถาดตามลำดับ",
+      "score": 18,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-5-apollo-2-mercedes-benz-kitting-ZR1USwDLy2MRfAACLehcuAOGG5Njh4.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1977229695948066816/UsKaXuMq_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-5-apollo-2-sindelfingen-n30ZmyKI3d3Bn8qAYyUXCdh58FTLUw.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fapptronik-1788645959230.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fsharpa-robotics-1789392117416.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-screenshot.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fgemini-15.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fcarolina-parada.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenie-3-create-world.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fspot-gemini-robotics-1-6.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fembodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Funitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fdefault-1772057003828.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-apollo.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-sharpa.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-deepmind.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1906703170069274624/ueaZW4dj_normal.jpg",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ids-gmsl2-discovery-kit-evaluation-availability-2026",
+      "storyKey": "ids-gmsl2-discovery-kit-evaluation-availability-2026",
+      "originalTitle": "IDS simplifies the evaluation of complex embedded vision systems",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/10/ids-simplifies-the-evaluation-of-complex-embedded-vision-systems/27368/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/10/ids-simplifies-the-evaluation-of-complex-embedded-vision-systems/27368/",
+        "https://www.ids-imaging.us/press-releases-article/items/gmsl2-discovery-kit.html"
+      ],
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "IDS ประกาศให้ขอใช้ GMSL2 Discovery Kit เพื่อประเมินกล้องหลายตัวกับคอมพิวเตอร์ฝังตัว NVIDIA Jetson Orin NX หลังนำเสนอแนวคิดที่งาน VISION 2026 ชุดนี้มุ่งช่วยผู้พัฒนาหุ่นยนต์และเครื่องจักรเคลื่อนที่ทดสอบโครงสร้างระบบก่อนออกแบบรุ่นใช้งานจริง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/elmo-motion-control-%C3%A2%E2%82%AC%E2%80%9C-gold-solo-triple-twitter-digital-servo-drive.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ifr-2025-robot-density-country-data-release-2026",
+      "storyKey": "ifr-2025-robot-density-country-data-release-2026",
+      "originalTitle": "Robot Density Highest in South Korea, Singapore and Germany",
+      "urls": [
+        "https://ifr.org/ifr-press-releases/news/robot-density-highest-in-south-korea-singapore-and-germany"
+      ],
+      "references": [
+        "https://ifr.org/ifr-press-releases/news/robot-density-highest-in-south-korea-singapore-and-germany"
+      ],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "IFR เผยข้อมูลวันที่ 12 พฤศจิกายนว่าเกาหลีใต้มีหุ่นยนต์อุตสาหกรรมใช้งาน 1,066 ตัวต่อพนักงานภาคการผลิต 10,000 คน ตามด้วยสิงคโปร์ 873 และเยอรมนี 469 ค่าเฉลี่ยทั่วโลกอยู่ที่ 152 ตัว ข้อมูลนี้วัดสัดส่วนหุ่นยนต์กับแรงงาน ไม่ใช่ยอดติดตั้งใหม่ต่อปี",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://ifr.org/themes/user/ifr/img/IFR_Logo_transparent.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ifr.org/downloads/press_docs/Graph_Service_Robots_share_2025_1600x900.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ifr.org/downloads/press_docs/Jane_Heffner_and_Takayuki_Ito.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ifr.org/img/office/Carsten_Heer_250x250.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://ifr.org/themes/user/ifr/img/team_BS_200.jpg",
+            "reason": "avatar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "arrive-ai-ottonomy-investment-50-robot-framework-2026",
+      "storyKey": "arrive-ai-ottonomy-investment-50-robot-framework-2026",
+      "originalTitle": "Arrive AI Announces Strategic Investment in Ottonomy to Accelerate Autonomous Delivery Network Expansion - Wed, 11/11/2026 - 09:12",
+      "urls": [
+        "https://investors.arriveai.com/news-releases/news-release-details/arrive-ai-announces-strategic-investment-ottonomy-accelerate"
+      ],
+      "references": [
+        "https://investors.arriveai.com/news-releases/news-release-details/arrive-ai-announces-strategic-investment-ottonomy-accelerate"
+      ],
+      "publishedAt": "2026-11-11T14:12:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Arrive AI ประกาศลงทุน 100,000 ดอลลาร์ผ่าน SAFE Note ของ Ottonomy พร้อมข้อตกลงที่พิจารณาติดตั้งหุ่นยนต์ภาคพื้น 50 ตัวในเครือข่ายพันธมิตร จำนวนดังกล่าวเป็นแผนที่ยังขึ้นกับการดำเนินงาน ไม่ใช่ยอดส่งมอบเสร็จแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://investors.arriveai.com/system/files-encrypted/nasdaq_kms/inline-images/News-Releases-IR-site-details_0.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://app.accessnewswire.com/imagelibrary/1a6fc389-bfcd-47c7-bda6-18558533954c/1249769/ottonomy-stats.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agile-robots-500m-series-f-softbank-2026",
+      "storyKey": "agile-robots-500m-series-f-softbank-2026",
+      "originalTitle": "Physical AI leader Agile Robots raises $500 million Series F at $8.5 billion valuation to accelerate global growth",
+      "urls": [
+        "https://www.automate.org/robotics/news/physical-ai-leader-agile-robots-raises-500-million-series-f-at-8-5-billion-valuation-to-accelerate-global-growth"
+      ],
+      "references": [
+        "https://www.automate.org/robotics/news/physical-ai-leader-agile-robots-raises-500-million-series-f-at-8-5-billion-valuation-to-accelerate-global-growth",
+        "https://www.agile-robots.com/de/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/"
+      ],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Agile Robots ประกาศปิดทุน Series F 500 ล้านดอลลาร์ ที่มูลค่าบริษัท 8.5 พันล้านดอลลาร์ นำโดย SoftBank Group ร่วมด้วย NVIDIA, Hitachi Group และ T.Capital บริษัทระบุเงินทุนสะสมถึง 2 พันล้านดอลลาร์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.automate.org/images/logo-a3-tagline.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/linkedin.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/twitter.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/email.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/7858a3f9-372c-4cb6-a57b-1979d1115bb1.gif",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/2f60af38-79df-42e1-bc6e-b64c6191dde1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.automate.org/images/imgLibrary/a3forum-logo-white.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.automate.org/userAssets/members/5780/logo/agile-robots-logo-a3.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.automate.org/images/aiCheck.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.automate.org/images/motionCheck.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.automate.org/images/roboticsCheck.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.automate.org/images/visionCheck.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/8a6c98f7-2638-4161-9198-0bc518636564.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/73b6d89c-a152-49be-85c4-3efec41f61b1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/960cb835-8f8e-4a6d-b07d-737da039dd0c.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://static-v2.automate.org/assets/08526543-f923-46da-8db7-5267069891be.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/youtube.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/instagram.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/tiktok.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://platform-cdn.sharethis.com/img/threads.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.google.com/images/cleardot.gif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.automate.org/images/privacyoptions.png?v1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "akara-55m-hospital-physical-ai-funding-2026",
+      "storyKey": "akara-55m-hospital-physical-ai-funding-2026",
+      "originalTitle": "Akara Raises $5.5M to Bring Privacy-Preserving AI to Hospitals",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/11/11/3400768/0/en/akara-raises-5-5m-to-bring-privacy-preserving-ai-to-hospitals.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/11/11/3400768/0/en/akara-raises-5-5m-to-bring-privacy-preserving-ai-to-hospitals.html"
+      ],
+      "publishedAt": "2026-11-11T14:07:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Akara บริษัทแยกจาก Trinity College Dublin ระดมทุน 5.5 ล้านดอลลาร์ นำโดย Locke Health ทำให้ทุนสะสมอยู่ที่ 12.3 ล้านดอลลาร์ บริษัทพัฒนาเซนเซอร์ AI agent และหุ่นยนต์เพื่อช่วยลดงานเอกสารและประสานการใช้พื้นที่รักษาพยาบาล",
+      "score": 15,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml-eu.globenewswire.com/Resource/Download/a227e2da-9c33-418e-b4a5-50c1da6bf693?size=3",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml-eu.globenewswire.com/media/OThhMjZmYzItZmQwYi00Y2NkLTliZTktODNhNDczMmFlYTk1LTEzMzc2MTItMjAyNi0xMS0xMS1lbg==/tiny/Akara.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/e17ac4ac-163a-4947-88ab-853a7daedd9d?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/7ba8ef23-1a80-403e-8587-f4c06be1c2e6?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mgpVAqiRFOOL0CgS1Bk-7r8ktJEOfGQtFSP4uhoJ8bonw=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/8f59a7d1-c059-4638-970b-767aa835acc0?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/98ad88de-c293-46cc-a067-85f63615d6d9?size=3",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ubtech-yongda-400-u1-pro-purchase-agreement-2026",
+      "storyKey": "ubtech-yongda-400-u1-pro-purchase-agreement-2026",
+      "originalTitle": "UBTech to Supply 400 U1 Pro Humanoids to Auto Dealer Yongda",
+      "urls": [
+        "https://therobotdaily.com/ubtech-yongda-400-u1-pro"
+      ],
+      "references": [
+        "https://therobotdaily.com/ubtech-yongda-400-u1-pro",
+        "https://embodied-ai.eetrend.com/content/2026-11/fbcc2173-49d5-4d3d-85d8-a51d64f056b4-100605629.html"
+      ],
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "UBTECH และกลุ่มตัวแทนจำหน่ายรถยนต์ Yongda ลงนามความร่วมมือวันที่ 11 พฤศจิกายน โดย Yongda จะซื้อ U1 Pro จำนวน 400 ตัว และวางแผนรับมอบภายในปี 2026 หุ่นยนต์ชุดแรกมุ่งงานสาธิตสินค้า ส่งเสริมการขาย และบริการลูกค้า",
+      "score": 16,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": []
+      }
+    },
+    {
+      "id": "hedra-model-factory-post-training-launch-2026",
+      "storyKey": "hedra-model-factory-post-training-launch-2026",
+      "originalTitle": "Hedra Launches Model Factory, an Autonomous Post-Training and Inference Platform for Real-World AI",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html"
+      ],
+      "references": [
+        "https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html"
+      ],
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "addedAt": "2026-11-12T23:05:39.001Z",
+      "runId": "2026-11-13",
+      "reason": "Hedra เปิด Model Factory วันที่ 10 พฤศจิกายน ให้ทีมพัฒนาโมเดลเฉพาะโจทย์จากข้อมูลของตน โดยรวม GPU sandbox นักวิจัย และ AI agent สำหรับทดลองปรับฝึก ประเมิน และให้บริการโมเดล เป้าหมายรวมทีมหุ่นยนต์และการผลิตที่ไม่มีแล็บวิจัยของตนเอง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/Home/assests/images/eq-notified-dark.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml-eu.globenewswire.com/Resource/Download/715974c5-2e26-42b6-b2c4-e29aa6f1a526?size=3",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml-eu.globenewswire.com/media/OTA0ZjY4MGYtZjg5My00ZTFlLTk3MzQtZGJiMTJjOTZkNGViLTcwMDAyNTkxNy0yMDI2LTExLTEwLWVu/tiny/Hedra.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/067e00e1-9379-401a-86d5-bbda5e2313f5?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/d0830507-16cb-4ef0-84b9-23d2903259f0?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/4491611b-0a9c-4bd9-bc06-40027992ca56?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/be4567cd-4b67-4fe8-8aa7-48d5690754cd?size=3",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://ml.globenewswire.com/Resource/Download/ec62b11d-7ce6-44e4-afe0-e59a39809438?size=3",
+            "reason": "related-story"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -23230,6 +23911,23 @@
         "path-robotics-300m-series-e-georgian-2026",
         "nvidia-gr00t2-corl-model-release-2026",
         "ring-drone-rover-cam-robotics-launch-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-13",
+      "batchHash": "4b09f6006c5e4f72c07927ebee2eaa58317c8842373b63b0e5bb53f43d0b4a16",
+      "preparedAt": "2026-11-12T23:05:39.001Z",
+      "articleIds": [
+        "runway-praxis1-open-weights-apache-release-2026",
+        "viam-launchpad-six-month-incubator-disclosure-2026",
+        "gemini-robotics25-apollo-mercedes-pilot-release-2026",
+        "ids-gmsl2-discovery-kit-evaluation-availability-2026",
+        "ifr-2025-robot-density-country-data-release-2026",
+        "arrive-ai-ottonomy-investment-50-robot-framework-2026",
+        "agile-robots-500m-series-f-softbank-2026",
+        "akara-55m-hospital-physical-ai-funding-2026",
+        "ubtech-yongda-400-u1-pro-purchase-agreement-2026",
+        "hedra-model-factory-post-training-launch-2026"
       ]
     }
   ]
