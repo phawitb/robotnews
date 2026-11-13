@@ -23485,6 +23485,782 @@
           }
         ]
       }
+    },
+    {
+      "id": "asus-gallop-factory-packing-program-disclosure-2026",
+      "storyKey": "asus-gallop-factory-packing-program-disclosure-2026",
+      "originalTitle": "Factory-Proven Physical AI: Why ASUS Is Building a Humanoid Robot ",
+      "urls": [
+        "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/"
+      ],
+      "references": [
+        "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/"
+      ],
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "ASUS เปิดเผยรายละเอียด Gallop เมื่อ 13 พฤศจิกายน โดยนำหุ่นยนต์สองแขนฐานอยู่กับที่ไปเรียนรู้งานแพ็กอุปกรณ์เมนบอร์ดในโรงงานกลุ่มบริษัท สถานีมีชิ้นส่วนเล็ก 15 รายการ หลายชิ้นอยู่ในถุงใสบาง เป้าหมายคือสำเร็จ 99.5% ภายใน 20 วินาทีต่อบอร์ด ตัวเลขนี้เป็นมาตรฐานที่ต้องการ ไม่ใช่ผลทดสอบที่บริษัทประกาศว่าทำได้แล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://press.asus.com/assets/w_64,h_64/6c445166-b7c4-4168-8170-3418e9458162/Albert_2022.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/2017040985633726464/6SoDvOan_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1848899695630028803/L0xVU2pN_bigger.png",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://press.asus.com/assets/w_96,h_96/8ff73b44-0b4e-4e17-8732-273983edd448/about_asus.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://press.asus.com/assets/w_600,h_300/71f1ab06-92e8-4a83-b824-71321a500c06/1400900%20-%20Press%20Release%20-%20EN2.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://press.asus.com/images/asus_press.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gxo-apptronik-apollo-1000-conditional-loi-2026",
+      "storyKey": "gxo-apptronik-apollo-1000-conditional-loi-2026",
+      "originalTitle": "GXO Signs Letter of Intent for Up to 1,000 Apptronik Apollo Humanoids",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/gxo-apptronik-apollo-1000-humanoids-letter-of-intent"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/gxo-apptronik-apollo-1000-humanoids-letter-of-intent",
+        "https://gxo.com/news_article/gxo-apptronik-expand-humanoid-robotics-partnership/"
+      ],
+      "publishedAt": "2026-11-12T12:40:17+00:00",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "GXO และ Apptronik ประกาศหนังสือแสดงเจตจำนงเมื่อ 12 พฤศจิกายน เพื่อขยายการทดลอง Apollo และกำหนดกรอบบริการหุ่นยนต์ หากผ่านตัวชี้วัดร่วมกันจึงตั้งใจนำไปใช้สูงสุด 1,000 ตัวในสี่ปี เริ่มอเมริกาเหนือปลายปี 2027 จำนวนดังกล่าวยังไม่ใช่ยอดส่งมอบหรือคำสั่งซื้อที่ไม่มีเงื่อนไข",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgxo-apptronik-apollo-warehouse-illustration-TXGLiPdWHVIHhUAyu5ZGcBB3tOiJIj.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1542888697879740416/WMQLAg4L_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/HW7F5vAXUAA1hOb?format=jpg&name=small",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fapptronik-1788645959230.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnucleus-2.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fgxo-reflex.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Foptimus-generations-vLHXqGoH9TBAUhzdiUouYiiAvMUB73.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgemini-robotics-2-screenshot.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fembodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fdefault-1772057003828.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/2061083844237815808/4g1-X0fM_normal.jpg",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnucleus-factory-demo-mobile-robot-0jbr8MyxiVUYyb6ClHQkq3d8ck2zmX.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnucleus-out-of-stealth.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2097031532317925376%2Fvid%2Favc1%2F1280x720%2F3NsZRd7TLdj3-FD7.mp4",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2105380734391177217%2Fvid%2Favc1%2F1280x720%2FOK2EZmBFuKE9GSbl.mp4",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2084750725796507649%2Fvid%2Favc1%2F1280x720%2FBoxpxxlDwjSvgyDY.mp4",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jpmorgan-us-humanoid-production-forecast-november-2026",
+      "storyKey": "jpmorgan-us-humanoid-production-forecast-november-2026",
+      "originalTitle": "J.P. Morgan Forecasts 300,000 to 400,000 US-Made Humanoids by 2030",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/jp-morgan-us-humanoid-production-400000-2030-forecast"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/jp-morgan-us-humanoid-production-400000-2030-forecast",
+        "https://www.reuters.com/business/us-humanoid-robot-production-could-hit-400000-by-2030-deployment-ramps-jp-morgan-2026-11-12/"
+      ],
+      "publishedAt": "2026-11-12T17:56:33+00:00",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "Reuters รายงานเมื่อ 12 พฤศจิกายนว่า J.P. Morgan คาดการผลิตฮิวแมนนอยด์ในสหรัฐแตะ 300,000–400,000 ตัวภายในปี 2030 และราว 1.5 ล้านตัวภายในปี 2035 โดยชี้งานผลิต โลจิสติกส์ และคลังสินค้าเป็นตลาดแรก ตัวเลขเป็นการคาดการณ์ ไม่ใช่ยอดผลิตจริง และรายงานที่เปิดเผยไม่ได้ชี้ชัดว่าเป็นผลผลิตรายปีหรือสะสม",
+      "score": 14,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fagility-1788468932929.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fapptronik-1788645959230.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fboston-dynamics-1788647098194.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Ffigure-1788467322697.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Ftesla-1788706441201.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Funitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fapptronik-working-kitchen.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fprs-illustration.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-200-bots.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fxpeng-linear-actuator.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-valuation-article.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fembodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fnvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ff03-hero.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneura-4ne1-valuation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F1x-neo-valuation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fworlds-first-mass-delivery.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Funitree-g1-dancing.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fagibot-family.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhubo2.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fapptronik-400-million-round.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagility-robotics-valuation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffourier-gr-3-valuation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ftesla-optimus-25.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fsamsung-humanoid.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.h264.mp4",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "openai-robotics-team-research-applied-reorganization-2026",
+      "storyKey": "openai-robotics-team-research-applied-reorganization-2026",
+      "originalTitle": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "urls": [
+        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+      ],
+      "references": [
+        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+      ],
+      "publishedAt": "2026-11-13T17:05:30-00:00",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "Fortune รายงานเมื่อ 13 พฤศจิกายน โดยอ้างคำยืนยันบริษัทว่า OpenAI ยุบโครงสร้างทีมหุ่นยนต์แยกเฉพาะและย้ายบุคลากรไปทีมอื่น งานวิจัยอยู่กับทีมหลักที่รายงานต่อ Mark Chen ส่วนงานประยุกต์และฮาร์ดแวร์อยู่ในองค์กร Applied ของ Greg Brockman บริษัทระบุว่ายังมุ่งพัฒนาหุ่นยนต์อเนกประสงค์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?format=webp&w=1440&quality=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://content-develop.fortune.com/img-assets/wp-content/uploads/2026/04/circle.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Dots-Hero-Image-e1790688528165.png?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298143533-e1791225531592.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/openai-broadcom-jalapeno-inference-chip-image-e1793730805615.webp?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281249262-e1791564726634.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-564056561-e1791395875162.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297777301-e1791234048908.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-488289407-e1789403973645.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292626650-e1789147251662.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292926310-e1788863440600.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2157587252-e1793884305208.jpg?format=webp&w=1440&quality=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.queryly.com/images/whitecloseicon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffr-q3-robotics-results-october-shipments-disclosure-2026",
+      "storyKey": "ffr-q3-robotics-results-october-shipments-disclosure-2026",
+      "originalTitle": "FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2.3 Million in Cumulative Revenue for Acquired Robotics Business; To Launch 100-City Robotics Education Initiative and Introduce Physical Cloud Platform during CES",
+      "urls": [
+        "https://investors.ff.com/news-releases/news-release-details/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results/"
+      ],
+      "references": [
+        "https://investors.ff.com/news-releases/news-release-details/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results/"
+      ],
+      "publishedAt": "2026-11-12T08:00:56-0400",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "FF EAI Robotics Ecosystem หรือ FFR รายงานเมื่อ 12 พฤศจิกายนว่าธุรกิจหุ่นยนต์ที่ซื้อมา มียอดขายและส่งมอบเดือนตุลาคม 351 ตัว สะสม 1,168 ตัวถึงสิ้นเดือน ตัวเลขใช้คำว่ายอดขายและส่งมอบร่วมกัน จึงไม่ควรตีความเป็นยอดใหม่สองชุดหรือจำนวนที่ปฏิบัติงานอัตโนมัติในลูกค้าแล้วทั้งหมด",
+      "score": 14,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://investors.ff.com/sites/g/files/knoqqb108031/themes/site/client_site/dist/images/aixc-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://investors.ff.com/sites/g/files/knoqqb108031/themes/site/client_site/dist/images/aixc-banner.avif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "richtech-dust-e-cctv-intelligent-cleaning-announcement-2026",
+      "storyKey": "richtech-dust-e-cctv-intelligent-cleaning-announcement-2026",
+      "originalTitle": "Richtech Robotics to Unveil Intelligent Cleaning System with Camera Integration at ISSA Show North America 2026",
+      "urls": [
+        "https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-unveil-intelligent-cleaning-system-camera"
+      ],
+      "references": [
+        "https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-unveil-intelligent-cleaning-system-camera"
+      ],
+      "publishedAt": "2026-11-11T08:01:23-0500",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "Richtech Robotics ประกาศเมื่อ 11 พฤศจิกายนว่าจะนำ Intelligent Cleaning System ไปสาธิตที่ ISSA Show North America วันที่ 17–19 พฤศจิกายน ระบบออกแบบให้เชื่อมกล้อง CCTV ภายในอาคารที่มีอยู่กับ DUST-E เพื่อระบุพื้นที่ที่ต้องทำความสะอาดและเริ่มงานเฉพาะจุดโดยอัตโนมัติ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://ir.richtechrobotics.com/sites/g/files/knoqqb87201/themes/site/client_site_202/dist/images/richtech-robotics.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.globenewswire.com/newsroom/ti?nf=OTg3NTI5MSM3OTU5NDc4IzUwMDEyMTgyMA==",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/OTAxOTk1OWEtOTUxMS00MWVkLTg1ODItOTM4NjNhYWZiNTc0LTUwMDEyMTgyMC0yMDI2LTExLTExLWVu/tiny/Richtech-Robotics-Inc-.png",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/bc615b38-ae99-4f10-9ca2-587176f1a7a9/small/logo-png.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.corporate-ir.net/media_files/pid/11162/InvestorRelationsWebsiteVideo-9-29.mp4",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "qvyon-mimic-core-public-launch-seed-disclosure-2026",
+      "storyKey": "qvyon-mimic-core-public-launch-seed-disclosure-2026",
+      "originalTitle": "Qvyon Technologies emerges from stealth with $8 million USD to prepare physical AI for dangerous edge cases ",
+      "urls": [
+        "https://betakit.com/qvyon-technologies-emerges-from-stealth-with-8-million-usd-to-prepare-physical-ai-for-dangerous-edge-cases/"
+      ],
+      "references": [
+        "https://betakit.com/qvyon-technologies-emerges-from-stealth-with-8-million-usd-to-prepare-physical-ai-for-dangerous-edge-cases/",
+        "https://qvyon.com/"
+      ],
+      "publishedAt": "2026-11-12T09:00:00-05:00",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "Qvyon Technologies ในมอนทรีออลเปิดตัวต่อสาธารณะวันที่ 12 พฤศจิกายน พร้อมเปิดเผยเงินทุน 8 ล้านดอลลาร์สหรัฐ แบ่งเป็นทุนหุ้น 6 ล้านและหนี้ร่วมลงทุน 2 ล้าน รอบนี้ปิดไปแล้วในเดือนเมษายน จึงเป็นข่าวเปิดตัวและเปิดเผยเงินทุน ไม่ใช่การได้เงินรอบใหม่อีกครั้ง",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://betakit.com/wp-content/uploads/2024/01/BetaKit_Logo_White_250px.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://betakitdev.trypl.com/wp-content/uploads/2025/04/betakit-logo-OG.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/Frantz-Saintellemy-770x513.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://betakit.com/wp-content/uploads/2026/10/Vertical-banner-3-300x300.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/C1--Skyscraper-340x600-Michelle-Cinapri-1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/power-lines-and-towers-370x247.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/06/Jordan-McFarlen-headshot-370x247.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/Featured-image-370x247.webp",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/05/BetaKit_MA2026_Hero-web6-1-scaled.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/C1--Medium-Rectangle-340x250-Michelle-Cinapri-1.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://cdn.betakit.com/wp-content/uploads/2024/01/BetaKit_Logo_White_250px.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=174433&fmt=gif",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-WM67X8T",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "se3-30m-series-a-spatial-ai-funding-2026",
+      "storyKey": "se3-30m-series-a-spatial-ai-funding-2026",
+      "originalTitle": "SE3 raises $30M Series A, led by Accel",
+      "urls": [
+        "https://se3.ai/articles/se3-raises-30m-led-by-accel/"
+      ],
+      "references": [
+        "https://se3.ai/articles/se3-raises-30m-led-by-accel/",
+        "https://seedcamp.com/views/se3-raises-30m-series-a-to-build-spatial-intelligence-for-autonomous-systems/"
+      ],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "SE3 ประกาศวันที่ 12 พฤศจิกายนว่าได้ Series A 30 ล้านดอลลาร์ นำโดย Accel ร่วมกับ Keen, Lakestar และ Seedcamp บริษัทจากมิวนิกพัฒนาซอฟต์แวร์รับรู้พื้นที่สำหรับระบบไร้คนขับ เงินทุนจะเพิ่มทีมวิศวกรรม ธุรกิจ และปฏิบัติการ รวมทั้งเปิดสำนักงานสหราชอาณาจักร",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://se3.ai/img/logo-lockup.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://se3.ai/img/news-erc.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://se3.ai/img/news-hensoldt.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://se3.ai/img/news-munster.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://se3.ai/video/article-detection-1280.mp4",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tieriv-shunan-port-autonomous-dump-truck-agreement-2026",
+      "storyKey": "tieriv-shunan-port-autonomous-dump-truck-agreement-2026",
+      "originalTitle": "TIER IV and Shunan Bulk Terminal collaborate to automate transportation using an autonomous dump truck, targeting driverless operations by the end of 2028",
+      "urls": [
+        "https://tier4.co.jp/en/updates/press-release/20261112-tieriv-and-shunanbulkterminal-develop-autonomous-dump-truck"
+      ],
+      "references": [
+        "https://tier4.co.jp/en/updates/press-release/20261112-tieriv-and-shunanbulkterminal-develop-autonomous-dump-truck"
+      ],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "TIER IV และ Shunan Bulk Terminal ประกาศความร่วมมือเมื่อ 12 พฤศจิกายน เพื่อเปลี่ยนงานรถดัมพ์ที่ยังมีคนขับในท่าเรือ Tokuyama-Kudamatsu ประเทศญี่ปุ่นให้เป็นอัตโนมัติ เส้นทางแรกเชื่อมพื้นที่เก็บเชื้อเพลิงกับโรงผลิตพลังงานของ Tokuyama โดยตั้งเป้าไร้คนขับภายในสิ้นปี 2028",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/icon_help.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/39817339/files/images/icon_language.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/GitHub.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/TAF.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/PA.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/WA.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/EA.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/icon_mail.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://tier4.co.jp/hs-fs/hubfs/Tokuyama%20press%20release%20EN.png?width=1200&height=630&name=Tokuyama%20press%20release%20EN.png",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://tier4.co.jp/hubfs/files/images/logo_w.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-TTDWRZFH",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "enovix-mx1-b01-first-production-order-disclosure-2026",
+      "storyKey": "enovix-mx1-b01-first-production-order-disclosure-2026",
+      "originalTitle": "Drones Drive Strong ENVX Revenue Growth",
+      "urls": [
+        "https://ir.enovix.com/news-releases/news-release-details/drones-drive-strong-envx-revenue-growth"
+      ],
+      "references": [
+        "https://ir.enovix.com/news-releases/news-release-details/drones-drive-strong-envx-revenue-growth"
+      ],
+      "publishedAt": "2026-11-12T07:30:48-0500",
+      "addedAt": "2026-11-13T23:09:35.552Z",
+      "runId": "2026-11-14",
+      "reason": "Enovix เปิดเผยในรายงานวันที่ 12 พฤศจิกายนว่าได้รับคำสั่งผลิตชุดแรกสำหรับเซลล์แบตเตอรี่โดรนพลังงานสูง MX1-B01 จากผู้ผลิตโดรนสหรัฐ หลังผ่านการทดลองภาคสนาม บริษัทคาดส่งมอบเริ่มต้นต้นปี 2027 โดยไม่ได้เปิดเผยชื่อลูกค้า จำนวนเซลล์ หรือมูลค่าคำสั่งนี้",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://ir.enovix.com/sites/g/files/knoqqb112621/themes/site/nir_pid4062/dist/images/Enovix+Logo+White.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/ZmFiNTUyY2EtM2Q0NC00MzMwLTliZGYtNGE5ZWY2NzBhOTZiLTEyMTk5NTItMjAyNi0xMS0xMi1lbg==/tiny/Enovix-Corporation.png",
+            "reason": "tracking"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -23928,6 +24704,23 @@
         "akara-55m-hospital-physical-ai-funding-2026",
         "ubtech-yongda-400-u1-pro-purchase-agreement-2026",
         "hedra-model-factory-post-training-launch-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-14",
+      "batchHash": "d16e91ddc4b23a849cc2019bf1ef2db8003237278ffc6a6e042dd555fff11194",
+      "preparedAt": "2026-11-13T23:09:35.552Z",
+      "articleIds": [
+        "asus-gallop-factory-packing-program-disclosure-2026",
+        "gxo-apptronik-apollo-1000-conditional-loi-2026",
+        "jpmorgan-us-humanoid-production-forecast-november-2026",
+        "openai-robotics-team-research-applied-reorganization-2026",
+        "ffr-q3-robotics-results-october-shipments-disclosure-2026",
+        "richtech-dust-e-cctv-intelligent-cleaning-announcement-2026",
+        "qvyon-mimic-core-public-launch-seed-disclosure-2026",
+        "se3-30m-series-a-spatial-ai-funding-2026",
+        "tieriv-shunan-port-autonomous-dump-truck-agreement-2026",
+        "enovix-mx1-b01-first-production-order-disclosure-2026"
       ]
     }
   ]

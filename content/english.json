@@ -10461,5 +10461,339 @@
       }
     ],
     "videos": []
+  },
+  "asus-gallop-factory-packing-program-disclosure-2026": {
+    "title": "ASUS details Gallop’s factory packing work and 2027 pilot plans",
+    "summary": "ASUS detailed Gallop on November 13. The fixed-base, two-arm robot is learning motherboard-accessory packing at a group factory: 15 small parts, many in thin transparent bags. The target is 99.5% success within 20 seconds per board, not a published result already achieved.",
+    "sections": [
+      {
+        "heading": "A real workstation, with a target to meet",
+        "paragraphs": [
+          "ASUS detailed Gallop on November 13. The fixed-base, two-arm robot is learning motherboard-accessory packing at a group factory: 15 small parts, many in thin transparent bags. The target is 99.5% success within 20 seconds per board, not a published result already achieved."
+        ]
+      },
+      {
+        "heading": "From worker demonstrations to robot practice",
+        "paragraphs": [
+          "The team starts with open models and recordings from consenting workers wearing cameras. Simulation adds variations, while operators use VR headsets and gloves to teach with actual parts. Planning, supervision, manipulation skills and motion control form separate layers running on an onboard NVIDIA Jetson AGX Thor."
+        ]
+      },
+      {
+        "heading": "Pilots before commercial availability",
+        "paragraphs": [
+          "ASUS plans to add its own tactile hand and a wheeled base, conduct customer pilots in 2027 and target market availability in the second half of 2028. Existing-workstation compatibility and replaceable AI models matter for electronics manufacturing. The announcement does not establish full-shift reliability or achievement of the cycle-time target."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://press.asus.com/assets/w_1920,h_640/a20cb302-3313-499d-8ddc-4d565eaaadf0/Factory-Proven%20Physical%20AI_%20Why%20ASUS%20Is%20Building%20a%20Humanoid%20Robot.jpg",
+        "alt": "ASUS Gallop for factory work",
+        "caption": "ASUS Gallop for factory work · Image: ASUS"
+      },
+      {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2121076508307660800/img/9xQ8_E4F0dQyJvin.jpg",
+        "alt": "Frame from ASUS’s Gallop video on X",
+        "caption": "Frame from ASUS’s Gallop video on X · Image: ASUS"
+      },
+      {
+        "url": "https://press.asus.com/assets/w_1266,h_712/83bcfe93-5142-4a2d-972d-dd90faad4105/Gallo001.jpg",
+        "alt": "Gallop using its arms and hands with objects on a demonstration table",
+        "caption": "Gallop using its arms and hands with objects on a demonstration table · Image: ASUS"
+      },
+      {
+        "url": "https://press.asus.com/assets/w_1266,h_712/b8244df9-0598-4cac-8321-0f4d4c22117c/.jpg",
+        "alt": "Close-up of Gallop’s hand",
+        "caption": "Close-up of Gallop’s hand · Image: ASUS"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/SYHsuASUS/status/2121076864576041404",
+        "title": "Gallop accessory-packing video · ASUS",
+        "note": "Watch on X: the source uses an external player and a temporary video URL."
+      }
+    ]
+  },
+  "gxo-apptronik-apollo-1000-conditional-loi-2026": {
+    "title": "GXO and Apptronik outline conditional rollout of up to 1,000 Apollos",
+    "summary": "GXO and Apptronik announced a letter of intent on November 12 to expand Apollo trials and develop a service framework. Subject to jointly agreed performance targets, they intend to deploy up to 1,000 robots over four years, starting in North America in late 2027. These are not delivered units or an unconditional purchase order.",
+    "sections": [
+      {
+        "heading": "An intention, not an unconditional order",
+        "paragraphs": [
+          "GXO and Apptronik announced a letter of intent on November 12 to expand Apollo trials and develop a service framework. Subject to jointly agreed performance targets, they intend to deploy up to 1,000 robots over four years, starting in North America in late 2027. These are not delivered units or an unconditional purchase order."
+        ]
+      },
+      {
+        "heading": "Testing warehouse workflows",
+        "paragraphs": [
+          "Picking, case and tote movement, packing and sortation are in scope. The partners report collecting data and conducting autonomous evaluations on more than 50 tasks at Robot Park. Live operations will test productivity, safety and operational KPIs, including integration with employees and existing automation."
+        ]
+      },
+      {
+        "heading": "Commercial details remain open",
+        "paragraphs": [
+          "The expected Robotics-as-a-Service framework has no disclosed pricing, named sites or Apollo generation. This is distinct from GXO’s Agility Digit expansion and Apollo’s Mercedes-Benz pilot. Results and commitments from those separate projects should not be treated as evidence that this rollout is already secured."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gxo-apptronik-apollo-warehouse-illustration-TXGLiPdWHVIHhUAyu5ZGcBB3tOiJIj.webp",
+        "alt": "Illustration of Apollo warehouse workflows, not evidence of 1,000 installed robots",
+        "caption": "Illustration of Apollo warehouse workflows, not evidence of 1,000 installed robots · Image: GXO / Apptronik"
+      }
+    ],
+    "videos": []
+  },
+  "jpmorgan-us-humanoid-production-forecast-november-2026": {
+    "title": "J.P. Morgan forecasts 300,000–400,000 US-made humanoids by 2030",
+    "summary": "Reuters reported on November 12 that J.P. Morgan expects US humanoid production to reach 300,000–400,000 units by 2030 and approximately 1.5 million by 2035, with manufacturing, logistics and warehousing leading adoption. These are forecasts, not actual output. Public reporting does not clearly identify the totals as annual or cumulative.",
+    "sections": [
+      {
+        "heading": "An industry forecast",
+        "paragraphs": [
+          "Reuters reported on November 12 that J.P. Morgan expects US humanoid production to reach 300,000–400,000 units by 2030 and approximately 1.5 million by 2035, with manufacturing, logistics and warehousing leading adoption. These are forecasts, not actual output. Public reporting does not clearly identify the totals as annual or cumulative."
+        ]
+      },
+      {
+        "heading": "Supply and intelligence constrain deployment",
+        "paragraphs": [
+          "The bank identifies hands, actuators, AI intelligence, training data, compute and production capacity as constraints. Most US manufacturers outside Tesla target 10,000–30,000 units annually. Factory targets therefore need to be distinguished from proven customer-site capability."
+        ]
+      },
+      {
+        "heading": "Cost claims need their assumptions",
+        "paragraphs": [
+          "J.P. Morgan estimates costs are approaching labor parity and multishift operation could save roughly $100,000 annually per customer. Published reporting does not fully disclose robot-price or wage assumptions. Thai operators can use the forecast to frame supply and cost questions, rather than as a guarantee of returns for their own installations."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp",
+        "alt": "Figure 03 outside a building in a November 7 video, illustrating the forecast story",
+        "caption": "Figure 03 outside a building in a November 7 video, illustrating the forecast story · Image: Brett Adcock / Figure, via Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "openai-robotics-team-research-applied-reorganization-2026": {
+    "title": "OpenAI folds dedicated robotics work into its main research and applied teams",
+    "summary": "Fortune reported on November 13, citing company confirmation, that OpenAI dissolved its separate robotics organization and reassigned staff. Research moves into the main team reporting to Mark Chen; applied robotics and hardware move into Greg Brockman’s Applied organization. The company says general-purpose robots remain an ambition.",
+    "sections": [
+      {
+        "heading": "Research and applied work move",
+        "paragraphs": [
+          "Fortune reported on November 13, citing company confirmation, that OpenAI dissolved its separate robotics organization and reassigned staff. Research moves into the main team reporting to Mark Chen; applied robotics and hardware move into Greg Brockman’s Applied organization. The company says general-purpose robots remain an ambition."
+        ]
+      },
+      {
+        "heading": "A bet on general models",
+        "paragraphs": [
+          "According to the explanation given to Fortune, progress in general models including GPT-6 Astra encouraged OpenAI to integrate robotics with the teams developing those models. An organizational change does not demonstrate universally safe, reliable physical performance."
+        ]
+      },
+      {
+        "heading": "Deployment experience still matters",
+        "paragraphs": [
+          "Experts interviewed by the publication emphasize the value of real-site data and smaller onboard models when connectivity or latency is limiting. The news concerns research organization, rather than a product launch or certification that robots are ready to replace workers."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg",
+        "alt": "Robots on a CTIC Heavy Industries production line; illustrative image, not OpenAI robots",
+        "caption": "Robots on a CTIC Heavy Industries production line; illustrative image, not OpenAI robots · Image: Huang Zhengwei—VCG via Getty Images / Fortune"
+      }
+    ],
+    "videos": []
+  },
+  "ffr-q3-robotics-results-october-shipments-disclosure-2026": {
+    "title": "FFR reports 351 October robot sales and shipments and a 100-city education plan",
+    "summary": "FF EAI Robotics Ecosystem, or FFR, said on November 12 that its acquired robotics business recorded 351 robot sales and shipments in October and 1,168 cumulatively through month-end. The combined “sales and shipments” measure should not be counted twice or interpreted as a tally of fully autonomous customer deployments.",
+    "sections": [
+      {
+        "heading": "New operating figures",
+        "paragraphs": [
+          "FF EAI Robotics Ecosystem, or FFR, said on November 12 that its acquired robotics business recorded 351 robot sales and shipments in October and 1,168 cumulatively through month-end. The combined “sales and shipments” measure should not be counted twice or interpreted as a tally of fully autonomous customer deployments."
+        ]
+      },
+      {
+        "heading": "Separate pre-acquisition accounts",
+        "paragraphs": [
+          "The acquired business reported approximately $2.3 million in nine-month revenue and $593,000 in gross profit, around 26%. These are unaudited standalone combined figures. The acquisition closed on October 23, after quarter-end, so these results are excluded from FFR’s consolidated third-quarter accounts."
+        ]
+      },
+      {
+        "heading": "Education and platform plans",
+        "paragraphs": [
+          "FFR plans a 100-city robotics education initiative and a Physical Cloud introduction around CES. Brain Blocks has added AI and motion recording/playback, while the FF Nova simulation sandbox remains in beta. Future expansion and service plans need to be separated from available features and reported revenue."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "richtech-dust-e-cctv-intelligent-cleaning-announcement-2026": {
+    "title": "Richtech announces CCTV-triggered cleaning workflow for DUST-E",
+    "summary": "Richtech Robotics announced on November 11 that it will demonstrate its Intelligent Cleaning System at ISSA Show North America on November 17–19. The system is designed to connect existing indoor CCTV cameras with DUST-E robots, identify areas needing cleaning and initiate targeted tasks automatically.",
+    "sections": [
+      {
+        "heading": "Cameras initiate targeted work",
+        "paragraphs": [
+          "Richtech Robotics announced on November 11 that it will demonstrate its Intelligent Cleaning System at ISSA Show North America on November 17–19. The system is designed to connect existing indoor CCTV cameras with DUST-E robots, identify areas needing cleaning and initiate targeted tasks automatically."
+        ]
+      },
+      {
+        "heading": "A shared operational dashboard",
+        "paragraphs": [
+          "The dashboard combines robot locations, cleaning records, equipment status and maintenance or consumables alerts. The idea is to use facility observations alongside scheduled cleaning. Multiple robots will be exhibited, but the announcement does not establish that every capability is available on every model."
+        ]
+      },
+      {
+        "heading": "Demonstration evidence is still pending",
+        "paragraphs": [
+          "The release provides no dirt-detection accuracy, supported-camera list, pricing or independently verified customer results. Facility managers should distinguish the described capability from demonstrated site performance. An ecosystem video is planned for the event; that clip is not linked in the announcement."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "qvyon-mimic-core-public-launch-seed-disclosure-2026": {
+    "title": "Qvyon launches MIMIC Core to turn field recordings into robot test cases",
+    "summary": "Montréal-based Qvyon Technologies launched publicly on November 12 and disclosed $8 million in financing: $6 million in equity and $2 million in venture debt. The round closed in April, so this is a launch and disclosure, not a second new financing round.",
+    "sections": [
+      {
+        "heading": "A public launch and funding disclosure",
+        "paragraphs": [
+          "Montréal-based Qvyon Technologies launched publicly on November 12 and disclosed $8 million in financing: $6 million in equity and $2 million in venture debt. The round closed in April, so this is a launch and disclosure, not a second new financing round."
+        ]
+      },
+      {
+        "heading": "Variations grounded in field data",
+        "paragraphs": [
+          "MIMIC Core takes customer camera, lidar and radar recordings, reconstructs environments in three dimensions and over time, and generates variants for testing weaknesses before deployment. Hosted and self-hosted options include a scenario editor, Python and API access. The company says customer data is not used to train other customers’ models."
+        ]
+      },
+      {
+        "heading": "Early users and remaining evidence",
+        "paragraphs": [
+          "BetaKit identifies NuPort Robotics and manufacturer Voltava as early customers. The roughly 20-person team plans expansion in the US, Europe and Japan. Detecting failures earlier is the intended benefit; the launch neither certifies customer robots nor supplies independent, quantified proof of risk reduction."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.betakit.com/wp-content/uploads/2026/11/Frantz-Saintellemy.webp",
+        "alt": "Frantz Saintellemy, Qvyon co-founder and CEO",
+        "caption": "Frantz Saintellemy, Qvyon co-founder and CEO · Image: Qvyon Technologies / BetaKit"
+      }
+    ],
+    "videos": []
+  },
+  "se3-30m-series-a-spatial-ai-funding-2026": {
+    "title": "SE3 raises $30 million to expand onboard spatial AI for unmanned systems",
+    "summary": "SE3 announced a $30 million Series A on November 12, led by Accel with Keen, Lakestar and Seedcamp. The Munich company develops spatial-intelligence software for unmanned systems. Funding will expand engineering, commercial and operations teams and support a UK office.",
+    "sections": [
+      {
+        "heading": "Capital for European expansion",
+        "paragraphs": [
+          "SE3 announced a $30 million Series A on November 12, led by Accel with Keen, Lakestar and Seedcamp. The Munich company develops spatial-intelligence software for unmanned systems. Funding will expand engineering, commercial and operations teams and support a UK office."
+        ]
+      },
+      {
+        "heading": "Shared perception across platforms",
+        "paragraphs": [
+          "The company describes software that combines sensor observations from different manufacturers’ drones and ground vehicles into a shared 3D environment. Onboard processing addresses connectivity and satellite-signal limitations. Auterion says the technology runs on Skynode computers. The announcement does not provide independent testing establishing performance in every condition."
+        ]
+      },
+      {
+        "heading": "Civilian applications are a future direction",
+        "paragraphs": [
+          "SE3 reports thousands of systems shipped over two years and work with Ukraine and Germany’s armed forces, without disclosing contract values or revenue. Defense remains the main market. Civilian robotics and emergency response are areas it plans to explore from 2027, rather than completed civilian deployments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://se3.ai/img/article-series-a-hero.jpg?v=3",
+        "alt": "Spatial-perception illustration accompanying SE3’s funding announcement",
+        "caption": "Spatial-perception illustration accompanying SE3’s funding announcement · Image: SE3"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://se3.ai/video/article-detection.mp4",
+        "title": "Detection demonstration video from SE3’s announcement"
+      }
+    ]
+  },
+  "tieriv-shunan-port-autonomous-dump-truck-agreement-2026": {
+    "title": "TIER IV and Shunan target driverless port dump trucks by late 2028",
+    "summary": "TIER IV and Shunan Bulk Terminal announced a collaboration on November 12 to automate currently crewed dump-truck operations at Japan’s Tokuyama-Kudamatsu port. The first route connects fuel storage with Tokuyama’s power-generation facilities. Driverless operations are targeted by the end of 2028.",
+    "sections": [
+      {
+        "heading": "Starting with a fuel-haul route",
+        "paragraphs": [
+          "TIER IV and Shunan Bulk Terminal announced a collaboration on November 12 to automate currently crewed dump-truck operations at Japan’s Tokuyama-Kudamatsu port. The first route connects fuel storage with Tokuyama’s power-generation facilities. Driverless operations are targeted by the end of 2028."
+        ]
+      },
+      {
+        "heading": "Site-specific technology and operations",
+        "paragraphs": [
+          "TIER IV brings Autoware and autonomous-vehicle development and operational experience; the terminal contributes transport expertise. The partners will develop both technology and operating procedures for the site. The truck will use Idemitsu Renewable Diesel, with a parallel aim of reducing transport emissions."
+        ]
+      },
+      {
+        "heading": "A development project, not a launched service",
+        "paragraphs": [
+          "The release names no truck manufacturer, fleet size, payload or contract value. The 2028 goal does not mean driverless service has begun. The partners will consider nearby routes after gaining experience. For Thai ports and factories, the relevant lesson is to design automation around actual loading and receiving workflows."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://tier4.co.jp/hubfs/Tokuyama%20press%20release%20EN.png",
+        "alt": "Illustration accompanying the Tokuyama-Kudamatsu port transport project",
+        "caption": "Illustration accompanying the Tokuyama-Kudamatsu port transport project · Image: Shunan Bulk Terminal / TIER IV"
+      }
+    ],
+    "videos": []
+  },
+  "enovix-mx1-b01-first-production-order-disclosure-2026": {
+    "title": "Enovix discloses first MX1-B01 production order after drone field trials",
+    "summary": "Enovix disclosed on November 12 that a US drone manufacturer placed the first production order for its high-energy MX1-B01 aerial-drone cells after successful field trials. Initial deliveries are scheduled for early 2027. The customer, cell quantity and order value were not disclosed.",
+    "sections": [
+      {
+        "heading": "From samples to a production order",
+        "paragraphs": [
+          "Enovix disclosed on November 12 that a US drone manufacturer placed the first production order for its high-energy MX1-B01 aerial-drone cells after successful field trials. Initial deliveries are scheduled for early 2027. The customer, cell quantity and order value were not disclosed."
+        ]
+      },
+      {
+        "heading": "Capacity expansion is underway",
+        "paragraphs": [
+          "The company says more than 30 aerial-drone accounts have sampled MX1-B01. A $19 million expansion aims to double drone-battery capacity in South Korea and come online in the second quarter of 2027. Samples and factory plans are not guaranteed orders from every prospective customer."
+        ]
+      },
+      {
+        "heading": "Distinct from the earlier 100,000-battery order",
+        "paragraphs": [
+          "MX1-B01 is separate from the previously announced order for 100,000 conventional batteries. The latest report puts the drone, defense and industrial pipeline at approximately $216 million, covering prospects through design wins, not recognized revenue. The new development here is the MX1-B01 production order and delivery timetable."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://enovix-q3-2026.open-exchange.net/",
+        "title": "Q3 results and business-update webcast · Enovix",
+        "note": "Open the original site; registration may be required to view the event or replay."
+      }
+    ]
   }
 }

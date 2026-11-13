@@ -2998,5 +2998,115 @@
     "url": "https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html",
     "image": "https://ml-eu.globenewswire.com/Resource/Download/249013be-cf2a-4e04-9771-96c87c0bbcab/hedra-founder-michael-lingelbach-1-.jpg",
     "addedAt": "2026-11-12T23:05:39.001Z"
+  },
+  {
+    "id": "asus-gallop-factory-packing-program-disclosure-2026",
+    "category": "humanoids",
+    "title": "ASUS เผย Gallop เรียนรู้งานแพ็กอุปกรณ์เมนบอร์ดในโรงงาน เตรียมทดลองลูกค้าปี 2027",
+    "summary": "ASUS เปิดเผยรายละเอียด Gallop เมื่อ 13 พฤศจิกายน โดยนำหุ่นยนต์สองแขนฐานอยู่กับที่ไปเรียนรู้งานแพ็กอุปกรณ์เมนบอร์ดในโรงงานกลุ่มบริษัท สถานีมีชิ้นส่วนเล็ก 15 รายการ หลายชิ้นอยู่ในถุงใสบาง เป้าหมายคือสำเร็จ 99.5% ภายใน 20 วินาทีต่อบอร์ด ตัวเลขนี้เป็นมาตรฐานที่ต้องการ ไม่ใช่ผลทดสอบที่บริษัทประกาศว่าทำได้แล้ว",
+    "source": "ASUS",
+    "date": "2026-11-13",
+    "url": "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/",
+    "image": "https://press.asus.com/assets/w_1920,h_640/a20cb302-3313-499d-8ddc-4d565eaaadf0/Factory-Proven%20Physical%20AI_%20Why%20ASUS%20Is%20Building%20a%20Humanoid%20Robot.jpg",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "gxo-apptronik-apollo-1000-conditional-loi-2026",
+    "category": "humanoids",
+    "title": "GXO–Apptronik ลงนามแผน Apollo สูงสุด 1,000 ตัว โดยต้องผ่านการทดลองก่อน",
+    "summary": "GXO และ Apptronik ประกาศหนังสือแสดงเจตจำนงเมื่อ 12 พฤศจิกายน เพื่อขยายการทดลอง Apollo และกำหนดกรอบบริการหุ่นยนต์ หากผ่านตัวชี้วัดร่วมกันจึงตั้งใจนำไปใช้สูงสุด 1,000 ตัวในสี่ปี เริ่มอเมริกาเหนือปลายปี 2027 จำนวนดังกล่าวยังไม่ใช่ยอดส่งมอบหรือคำสั่งซื้อที่ไม่มีเงื่อนไข",
+    "source": "Humanoids Daily",
+    "date": "2026-11-12",
+    "url": "https://www.humanoidsdaily.com/news/gxo-apptronik-apollo-1000-humanoids-letter-of-intent",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gxo-apptronik-apollo-warehouse-illustration-TXGLiPdWHVIHhUAyu5ZGcBB3tOiJIj.webp",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "jpmorgan-us-humanoid-production-forecast-november-2026",
+    "category": "industry-news",
+    "title": "J.P. Morgan คาดสหรัฐผลิตหุ่นยนต์ฮิวแมนนอยด์ 3–4 แสนตัวภายในปี 2030",
+    "summary": "Reuters รายงานเมื่อ 12 พฤศจิกายนว่า J.P. Morgan คาดการผลิตฮิวแมนนอยด์ในสหรัฐแตะ 300,000–400,000 ตัวภายในปี 2030 และราว 1.5 ล้านตัวภายในปี 2035 โดยชี้งานผลิต โลจิสติกส์ และคลังสินค้าเป็นตลาดแรก ตัวเลขเป็นการคาดการณ์ ไม่ใช่ยอดผลิตจริง และรายงานที่เปิดเผยไม่ได้ชี้ชัดว่าเป็นผลผลิตรายปีหรือสะสม",
+    "source": "Humanoids Daily",
+    "date": "2026-11-12",
+    "url": "https://www.humanoidsdaily.com/news/jp-morgan-us-humanoid-production-400000-2030-forecast",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "openai-robotics-team-research-applied-reorganization-2026",
+    "category": "ai-automation",
+    "title": "OpenAI ย้ายทีมวิจัยหุ่นยนต์เข้าสู่ทีมหลัก ยังคงเป้าหมายหุ่นยนต์อเนกประสงค์",
+    "summary": "Fortune รายงานเมื่อ 13 พฤศจิกายน โดยอ้างคำยืนยันบริษัทว่า OpenAI ยุบโครงสร้างทีมหุ่นยนต์แยกเฉพาะและย้ายบุคลากรไปทีมอื่น งานวิจัยอยู่กับทีมหลักที่รายงานต่อ Mark Chen ส่วนงานประยุกต์และฮาร์ดแวร์อยู่ในองค์กร Applied ของ Greg Brockman บริษัทระบุว่ายังมุ่งพัฒนาหุ่นยนต์อเนกประสงค์",
+    "source": "Fortune",
+    "date": "2026-11-13",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "ffr-q3-robotics-results-october-shipments-disclosure-2026",
+    "category": "industry-news",
+    "title": "FFR เผยยอดขายและส่งมอบหุ่นยนต์เดือนตุลาคม 351 ตัว พร้อมแผนการศึกษา 100 เมือง",
+    "summary": "FF EAI Robotics Ecosystem หรือ FFR รายงานเมื่อ 12 พฤศจิกายนว่าธุรกิจหุ่นยนต์ที่ซื้อมา มียอดขายและส่งมอบเดือนตุลาคม 351 ตัว สะสม 1,168 ตัวถึงสิ้นเดือน ตัวเลขใช้คำว่ายอดขายและส่งมอบร่วมกัน จึงไม่ควรตีความเป็นยอดใหม่สองชุดหรือจำนวนที่ปฏิบัติงานอัตโนมัติในลูกค้าแล้วทั้งหมด",
+    "source": "FF EAI Robotics Ecosystem",
+    "date": "2026-11-12",
+    "url": "https://investors.ff.com/news-releases/news-release-details/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results/",
+    "image": "",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "richtech-dust-e-cctv-intelligent-cleaning-announcement-2026",
+    "category": "ai-automation",
+    "title": "Richtech เตรียมระบบเชื่อม CCTV สั่ง DUST-E ทำความสะอาดตามจุด",
+    "summary": "Richtech Robotics ประกาศเมื่อ 11 พฤศจิกายนว่าจะนำ Intelligent Cleaning System ไปสาธิตที่ ISSA Show North America วันที่ 17–19 พฤศจิกายน ระบบออกแบบให้เชื่อมกล้อง CCTV ภายในอาคารที่มีอยู่กับ DUST-E เพื่อระบุพื้นที่ที่ต้องทำความสะอาดและเริ่มงานเฉพาะจุดโดยอัตโนมัติ",
+    "source": "Richtech Robotics",
+    "date": "2026-11-11",
+    "url": "https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-unveil-intelligent-cleaning-system-camera",
+    "image": "",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "qvyon-mimic-core-public-launch-seed-disclosure-2026",
+    "category": "ai-automation",
+    "title": "Qvyon เปิดตัว MIMIC Core ใช้ข้อมูลเซนเซอร์จริงสร้างกรณีทดสอบหุ่นยนต์",
+    "summary": "Qvyon Technologies ในมอนทรีออลเปิดตัวต่อสาธารณะวันที่ 12 พฤศจิกายน พร้อมเปิดเผยเงินทุน 8 ล้านดอลลาร์สหรัฐ แบ่งเป็นทุนหุ้น 6 ล้านและหนี้ร่วมลงทุน 2 ล้าน รอบนี้ปิดไปแล้วในเดือนเมษายน จึงเป็นข่าวเปิดตัวและเปิดเผยเงินทุน ไม่ใช่การได้เงินรอบใหม่อีกครั้ง",
+    "source": "BetaKit",
+    "date": "2026-11-12",
+    "url": "https://betakit.com/qvyon-technologies-emerges-from-stealth-with-8-million-usd-to-prepare-physical-ai-for-dangerous-edge-cases/",
+    "image": "https://cdn.betakit.com/wp-content/uploads/2026/11/Frantz-Saintellemy.webp",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "se3-30m-series-a-spatial-ai-funding-2026",
+    "category": "drones",
+    "title": "SE3 ได้ทุน Series A 30 ล้านดอลลาร์ ขยาย AI รับรู้พื้นที่บนโดรนและยานภาคพื้น",
+    "summary": "SE3 ประกาศวันที่ 12 พฤศจิกายนว่าได้ Series A 30 ล้านดอลลาร์ นำโดย Accel ร่วมกับ Keen, Lakestar และ Seedcamp บริษัทจากมิวนิกพัฒนาซอฟต์แวร์รับรู้พื้นที่สำหรับระบบไร้คนขับ เงินทุนจะเพิ่มทีมวิศวกรรม ธุรกิจ และปฏิบัติการ รวมทั้งเปิดสำนักงานสหราชอาณาจักร",
+    "source": "SE3",
+    "date": "2026-11-12",
+    "url": "https://se3.ai/articles/se3-raises-30m-led-by-accel/",
+    "image": "https://se3.ai/img/article-series-a-hero.jpg?v=3",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "tieriv-shunan-port-autonomous-dump-truck-agreement-2026",
+    "category": "industrial-robots",
+    "title": "TIER IV–Shunan เริ่มโครงการรถดัมพ์ไร้คนขับในท่าเรือ ตั้งเป้าปลายปี 2028",
+    "summary": "TIER IV และ Shunan Bulk Terminal ประกาศความร่วมมือเมื่อ 12 พฤศจิกายน เพื่อเปลี่ยนงานรถดัมพ์ที่ยังมีคนขับในท่าเรือ Tokuyama-Kudamatsu ประเทศญี่ปุ่นให้เป็นอัตโนมัติ เส้นทางแรกเชื่อมพื้นที่เก็บเชื้อเพลิงกับโรงผลิตพลังงานของ Tokuyama โดยตั้งเป้าไร้คนขับภายในสิ้นปี 2028",
+    "source": "TIER IV",
+    "date": "2026-11-12",
+    "url": "https://tier4.co.jp/en/updates/press-release/20261112-tieriv-and-shunanbulkterminal-develop-autonomous-dump-truck",
+    "image": "https://tier4.co.jp/hubfs/Tokuyama%20press%20release%20EN.png",
+    "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "enovix-mx1-b01-first-production-order-disclosure-2026",
+    "category": "drones",
+    "title": "Enovix เผยคำสั่งผลิต MX1-B01 ครั้งแรก หลังทดสอบแบตเตอรี่โดรนภาคสนาม",
+    "summary": "Enovix เปิดเผยในรายงานวันที่ 12 พฤศจิกายนว่าได้รับคำสั่งผลิตชุดแรกสำหรับเซลล์แบตเตอรี่โดรนพลังงานสูง MX1-B01 จากผู้ผลิตโดรนสหรัฐ หลังผ่านการทดลองภาคสนาม บริษัทคาดส่งมอบเริ่มต้นต้นปี 2027 โดยไม่ได้เปิดเผยชื่อลูกค้า จำนวนเซลล์ หรือมูลค่าคำสั่งนี้",
+    "source": "Enovix",
+    "date": "2026-11-12",
+    "url": "https://ir.enovix.com/news-releases/news-release-details/drones-drive-strong-envx-revenue-growth",
+    "image": "",
+    "addedAt": "2026-11-13T23:09:35.552Z"
   }
 ]
