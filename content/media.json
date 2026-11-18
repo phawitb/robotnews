@@ -4765,5 +4765,133 @@
         "note": "เปิดบนเว็บต้นฉบับ อาจต้องลงทะเบียนเพื่อรับชมรายการหรือบันทึกย้อนหลัง"
       }
     ]
+  },
+  "tactilia-schunk-spin-off-rebrand-industrial-hands-2026": {
+    "images": [
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/Start_TACTILIA_Robotics_11_2026.jpg",
+        "alt": "ผู้บริหาร SCHUNK และ TACTILIA ในการเปิดตัวชื่อบริษัท",
+        "caption": "ผู้บริหาร SCHUNK และ TACTILIA ในการเปิดตัวชื่อบริษัท · ภาพ: SCHUNK SE & Co. KG"
+      },
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/SCHUNK_TACTILIA_Robotics_11_2026.jpg",
+        "alt": "Kristina I. Schunk และ Markus Netzer ในงานเปิดตัว",
+        "caption": "Kristina I. Schunk และ Markus Netzer ในงานเปิดตัว · ภาพ: SCHUNK SE & Co. KG"
+      },
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/markus-netzer-portraet-profil.jpg",
+        "alt": "Markus Netzer ซีอีโอ TACTILIA",
+        "caption": "Markus Netzer ซีอีโอ TACTILIA · ภาพ: TACTILIA Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "rainbow-miracom-mes-robotics-partnership-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1.jpg",
+        "alt": "ผู้แทน Miracom และ Rainbow Robotics ในพิธีลงนาม",
+        "caption": "ผู้แทน Miracom และ Rainbow Robotics ในพิธีลงนาม · ภาพ: Miracom / RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026": {
+    "images": [],
+    "videos": []
+  },
+  "wirobotics-ottobock-north-america-distribution-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2034371/20261113040226EST_image_1.jpg?id=OA3076867&p=original",
+        "alt": "ผู้แทน Ottobock และ WIRobotics ในพิธีความร่วมมือ",
+        "caption": "ผู้แทน Ottobock และ WIRobotics ในพิธีความร่วมมือ · ภาพ: WIRobotics"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026": {
+    "images": [
+      {
+        "url": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-atlas-together.jpg",
+        "alt": "Spot และ Atlas ในพื้นที่อุตสาหกรรม ภาพประกอบประกาศ",
+        "caption": "Spot และ Atlas ในพื้นที่อุตสาหกรรม ภาพประกอบประกาศ · ภาพ: Boston Dynamics"
+      },
+      {
+        "url": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-globalfoundries.jpg",
+        "alt": "Spot ตรวจพื้นที่โรงงาน GlobalFoundries",
+        "caption": "Spot ตรวจพื้นที่โรงงาน GlobalFoundries · ภาพ: Boston Dynamics / GlobalFoundries"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=Fmj5r8ws2Mw",
+        "embed": "https://www.youtube-nocookie.com/embed/Fmj5r8ws2Mw",
+        "title": "กรณีศึกษา Spot ที่ GlobalFoundries ปี 2022 — บริบทความร่วมมือเดิม",
+        "note": "วิดีโอเก่าที่ประกาศต้นทางอ้างอิง ไม่ใช่การทดลอง Atlas ปี 2027"
+      }
+    ]
+  },
+  "robotera-china-post-guangdong-eleven-hubs-expansion-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/robotera-china-post-guangdong-humanoid-deployment-1200x800-1.jpg",
+        "alt": "ภาพประกาศเครือข่าย ROBOTERA ในกวางตุ้ง 11 ศูนย์ 8 เมือง",
+        "caption": "ภาพประกาศเครือข่าย ROBOTERA ในกวางตุ้ง 11 ศูนย์ 8 เมือง · ภาพ: ROBOTERA / RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "promise-robotics-cad40m-series-b-production-network-2026": {
+    "images": [],
+    "videos": []
+  },
+  "genesis-ai-500m-series-a-integrated-robots-2026": {
+    "images": [
+      {
+        "url": "https://image.mux.com/eM7S00Bf8XGDfkjM202pF3hSBKfcYvXeuT/thumbnail.jpg?width=2048&height=1152&fit_mode=pad&time=0.0",
+        "alt": "ภาพปกวิดีโอประกาศทุน Genesis AI",
+        "caption": "ภาพปกวิดีโอประกาศทุน Genesis AI · ภาพ: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794777617-founders-xian-theo-oct-27-2027_md.png",
+        "alt": "Xian Zhou และ Theo Gervet ผู้ร่วมก่อตั้ง Genesis AI",
+        "caption": "Xian Zhou และ Theo Gervet ผู้ร่วมก่อตั้ง Genesis AI · ภาพ: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794870907-grid.png",
+        "alt": "แผนภาพความสัมพันธ์ระหว่าง AI ฮาร์ดแวร์และการใช้งาน",
+        "caption": "แผนภาพความสัมพันธ์ระหว่าง AI ฮาร์ดแวร์และการใช้งาน · ภาพ: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794599646-next-frontier-stack-2-light.png",
+        "alt": "แผนภาพข้อมูลมนุษย์ GENE Genesis World และ Eno",
+        "caption": "แผนภาพข้อมูลมนุษย์ GENE Genesis World และ Eno · ภาพ: Genesis AI"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://stream.mux.com/eM7S00Bf8XGDfkjM202pF3hSBKfcYvXeuT.m3u8",
+        "sourceUrl": "https://www.genesis.ai/news/genesis-raises-dollar500m-series-a-to-fund-its-next-chapter",
+        "title": "วิดีโอประกาศ Series A ของ Genesis AI",
+        "note": "เปิดชมวิดีโอบนเว็บไซต์ Genesis AI ซึ่งใช้เครื่องเล่นสตรีม Mux"
+      }
+    ]
+  },
+  "remedy-robotics-62m-series-b-n1-trials-2026": {
+    "images": [],
+    "videos": []
+  },
+  "rockwell-agilox-acquisition-definitive-agreement-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
+        "alt": "หุ่นยนต์ AGILOX ภายในตู้คอนเทนเนอร์",
+        "caption": "หุ่นยนต์ AGILOX ภายในตู้คอนเทนเนอร์ · ภาพ: AGILOX / The Robot Report"
+      }
+    ],
+    "videos": []
   }
 }

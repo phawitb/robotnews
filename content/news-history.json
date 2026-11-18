@@ -24261,6 +24261,622 @@
           }
         ]
       }
+    },
+    {
+      "id": "tactilia-schunk-spin-off-rebrand-industrial-hands-2026",
+      "storyKey": "tactilia-schunk-spin-off-rebrand-industrial-hands-2026",
+      "originalTitle": "SCHUNK spin-off becomes TACTILIA Robotics | Tactilia Robotics",
+      "urls": [
+        "https://www.tactilia-robotics.com/tactilia-robotics-schunk-spin-off-robot-hand/",
+        "https://robotsbeat.com/schunk-tactilia-robotics-modular-industrial-robot-hands/"
+      ],
+      "references": [
+        "https://www.tactilia-robotics.com/tactilia-robotics-schunk-spin-off-robot-hand/",
+        "https://robotsbeat.com/schunk-tactilia-robotics-modular-industrial-robot-hands/"
+      ],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "บริษัทที่แยกตั้งเมื่อมกราคมเปลี่ยนชื่อเป็น TACTILIA มุ่งมือแบบโมดูลาร์และทดสอบงานลูกค้าผ่านเครือข่าย CoLab ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/10/Tactilia-Logo-Light-trimmed.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/markus-netzer-portraet-profil-768x960.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rainbow-miracom-mes-robotics-partnership-2026",
+      "storyKey": "rainbow-miracom-mes-robotics-partnership-2026",
+      "originalTitle": "Rainbow Robotics and Samsung SDS Unit Team Up on Factory Automation",
+      "urls": [
+        "https://robotsbeat.com/rainbow-robotics-miracom-samsung-sds-factory-automation-mes/",
+        "https://www.irobotnews.com/news/articleView.html?idxno=49655"
+      ],
+      "references": [
+        "https://robotsbeat.com/rainbow-robotics-miracom-samsung-sds-factory-automation-mes/",
+        "https://www.irobotnews.com/news/articleView.html?idxno=49655"
+      ],
+      "publishedAt": "2026-11-18T11:21:39Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ข้อตกลงใหม่รวมฮาร์ดแวร์หุ่นยนต์กับระบบการผลิต ตั้งแต่สำรวจหน้างาน ออกแบบ ติดตั้ง ไปจนถึงดูแลการทำงาน ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-768x512.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/boston-dynamics-atlas-spot-globalfoundries-trials-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/robotera-china-post-guangdong-humanoid-deployment-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/sparkoz-tn30-commercial-cleaning-robot-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/sparkoz-tn30-commercial-cleaning-robot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/wirobotics-wim-s-wearable-walking-robot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026",
+      "storyKey": "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026",
+      "originalTitle": "SPARKOZ Announces U.S. Manufacturing Partnership with Pacific Floorcare and Showcases Robotic Cleaning Innovations at ISSA 2026",
+      "urls": [
+        "https://www.prweb.com/releases/sparkoz-announces-us-manufacturing-partnership-with-pacific-floorcare-and-showcases-robotic-cleaning-innovations-at-issa-2026-302941218.html",
+        "https://robotsbeat.com/sparkoz-pacific-floorcare-us-cleaning-robot-manufacturing-tn30/"
+      ],
+      "references": [
+        "https://www.prweb.com/releases/sparkoz-announces-us-manufacturing-partnership-with-pacific-floorcare-and-showcases-robotic-cleaning-innovations-at-issa-2026-302941218.html",
+        "https://robotsbeat.com/sparkoz-pacific-floorcare-us-cleaning-robot-manufacturing-tn30/"
+      ],
+      "publishedAt": "2026-11-17T13:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ความร่วมมือการผลิตใหม่มาพร้อมการสาธิต TN-30 ระบบทำแผนที่ LiDAR แบบถือ และบริการคลาวด์ไม่คิดค่าสมาชิกรายงวด ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prweb.com/content/dam/prweb/home/Logo%20%20118x45.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prweb.com/content/dam/prweb/home/prweb-logo-118x45.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=UN98027&Transmission_Id=202611170800PR_NEWS_USPR_____UN98027&DateId=20261117",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wirobotics-ottobock-north-america-distribution-disclosure-2026",
+      "storyKey": "wirobotics-ottobock-north-america-distribution-disclosure-2026",
+      "originalTitle": "WIRobotics and Ottobock Join Forces to Expand Access to Wearable Robots Across North America",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/wirobotics-and-ottobock-join-forces-to-expand-access-to-wearable-robots-across-north-america-302939726.html",
+        "https://robotsbeat.com/wirobotics-ottobock-wim-s-walking-robot-us-canada/"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/wirobotics-and-ottobock-join-forces-to-expand-access-to-wearable-robots-across-north-america-302939726.html",
+        "https://robotsbeat.com/wirobotics-ottobock-wim-s-walking-robot-us-canada/"
+      ],
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ข้อตกลงครอบคลุมสหรัฐฯ และแคนาดา แต่เริ่มขายและจัดประสบการณ์ทดลองในสหรัฐฯ ก่อน ส่วนรุ่นทางการแพทย์ยังต้องมีข้อตกลงและอนุญาตแยก ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1634326/ID-936db7a184ff-Logo.jpg?id=OA3076871",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2034371/20261113040226EST_image_1.jpg?id=OA3076867&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=CN97164&Transmission_Id=202611161200PR_NEWS_USPR_____CN97164&DateId=20261116",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/3000930/image1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/2977678/image1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/MEQ.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CSE.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HEA.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026",
+      "storyKey": "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026",
+      "originalTitle": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration | Boston Dynamics",
+      "urls": [
+        "https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/",
+        "https://robotsbeat.com/boston-dynamics-atlas-globalfoundries-chip-fab-trials-2027/"
+      ],
+      "references": [
+        "https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/",
+        "https://robotsbeat.com/boston-dynamics-atlas-globalfoundries-chip-fab-trials-2027/"
+      ],
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ความร่วมมือใหม่ให้โรงงานชิปเป็นลูกค้าทดลอง Atlas นอกอุตสาหกรรมยานยนต์รายแรก ขณะที่ Spot มีผลใช้งานตรวจโรงงานแล้ว ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 19,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2023/03/Logo-v2.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/button-icons/ArrowUp.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/components/BDMegaMenu/assets/img/search.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2026/11/Lightbulb-Animation_20x40px.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-globalfoundries-1024x683.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/components/BDSocialSharing/assets/Facebook.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/components/BDSocialSharing/assets/LinkedIn.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/components/BDSocialSharing/assets/Twitter.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/components/BDSocialSharing/assets/Email.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2026/11/stretch-gen2-render.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://bostondynamics.com/wp-content/uploads/2026/10/hmg-bd-bloomberg-thumbnail1-scaled.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-T4HBBQG",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "robotera-china-post-guangdong-eleven-hubs-expansion-2026",
+      "storyKey": "robotera-china-post-guangdong-eleven-hubs-expansion-2026",
+      "originalTitle": "ROBOTERA Humanoids Reach 11 China Post Hubs in Eight Cities",
+      "urls": [
+        "https://robotsbeat.com/robotera-china-post-11-hubs-eight-cities-guangdong/",
+        "https://www.newswire.ca/news-releases/robotera-expands-humanoid-robot-deployment-across-china-post-s-guangdong-network-reaching-eight-cities-province-wide-805185396.html"
+      ],
+      "references": [
+        "https://robotsbeat.com/robotera-china-post-11-hubs-eight-cities-guangdong/",
+        "https://www.newswire.ca/news-releases/robotera-expands-humanoid-robot-deployment-across-china-post-s-guangdong-network-reaching-eight-cities-province-wide-805185396.html"
+      ],
+      "publishedAt": "2026-11-17T14:54:34Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "การขยายจากโครงการนำร่องมีเป้าหมายช่วยป้อนพัสดุเข้าสายคัดแยก แต่ยังไม่เปิดเผยจำนวนหุ่นยนต์และผลความพร้อมใช้งานแยกแต่ละศูนย์ ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/robotera-xhand-1-pro-u-robot-hand-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/foundation-phantom-humanoid-payroll-report-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/sparkoz-tn30-commercial-cleaning-robot-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/sparkoz-tn30-commercial-cleaning-robot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/wirobotics-wim-s-wearable-walking-robot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/boston-dynamics-atlas-spot-globalfoundries-trials-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "promise-robotics-cad40m-series-b-production-network-2026",
+      "storyKey": "promise-robotics-cad40m-series-b-production-network-2026",
+      "originalTitle": "Promise Robotics Raises $40 Million CAD Series B to Scale the Production Infrastructure Powering Homebuilding",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+        "https://robotsbeat.com/promise-robotics-c40m-series-b-homebuilding-factories/"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+        "https://robotsbeat.com/promise-robotics-c40m-series-b-homebuilding-factories/"
+      ],
+      "publishedAt": "2026-11-17T14:05:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "Series B ใหม่สนับสนุนบริการกำลังผลิตอัตโนมัติ มีงานบ้านกว่า 2,500 หน่วยตามสัญญา แต่ไม่ใช่จำนวนบ้านที่สร้างเสร็จ ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2011783/Promise-Robotics-Logo.jpg?id=OA3082934",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=LA99244&Transmission_Id=202611170905PR_NEWS_USPR_____LA99244&DateId=20261117",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2011783/Promise-Robotics-Logo.jpg?id=OA3014366",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CST.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/EDA.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/FNC.jpg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "genesis-ai-500m-series-a-integrated-robots-2026",
+      "storyKey": "genesis-ai-500m-series-a-integrated-robots-2026",
+      "originalTitle": "Genesis raises $500M Series A to fund its next chapter",
+      "urls": [
+        "https://www.genesis.ai/news/genesis-raises-dollar500m-series-a-to-fund-its-next-chapter",
+        "https://robotsbeat.com/genesis-ai-500m-series-a-3-5b-eno-robot-funding/"
+      ],
+      "references": [
+        "https://www.genesis.ai/news/genesis-raises-dollar500m-series-a-to-fund-its-next-chapter",
+        "https://robotsbeat.com/genesis-ai-500m-series-a-3-5b-eno-robot-funding/"
+      ],
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "เงินทุนใหม่มุ่งเร่งพัฒนาและนำหุ่นยนต์เข้าสู่งานผลิตกับโลจิสติกส์ โดยพัฒนาฮาร์ดแวร์ โมเดล และประสบการณ์หน้างานร่วมกัน ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.datocms-assets.com/199265/1777675878-image-2.png?auto=format&q=75&w=3160&h=1758",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.datocms-assets.com/199265/1794777617-founders-xian-theo-oct-27-2027_md.png?auto=format&q=75&w=2003&h=1341",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.datocms-assets.com/199265/1794870907-grid.png?auto=format&q=75&w=2620&h=1652",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.datocms-assets.com/199265/1794599646-next-frontier-stack-2-light.png?auto=format&q=75&w=1310&h=826",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.genesis.ai/logo/Genesis_logo_color.mp4",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.genesis.ai/logo/Genesis_logo_bw.mp4",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "remedy-robotics-62m-series-b-n1-trials-2026",
+      "storyKey": "remedy-robotics-62m-series-b-n1-trials-2026",
+      "originalTitle": "Remedy Robotics Raises $62 Million Series B to Bring Life-Saving Cardiovascular Intervention to Patients Everywhere",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html",
+        "https://robotsbeat.com/remedy-robotics-62m-series-b-n1-endovascular-robot-trials/"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html",
+        "https://robotsbeat.com/remedy-robotics-62m-series-b-n1-endovascular-robot-trials/"
+      ],
+      "publishedAt": "2026-11-16T15:00:00Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ทุน Series B สนับสนุนหุ่นยนต์หัตถการหลอดเลือดและแผนทดสอบกับ University of California ระบบยังไม่เปิดขายหรืออนุญาตใช้ทางคลินิกทั่วไป ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=SF98057&Transmission_Id=202611161000PR_NEWS_USPR_____SF98057&DateId=20261116",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rockwell-agilox-acquisition-definitive-agreement-2026",
+      "storyKey": "rockwell-agilox-acquisition-definitive-agreement-2026",
+      "originalTitle": "Rockwell Automation acquiring mobile robot maker AGILOX",
+      "urls": [
+        "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+        "https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Signs-Definitive-Agreement-to-Acquire-AGILOX.html"
+      ],
+      "references": [
+        "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+        "https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Signs-Definitive-Agreement-to-Acquire-AGILOX.html"
+      ],
+      "publishedAt": "2026-11-18T16:44:18Z",
+      "addedAt": "2026-11-18T23:14:02.465Z",
+      "runId": "2026-11-19",
+      "reason": "ดีลเสริมพอร์ต OTTO Motors ยังรอการอนุมัติและคาดปิดในไตรมาสสองปีบัญชี 2027 โดยไม่เปิดเผยมูลค่า ตรวจเทียบเหตุการณ์กับข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/fe2ee5fbcc9107aa608cd4fac5ae3fac732995c41abc3a6aae56479ecd174fe0?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilerobots-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/skydio-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/03/abb-nvidia-partnership-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Agility_Digit5_04-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f7426936742c0324e3e525d20",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilink-hero-300x169.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/yimeihui-sponsored-featured-image-november2026-150x97.png",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -24721,6 +25337,23 @@
         "se3-30m-series-a-spatial-ai-funding-2026",
         "tieriv-shunan-port-autonomous-dump-truck-agreement-2026",
         "enovix-mx1-b01-first-production-order-disclosure-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-19",
+      "batchHash": "eae156698c05f84ef6837896b245906ed1da1e73f4b0c938a2ef07528ecd77f7",
+      "preparedAt": "2026-11-18T23:14:02.465Z",
+      "articleIds": [
+        "tactilia-schunk-spin-off-rebrand-industrial-hands-2026",
+        "rainbow-miracom-mes-robotics-partnership-2026",
+        "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026",
+        "wirobotics-ottobock-north-america-distribution-disclosure-2026",
+        "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026",
+        "robotera-china-post-guangdong-eleven-hubs-expansion-2026",
+        "promise-robotics-cad40m-series-b-production-network-2026",
+        "genesis-ai-500m-series-a-integrated-robots-2026",
+        "remedy-robotics-62m-series-b-n1-trials-2026",
+        "rockwell-agilox-acquisition-definitive-agreement-2026"
       ]
     }
   ]

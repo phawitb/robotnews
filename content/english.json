@@ -10795,5 +10795,349 @@
         "note": "Open the original site; registration may be required to view the event or replay."
       }
     ]
+  },
+  "tactilia-schunk-spin-off-rebrand-industrial-hands-2026": {
+    "title": "SCHUNK spin-off adopts TACTILIA name for industrial robot hands",
+    "summary": "The business founded in January adopts the TACTILIA name, focusing on modular hands and customer application testing through SCHUNK CoLabs.",
+    "sections": [
+      {
+        "heading": "From spin-off to a new name",
+        "paragraphs": [
+          "On November 18, SCHUNK Humanoid Robotics announced that it now operates as TACTILIA Robotics. The Munich business is led by CEO Markus Netzer. It was founded in January 2026, so this announcement concerns its new identity and commercial direction rather than the creation of the company."
+        ]
+      },
+      {
+        "heading": "Hands for different robot platforms",
+        "paragraphs": [
+          "TACTILIA is developing modular hands that combine mechanics, sensors, actuators and software for picking and positioning objects in production and logistics. The intended platforms include humanoids, cobots and mobile manipulators. The company emphasizes integration and continuous operation, making the contact between hand and object central to the product."
+        ]
+      },
+      {
+        "heading": "Application testing remains essential",
+        "paragraphs": [
+          "The independent business retains access to SCHUNK expertise and 15 CoLabs worldwide for customer testing and application development. The release does not specify pricing, delivery dates or numerical performance results. Factory users still need to evaluate the hand against their own parts, cycle times and process requirements."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/Start_TACTILIA_Robotics_11_2026.jpg",
+        "alt": "SCHUNK and TACTILIA leaders at the company launch",
+        "caption": "SCHUNK and TACTILIA leaders at the company launch · Image: SCHUNK SE & Co. KG"
+      },
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/SCHUNK_TACTILIA_Robotics_11_2026.jpg",
+        "alt": "Kristina I. Schunk and Markus Netzer at the launch",
+        "caption": "Kristina I. Schunk and Markus Netzer at the launch · Image: SCHUNK SE & Co. KG"
+      },
+      {
+        "url": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/markus-netzer-portraet-profil.jpg",
+        "alt": "Markus Netzer, TACTILIA CEO",
+        "caption": "Markus Netzer, TACTILIA CEO · Image: TACTILIA Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "rainbow-miracom-mes-robotics-partnership-2026": {
+    "title": "Rainbow Robotics and Miracom partner to connect MES with factory robots",
+    "summary": "The partnership combines robot hardware and manufacturing systems, covering site analysis, application design, installation and operations.",
+    "sections": [
+      {
+        "heading": "Combining manufacturing software and robots",
+        "paragraphs": [
+          "Miracom, a Samsung SDS subsidiary, and Rainbow Robotics signed a partnership on November 17 and disclosed it on November 18. They plan to deliver robot adoption as part of a connected manufacturing operation, extending the service beyond the supply of machines."
+        ]
+      },
+      {
+        "heading": "Responsibilities across the deployment lifecycle",
+        "paragraphs": [
+          "Rainbow Robotics will provide suitable robots and related technology. Miracom will handle customer development, site analysis, application design, MES and factory-system integration, installation and operations. Joint service development will combine data, AI and robotics so that task decisions can reflect the actual state of production."
+        ]
+      },
+      {
+        "heading": "Existing customers are not new robot orders",
+        "paragraphs": [
+          "Miracom cites 28 years of digital-factory work for more than 430 manufacturers. That describes its existing experience, not new robot installations under this agreement. The announcement gives no contract value, robot quantity or delivery schedule; actual customer projects will establish the scale of the partnership."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1.jpg",
+        "alt": "Miracom and Rainbow Robotics representatives at the signing ceremony",
+        "caption": "Miracom and Rainbow Robotics representatives at the signing ceremony · Image: Miracom / RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026": {
+    "title": "SPARKOZ partners with Pacific Floorcare on US robot manufacturing",
+    "summary": "A new manufacturing partnership accompanies demonstrations of TN-30, handheld LiDAR mapping and a cloud service without recurring subscriptions.",
+    "sections": [
+      {
+        "heading": "Manufacturing closer to customers",
+        "paragraphs": [
+          "SPARKOZ announced a manufacturing partnership with Michigan-based floor-care equipment maker Pacific Floorcare on November 17. The arrangement aims to expand US production of robotic cleaning equipment by combining SPARKOZ automation technology with its partner’s manufacturing capabilities."
+        ]
+      },
+      {
+        "heading": "Cleaning includes mapping and fleet management",
+        "paragraphs": [
+          "At ISSA on November 17–19, the company is demonstrating TN-30, a compact cleaner for medium-size commercial spaces, alongside handheld 3D LiDAR mapping. Its Robot Cloud offers fleet monitoring, remote management, cleaning reports and software updates without recurring subscription fees, according to the announcement."
+        ]
+      },
+      {
+        "heading": "Supply-chain benefits are still objectives",
+        "paragraphs": [
+          "Local production is intended to shorten lead times and improve access to parts and service in North America. The release does not disclose investment, production capacity or a manufacturing start date. Faster delivery and lower support friction are objectives, rather than measured results already demonstrated by this partnership."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "wirobotics-ottobock-north-america-distribution-disclosure-2026": {
+    "title": "WIRobotics announces Ottobock distribution partnership starting in the US",
+    "summary": "The agreement covers the US and Canada, with an initial US launch; medical applications require separate agreements and regulatory authorization.",
+    "sections": [
+      {
+        "heading": "A newly disclosed distribution agreement",
+        "paragraphs": [
+          "On November 16, WIRobotics disclosed that its US subsidiary signed a distribution agreement with Otto Bock HealthCare on October 15. WIRobotics will supply the WIM S wearable mobility robot, with Ottobock acting as a distribution partner for the US and Canada. The disclosure date is distinct from the signing date."
+        ]
+      },
+      {
+        "heading": "Online sales and selected trial locations",
+        "paragraphs": [
+          "The partnership starts in the US through Ottobock’s direct-to-consumer platform and the WIRobotics USA online store, with trials planned at selected orthotic and prosthetic clinics. The companies will collaborate on training, after-sales support and market development. Customer feedback will inform additional trial locations and expansion of sales into Canada."
+        ]
+      },
+      {
+        "heading": "Medical ambitions have separate requirements",
+        "paragraphs": [
+          "The company reports more than 4,000 cumulative WIM sales; this is a product-family total, not a new Ottobock order. WIM Medi remains under development for medical use. Entry into medical and rehabilitation channels in either country would require applicable authorization and a separate agreement, rather than following automatically from the WIM S partnership."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2034371/20261113040226EST_image_1.jpg?id=OA3076867&p=original",
+        "alt": "Ottobock and WIRobotics representatives at the partnership signing",
+        "caption": "Ottobock and WIRobotics representatives at the partnership signing · Image: WIRobotics"
+      }
+    ],
+    "videos": []
+  },
+  "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026": {
+    "title": "GlobalFoundries plans Atlas trials in 2027 and expands Spot deployment",
+    "summary": "The expanded collaboration makes the chipmaker Atlas’s first non-automotive trial customer, while Spot already has reported factory-inspection results.",
+    "sections": [
+      {
+        "heading": "Two robot platforms, different stages",
+        "paragraphs": [
+          "Boston Dynamics and GlobalFoundries announced on November 17 that Spot deployments will expand across Malta, New York; Burlington, Vermont; Dresden; and Singapore. Onsite Atlas testing is planned for early 2027. The announcement identifies GlobalFoundries as the first Atlas trial customer outside the automotive industry."
+        ]
+      },
+      {
+        "heading": "Spot results are not Atlas results",
+        "paragraphs": [
+          "The companies report that two Spot robots in Singapore have completed more than 90,000 inspections since April, traveled nearly 900 kilometers and achieved a 99% mission success rate. These are reported Spot results in sub-fab areas, not Atlas results or a guarantee for every task and facility."
+        ]
+      },
+      {
+        "heading": "Atlas begins with use-case evaluation",
+        "paragraphs": [
+          "The Atlas skills workshop will evaluate potential tasks, site readiness and integration requirements before early training and task testing. The release does not identify the number of Atlas robots or selected jobs. Its linked 2022 case-study video documents earlier Spot work and should not be mistaken for footage of the forthcoming Atlas trial."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-atlas-together.jpg",
+        "alt": "Spot and Atlas in an industrial setting, illustrating the announcement",
+        "caption": "Spot and Atlas in an industrial setting, illustrating the announcement · Image: Boston Dynamics"
+      },
+      {
+        "url": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-globalfoundries.jpg",
+        "alt": "Spot inspecting a GlobalFoundries facility",
+        "caption": "Spot inspecting a GlobalFoundries facility · Image: Boston Dynamics / GlobalFoundries"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Fmj5r8ws2Mw",
+        "title": "2022 Spot case study at GlobalFoundries — background to the collaboration",
+        "note": "An earlier video linked by the announcement, not footage of the planned 2027 Atlas trial."
+      }
+    ]
+  },
+  "robotera-china-post-guangdong-eleven-hubs-expansion-2026": {
+    "title": "ROBOTERA expands postal robot deployment to 11 hubs in eight Guangdong cities",
+    "summary": "The rollout extends a parcel-induction pilot, but robot counts and site-level availability results remain undisclosed.",
+    "sections": [
+      {
+        "heading": "From a pilot to a postal network",
+        "paragraphs": [
+          "ROBOTERA reported on November 17 that its humanoids are deployed at 11 China Post hubs in Guangdong. The eight cities are Guangzhou, Shenzhen, Dongguan, Jiangmen, Shantou, Shanwei, Jieyang and Heyuan. The rollout extends a Guangzhou pilot that started in March; the hub count describes locations rather than the number of robots."
+        ]
+      },
+      {
+        "heading": "Throughput needs its task context",
+        "paragraphs": [
+          "The company reports an average induction rate above 1,500 parcels per hour in the pilot. Induction feeds parcels into the sorting process and is not the throughput of an entire hub. The release provides no independent evaluation method, machine-count breakdown or site-by-site human intervention rates."
+        ]
+      },
+      {
+        "heading": "Handling variation in real operations",
+        "paragraphs": [
+          "The system uses the company’s five-finger hand, irregular-item rejection and adaptive speed control to reduce jams, collisions and missed items. Power options accommodate different sites. Costs and per-hub availability are undisclosed, leaving full-shift performance and maintenance workload important questions when assessing the economics of expansion."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/robotera-china-post-guangdong-humanoid-deployment-1200x800-1.jpg",
+        "alt": "ROBOTERA announcement graphic showing 11 Guangdong hubs in eight cities",
+        "caption": "ROBOTERA announcement graphic showing 11 Guangdong hubs in eight cities · Image: ROBOTERA / RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "promise-robotics-cad40m-series-b-production-network-2026": {
+    "title": "Promise Robotics raises C$40 million to expand its homebuilding factory network",
+    "summary": "The new Series B backs automated production services, with more than 2,500 housing units contracted rather than completed.",
+    "sections": [
+      {
+        "heading": "New financing follows commercial agreements",
+        "paragraphs": [
+          "Promise Robotics announced a C$40 million Series B on November 17, led by White Star Capital with Horizons Ventures, Radical Ventures and PSP Investments participating. This is a new financing development, distinct from the D.R. Horton commercial agreement covered in October. The amount is denominated in Canadian dollars."
+        ]
+      },
+      {
+        "heading": "Builders buy production capacity",
+        "paragraphs": [
+          "Factory-as-a-Service translates existing home designs into robotic production plans for structural components and coordinates factory operations with installation. Builders can access capacity without developing and running their own factories. Manufacturing, transport and onsite assembly still need coordinated schedules for that capacity to support completed homes."
+        ]
+      },
+      {
+        "heading": "Operating sites and planned capacity",
+        "paragraphs": [
+          "Production is live in Calgary and Nisku, with more than 2,500 housing units under contract across three markets. The first US facility, in Phoenix, is planned for 2027. Contracted units are not completed homes, and the total should not be added to the D.R. Horton commitment as if the figures described wholly separate pipelines."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "genesis-ai-500m-series-a-integrated-robots-2026": {
+    "title": "Genesis AI raises $500 million Series A for its integrated robot program",
+    "summary": "The financing targets development and deployment in manufacturing and logistics, connecting hardware, models and field experience.",
+    "sections": [
+      {
+        "heading": "Funding development and deployment",
+        "paragraphs": [
+          "Genesis AI announced a $500 million Series A on November 17 to accelerate robot development, deployment and hiring, starting with manufacturing and logistics. The financing supports its existing Eno program. It is not a new robot-generation launch or evidence that every planned customer deployment has begun."
+        ]
+      },
+      {
+        "heading": "Connecting human experience with the robot",
+        "paragraphs": [
+          "The approach connects motion-and-touch capture devices, the GENE model, Genesis World simulation and Eno’s mobile, dual-arm hardware. Genesis intends to turn field failures into new evaluation scenarios, training data and hardware revisions. The strategy depends on improving the complete system rather than treating intelligence and mechanics as separate products."
+        ]
+      },
+      {
+        "heading": "Reliability across complete workflows",
+        "paragraphs": [
+          "Genesis highlights the gap between successful individual actions and reliable extended workflows. Practical deployment requires evidence about whole-task completion, human assistance and recovery after errors. Expansion into services, hospitals and homes remains a future direction. The website describes targeted customer deployments by the end of 2026 as a plan."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://image.mux.com/eM7S00Bf8XGDfkjM202pF3hSBKfcYvXeuT/thumbnail.jpg?width=2048&height=1152&fit_mode=pad&time=0.0",
+        "alt": "Thumbnail of the Genesis AI funding-announcement video",
+        "caption": "Thumbnail of the Genesis AI funding-announcement video · Image: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794777617-founders-xian-theo-oct-27-2027_md.png",
+        "alt": "Genesis AI co-founders Xian Zhou and Theo Gervet",
+        "caption": "Genesis AI co-founders Xian Zhou and Theo Gervet · Image: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794870907-grid.png",
+        "alt": "Diagram connecting AI, hardware and deployment",
+        "caption": "Diagram connecting AI, hardware and deployment · Image: Genesis AI"
+      },
+      {
+        "url": "https://www.datocms-assets.com/199265/1794599646-next-frontier-stack-2-light.png",
+        "alt": "Diagram of human data, GENE, Genesis World and Eno",
+        "caption": "Diagram of human data, GENE, Genesis World and Eno · Image: Genesis AI"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://stream.mux.com/eM7S00Bf8XGDfkjM202pF3hSBKfcYvXeuT.m3u8",
+        "title": "Genesis AI Series A announcement video",
+        "note": "Watch on the Genesis AI source page, which uses a Mux streaming player."
+      }
+    ]
+  },
+  "remedy-robotics-62m-series-b-n1-trials-2026": {
+    "title": "Remedy Robotics raises $62 million to prepare pivotal N1 trials",
+    "summary": "The Series B supports endovascular robotics and planned testing with the University of California; N1 is not available for sale or clinical use.",
+    "sections": [
+      {
+        "heading": "Financing the next development stage",
+        "paragraphs": [
+          "Remedy Robotics announced a $62 million Series B led by DCVC on November 16. The funding will support planned pivotal clinical testing with the University of California, prototype placements with partners and progress toward potential FDA approval. These are development objectives, not approvals or successful trial outcomes already achieved."
+        ]
+      },
+      {
+        "heading": "Robotics combined with imaging",
+        "paragraphs": [
+          "N1 combines robotic equipment and software for endovascular intervention. Development includes preoperative image analysis, case simulation and real-time registration between 3D and 2D images. The intended operating modes include onsite control, remote operation and autonomous functions. Each mode needs its own supporting evaluation; evidence for remote control does not validate full autonomy."
+        ]
+      },
+      {
+        "heading": "The system remains under development",
+        "paragraphs": [
+          "The release explicitly states that N1 is not currently available for sale or clinical use in any jurisdiction. Remote procedures reported in 2025 are development milestones, not authorization for general use. The next evidence should come from clinical testing and regulatory review; financing alone does not establish safety or effectiveness."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "rockwell-agilox-acquisition-definitive-agreement-2026": {
+    "title": "Rockwell signs agreement to acquire AMR maker AGILOX",
+    "summary": "The deal complements OTTO Motors, remains subject to approval and is expected to close in fiscal Q2 2027; financial terms were not disclosed.",
+    "sections": [
+      {
+        "heading": "Agreement signed, transaction still pending",
+        "paragraphs": [
+          "The Robot Report reported on November 18 that Rockwell Automation signed a definitive agreement to acquire Austria-based autonomous mobile robot developer AGILOX. Closing is expected in Rockwell’s fiscal second quarter of 2027, subject to regulatory approval. Financial terms were not disclosed; AGILOX will join the Intelligent Devices segment."
+        ]
+      },
+      {
+        "heading": "Complementary products and markets",
+        "paragraphs": [
+          "Rockwell says the acquisition will more than double its AMR business and complement OTTO Motors. OTTO has a strong North American presence, while AGILOX brings an established European customer base. AGILOX reports more than 2,500 deployments worldwide since its 2017 founding, a cumulative total rather than orders generated by this acquisition."
+        ]
+      },
+      {
+        "heading": "Platform integration remains an open question",
+        "paragraphs": [
+          "AGILOX emphasizes integrated lifting and omnidirectional movement for pallets and other loads. OTTO offers transport platforms that accept attachments and also has a forklift in its portfolio. Although the technologies are described as complementary, the report provides no integration roadmap or confirmation that both brands will operate within a single managed fleet."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
+        "alt": "An AGILOX robot inside a container",
+        "caption": "An AGILOX robot inside a container · Image: AGILOX / The Robot Report"
+      }
+    ],
+    "videos": []
   }
 }

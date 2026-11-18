@@ -3108,5 +3108,115 @@
     "url": "https://ir.enovix.com/news-releases/news-release-details/drones-drive-strong-envx-revenue-growth",
     "image": "",
     "addedAt": "2026-11-13T23:09:35.552Z"
+  },
+  {
+    "id": "tactilia-schunk-spin-off-rebrand-industrial-hands-2026",
+    "category": "industrial-robots",
+    "title": "SCHUNK เปิดตัวชื่อ TACTILIA สำหรับธุรกิจมือหุ่นยนต์อุตสาหกรรม",
+    "summary": "บริษัทที่แยกตั้งเมื่อมกราคมเปลี่ยนชื่อเป็น TACTILIA มุ่งมือแบบโมดูลาร์และทดสอบงานลูกค้าผ่านเครือข่าย CoLab",
+    "source": "TACTILIA Robotics",
+    "date": "2026-11-18",
+    "url": "https://www.tactilia-robotics.com/tactilia-robotics-schunk-spin-off-robot-hand/",
+    "image": "https://www.tactilia-robotics.com/wp-content/uploads/2026/11/Start_TACTILIA_Robotics_11_2026.jpg",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "rainbow-miracom-mes-robotics-partnership-2026",
+    "category": "industrial-robots",
+    "title": "Rainbow Robotics จับมือ Miracom เชื่อม MES กับงานหุ่นยนต์ในโรงงาน",
+    "summary": "ข้อตกลงใหม่รวมฮาร์ดแวร์หุ่นยนต์กับระบบการผลิต ตั้งแต่สำรวจหน้างาน ออกแบบ ติดตั้ง ไปจนถึงดูแลการทำงาน",
+    "source": "RobotsBeat",
+    "date": "2026-11-18",
+    "url": "https://robotsbeat.com/rainbow-robotics-miracom-samsung-sds-factory-automation-mes/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1.jpg",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "sparkoz-pacific-floorcare-us-manufacturing-partnership-2026",
+    "category": "industrial-robots",
+    "title": "SPARKOZ ร่วม Pacific Floorcare เตรียมผลิตหุ่นยนต์ทำความสะอาดในสหรัฐฯ",
+    "summary": "ความร่วมมือการผลิตใหม่มาพร้อมการสาธิต TN-30 ระบบทำแผนที่ LiDAR แบบถือ และบริการคลาวด์ไม่คิดค่าสมาชิกรายงวด",
+    "source": "PRWeb / SPARKOZ",
+    "date": "2026-11-17",
+    "url": "https://www.prweb.com/releases/sparkoz-announces-us-manufacturing-partnership-with-pacific-floorcare-and-showcases-robotic-cleaning-innovations-at-issa-2026-302941218.html",
+    "image": "",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "wirobotics-ottobock-north-america-distribution-disclosure-2026",
+    "category": "industry-news",
+    "title": "WIRobotics เปิดความร่วมมือ Ottobock จำหน่าย WIM S เริ่มจากสหรัฐฯ",
+    "summary": "ข้อตกลงครอบคลุมสหรัฐฯ และแคนาดา แต่เริ่มขายและจัดประสบการณ์ทดลองในสหรัฐฯ ก่อน ส่วนรุ่นทางการแพทย์ยังต้องมีข้อตกลงและอนุญาตแยก",
+    "source": "PR Newswire / WIRobotics",
+    "date": "2026-11-16",
+    "url": "https://www.prnewswire.com/news-releases/wirobotics-and-ottobock-join-forces-to-expand-access-to-wearable-robots-across-north-america-302939726.html",
+    "image": "https://mmx.prnewswire.com/media/MS2034371/20261113040226EST_image_1.jpg?id=OA3076867&p=original",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "boston-dynamics-globalfoundries-atlas-trial-spot-expansion-2026",
+    "category": "humanoids",
+    "title": "GlobalFoundries เตรียมทดลอง Atlas ปี 2027 พร้อมขยาย Spot สี่ฐานผลิต",
+    "summary": "ความร่วมมือใหม่ให้โรงงานชิปเป็นลูกค้าทดลอง Atlas นอกอุตสาหกรรมยานยนต์รายแรก ขณะที่ Spot มีผลใช้งานตรวจโรงงานแล้ว",
+    "source": "Boston Dynamics",
+    "date": "2026-11-17",
+    "url": "https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/",
+    "image": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-atlas-together.jpg",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "robotera-china-post-guangdong-eleven-hubs-expansion-2026",
+    "category": "humanoids",
+    "title": "ROBOTERA ขยายหุ่นยนต์ไปรษณีย์ถึง 11 ศูนย์ใน 8 เมืองกวางตุ้ง",
+    "summary": "การขยายจากโครงการนำร่องมีเป้าหมายช่วยป้อนพัสดุเข้าสายคัดแยก แต่ยังไม่เปิดเผยจำนวนหุ่นยนต์และผลความพร้อมใช้งานแยกแต่ละศูนย์",
+    "source": "RobotsBeat",
+    "date": "2026-11-17",
+    "url": "https://robotsbeat.com/robotera-china-post-11-hubs-eight-cities-guangdong/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/robotera-china-post-guangdong-humanoid-deployment-1200x800-1.jpg",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "promise-robotics-cad40m-series-b-production-network-2026",
+    "category": "industry-news",
+    "title": "Promise Robotics ระดมทุน 40 ล้านดอลลาร์แคนาดา ขยายโรงงานผลิตชิ้นส่วนบ้าน",
+    "summary": "Series B ใหม่สนับสนุนบริการกำลังผลิตอัตโนมัติ มีงานบ้านกว่า 2,500 หน่วยตามสัญญา แต่ไม่ใช่จำนวนบ้านที่สร้างเสร็จ",
+    "source": "PR Newswire / Promise Robotics",
+    "date": "2026-11-17",
+    "url": "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+    "image": "",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "genesis-ai-500m-series-a-integrated-robots-2026",
+    "category": "ai-automation",
+    "title": "Genesis AI ระดมทุน Series A 500 ล้านดอลลาร์ เดินหน้าหุ่นยนต์ Eno",
+    "summary": "เงินทุนใหม่มุ่งเร่งพัฒนาและนำหุ่นยนต์เข้าสู่งานผลิตกับโลจิสติกส์ โดยพัฒนาฮาร์ดแวร์ โมเดล และประสบการณ์หน้างานร่วมกัน",
+    "source": "Genesis AI",
+    "date": "2026-11-17",
+    "url": "https://www.genesis.ai/news/genesis-raises-dollar500m-series-a-to-fund-its-next-chapter",
+    "image": "https://image.mux.com/eM7S00Bf8XGDfkjM202pF3hSBKfcYvXeuT/thumbnail.jpg?width=2048&height=1152&fit_mode=pad&time=0.0",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "remedy-robotics-62m-series-b-n1-trials-2026",
+    "category": "research",
+    "title": "Remedy Robotics ระดมทุน 62 ล้านดอลลาร์ เตรียมทดลองสำคัญระบบ N1",
+    "summary": "ทุน Series B สนับสนุนหุ่นยนต์หัตถการหลอดเลือดและแผนทดสอบกับ University of California ระบบยังไม่เปิดขายหรืออนุญาตใช้ทางคลินิกทั่วไป",
+    "source": "PR Newswire / Remedy Robotics",
+    "date": "2026-11-16",
+    "url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html",
+    "image": "",
+    "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "rockwell-agilox-acquisition-definitive-agreement-2026",
+    "category": "industry-news",
+    "title": "Rockwell ลงนามซื้อ AGILOX ขยายธุรกิจหุ่นยนต์ขนส่งอัตโนมัติ",
+    "summary": "ดีลเสริมพอร์ต OTTO Motors ยังรอการอนุมัติและคาดปิดในไตรมาสสองปีบัญชี 2027 โดยไม่เปิดเผยมูลค่า",
+    "source": "The Robot Report",
+    "date": "2026-11-18",
+    "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
+    "addedAt": "2026-11-18T23:14:02.465Z"
   }
 ]
