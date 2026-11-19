@@ -3218,5 +3218,115 @@
     "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
     "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
     "addedAt": "2026-11-18T23:14:02.465Z"
+  },
+  {
+    "id": "mit-microrobot-onboard-control-journal-publication-2026",
+    "category": "research",
+    "title": "MIT เผยงานหุ่นยนต์บินจิ๋ว ควบคุมด้วยเซนเซอร์บนตัวแต่ยังใช้ไฟภายนอก",
+    "summary": "งานเผยแพร่ในวารสารแสดงหุ่นยนต์บินพร้อมชุดเซนเซอร์และคอมพิวเตอร์ 244 มิลลิกรัม โดยยังต้องรับคำสั่งระดับสูงจากคน",
+    "source": "RobotsBeat",
+    "date": "2026-11-19",
+    "url": "https://robotsbeat.com/mit-flying-microrobot-onboard-sensors-computer-sunflower/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "megarobo-nearly200m-laboratory-infrastructure-funding-2026",
+    "category": "industry-news",
+    "title": "MegaRobo ระดมทุนเกือบ 200 ล้านดอลลาร์ ขยายโครงสร้างห้องแล็บหุ่นยนต์",
+    "summary": "เงินทุนใหม่สนับสนุนระบบที่เชื่อม AI กับเครื่องมือวิทยาศาสตร์ การทดลองจริง และข้อมูลผลลัพธ์เพื่อใช้พัฒนารอบต่อไป",
+    "source": "RobotsBeat",
+    "date": "2026-11-19",
+    "url": "https://robotsbeat.com/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1.jpg",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "hd-hyundai-hdt1000-33-first-sale-2026",
+    "category": "industrial-robots",
+    "title": "HD Hyundai ขายแขนกล HDT1000-33 ยกหนึ่งตันครั้งแรก สำหรับงานบล็อกเครื่องยนต์",
+    "summary": "แขนกลหกแกนจะป้อนบล็อกเครื่องยนต์หนักเข้าเครื่องจักรและส่งชิ้นงานไปขั้นตอนถัดไป โดยยังไม่เปิดเผยจำนวนและมูลค่าสัญญา",
+    "source": "RobotsBeat",
+    "date": "2026-11-19",
+    "url": "https://robotsbeat.com/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1.jpg",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "disney-aws-anzellan-interactive-prototype-reveal-2026",
+    "category": "ai-automation",
+    "title": "Disney และ AWS เปิดตัวหุ่นยนต์ Anzellan เลือกบทพูดตอบผู้ชมแบบทันที",
+    "summary": "ต้นแบบตัวละคร Star Wars สามตัวปรับปฏิกิริยาต่อผู้ชม แต่ใช้บทพูดที่ทีมสร้างสรรค์เขียนและบันทึกไว้ล่วงหน้า",
+    "source": "RobotsBeat",
+    "date": "2026-11-19",
+    "url": "https://robotsbeat.com/disney-aws-anzellan-star-wars-robots-interactive-characters/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1.jpg",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "humyn-labs-47m-equity-debt-data-funding-2026",
+    "category": "ai-automation",
+    "title": "Humyn Labs ระดมทุนรวม 47 ล้านดอลลาร์ ขยายข้อมูลโลกจริงสำหรับหุ่นยนต์",
+    "summary": "เงินทุนแบ่งเป็นทุนหุ้น 26 ล้านดอลลาร์และหนี้ร่วมลงทุน 21 ล้านดอลลาร์ รองรับการเก็บข้อมูลภาพ เสียง สัมผัสและการเคลื่อนไหว",
+    "source": "The Robot Report",
+    "date": "2026-11-18",
+    "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/L-to-R-Ishank-Gupta-Manish-Agarwal-Cofounders-Humyn-Labs.jpg",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "njit-phd-hand-cost-release-plan-disclosure-2026",
+    "category": "research",
+    "title": "NJIT เผยต้นทุนชิ้นส่วน PHD-Hand ต่ำกว่า 650 ดอลลาร์ เตรียมเปิดแบบมือหุ่นยนต์",
+    "summary": "บทสัมภาษณ์ใหม่เผยต้นทุนรวมและแผนเปิดไฟล์ของมือหุ่นยนต์แบบกลไกก้านเชื่อม ซึ่งยังเป็นต้นแบบไม่มีเซนเซอร์สัมผัส",
+    "source": "Humanoids Daily",
+    "date": "2026-11-19",
+    "url": "https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-open-hand-tiEewINBxJ17kpdw4xy62RpPCj4PEg.webp",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "intelliprove-27m-seed-robot-vital-signs-2026",
+    "category": "ai-automation",
+    "title": "IntelliProve ระดมทุน 2.7 ล้านยูโร พัฒนาการอ่านสัญญาณชีพผ่านกล้องหุ่นยนต์",
+    "summary": "รอบ Seed มุ่งขยายซอฟต์แวร์จากแอปสู่หุ่นยนต์ พร้อมเพิ่มข้อมูลและงานตรวจสอบทางคลินิก ไม่ใช่การประกาศอนุมัติอุปกรณ์แพทย์ใหม่",
+    "source": "Humanoids Daily",
+    "date": "2026-11-18",
+    "url": "https://www.humanoidsdaily.com/news/intelliprove-2-7m-seed-camera-vital-signs-humanoid-robots",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "logistics-reply-tqg-elsdorf-robot-fulfilment-2026",
+    "category": "industrial-robots",
+    "title": "Logistics Reply เชื่อมหุ่นยนต์กับคนในศูนย์ใหม่ The Quality Group",
+    "summary": "ศูนย์ Elsdorf ใช้ LEA Reply จัดลำดับงานและเชื่อมสายพาน ระบบคัดแยกกับบรรจุภัณฑ์ เพื่อรองรับความผันผวนของออร์เดอร์",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-19",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416/",
+    "image": "",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "hidonix-hido2-limited-deployment-launch-2026",
+    "category": "industrial-robots",
+    "title": "Hidonix เปิดโครงการใช้งาน Hido II หุ่นยนต์ทำแผนที่อาคารแบบมีผู้ดูแล",
+    "summary": "หลังโชว์ต้นแบบที่ CES บริษัทเริ่มโครงการจำกัดกับสถานที่ในสหรัฐฯ ใช้หุ่นยนต์สำรวจข้อมูลสำหรับระบบนำทาง ION",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-18",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413/",
+    "image": "",
+    "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "soracom-physical-ai-suite-launch-2026",
+    "category": "ai-automation",
+    "title": "Soracom รวมบริการเชื่อมต่อและดูแลหุ่นยนต์เป็น Physical AI Suite",
+    "summary": "ชุดบริการนำความสามารถเดิมมาจัดรวมเพื่อเชื่อมต่อ ป้องกันและจัดการเครื่องจักร คิดค่าบริการแต่ละรายการตามปกติ",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-18",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412/",
+    "image": "",
+    "addedAt": "2026-11-19T23:08:56.454Z"
   }
 ]

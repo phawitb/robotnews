@@ -4893,5 +4893,144 @@
       }
     ],
     "videos": []
+  },
+  "mit-microrobot-onboard-control-journal-publication-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+        "alt": "หุ่นยนต์บินของ MIT บนดอกทานตะวัน",
+        "caption": "หุ่นยนต์บินของ MIT บนดอกทานตะวัน · ภาพ: คณะนักวิจัย / MIT"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=ZjshZHcJp30",
+        "title": "สาธิตหุ่นยนต์บินพร้อมระบบควบคุมบนตัว โดย MIT",
+        "embed": "https://www.youtube-nocookie.com/embed/ZjshZHcJp30"
+      }
+    ]
+  },
+  "megarobo-nearly200m-laboratory-infrastructure-funding-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1.jpg",
+        "alt": "ห้องแล็บหุ่นยนต์ประกอบประกาศทุน MegaRobo",
+        "caption": "ห้องแล็บหุ่นยนต์ประกอบประกาศทุน MegaRobo · ภาพ: MegaRobo"
+      }
+    ],
+    "videos": []
+  },
+  "hd-hyundai-hdt1000-33-first-sale-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1.jpg",
+        "alt": "แขนกล HDT1000-33 สำหรับยกชิ้นส่วนหนัก",
+        "caption": "แขนกล HDT1000-33 สำหรับยกชิ้นส่วนหนัก · ภาพ: HD Hyundai Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "disney-aws-anzellan-interactive-prototype-reveal-2026": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1.jpg",
+        "alt": "ต้นแบบตัวละครหุ่นยนต์ Anzellan ของ Disney",
+        "caption": "ต้นแบบตัวละครหุ่นยนต์ Anzellan ของ Disney · ภาพ: Disney"
+      }
+    ],
+    "videos": []
+  },
+  "humyn-labs-47m-equity-debt-data-funding-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/L-to-R-Ishank-Gupta-Manish-Agarwal-Cofounders-Humyn-Labs.jpg",
+        "alt": "Ishank Gupta และ Manish Agarwal ผู้ร่วมก่อตั้ง Humyn Labs จากซ้าย",
+        "caption": "Ishank Gupta และ Manish Agarwal ผู้ร่วมก่อตั้ง Humyn Labs จากซ้าย · ภาพ: Humyn Labs"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured.png",
+        "alt": "แผนภาพกระบวนการข้อมูลของ Humyn Labs",
+        "caption": "แผนภาพกระบวนการข้อมูลของ Humyn Labs · ภาพ: Humyn Labs"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=-2b6Mtk7OMA",
+        "title": "วิดีโอแนะนำแนวทางข้อมูล Humyn Labs",
+        "embed": "https://www.youtube-nocookie.com/embed/-2b6Mtk7OMA"
+      }
+    ]
+  },
+  "njit-phd-hand-cost-release-plan-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-open-hand-tiEewINBxJ17kpdw4xy62RpPCj4PEg.webp",
+        "alt": "ต้นแบบ PHD-Hand ขณะกางนิ้ว",
+        "caption": "ต้นแบบ PHD-Hand ขณะกางนิ้ว · ภาพ: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-finger-module-servos-sRxoh2HurZwExuvml8z1AAUc7ho1OH.webp",
+        "alt": "โมดูลนิ้วและเซอร์โวสามตัว",
+        "caption": "โมดูลนิ้วและเซอร์โวสามตัว · ภาพ: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-two-fingers-raised-DjtyvhN8KVlEqRkWnlCTFNlMVjKZ9L.webp",
+        "alt": "นิ้วหัวแม่มือพับกดนิ้วนางและนิ้วก้อย",
+        "caption": "นิ้วหัวแม่มือพับกดนิ้วนางและนิ้วก้อย · ภาพ: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-thumb-index-pinch-GFIAt78nugfiP9uP49xvEVM7aAyCh2.webp",
+        "alt": "นิ้วหัวแม่มือสัมผัสปลายนิ้วชี้",
+        "caption": "นิ้วหัวแม่มือสัมผัสปลายนิ้วชี้ · ภาพ: Neel Adwani / NJIT"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://phd-hand.github.io/media/cube-rotation.mp4",
+        "title": "สาธิต PHD-Hand หมุนลูกบาศก์",
+        "poster": "https://phd-hand.github.io/media/cube-rotation-poster.webp"
+      },
+      {
+        "kind": "video",
+        "url": "https://phd-hand.github.io/media/demo-video.mp4",
+        "title": "วิดีโอสาธิตโครงการ PHD-Hand",
+        "poster": "https://phd-hand.github.io/media/demo-video-poster.jpg"
+      }
+    ]
+  },
+  "intelliprove-27m-seed-robot-vital-signs-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp",
+        "alt": "ภาพแนวคิดหุ่นยนต์อ่านสัญญาณชีพที่บ้าน ไม่ใช่ภาพยืนยันการติดตั้ง",
+        "caption": "ภาพแนวคิดหุ่นยนต์อ่านสัญญาณชีพที่บ้าน ไม่ใช่ภาพยืนยันการติดตั้ง · ภาพ: IntelliProve"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp",
+        "alt": "ภาพประกอบแนวคิดการอ่านใบหน้าและค่าประมาณ",
+        "caption": "ภาพประกอบแนวคิดการอ่านใบหน้าและค่าประมาณ · ภาพ: IntelliProve"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp",
+        "alt": "Brecht Dhuyvetters กับ Unitree G1 ในการศึกษานำร่อง",
+        "caption": "Brecht Dhuyvetters กับ Unitree G1 ในการศึกษานำร่อง · ภาพ: IntelliProve"
+      }
+    ],
+    "videos": []
+  },
+  "logistics-reply-tqg-elsdorf-robot-fulfilment-2026": {
+    "images": [],
+    "videos": []
+  },
+  "hidonix-hido2-limited-deployment-launch-2026": {
+    "images": [],
+    "videos": []
+  },
+  "soracom-physical-ai-suite-launch-2026": {
+    "images": [],
+    "videos": []
   }
 }

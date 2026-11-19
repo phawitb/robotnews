@@ -11139,5 +11139,356 @@
       }
     ],
     "videos": []
+  },
+  "mit-microrobot-onboard-control-journal-publication-2026": {
+    "title": "MIT reports onboard flight control for a tiny robot that still needs external power",
+    "summary": "The journal announcement describes a flyer with a 244-milligram sensing and computing package, while a human still supplies high-level commands.",
+    "sections": [
+      {
+        "heading": "A publication milestone for ongoing research",
+        "paragraphs": [
+          "MIT reported the work on November 18 alongside publication in Science Robotics, following a February preprint. The flapping-wing robot estimates motion and controls flight using onboard equipment, removing the need for an external motion-capture installation surrounding the experiment."
+        ]
+      },
+      {
+        "heading": "Making room for onboard control",
+        "paragraphs": [
+          "Retuned artificial muscles driving the wings produce a lift-to-weight ratio of 1.9, supporting a 244-milligram electronics package. It combines a microcontroller, inertial sensing, optical flow and a time-of-flight sensor. Together they estimate orientation, lateral motion and height quickly enough to stabilize the aircraft."
+        ]
+      },
+      {
+        "heading": "Onboard control is not untethered autonomy",
+        "paragraphs": [
+          "Demonstrations include hovering, point-to-point flight and landing on a sunflower, with high-level commands sent by a human using a joystick. Power remains external. Batteries and a camera for object recognition and obstacle avoidance are future work, so pollination and crop inspection remain prospective applications rather than available services."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+        "alt": "MIT flying microrobot on a sunflower",
+        "caption": "MIT flying microrobot on a sunflower · Image: Researchers / MIT"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=ZjshZHcJp30",
+        "title": "MIT demonstration of onboard sensing and flight control"
+      }
+    ]
+  },
+  "megarobo-nearly200m-laboratory-infrastructure-funding-2026": {
+    "title": "MegaRobo raises nearly $200 million for robotic laboratory infrastructure",
+    "summary": "New capital supports systems connecting AI, scientific instruments, physical experiments and feedback for subsequent research cycles.",
+    "sections": [
+      {
+        "heading": "New financing for physical experimentation",
+        "paragraphs": [
+          "MegaRobo announced nearly $200 million in financing on November 19, with Oman Investment Authority and CMB International joining existing backers. The money supports core technology and international expansion of its AI for Science business. The announcement does not disclose a new company valuation."
+        ]
+      },
+      {
+        "heading": "From AI plans to laboratory instruments",
+        "paragraphs": [
+          "One Intelligence Stack combines models, software, workflows, scientific instruments and robotics. Megalaxy Lab lets researchers and AI agents configure experiments, track execution and retrieve machine-readable results. The approach connects computational proposals with physical testing before feeding observations into another design cycle."
+        ]
+      },
+      {
+        "heading": "Separating cumulative totals from new funding",
+        "paragraphs": [
+          "The company reports approximately $600 million raised across multiple rounds, distinct from the latest financing. Expansion targets North America, Europe, the Middle East and Asia. Automated experiments can help test hypotheses, but laboratory infrastructure alone does not establish that a proposed medicine or product will be effective in people."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1.jpg",
+        "alt": "Robotic laboratory illustrating MegaRobo’s funding announcement",
+        "caption": "Robotic laboratory illustrating MegaRobo’s funding announcement · Image: MegaRobo"
+      }
+    ],
+    "videos": []
+  },
+  "hd-hyundai-hdt1000-33-first-sale-2026": {
+    "title": "HD Hyundai makes first sale of its one-ton-payload HDT1000-33 robot",
+    "summary": "The six-axis arm will load heavy engine blocks into machines and transfer completed parts; initial quantities and contract value remain undisclosed.",
+    "sections": [
+      {
+        "heading": "First sale follows development begun in 2024",
+        "paragraphs": [
+          "HD Hyundai Robotics marked the first sale of HDT1000-33 at Hankook R&D in Ansan, South Korea, on November 18. The six-axis arm has a maximum payload of 1,000 kilograms. Development began in February 2024 in response to demand for handling larger and heavier manufacturing components."
+        ]
+      },
+      {
+        "heading": "Moving and orienting heavy components",
+        "paragraphs": [
+          "The first units are intended to load construction-machinery engine blocks into machining equipment and move completed parts to the next process. Integration must account for gripper weight, the load’s center of gravity and movement clearances. The one-ton rating describes payload capacity, not the robot’s own mass."
+        ]
+      },
+      {
+        "heading": "Manufacturer figures need application validation",
+        "paragraphs": [
+          "The manufacturer reports positional error within 0.1 millimeters over thousands of movements, without an independent test protocol or full customer-line results. It plans applications in shipbuilding equipment, large vehicle parts and batteries. Initial sales volume and transaction value are not disclosed."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1.jpg",
+        "alt": "HDT1000-33 industrial arm for heavy components",
+        "caption": "HDT1000-33 industrial arm for heavy components · Image: HD Hyundai Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "disney-aws-anzellan-interactive-prototype-reveal-2026": {
+    "title": "Disney and AWS reveal Anzellan robots that choose responses in real time",
+    "summary": "Three Star Wars character prototypes adapt to visitors using dialogue written and prerecorded by Imagineers.",
+    "sections": [
+      {
+        "heading": "Three characters responding together",
+        "paragraphs": [
+          "Disney Imagineering introduced Vilo Vele, Kado Bre’a and Jibu Bre’a on November 18. The Anzellan prototypes perceive visitor gestures and speech, choose responses and react to one another. Disney says the characters interact without a puppeteer controlling their behavior."
+        ]
+      },
+      {
+        "heading": "AI selects within an authored performance",
+        "paragraphs": [
+          "AWS technology uses fast-decision models for immediate reactions and larger models for broader context. The system selects prerecorded audio and coordinates it with animation; Imagineers author the dialogue and personalities. This is adaptive response selection within a designed performance, not unrestricted generation of new conversations."
+        ]
+      },
+      {
+        "heading": "A showcase precedes any park rollout",
+        "paragraphs": [
+          "The characters are scheduled for the Customer Showcase at Caesars Forum during AWS re:Invent in Las Vegas, November 30–December 4. No regular theme-park deployment schedule or numerical response-time results have been announced. The disclosed milestone is an interactive prototype approaching a public showcase."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1.jpg",
+        "alt": "Disney’s Anzellan robotic-character prototypes",
+        "caption": "Disney’s Anzellan robotic-character prototypes · Image: Disney"
+      }
+    ],
+    "videos": []
+  },
+  "humyn-labs-47m-equity-debt-data-funding-2026": {
+    "title": "Humyn Labs raises $47 million in equity and debt for real-world robot data",
+    "summary": "The financing comprises $26 million in equity and $21 million in venture debt, supporting vision, sound, touch and motion data collection.",
+    "sections": [
+      {
+        "heading": "Equity and debt are separate components",
+        "paragraphs": [
+          "The Robot Report covered Humyn Labs’ financing on November 18. The $47 million total comprises $26 million in equity led by Accel and $21 million in venture debt led by Lighthouse Canton. The entire amount should therefore not be described as equity investment."
+        ]
+      },
+      {
+        "heading": "Collection programs tailored to research needs",
+        "paragraphs": [
+          "The company uses proprietary capture devices and field partners in more than 20 countries to record vision, sound, touch and motion. Its enrichment process produces labeled data with verified provenance for model developers. Programs span residential, commercial and industrial work, focusing on task execution across different robot embodiments."
+        ]
+      },
+      {
+        "heading": "Investment in deployment readiness",
+        "paragraphs": [
+          "Plans cover readiness infrastructure in Brazil, Korea and India, capture hardware and enrichment technology, and presence in San Francisco, London and Seoul. The company reports more than $50 million in annualized revenue after six months of operations. That is a run-rate figure, not a completed year of recognized revenue or proof of customer robot performance."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/L-to-R-Ishank-Gupta-Manish-Agarwal-Cofounders-Humyn-Labs.jpg",
+        "alt": "Humyn Labs co-founders Ishank Gupta and Manish Agarwal, from left",
+        "caption": "Humyn Labs co-founders Ishank Gupta and Manish Agarwal, from left · Image: Humyn Labs"
+      },
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured.png",
+        "alt": "Diagram of Humyn Labs’ data engine",
+        "caption": "Diagram of Humyn Labs’ data engine · Image: Humyn Labs"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=-2b6Mtk7OMA",
+        "title": "Humyn Labs introduction to its data approach"
+      }
+    ]
+  },
+  "njit-phd-hand-cost-release-plan-disclosure-2026": {
+    "title": "NJIT discloses sub-$650 PHD-Hand parts cost and planned design release",
+    "summary": "A new interview details the total parts cost and planned release of a linkage-driven hand that remains a prototype without tactile sensors.",
+    "sections": [
+      {
+        "heading": "New disclosures about an existing research project",
+        "paragraphs": [
+          "In a November 19 Humanoids Daily interview, an NJIT researcher put PHD-Hand’s parts cost below $650, including servos, controller, printing material and steel rods. The team plans to release files in about a month. The paper already exists; the fresh disclosures concern cost and release timing rather than first publication."
+        ]
+      },
+      {
+        "heading": "Rigid linkages replace tendons",
+        "paragraphs": [
+          "The five-digit hand has 15 actuated degrees of freedom, using three servos per digit with rigid linkages and printed TPU flexures. Upper finger joints move in a coupled relationship. Demonstrations cover 33 grasp types and in-hand manipulation, but some grasps remain imperfect and do not establish human-equivalent ability across tasks."
+        ]
+      },
+      {
+        "heading": "Force and durability need further testing",
+        "paragraphs": [
+          "The team reports about 200 hours on one prototype with two steel-rod failures. Fingertip force and grip payload have not yet been measured, and tactile sensors are absent. The project page still marks files as forthcoming. The parts estimate is not a finished-product price, and a complete downloadable build package is not yet available."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-open-hand-tiEewINBxJ17kpdw4xy62RpPCj4PEg.webp",
+        "alt": "PHD-Hand prototype with its digits extended",
+        "caption": "PHD-Hand prototype with its digits extended · Image: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-finger-module-servos-sRxoh2HurZwExuvml8z1AAUc7ho1OH.webp",
+        "alt": "A finger module and its three servos",
+        "caption": "A finger module and its three servos · Image: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-two-fingers-raised-DjtyvhN8KVlEqRkWnlCTFNlMVjKZ9L.webp",
+        "alt": "Thumb opposition holding down the ring and little fingers",
+        "caption": "Thumb opposition holding down the ring and little fingers · Image: Neel Adwani / NJIT"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-thumb-index-pinch-GFIAt78nugfiP9uP49xvEVM7aAyCh2.webp",
+        "alt": "Thumb-to-index fingertip contact",
+        "caption": "Thumb-to-index fingertip contact · Image: Neel Adwani / NJIT"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://phd-hand.github.io/media/cube-rotation.mp4",
+        "title": "PHD-Hand cube rotation"
+      },
+      {
+        "url": "https://phd-hand.github.io/media/demo-video.mp4",
+        "title": "PHD-Hand project demonstration"
+      }
+    ]
+  },
+  "intelliprove-27m-seed-robot-vital-signs-2026": {
+    "title": "IntelliProve raises €2.7 million to develop camera-based robot vital-sign sensing",
+    "summary": "The seed round supports expansion from apps to robots alongside more data and clinical validation, rather than a new medical-device authorization.",
+    "sections": [
+      {
+        "heading": "Expanding beyond applications",
+        "paragraphs": [
+          "Belgian company IntelliProve announced €2.7 million in seed financing led by Miles Ahead, with Wit-Gele Kruis, imec.istart and angel investors participating, in reporting published around November 18–19. The company aims to extend camera-based vital-sign sensing into humanoids and assistive robots."
+        ]
+      },
+      {
+        "heading": "Signals from skin color and breathing",
+        "paragraphs": [
+          "Remote photoplethysmography analyzes small pulse-related skin-color changes and breathing movements during an approximately 30-second face scan. The company offers estimates of heart rate, variability, breathing and blood pressure. Pressure is inferred by a model rather than measured with a cuff; lighting and motion are important evaluation conditions."
+        ]
+      },
+      {
+        "heading": "Validation remains part of the funded work",
+        "paragraphs": [
+          "Funding will broaden population and operating-condition data, benchmark readings against reference methods and support work toward Class IIa certification under EU medical-device rules. Robotics partners remain unnamed and full blood-pressure validation has not been published. The described workflow passes readings to carers rather than letting a robot decide treatment independently."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp",
+        "alt": "Concept illustration of home vital-sign sensing, not evidence of a deployment",
+        "caption": "Concept illustration of home vital-sign sensing, not evidence of a deployment · Image: IntelliProve"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp",
+        "alt": "Illustration of facial scanning and estimated readings",
+        "caption": "Illustration of facial scanning and estimated readings · Image: IntelliProve"
+      },
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/intelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp",
+        "alt": "Brecht Dhuyvetters with a Unitree G1 during a pilot study",
+        "caption": "Brecht Dhuyvetters with a Unitree G1 during a pilot study · Image: IntelliProve"
+      }
+    ],
+    "videos": []
+  },
+  "logistics-reply-tqg-elsdorf-robot-fulfilment-2026": {
+    "title": "Logistics Reply coordinates robots and workers at The Quality Group’s new facility",
+    "summary": "The Elsdorf site uses LEA Reply to prioritize tasks and connect conveyors, sorting and packaging as order volumes fluctuate.",
+    "sections": [
+      {
+        "heading": "A newly disclosed fulfilment project",
+        "paragraphs": [
+          "A November 19 release describes Logistics Reply’s implementation at The Quality Group’s new Elsdorf fulfilment centre near Bremen. The 50,000-square-metre facility is designed to process up to 100,000 orders daily. That is a stated capacity, not evidence that this volume is achieved every day."
+        ]
+      },
+      {
+        "heading": "Allocating work between people and machines",
+        "paragraphs": [
+          "LEA Reply analyzes and prioritizes orders, allocating tasks according to operational needs. Robots perform standardized, physically demanding transport while employees handle complex work and quality assurance. Standard interfaces connect conveyors, sorting and packaging equipment, supporting changing volumes driven by promotional campaigns."
+        ]
+      },
+      {
+        "heading": "Earlier network results are not site-specific results",
+        "paragraphs": [
+          "The earlier collaboration had LEA in five warehouses by early 2024, with reported delivery-time reductions of nearly 20% and a 99.5% on-time rate. Those figures describe the earlier network, not a separate Elsdorf measurement. The release does not disclose robot counts or site-specific investment returns."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "hidonix-hido2-limited-deployment-launch-2026": {
+    "title": "Hidonix launches supervised Hido II indoor-mapping deployments",
+    "summary": "Following its CES prototype, the company begins a limited US venue program using robotic surveys for the ION navigation platform.",
+    "sections": [
+      {
+        "heading": "From prototype to a limited program",
+        "paragraphs": [
+          "Hidonix announced Hido II’s launch on November 18 after showing a prototype at CES 2026. The current step is a limited program with selected US partners and venues, with deployments supervised by the company’s team. It is not an announcement of unrestricted, unattended commercial availability."
+        ]
+      },
+      {
+        "heading": "Collecting data for indoor navigation",
+        "paragraphs": [
+          "Under onsite technician supervision, the rover follows predefined survey routes, detects obstacles and replans paths. A 2K stereo camera and Ouster LiDAR support perception, while a modular arm positions the acquisition module to reduce magnetic interference for ION mapping. Claimed runtime is approximately five to eight hours, depending on conditions."
+        ]
+      },
+      {
+        "heading": "Read performance claims with their comparison",
+        "paragraphs": [
+          "The company reports 50% less mapping time and up to fivefold lower positioning error versus manual acquisition with the ION App, without independent or site-by-site results. Hido III, also previewed in the release, remains a concept under development targeting 2027 rather than a machine available in this program."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "soracom-physical-ai-suite-launch-2026": {
+    "title": "Soracom launches Physical AI Suite for connected robot operations",
+    "summary": "The suite organizes existing services for connectivity, protection and machine management, with standard individual service pricing.",
+    "sections": [
+      {
+        "heading": "Existing services organized for robotics",
+        "paragraphs": [
+          "Soracom announced Physical AI Suite on November 18, organizing platform services for robots, autonomous mobile machines and industrial equipment. The change is a deployment-oriented grouping of services rather than a new robot-control model."
+        ]
+      },
+      {
+        "heading": "Connect, protect and manage remotely",
+        "paragraphs": [
+          "Components cover binding SIMs to devices, encrypted IP-network access, private gateways, certificate management and traffic inspection. Napter provides time-limited remote maintenance access, while Flux supports AI workflows over operational data. Customers still need to configure these services for their own systems."
+        ]
+      },
+      {
+        "heading": "Available now, with service-level charges",
+        "paragraphs": [
+          "The services are available through Soracom’s console and API in markets it serves, with customer self-configuration. There is no separate suite fee, but individual services retain their standard charges. Professional security assessment is a separate engagement; the suite itself does not establish the functional safety of a complete robot system."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
   }
 }

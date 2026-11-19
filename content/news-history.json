@@ -24877,6 +24877,1417 @@
           }
         ]
       }
+    },
+    {
+      "id": "mit-microrobot-onboard-control-journal-publication-2026",
+      "storyKey": "mit-microrobot-onboard-control-journal-publication-2026",
+      "originalTitle": "MIT’s Tiny Flying Robot Carries Its Own Sensors and Computer",
+      "urls": [
+        "https://robotsbeat.com/mit-flying-microrobot-onboard-sensors-computer-sunflower/",
+        "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+      ],
+      "references": [
+        "https://robotsbeat.com/mit-flying-microrobot-onboard-sensors-computer-sunflower/",
+        "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+      ],
+      "publishedAt": "2026-11-19T21:58:37+00:00",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "งานเผยแพร่ในวารสารแสดงหุ่นยนต์บินพร้อมชุดเซนเซอร์และคอมพิวเตอร์ 244 มิลลิกรัม โดยยังต้องรับคำสั่งระดับสูงจากคน มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/openai-robotics-team-reorganization-office-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1-300x200.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rockwell-agilox-acquisition-otto-autonomous-mobile-robots-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "megarobo-nearly200m-laboratory-infrastructure-funding-2026",
+      "storyKey": "megarobo-nearly200m-laboratory-infrastructure-funding-2026",
+      "originalTitle": "MegaRobo Raises Nearly $200M for AI-Powered Robotic Laboratories",
+      "urls": [
+        "https://robotsbeat.com/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman/",
+        "https://www.prnewswire.co.uk/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html"
+      ],
+      "references": [
+        "https://robotsbeat.com/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman/",
+        "https://www.prnewswire.co.uk/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html"
+      ],
+      "publishedAt": "2026-11-19T21:58:26+00:00",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "เงินทุนใหม่สนับสนุนระบบที่เชื่อม AI กับเครื่องมือวิทยาศาสตร์ การทดลองจริง และข้อมูลผลลัพธ์เพื่อใช้พัฒนารอบต่อไป มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/promise-robotics-homebuilding-factory-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/genesis-ai-founders-500m-eno-robot-funding-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-300x200.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rockwell-agilox-acquisition-otto-autonomous-mobile-robots-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hd-hyundai-hdt1000-33-first-sale-2026",
+      "storyKey": "hd-hyundai-hdt1000-33-first-sale-2026",
+      "originalTitle": "HD Hyundai Sells Its First One-Ton-Payload Industrial Robot",
+      "urls": [
+        "https://robotsbeat.com/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale/",
+        "https://www.hd.com/kr/newsroom/media-hub/press/view?detailsKey=4319"
+      ],
+      "references": [
+        "https://robotsbeat.com/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale/",
+        "https://www.hd.com/kr/newsroom/media-hub/press/view?detailsKey=4319"
+      ],
+      "publishedAt": "2026-11-19T14:36:46+00:00",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "แขนกลหกแกนจะป้อนบล็อกเครื่องยนต์หนักเข้าเครื่องจักรและส่งชิ้นงานไปขั้นตอนถัดไป โดยยังไม่เปิดเผยจำนวนและมูลค่าสัญญา มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/elite-robots-elitemission-mobile-manipulator-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rockwell-agilox-acquisition-otto-autonomous-mobile-robots-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-300x200.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "disney-aws-anzellan-interactive-prototype-reveal-2026",
+      "storyKey": "disney-aws-anzellan-interactive-prototype-reveal-2026",
+      "originalTitle": "Disney and AWS Build Star Wars Robots That React to Guests",
+      "urls": [
+        "https://robotsbeat.com/disney-aws-anzellan-star-wars-robots-interactive-characters/",
+        "https://disneyexperiences.com/anzellans-imagineering-rd-robotic-characters/"
+      ],
+      "references": [
+        "https://robotsbeat.com/disney-aws-anzellan-star-wars-robots-interactive-characters/",
+        "https://disneyexperiences.com/anzellans-imagineering-rd-robotic-characters/"
+      ],
+      "publishedAt": "2026-11-19T14:36:34+00:00",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "ต้นแบบตัวละคร Star Wars สามตัวปรับปฏิกิริยาต่อผู้ชม แต่ใช้บทพูดที่ทีมสร้างสรรค์เขียนและบันทึกไว้ล่วงหน้า มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/disney-aws-anzellan-star-wars-robots-interactive-characters-1200x800-1-300x200.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hd-hyundai-hdt1000-33-one-ton-payload-industrial-robot-first-sale-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/mit-flying-microrobot-onboard-sensors-computer-sunflower-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rockwell-agilox-acquisition-otto-autonomous-mobile-robots-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/hyundai-boston-dynamics-atlas-full-ownership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "humyn-labs-47m-equity-debt-data-funding-2026",
+      "storyKey": "humyn-labs-47m-equity-debt-data-funding-2026",
+      "originalTitle": "Humyn Labs raises $47M to collect real-world data for robotics",
+      "urls": [
+        "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+        "https://humynlabs.ai/"
+      ],
+      "publishedAt": "2026-11-18T22:43:06+00:00",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "เงินทุนแบ่งเป็นทุนหุ้น 26 ล้านดอลลาร์และหนี้ร่วมลงทุน 21 ล้านดอลลาร์ รองรับการเก็บข้อมูลภาพ เสียง สัมผัสและการเคลื่อนไหว มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://yt3.ggpht.com/prgafrj_v0XZrFj8JfPg0ZT70cC_WJ8g4rJGDwBzZ_vcD0So0yrh4khPNe2RZB2wdOmtjPXh=s68-c-k-c0x00ffffff-no-rj",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://secure.gravatar.com/avatar/919df5fb681158e4249c1bbb8b0a38b973cd119043bca214689a6603922bdf5f?s=168&d=mm&r=g",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilerobots-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/skydio-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Agility_Digit5_04-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Agility_Digit_5-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f7426936742c0324e3e525d20",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/pudurobotics-sponsored-image1-november2026-300x157.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilink-hero-300x169.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njit-phd-hand-cost-release-plan-disclosure-2026",
+      "storyKey": "njit-phd-hand-cost-release-plan-disclosure-2026",
+      "originalTitle": "NJIT's PHD-Hand Uses Linkages, Not Tendons, in a Humanoid Hand You Can Print for Under $650",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand",
+        "https://phd-hand.github.io/"
+      ],
+      "publishedAt": "2026-11-19T07:55:32.000Z",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "บทสัมภาษณ์ใหม่เผยต้นทุนรวมและแผนเปิดไฟล์ของมือหุ่นยนต์แบบกลไกก้านเชื่อม ซึ่งยังเป็นต้นแบบไม่มีเซนเซอร์สัมผัส มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 2,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-open-hand-tiEewINBxJ17kpdw4xy62RpPCj4PEg.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-finger-module-servos-sRxoh2HurZwExuvml8z1AAUc7ho1OH.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-two-fingers-raised-DjtyvhN8KVlEqRkWnlCTFNlMVjKZ9L.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-thumb-index-pinch-GFIAt78nugfiP9uP49xvEVM7aAyCh2.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffrontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fegoscale-human-video.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fsonic-open-source.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fsupermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fopenai-gpt6-astra.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1929878475739107328/80DEpCOa_normal.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1761551110303825920/JvPQiGQd_normal.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-wheels-warehouse-skate-Utt605KopWtr2ceuwj3SGS7nJrkN0t.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1156978210783019009/AbgIujGu_normal.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fboston-dynamics-atlas-wheels-sim-split-screen-5yN7VEb3xOzwGoDwF5Ge5sefSbFA3N.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1844926705389142016/nIEbH8rV_normal.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.youtube-nocookie.com/embed/YnaGXVEzapo?autoplay=1&playsinline=1",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2119807986361118720%2Fvid%2Favc1%2F1280x720%2FJSmUKbF4T0v6a7hM.mp4%3Ftag%3D16",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2047254751923068928%2Fvid%2Favc1%2F1280x720%2FSvC8zk_2FW8RTXP1.mp4",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/api/proxy-tweet-video?url=https%3A%2F%2Fvideo.twimg.com%2Famplify_video%2F2080544029851398144%2Fvid%2Favc1%2F1280x720%2FnxAQcAQ1GUpz_e1u.mp4",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "intelliprove-27m-seed-robot-vital-signs-2026",
+      "storyKey": "intelliprove-27m-seed-robot-vital-signs-2026",
+      "originalTitle": "IntelliProve Raises €2.7M to Bring Camera-Based Vital Signs to Humanoid Robots",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/intelliprove-2-7m-seed-camera-vital-signs-humanoid-robots"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/intelliprove-2-7m-seed-camera-vital-signs-humanoid-robots",
+        "https://intelliprove.com/resources/research-validation-library"
+      ],
+      "publishedAt": "2026-11-18T23:01:00.000Z",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "รอบ Seed มุ่งขยายซอฟต์แวร์จากแอปสู่หุ่นยนต์ พร้อมเพิ่มข้อมูลและงานตรวจสอบทางคลินิก ไม่ใช่การประกาศอนุมัติอุปกรณ์แพทย์ใหม่ มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=384&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=640&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=750&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=828&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=1080&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-home-vital-signs-scan-X48bTLhjZ71i3VgwUqq9T6C9QWJTZX.webp&w=1200&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=384&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=640&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=750&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=828&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=1080&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-robot-face-scan-biomarkers-CVuQKiY0IKHInY0OJWTTpshUgwi4oc.webp&w=1200&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=384&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=640&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=750&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=828&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=1080&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fintelliprove-humanoid-robotics-lab-k45sfO8rKTKBxDGmHAMmZmnhcpN8UW.webp&w=1200&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenesis-ai-founders-eno-series-a-VkAwt9tccHjPjdGDl9eTzr0698EHhF.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fagile-robots-series-f-hero-R218KAsYrZBZA3PSNEhr5hhTu5lNHz.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fyann-lecun-pioneer-works.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2F4ne1-gen35-1.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffigure-03-humanoids-campus-adcock-video-QKGwC4QTEwytw1nEVjWsQe1zDtM9Oo.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fmabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fanthropic-fable-5-2-launch-video-sunrise-rvBWTMsu7pvLrefbRGrQl7s8pUcfH9.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fasus-gallop-humanoid-packing-station-Nx2XAScGSSgOlRozB54B3sJQNsBY9X.webp&w=1200&q=75",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "logistics-reply-tqg-elsdorf-robot-fulfilment-2026",
+      "storyKey": "logistics-reply-tqg-elsdorf-robot-fulfilment-2026",
+      "originalTitle": "Logistics Reply Expands Robot-Assisted Fulfilment at The Quality Group",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/logistics-reply-expands-robot-assisted-fulfilment-at-the-quality-group/27416/"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "ศูนย์ Elsdorf ใช้ LEA Reply จัดลำดับงานและเชื่อมสายพาน ระบบคัดแยกกับบรรจุภัณฑ์ เพื่อรองรับความผันผวนของออร์เดอร์ มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 18,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/palladyne-iq-unlocking-new-frontiers-for-robotic-performance.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hidonix-hido2-limited-deployment-launch-2026",
+      "storyKey": "hidonix-hido2-limited-deployment-launch-2026",
+      "originalTitle": "Hidonix Industries Officially Launches Hido II Rover to Automate Indoor Spatial Mapping",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/18/hidonix-industries-officially-launches-hido-ii-rover-to-automate-indoor-spatial-mapping/27413/"
+      ],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "หลังโชว์ต้นแบบที่ CES บริษัทเริ่มโครงการจำกัดกับสถานที่ในสหรัฐฯ ใช้หุ่นยนต์สำรวจข้อมูลสำหรับระบบนำทาง ION มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/knf-automation-technology-requires-reliable-and-durable-pumps.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "soracom-physical-ai-suite-launch-2026",
+      "storyKey": "soracom-physical-ai-suite-launch-2026",
+      "originalTitle": "Soracom Launches Physical AI Suite, Bringing Secure Connectivity and Remote Operations to Robots and Autonomous Machines",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412/"
+      ],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "addedAt": "2026-11-19T23:08:56.454Z",
+      "runId": "2026-11-20",
+      "reason": "ชุดบริการนำความสามารถเดิมมาจัดรวมเพื่อเชื่อมต่อ ป้องกันและจัดการเครื่องจักร คิดค่าบริการแต่ละรายการตามปกติ มีพัฒนาการใหม่ที่ตรวจแยกจากข่าวเดิมทั้งหมดแล้ว",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/electrocraft-product-for-robotics-technologies-across-markets.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -25354,6 +26765,23 @@
         "genesis-ai-500m-series-a-integrated-robots-2026",
         "remedy-robotics-62m-series-b-n1-trials-2026",
         "rockwell-agilox-acquisition-definitive-agreement-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-20",
+      "batchHash": "9d353ffb4454c5c87e63f71dc7190a5fe7648fdfd785cb97457f35ad52e007d8",
+      "preparedAt": "2026-11-19T23:08:56.454Z",
+      "articleIds": [
+        "mit-microrobot-onboard-control-journal-publication-2026",
+        "megarobo-nearly200m-laboratory-infrastructure-funding-2026",
+        "hd-hyundai-hdt1000-33-first-sale-2026",
+        "disney-aws-anzellan-interactive-prototype-reveal-2026",
+        "humyn-labs-47m-equity-debt-data-funding-2026",
+        "njit-phd-hand-cost-release-plan-disclosure-2026",
+        "intelliprove-27m-seed-robot-vital-signs-2026",
+        "logistics-reply-tqg-elsdorf-robot-fulfilment-2026",
+        "hidonix-hido2-limited-deployment-launch-2026",
+        "soracom-physical-ai-suite-launch-2026"
       ]
     }
   ]
