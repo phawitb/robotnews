@@ -11490,5 +11490,348 @@
     ],
     "images": [],
     "videos": []
+  },
+  "massrobotics-fish-pier-marine-facility-plan-2026": {
+    "title": "MassRobotics plans Boston Harbor marine robotics facility for early 2028",
+    "summary": "The Fish Pier site will connect prototyping with water testing, with a tank and launch equipment; programming is planned during 2027.",
+    "sections": [
+      {
+        "heading": "A new waterfront development site",
+        "paragraphs": [
+          "MassRobotics is developing a marine robotics facility at Boston Fish Pier with the Massachusetts Port Authority, or Massport. Construction is underway, with opening targeted for early 2028 and programming planned during 2027. These are future milestones; the announcement does not mean the complete facility is already operating."
+        ]
+      },
+      {
+        "heading": "Connecting fabrication with water access",
+        "paragraphs": [
+          "Planned equipment includes a water tank, a float alongside the pier for direct water testing, and lifting and launch equipment. Teams using the nearby MassRobotics machine shop would be able to move prototypes to the harbor. The arrangement is intended to reduce the difficulty of renting boats, borrowing tanks or traveling to distant test sites."
+        ]
+      },
+      {
+        "heading": "Infrastructure for marine startups",
+        "paragraphs": [
+          "MassRobotics says it supports more than 100 resident startups. CRABI Robotics, which develops underwater hull-cleaning robots, illustrates the kinds of companies that could benefit. Nearby water access could shorten build-and-test cycles, although the report provides no facility pricing, membership conditions or measured cost savings from the new site."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
+        "alt": "CRABI robot mounted alongside a cargo vessel",
+        "caption": "CRABI robot mounted alongside a cargo vessel · Credit: MassRobotics"
+      }
+    ],
+    "videos": []
+  },
+  "foundation-base-group-150m-proposed-investment-disclosure-2026": {
+    "title": "Base Group considers Foundation investment as report outlines proposed $150 million deal",
+    "summary": "Reuters reported a funding and materials partnership plan for the Phantom maker; neither a completed deal nor receipt of the money has been confirmed.",
+    "sections": [
+      {
+        "heading": "Funding under consideration",
+        "paragraphs": [
+          "Humanoids Daily, following Reuters, reported that internal Foundation Future Industries emails describe a proposed $150 million investment from South Korea’s Base Group. A Base spokesperson confirmed that an investment is being considered but did not confirm its size or timing. The reported amount should therefore not be treated as closed financing."
+        ]
+      },
+      {
+        "heading": "A potential materials partnership",
+        "paragraphs": [
+          "According to the emails reviewed by Reuters, the plan could include a joint venture supplying aluminum for robots and lithium for batteries. Foundation develops the defense-focused Phantom humanoid. Such an arrangement would connect financing with material supply, but investment terms and a valuation for this transaction have not been disclosed."
+        ]
+      },
+      {
+        "heading": "Liquidity remains unresolved",
+        "paragraphs": [
+          "The reporting says Foundation has missed employee payroll and management is relying on Base funding to address the problem. Reuters cited PitchBook figures showing $11 million previously raised from outside investors. The new development is disclosure of the potential investor and arrangement; it does not establish that wages have resumed or a new robot is production-ready."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sankaet-pathak-over-the-horizon.webp",
+        "alt": "Sankaet Pathak on the Over The Horizon podcast",
+        "caption": "Sankaet Pathak on the Over The Horizon podcast · Credit: Over The Horizon / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "dongwoon-anatech-robot-motion-control-business-expansion-2026": {
+    "title": "Dongwoon Anatech expands camera-control expertise into robot motion chips",
+    "summary": "The Korean chipmaker is prioritizing Automotive & Robotics and developing motor-drive and power-protection components for 12 V and 48 V systems.",
+    "sections": [
+      {
+        "heading": "A motion-control business expansion",
+        "paragraphs": [
+          "Dongwoon Anatech has identified Automotive & Robotics as a new growth business, applying smartphone autofocus and optical-stabilization expertise to robot joints, autonomous mobile robots and vehicles. It is a fabless semiconductor designer; the announcement concerns components and business direction rather than the launch of a complete robot."
+        ]
+      },
+      {
+        "heading": "From lens positioning to robot joints",
+        "paragraphs": [
+          "Camera control requires position sensing and correction of small movements. The company says its analog sensing, control algorithms and motor-drive circuitry can transfer across applications, with more than 50% of core design assets reusable between mobile, automotive and robotics platforms. The release does not include independent robot-system benchmark results."
+        ]
+      },
+      {
+        "heading": "A portfolio still being developed",
+        "paragraphs": [
+          "The developing lineup includes motor and actuator drivers, gate drivers and 48 V electronic fuses for 12 V and 48 V power systems. Dongwoon cites existing automotive chip supply to Hyundai-related businesses. However, the announcement does not provide specific robot-component part numbers, shipment dates or confirmed robotics orders."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "keenon-issa-multi-robot-cleaning-demonstration-2026": {
+    "title": "KEENON presents multi-robot cleaning workflows at ISSA 2026",
+    "summary": "The exhibit combines floor-cleaning and delivery robots with a proposed role for XMAN-R1 clearing clutter before dedicated floor cleaners operate.",
+    "sections": [
+      {
+        "heading": "Matching robots to building tasks",
+        "paragraphs": [
+          "KEENON brought commercial cleaning robots, delivery robots and its XMAN-R1 humanoid to ISSA Show North America in Las Vegas, whose exhibit hall ran November 17–19. The presentation emphasized different robots sharing a facility rather than assuming one machine can perform every building-service task."
+        ]
+      },
+      {
+        "heading": "Different floors and facility sizes",
+        "paragraphs": [
+          "The company positions KLEENBOT C55 for factories and warehouses, claiming a maximum cleaning rate of 2,376 square meters per hour with automatic water refilling and wastewater drainage. C40 combines sweeping and scrubbing, while C30 targets carpets. These are manufacturer specifications, not independently demonstrated rates across every site condition."
+        ]
+      },
+      {
+        "heading": "Humanoid assistance remains exploratory",
+        "paragraphs": [
+          "KEENON describes a possible workflow in which XMAN-R1 clears clutter and tidies tabletops before C40 cleans larger floor areas. The exhibit also covers S300, T11, T10, T9 and W3 transport or hotel-service robots. The company calls humanoid-assisted cleaning an area it is exploring, so the proposal should not be read as a broadly proven commercial deployment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2039630/20261119014507EST_image_1.jpg?id=OA3091682&p=original",
+        "alt": "KEENON booth at the ISSA Show",
+        "caption": "KEENON booth at the ISSA Show · Credit: KEENON Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "specialtyrx-tompkins-tsort-medication-throughput-results-2026": {
+    "title": "SpecialtyRx reports up to 40% higher per-station medication throughput with tSort",
+    "summary": "Robotic sortation follows pharmacist finalization, automating scan-and-route work for prescriptions bound for care facilities.",
+    "sections": [
+      {
+        "heading": "Robots in medication fulfillment",
+        "paragraphs": [
+          "SpecialtyRx has disclosed its use of Tompkins Robotics’ tSort for prescriptions destined for long-term care facilities. The provider processes more than 55,000 prescriptions daily. Robots handle a fulfillment stage after a pharmacist has finalized a prescription; they do not replace prescribing decisions or pharmacist review."
+        ]
+      },
+      {
+        "heading": "Reading the station-level comparison",
+        "paragraphs": [
+          "Technicians previously scanned and sorted prescriptions individually, with an approximate baseline of 1,000 prescriptions per hour. The company reports a current tSort maximum of 1,400 per hour, an increase of up to 40% per station. That maximum is not a network-wide average, and the release provides no independent medication-error evaluation."
+        ]
+      },
+      {
+        "heading": "Modular expansion within existing space",
+        "paragraphs": [
+          "tSort combines mobile robots with modular sorting infrastructure, allowing additional robots and destinations without new construction. It complements investments in dispensing, packaging and digital delivery verification. Operational value depends on consistent routing and handling peak volumes, not simply the speed of an individual robot."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026": {
+    "title": "FAULHABER details BHx A drive platform rated for over 1,000 autoclave cycles",
+    "summary": "The motor, gearbox and encoder platform targets surgical tools with components designed to tolerate repeated steam sterilization.",
+    "sections": [
+      {
+        "heading": "A drive platform for medical tools",
+        "paragraphs": [
+          "FAULHABER has detailed an autoclavable platform combining BHx A motors, a 16GPS A planetary gearhead and an IEM3 A encoder for surgical handheld instruments. This is a motion-component development, not the launch of a surgical robot or an announcement of patient outcomes."
+        ]
+      },
+      {
+        "heading": "Configuring speed and torque",
+        "paragraphs": [
+          "The brushless 1645 BHSA and 1660 BHSA variants emphasize high speed, while 1660 BHTA targets higher torque. The gearhead offers reductions up to 50:1. IEM3-1024 A and IEM3-1024 LA encoders provide position and speed feedback, enabling configurations suited to a tool’s mechanical and control requirements."
+        ]
+      },
+      {
+        "heading": "Repeated sterilization is the design constraint",
+        "paragraphs": [
+          "The manufacturer says the components withstand more than 1,000 autoclave cycles through intrinsically steam-resistant construction rather than relying solely on outer motor potting. Interfaces, thermal sensors and sealing can be customized. The announcement does not establish that component qualification replaces validation of a complete medical instrument."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.faulhaber.com/media/DAM/Images/Products/002%20Brushless%20DC-Motors/faulhaber-autoclavable-drive-system-bhx-a.jpg",
+        "alt": "BHx A drive system for sterilizable applications",
+        "caption": "BHx A drive system for sterilizable applications · Credit: FAULHABER"
+      },
+      {
+        "url": "https://www.faulhaber.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_98c3a33976.jpg",
+        "alt": "Promotional illustration of medical drive components",
+        "caption": "Promotional illustration of medical drive components · Credit: FAULHABER"
+      }
+    ],
+    "videos": []
+  },
+  "mitsubishi-cnc-humanoid-workcell-technical-interview-2026": {
+    "title": "Mitsubishi details CNC–humanoid work cell and human approval requirements",
+    "summary": "An interview explains Maisart planning, MCP/ROS communication and recovery limits; commercialization remains undecided.",
+    "sections": [
+      {
+        "heading": "Technical detail behind the JIMTOF demonstration",
+        "paragraphs": [
+          "Engineering.com interviewed Mitsubishi Electric engineers about a work cell combining a Galaxea Dynamics humanoid, CNC equipment and an AI machining planner. A demonstrated workflow accepted spoken text for a tag, generated a program, loaded the workpiece, machined it and removed it. This is technical reporting on the demonstration, not a commercial work-cell launch."
+        ]
+      },
+      {
+        "heading": "The planner needs registered capabilities",
+        "paragraphs": [
+          "Maisart technology supports planning and review. The planner communicates with the CNC through MCP and the robot through ROS. A registered library describes available motions, machine capabilities and supported workpieces; changes require library updates. The system therefore does not accept arbitrary production tasks without configuration."
+        ]
+      },
+      {
+        "heading": "Approval gates and recovery limitations",
+        "paragraphs": [
+          "Human approval is required for actions such as starting machining, changing parameters and changing CNC settings. The system can retry a failed grasp, but alarms if a misplaced workpiece cannot enter the machine; automatic recovery remains in development. Mitsubishi is conducting validation research, envisages practical use around 2030 and has not decided commercialization plans."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.engineering.com/wp-content/uploads/2026/11/mitsubishi-ai-cncmachining.jpg",
+        "alt": "Architecture linking an AI planner, humanoid and CNC",
+        "caption": "Architecture linking an AI planner, humanoid and CNC · Credit: Mitsubishi Electric"
+      }
+    ],
+    "videos": []
+  },
+  "motion-galbot-slush-palletizing-demo-customer-update-2026": {
+    "title": "Motion demonstrates Galbot S1 palletizing at Slush and outlines Belgian delivery",
+    "summary": "A Helsinki event report documents crate stacking alongside leasing, operator training and remote-support details.",
+    "sections": [
+      {
+        "heading": "Crate stacking on stage",
+        "paragraphs": [
+          "Robotics Norway reported Motion’s Galbot S1 palletizing demonstration at the Industrial Renaissance Summit during Slush on November 19. Alexander Stevens described a 320 kg robot with a 50 kg payload and lidar-based slowing near people. These are presentation details, not blanket certification of safety in every installation."
+        ]
+      },
+      {
+        "heading": "Deployment includes support services",
+        "paragraphs": [
+          "Motion leases robots and quoted current robot costs of €100,000–€150,000, not monthly rental prices. Its Google Cloud- and Gemini-based MotionOS covers customer-video qualification, digital-twin planning, VR training and fleet management. The company described camera and AR-glasses training for operators and remote teleoperation support."
+        ]
+      },
+      {
+        "heading": "A planned customer shipment",
+        "paragraphs": [
+          "Stevens said the demonstration robot would ship to a Belgian warehouse customer the following week, and that customer numbers grew from six to 50 within two months of its pre-seed announcement. Shipment was still prospective at the time of reporting. Event photos and video show the stage demonstration, not sustained customer-site performance or warehouse investment returns."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-session-01.jpg",
+        "alt": "Panel discussing physical AI in factories",
+        "caption": "Panel discussing physical AI in factories · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-54-percent.jpg",
+        "alt": "Sebastian Heitmann presents a slide on China’s share of 2024 robot installations",
+        "caption": "Sebastian Heitmann presents a slide on China’s share of 2024 robot installations · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-panel.jpg",
+        "alt": "Panel stage with speakers shown on side screens",
+        "caption": "Panel stage with speakers shown on side screens · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-extantia.jpg",
+        "alt": "Galbot raises an arm beside a grey crate during the demonstration",
+        "caption": "Galbot raises an arm beside a grey crate during the demonstration · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-pallets.jpg",
+        "alt": "Galbot beside grey crates on a blue pallet",
+        "caption": "Galbot beside grey crates on a blue pallet · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-record-operators.jpg",
+        "alt": "Alexander Stevens explains recording operator demonstrations",
+        "caption": "Alexander Stevens explains recording operator demonstrations · Credit: Lars-Fredrik Forberg / Robotics Norway"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-demo.mp4",
+        "title": "Galbot S1 palletizing on stage · Video: Robotics Norway"
+      }
+    ]
+  },
+  "first-qualcomm-arduino-k8-platform-partnership-2026": {
+    "title": "FIRST partners with Qualcomm, Disney and REV Robotics on next-generation K–8 programs",
+    "summary": "Arduino technology and a new build platform will support the 2027–2028 season, with transitional compatibility for existing SPIKE sets.",
+    "sections": [
+      {
+        "heading": "A new partnership for young learners",
+        "paragraphs": [
+          "On November 18, FIRST announced expanded collaboration with Qualcomm Technologies for next-generation K–8 robotics experiences. The announcement identifies a spring 2027 launch and preparation for the 2027–2028 season. Plans distinguish ages 5–7 and 8–14, emphasizing collaborative building, testing and iteration."
+        ]
+      },
+      {
+        "heading": "Technology and game-design roles",
+        "paragraphs": [
+          "Qualcomm is the lead technology partner through Arduino, REV Robotics is developing the physical build system, and Walt Disney Imagineering will contribute games, challenges and annual themes. The program FAQ identifies an Arduino UNO Q-based hardware platform for grades 3–8. FIRST remains responsible for the learning experience and delivery community."
+        ]
+      },
+      {
+        "heading": "A transition for existing equipment",
+        "paragraphs": [
+          "FIRST plans compatibility with LEGO Education SPIKE Prime and Essential through the 2028–2029 season, while clarifying that the new programs are not affiliated with or endorsed by LEGO. Program names, pricing and participation details remain forthcoming. Schools can use the announcement for transition planning, rather than assuming the new kits are already available."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.firstinspires.org/hubfs/image-library/first-k-8/k-8-partnerships_1280x850.webp",
+        "alt": "FIRST education partnership announcement graphic",
+        "caption": "FIRST education partnership announcement graphic · Credit: FIRST"
+      }
+    ],
+    "videos": []
+  },
+  "thg-omega-autostore-240000-bin-expansion-2026": {
+    "title": "THG Fulfil doubles Omega AutoStore capacity to 240,000 bins and 184 robots",
+    "summary": "The Warrington site adds 84 R5 robots and increases stated unit capacity from 4.2 million to 8.4 million.",
+    "sections": [
+      {
+        "heading": "Expansion of an operating installation",
+        "paragraphs": [
+          "THG Fulfil has doubled AutoStore storage at its Omega warehouse in Warrington, UK, from 120,000 to 240,000 bins just over a year after the original installation. The company states that unit capacity increased from 4.2 million to 8.4 million. This is a disclosed infrastructure expansion rather than a future capacity target."
+        ]
+      },
+      {
+        "heading": "More robots within the software stack",
+        "paragraphs": [
+          "The installation has 64 carousel ports and 184 R5 robots, an increase of 84 robots from launch. It integrates with THG’s warehouse management system, warehouse control system and courier-management platform, maintained by an in-house development team to coordinate storage, picking and onward order handling."
+        ]
+      },
+      {
+        "heading": "Storage capacity is not picking throughput",
+        "paragraphs": [
+          "The stated aim is to absorb fast-growing brands and peak demand. THG reports 99.9% on-time dispatch and an average UK delivery time of 1.45 days. These are company figures, not proof that doubling bin capacity alone doubles speed. The announcement provides neither project cost nor a payback period."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/THG-Fulfil-x-AutoStore.jpg",
+        "alt": "AutoStore robot on the storage grid",
+        "caption": "AutoStore robot on the storage grid · Credit: THG Fulfil / Robotics & Automation News"
+      }
+    ],
+    "videos": []
   }
 }

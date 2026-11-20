@@ -3328,5 +3328,115 @@
     "url": "https://www.roboticstomorrow.com/news/2026/11/18/soracom-launches-physical-ai-suite-bringing-secure-connectivity-and-remote-operations-to-robots-and-autonomous-machines/27412/",
     "image": "",
     "addedAt": "2026-11-19T23:08:56.454Z"
+  },
+  {
+    "id": "massrobotics-fish-pier-marine-facility-plan-2026",
+    "category": "research",
+    "title": "MassRobotics เตรียมศูนย์ทดสอบหุ่นยนต์ทางทะเลริมอ่าวบอสตัน เปิดต้นปี 2028",
+    "summary": "ศูนย์ Fish Pier จะเชื่อมเวิร์กช็อปกับพื้นที่ทดสอบในน้ำ พร้อมถังทดสอบและอุปกรณ์ยก โดยเริ่มจัดกิจกรรมในปี 2027",
+    "source": "The Robot Report",
+    "date": "2026-11-20",
+    "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "foundation-base-group-150m-proposed-investment-disclosure-2026",
+    "category": "humanoids",
+    "title": "Base Group พิจารณาลงทุนใน Foundation ขณะที่รายงานระบุวงเงินที่เสนอ 150 ล้านดอลลาร์",
+    "summary": "Reuters เปิดเผยแผนเงินทุนและร่วมจัดหาวัสดุให้ผู้ผลิต Phantom แต่ยังไม่ยืนยันว่าดีลปิดแล้วหรือได้รับเงินแล้ว",
+    "source": "Humanoids Daily",
+    "date": "2026-11-20",
+    "url": "https://www.humanoidsdaily.com/news/foundation-base-group-150-million-investment",
+    "image": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sankaet-pathak-over-the-horizon.webp",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "dongwoon-anatech-robot-motion-control-business-expansion-2026",
+    "category": "industrial-robots",
+    "title": "Dongwoon Anatech ขยายจากชิปกล้องมือถือสู่ระบบควบคุมมอเตอร์หุ่นยนต์",
+    "summary": "บริษัทเกาหลีใต้ชูธุรกิจ Automotive & Robotics พร้อมพัฒนาวงจรขับมอเตอร์และป้องกันไฟสำหรับระบบ 12 และ 48 โวลต์",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-20",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/20/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai/27421/",
+    "image": "",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "keenon-issa-multi-robot-cleaning-demonstration-2026",
+    "category": "ai-automation",
+    "title": "KEENON นำหุ่นยนต์หลายชนิดร่วมโชว์งานทำความสะอาดที่ ISSA 2026",
+    "summary": "การแสดงครอบคลุมหุ่นยนต์ขัดพื้น ขนส่ง และแนวคิดให้ XMAN-R1 เก็บของก่อนหุ่นยนต์ทำความสะอาดพื้นเข้าทำงาน",
+    "source": "PR Newswire / KEENON Robotics",
+    "date": "2026-11-19",
+    "url": "https://www.prnewswire.com/news-releases/keenon-robotics-showcases-multi-robot-collaboration-and-explores-humanoid-assisted-cleaning-at-issa-2026-302945395.html",
+    "image": "https://mmx.prnewswire.com/media/MS2039630/20261119014507EST_image_1.jpg?id=OA3091682&p=original",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "specialtyrx-tompkins-tsort-medication-throughput-results-2026",
+    "category": "ai-automation",
+    "title": "SpecialtyRx ใช้ tSort คัดแยกยา รายงานกำลังงานต่อสถานีเพิ่มสูงสุด 40%",
+    "summary": "หุ่นยนต์ทำงานหลังเภสัชกรตรวจใบสั่งยาแล้ว ช่วยสแกนและส่งยาไปยังสถานพยาบาลปลายทาง",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-19",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/19/specialtyrx-advances-medication-delivery-reliability-for-nursing-homes-with-tompkins-robotics-tsort-technology/27419/",
+    "image": "",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026",
+    "category": "industrial-robots",
+    "title": "FAULHABER เสนอชุดขับเคลื่อน BHx A ที่รองรับการนึ่งฆ่าเชื้อมากกว่า 1,000 รอบ",
+    "summary": "แพลตฟอร์มรวมมอเตอร์ เกียร์ และเอนโคเดอร์สำหรับเครื่องมือผ่าตัด โดยออกแบบชิ้นส่วนให้ทนไอน้ำฆ่าเชื้อ",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-19",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/19/sterilizable-drive-solution-for-demanding-medical-technology-applications/27418/",
+    "image": "https://cdn.faulhaber.com/media/DAM/Images/Products/002%20Brushless%20DC-Motors/faulhaber-autoclavable-drive-system-bhx-a.jpg",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "mitsubishi-cnc-humanoid-workcell-technical-interview-2026",
+    "category": "industrial-robots",
+    "title": "Mitsubishi เผยรายละเอียดเซลล์ CNC ร่วมฮิวแมนนอยด์ พร้อมจุดอนุมัติโดยมนุษย์",
+    "summary": "บทสัมภาษณ์อธิบายระบบวางแผน Maisart การสื่อสาร MCP/ROS และข้อจำกัดการกู้คืนงาน โดยยังไม่มีแผนขายที่ยืนยัน",
+    "source": "Engineering.com",
+    "date": "2026-11-19",
+    "url": "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/",
+    "image": "https://www.engineering.com/wp-content/uploads/2026/11/mitsubishi-ai-cncmachining.jpg",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "motion-galbot-slush-palletizing-demo-customer-update-2026",
+    "category": "industrial-robots",
+    "title": "Motion สาธิต Galbot S1 เรียงลังที่ Slush พร้อมอัปเดตแผนส่งให้คลังเบลเยียม",
+    "summary": "รายงานจากงานในเฮลซิงกิแสดงหุ่นยนต์เรียงลังจริง พร้อมรายละเอียดการเช่า ฝึกผู้ใช้ และดูแลระบบจากระยะไกล",
+    "source": "Robotics Norway",
+    "date": "2026-11-19",
+    "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-slush",
+    "image": "https://roboticsnorway.org/news/industrial-renaissance-summit-session-01.jpg",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "first-qualcomm-arduino-k8-platform-partnership-2026",
+    "category": "research",
+    "title": "FIRST ร่วม Qualcomm, Disney และ REV Robotics พัฒนาแพลตฟอร์มการศึกษารุ่นใหม่",
+    "summary": "แพลตฟอร์ม Arduino และชุดสร้างหุ่นยนต์ใหม่จะรองรับฤดูกาล 2027–2028 พร้อมคงการใช้ SPIKE ตามเงื่อนไขช่วงเปลี่ยนผ่าน",
+    "source": "FIRST",
+    "date": "2026-11-18",
+    "url": "https://www.firstinspires.org/about/press-room/first-and-qualcomm-technologies-inc.-launch-next-generation-of-k-8-robotics-education?hsLang=en",
+    "image": "https://www.firstinspires.org/hubfs/image-library/first-k-8/k-8-partnerships_1280x850.webp",
+    "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "thg-omega-autostore-240000-bin-expansion-2026",
+    "category": "ai-automation",
+    "title": "THG Fulfil เพิ่ม AutoStore ที่ Omega เป็น 240,000 ช่องเก็บ ใช้หุ่นยนต์รวม 184 ตัว",
+    "summary": "คลัง Warrington เพิ่มหุ่นยนต์ R5 อีก 84 ตัว พร้อมขยายความจุสินค้าจาก 4.2 เป็น 8.4 ล้านหน่วย",
+    "source": "Robotics & Automation News",
+    "date": "2026-11-18",
+    "url": "https://roboticsandautomationnews.com/2026/11/18/thg-fulfil-doubles-autostore-capacity-at-warrington-warehouse/107261/",
+    "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/THG-Fulfil-x-AutoStore.jpg",
+    "addedAt": "2026-11-20T23:15:47.510Z"
   }
 ]

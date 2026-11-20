@@ -5032,5 +5032,130 @@
   "soracom-physical-ai-suite-launch-2026": {
     "images": [],
     "videos": []
+  },
+  "massrobotics-fish-pier-marine-facility-plan-2026": {
+    "images": [
+      {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
+        "alt": "หุ่นยนต์ CRABI ติดตั้งด้านข้างเรือสินค้า",
+        "caption": "หุ่นยนต์ CRABI ติดตั้งด้านข้างเรือสินค้า · ภาพ: MassRobotics"
+      }
+    ],
+    "videos": []
+  },
+  "foundation-base-group-150m-proposed-investment-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sankaet-pathak-over-the-horizon.webp",
+        "alt": "Sankaet Pathak ในรายการ Over The Horizon",
+        "caption": "Sankaet Pathak ในรายการ Over The Horizon · ภาพ: Over The Horizon / Humanoids Daily"
+      }
+    ],
+    "videos": []
+  },
+  "dongwoon-anatech-robot-motion-control-business-expansion-2026": {
+    "images": [],
+    "videos": []
+  },
+  "keenon-issa-multi-robot-cleaning-demonstration-2026": {
+    "images": [
+      {
+        "url": "https://mmx.prnewswire.com/media/MS2039630/20261119014507EST_image_1.jpg?id=OA3091682&p=original",
+        "alt": "บูธ KEENON ในงาน ISSA Show",
+        "caption": "บูธ KEENON ในงาน ISSA Show · ภาพ: KEENON Robotics"
+      }
+    ],
+    "videos": []
+  },
+  "specialtyrx-tompkins-tsort-medication-throughput-results-2026": {
+    "images": [],
+    "videos": []
+  },
+  "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026": {
+    "images": [
+      {
+        "url": "https://cdn.faulhaber.com/media/DAM/Images/Products/002%20Brushless%20DC-Motors/faulhaber-autoclavable-drive-system-bhx-a.jpg",
+        "alt": "ชุดขับเคลื่อน BHx A สำหรับงานที่ต้องฆ่าเชื้อ",
+        "caption": "ชุดขับเคลื่อน BHx A สำหรับงานที่ต้องฆ่าเชื้อ · ภาพ: FAULHABER"
+      },
+      {
+        "url": "https://www.faulhaber.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_98c3a33976.jpg",
+        "alt": "ภาพประชาสัมพันธ์ชุดขับเคลื่อนสำหรับเครื่องมือแพทย์",
+        "caption": "ภาพประชาสัมพันธ์ชุดขับเคลื่อนสำหรับเครื่องมือแพทย์ · ภาพ: FAULHABER"
+      }
+    ],
+    "videos": []
+  },
+  "mitsubishi-cnc-humanoid-workcell-technical-interview-2026": {
+    "images": [
+      {
+        "url": "https://www.engineering.com/wp-content/uploads/2026/11/mitsubishi-ai-cncmachining.jpg",
+        "alt": "แผนผังตัววางแผน AI ที่เชื่อมฮิวแมนนอยด์กับ CNC",
+        "caption": "แผนผังตัววางแผน AI ที่เชื่อมฮิวแมนนอยด์กับ CNC · ภาพ: Mitsubishi Electric"
+      }
+    ],
+    "videos": []
+  },
+  "motion-galbot-slush-palletizing-demo-customer-update-2026": {
+    "images": [
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-session-01.jpg",
+        "alt": "ผู้ร่วมเสวนาเรื่อง Physical AI ในโรงงาน",
+        "caption": "ผู้ร่วมเสวนาเรื่อง Physical AI ในโรงงาน · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-54-percent.jpg",
+        "alt": "Sebastian Heitmann นำเสนอสไลด์สัดส่วนการติดตั้งหุ่นยนต์ในจีนปี 2024",
+        "caption": "Sebastian Heitmann นำเสนอสไลด์สัดส่วนการติดตั้งหุ่นยนต์ในจีนปี 2024 · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-panel.jpg",
+        "alt": "เวทีเสวนาพร้อมภาพวิทยากรบนจอ",
+        "caption": "เวทีเสวนาพร้อมภาพวิทยากรบนจอ · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-extantia.jpg",
+        "alt": "Galbot ยกแขนระหว่างสาธิตข้างลังสีเทา",
+        "caption": "Galbot ยกแขนระหว่างสาธิตข้างลังสีเทา · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-pallets.jpg",
+        "alt": "Galbot ยืนข้างลังบนพาเลตสีน้ำเงิน",
+        "caption": "Galbot ยืนข้างลังบนพาเลตสีน้ำเงิน · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      },
+      {
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-record-operators.jpg",
+        "alt": "Alexander Stevens อธิบายการบันทึกงานผู้ปฏิบัติงาน",
+        "caption": "Alexander Stevens อธิบายการบันทึกงานผู้ปฏิบัติงาน · ภาพ: Lars-Fredrik Forberg / Robotics Norway"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "video",
+        "url": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-demo.mp4",
+        "poster": "https://roboticsnorway.org/news/industrial-renaissance-summit-galbot-demo-poster.jpg",
+        "title": "Galbot S1 เรียงลังบนเวที · วิดีโอ: Robotics Norway"
+      }
+    ]
+  },
+  "first-qualcomm-arduino-k8-platform-partnership-2026": {
+    "images": [
+      {
+        "url": "https://www.firstinspires.org/hubfs/image-library/first-k-8/k-8-partnerships_1280x850.webp",
+        "alt": "ภาพประกาศความร่วมมือการศึกษา FIRST และพันธมิตร",
+        "caption": "ภาพประกาศความร่วมมือการศึกษา FIRST และพันธมิตร · ภาพ: FIRST"
+      }
+    ],
+    "videos": []
+  },
+  "thg-omega-autostore-240000-bin-expansion-2026": {
+    "images": [
+      {
+        "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/THG-Fulfil-x-AutoStore.jpg",
+        "alt": "หุ่นยนต์ AutoStore บนกริดจัดเก็บสินค้า",
+        "caption": "หุ่นยนต์ AutoStore บนกริดจัดเก็บสินค้า · ภาพ: THG Fulfil / Robotics & Automation News"
+      }
+    ],
+    "videos": []
   }
 }

@@ -26288,6 +26288,834 @@
           }
         ]
       }
+    },
+    {
+      "id": "massrobotics-fish-pier-marine-facility-plan-2026",
+      "storyKey": "massrobotics-fish-pier-marine-facility-plan-2026",
+      "originalTitle": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "urls": [
+        "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/"
+      ],
+      "references": [
+        "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/"
+      ],
+      "publishedAt": "2026-11-20T17:04:28+00:00",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "มีแผนโครงสร้างพื้นฐานและกำหนดเปิดชัดเจน ช่วยงานหุ่นยนต์ทะเลและการทดสอบต้นแบบ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/TRR50-1456x180-Banner-Ad.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured-268x170.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/waymo-freeway-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/robotsinsupplychain-featured-268x170.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/05/rbr50-sidebar-promo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/RoboReport-300x100-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://mobilerobotguide.com/wp-content/uploads/2024/05/300x250-AW-Reports.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/pudurobotics-sponsored-image1-november2026-300x157.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilink-hero-300x169.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/beijingyongqi-sponsored-featured-image-november2026-150x97.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/heilind-sponsored-featured-image-october2026-150x97.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://dc.ads.linkedin.com/collect/?pid=87673&fmt=gif",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "foundation-base-group-150m-proposed-investment-disclosure-2026",
+      "storyKey": "foundation-base-group-150m-proposed-investment-disclosure-2026",
+      "originalTitle": "South Korea's Base Group Plans $150 Million Lifeline for Foundation",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/foundation-base-group-150-million-investment"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/foundation-base-group-150-million-investment",
+        "https://www.reuters.com/world/south-korean-firm-plans-150-million-lifeline-eric-trump-backed-robot-maker-2026-11-19/"
+      ],
+      "publishedAt": "2026-11-20T14:38:30.000Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "การเปิดเผยคู่ลงทุนใหม่มีนัยต่อเงินทุนและห่วงโซ่ผลิต ต้องระบุชัดว่าอยู่ระหว่างพิจารณา",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fsankaet-pathak-over-the-horizon.webp&w=1920&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Ffoundation-robotics-1788725368421.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Finside-foundation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ffoundation-newsnation.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ffoundation-cnet.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Ffoundation-phantom-12.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fimages%2Fleblanc.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=1920&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffrontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fsupermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1829577600798212104/6OSocTfj_normal.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/HTyZ4iPXcAAuRhy?format=jpg&name=small",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-ukraine-officers-bigun-ostriev-rY6r36nJwlwBTojcn7SUxYtuKm2mJO.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fihmc-alex-xtechhumanoid-finals-2026-uaYe1QWRsGhdUMFGgIIFac4TBME5Qk.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fdefault-1772057003828.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffoundation-phantom-war.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.h264.mp4",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dongwoon-anatech-robot-motion-control-business-expansion-2026",
+      "storyKey": "dongwoon-anatech-robot-motion-control-business-expansion-2026",
+      "originalTitle": "Dongwoon Anatech Enters Robot Motion Control Market, Powering the Future of Physical AI",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/20/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai/27421/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/20/dongwoon-anatech-enters-robot-motion-control-market-powering-the-future-of-physical-ai/27421/"
+      ],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "ชี้ความเปลี่ยนแปลงห่วงโซ่ชิประบบเคลื่อนไหวซึ่งเกี่ยวข้องกับผู้พัฒนาหุ่นยนต์และโรงงาน",
+      "score": 15,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/high-speed-parcel-induction-with-plus-one-robotics-quick-deployment-induction-system.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "keenon-issa-multi-robot-cleaning-demonstration-2026",
+      "storyKey": "keenon-issa-multi-robot-cleaning-demonstration-2026",
+      "originalTitle": "KEENON Robotics Showcases Multi-Robot Collaboration and Explores Humanoid-Assisted Cleaning at ISSA 2026",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/keenon-robotics-showcases-multi-robot-collaboration-and-explores-humanoid-assisted-cleaning-at-issa-2026-302945395.html"
+      ],
+      "references": [
+        "https://www.prnewswire.com/news-releases/keenon-robotics-showcases-multi-robot-collaboration-and-explores-humanoid-assisted-cleaning-at-issa-2026-302945395.html"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "มีแนวทางประสานหุ่นยนต์กับงานอาคารที่ไทยนำไปประเมินได้ พร้อมแยกข้อเสนอจากการใช้งานจริง",
+      "score": 15,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/LIGHT_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/homepage/MONO_PRNewswire_By-Cision_Stacked.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS1657094/KEENON-Robotics-Logo.jpg?id=OA3091683",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2039630/20261119014507EST_image_1.jpg?id=OA3091682&p=medium",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN02423&Transmission_Id=202611191000PR_NEWS_EURO_ND__EN02423&DateId=20261119",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://mmx.prnewswire.com/media/MS2039630/20261119014507EST_image_1.jpg?id=OA3091044",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://mma.prnewswire.com/media/2956309/IMG_20260414_122937.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/CPR.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/IOT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRT.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/HRD.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "specialtyrx-tompkins-tsort-medication-throughput-results-2026",
+      "storyKey": "specialtyrx-tompkins-tsort-medication-throughput-results-2026",
+      "originalTitle": "SpecialtyRx Advances Medication Delivery Reliability for Nursing Homes With Tompkins Robotics' tSort Technology",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/specialtyrx-advances-medication-delivery-reliability-for-nursing-homes-with-tompkins-robotics-tsort-technology/27419/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/specialtyrx-advances-medication-delivery-reliability-for-nursing-homes-with-tompkins-robotics-tsort-technology/27419/"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "มีการใช้งานจริงและตัวเลขก่อนหลังที่ชัดเจนในงานโลจิสติกส์สุขภาพ",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/harmonic-drive-introduces-new-lightweight-versions-of-select-gearhead-products.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026",
+      "storyKey": "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026",
+      "originalTitle": "Sterilizable Drive Solution for Demanding Medical Technology Applications",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/sterilizable-drive-solution-for-demanding-medical-technology-applications/27418/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/19/sterilizable-drive-solution-for-demanding-medical-technology-applications/27418/",
+        "https://www.faulhaber.com/en/motion/bhx-a-sterilizable-drive-solution-for-demanding-medical-applications/"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "รายละเอียดมอเตอร์ เกียร์ และการทนฆ่าเชื้อมีประโยชน์ต่อวิศวกรรมระบบขับเคลื่อนทางการแพทย์",
+      "score": 14,
+      "mediaAudit": {
+        "images": 2,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/harmonic-drive-introduces-new-lightweight-versions-of-select-gearhead-products.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site%20icons/bth%20footer%20ad%20with%20all%20mags.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.faulhaber.com/_assets/0f050d05b5fe77de8c68787932c58478/Icons/Logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/1/7/csm_faulhaber-autoclavable-drive-system-bhx-a-slider_eb580bae83.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/1/7/csm_faulhaber-autoclavable-drive-system-bhx-a-slider_c3896a6fdd.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/1/7/csm_faulhaber-autoclavable-drive-system-bhx-a-slider_177f64d788.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.faulhaber.com/fileadmin/_processed_/1/7/csm_faulhaber-autoclavable-drive-system-bhx-a-slider_b29b5eba09.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/3/1/csm_faulhaber-autoclavable-drive-system-bhx-a_7bd4fffde4.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/3/1/csm_faulhaber-autoclavable-drive-system-bhx-a_9ffa9e9038.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_98c3a33976.jpg",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_71410ee3b4.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_f6cc78e10f.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/fileadmin/_processed_/c/8/csm_faulhaber-bhxa-teaser-image-motion-en_aa21f8e165.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.faulhaber.com/_assets/0f050d05b5fe77de8c68787932c58478/Images/share/footer/we_create_motion.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.faulhaber.com/typo3temp/assets/_processed_/5/8/csm_faulhaber_group_8739488381.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.faulhaber.com/fileadmin/_processed_/3/1/csm_faulhaber-autoclavable-drive-system-bhx-a_7bd4fffde4.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mitsubishi-cnc-humanoid-workcell-technical-interview-2026",
+      "storyKey": "mitsubishi-cnc-humanoid-workcell-technical-interview-2026",
+      "originalTitle": "Mitsubishi Electric CNC work cell uses AI and humanoid robots - Engineering.com",
+      "urls": [
+        "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/"
+      ],
+      "references": [
+        "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/"
+      ],
+      "publishedAt": "2026-11-19T15:19:33+00:00",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "บทสัมภาษณ์ใหม่ให้ข้อจำกัดและสถาปัตยกรรมชัดเจนกว่าการรายงานโชว์หุ่นยนต์ทั่วไป",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/10/Engineering.com_color-TM-scaled.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2024/03/icon-papers.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/themes/engineering-2024/assets/images/icons/e-icon-arrow-right-fallback.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2024/03/swag-multi-sg-400x225.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/01/siemens-and-nvidia-industrial-manufacturing-400x225.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2024/03/e-icon-papers.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/03/TopWorkplaces_thumb-400x225.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/engineering-com/image/fetch/w_240,c_fill,h_175,fl_sanitize,f_auto,fl_lossy,q_auto,g_face:center/https://www.wtwhmedia.com/wp-content/uploads/2024/06/AdobeStock_517535712-Large.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/engineering-com/image/fetch/w_240,c_fill,h_175,fl_sanitize,f_auto,fl_lossy,q_auto,g_face:center/https://images.arrowfly.com/bc/4f/bc4fabde1a4fcb22a2464ff61441afbda8a71fcf8308c4af9ebf552810149234/image1-2-01a09b96-6ceb-7a02-b317-2315ecc5fe65.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/engineering-com/image/fetch/w_240,c_fill,h_175,fl_sanitize,f_auto,fl_lossy,q_auto,g_face:center/https://images.arrowfly.com/f1/04/f104f28b4587c01a618f10519efb83089a75e0a97e60f30bb34908e90d352a6c/2025-stial-steven-humanoid-robot-01a09b8f-986a-7102-99aa-4da1d173c294.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/engineering-com/image/fetch/w_240,c_fill,h_175,fl_sanitize,f_auto,fl_lossy,q_auto,g_face:center/https://images.arrowfly.com/3c/9b/3c9b1d12eb55e4d437ee10efad29c1d5b0ac329fb5295fe26af9e14a0feec6d0/mitsubishi-electric-chiba-tech-to-develo-01a09b99-6514-7b2b-9a31-c463096ab3ab.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://res.cloudinary.com/engineering-com/image/fetch/w_240,c_fill,h_175,fl_sanitize,f_auto,fl_lossy,q_auto,g_face:center/https://images.arrowfly.com/30/49/304990c1c5806f36f423ddd2f5d0c1a3e052376d3d04571a2c556710c458facf/mitshu-1-01a09b98-2796-782f-bc75-ff6ab378c809.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/10/AI-for-Engineers-logo-400x225.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/04/leap-awards-1-737x400-3-400x225.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/10/2026-LEAP-Awards-winners-announcement-feature-image-400x225.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/10/newsroom-sap-robot-1-400x225.avif",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/themes/engineering-2024/assets/images/icons/e-icon-icosahedron.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.engineering.com/wp-content/uploads/2026/10/Engineering.com_reverse-TM-250.png",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "motion-galbot-slush-palletizing-demo-customer-update-2026",
+      "storyKey": "motion-galbot-slush-palletizing-demo-customer-update-2026",
+      "originalTitle": "The Industrial Renaissance Summit at Slush: physical AI moves into the factory",
+      "urls": [
+        "https://roboticsnorway.org/news/industrial-renaissance-summit-slush"
+      ],
+      "references": [
+        "https://roboticsnorway.org/news/industrial-renaissance-summit-slush"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "มีรายงานหน้างาน ภาพและวิดีโอ พร้อมข้อมูลการใช้งานและข้อจำกัดในการตีความ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 6,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fbrand%2Frobotics-norway-logo.png&w=3840&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-session-01.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-54-percent.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-panel.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-galbot-extantia.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-galbot-pallets.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://roboticsnorway.org/_next/image?url=%2Fnews%2Findustrial-renaissance-summit-record-operators.jpg&w=3840&q=75",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "first-qualcomm-arduino-k8-platform-partnership-2026",
+      "storyKey": "first-qualcomm-arduino-k8-platform-partnership-2026",
+      "originalTitle": "FIRST and Qualcomm Technologies, Inc. Launch Next Generation of K-8 Robotics Education",
+      "urls": [
+        "https://www.firstinspires.org/about/press-room/first-and-qualcomm-technologies-inc.-launch-next-generation-of-k-8-robotics-education?hsLang=en"
+      ],
+      "references": [
+        "https://www.firstinspires.org/about/press-room/first-and-qualcomm-technologies-inc.-launch-next-generation-of-k-8-robotics-education?hsLang=en",
+        "https://www.firstinspires.org/programs/k-8"
+      ],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "การเปลี่ยนแพลตฟอร์มการศึกษามีผลต่อโรงเรียนและทีมแข่งขัน พร้อมเงื่อนไขอุปกรณ์เดิมชัดเจน",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.firstinspires.org/hubfs/web/design/first-web/Branding/Primaries/Logo%20Primary.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.firstinspires.org/hs-fs/hubfs/image-library/first-k-8/k-8-partnerships_1280x850.webp?width=800&height=533&name=k-8-partnerships_1280x850.webp",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.firstinspires.org/hubfs/Logo%20Reverse.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-WC3H9B",
+            "reason": "tracking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thg-omega-autostore-240000-bin-expansion-2026",
+      "storyKey": "thg-omega-autostore-240000-bin-expansion-2026",
+      "originalTitle": "THG Fulfil doubles AutoStore capacity at Warrington warehouse",
+      "urls": [
+        "https://roboticsandautomationnews.com/2026/11/18/thg-fulfil-doubles-autostore-capacity-at-warrington-warehouse/107261/"
+      ],
+      "references": [
+        "https://roboticsandautomationnews.com/2026/11/18/thg-fulfil-doubles-autostore-capacity-at-warrington-warehouse/107261/",
+        "https://www.thgingenuity.com/resources/press-releases/thg-fulfil-omega-warehouse-expansion"
+      ],
+      "publishedAt": "2026-11-18T10:02:00+00:00",
+      "addedAt": "2026-11-20T23:15:47.510Z",
+      "runId": "2026-11-21",
+      "reason": "การขยายคลังจริงพร้อมจำนวนช่องเก็บ หุ่นยนต์ และสถานี เหมาะกับผู้อ่านโลจิสติกส์",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/btm-17.11.26-leaderboard.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/THG-Fulfil-x-AutoStore-4.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-md.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://i0.wp.com/roboticsandautomationnews.com/wp-content/uploads/2026/10/THG-Fulfil-AutoStore-3.jpg?resize=350%2C200&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/roboticsandautomationnews.com/wp-content/uploads/2024/10/THG-Fulfil-Geek.png?resize=350%2C200&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://i0.wp.com/roboticsandautomationnews.com/wp-content/uploads/2026/02/topshop-1.jpg?resize=350%2C200&ssl=1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/btm-17.11.26-button-300X250-V5.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2025/08/item-aug-25-Button.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/tennibot-Banners-07.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/serve-robotics-physical-ai-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/boston-dynamics-stretch-gen2-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/saturn-dynamics-image-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bolt-stellantis-paris-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/wayve-stellantis-nvidia-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/indrive-pony-nvidia-kazakhstan-1-150x150.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/realbotix-echo-range-1-150x150.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Manufacturing-Employees-1-150x150.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/seele-game-agent-1-150x150.jpeg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/truck-accident-in-snow-150x150.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/btm-17.11.26-skyscraper-120X600-V5.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -26782,6 +27610,23 @@
         "logistics-reply-tqg-elsdorf-robot-fulfilment-2026",
         "hidonix-hido2-limited-deployment-launch-2026",
         "soracom-physical-ai-suite-launch-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-21",
+      "batchHash": "2852d9ad8bda083166aec686434a2deb4a6fd8b40f0151632e0bd7c0f1582352",
+      "preparedAt": "2026-11-20T23:15:47.510Z",
+      "articleIds": [
+        "massrobotics-fish-pier-marine-facility-plan-2026",
+        "foundation-base-group-150m-proposed-investment-disclosure-2026",
+        "dongwoon-anatech-robot-motion-control-business-expansion-2026",
+        "keenon-issa-multi-robot-cleaning-demonstration-2026",
+        "specialtyrx-tompkins-tsort-medication-throughput-results-2026",
+        "faulhaber-bhxa-autoclavable-drive-platform-disclosure-2026",
+        "mitsubishi-cnc-humanoid-workcell-technical-interview-2026",
+        "motion-galbot-slush-palletizing-demo-customer-update-2026",
+        "first-qualcomm-arduino-k8-platform-partnership-2026",
+        "thg-omega-autostore-240000-bin-expansion-2026"
       ]
     }
   ]
