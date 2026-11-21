@@ -27116,6 +27116,1908 @@
           }
         ]
       }
+    },
+    {
+      "id": "omron-ld150-ld300-orders-20261122",
+      "storyKey": "omron-ld150-ld300-orders-2026",
+      "originalTitle": "OMRON Robotics Announces Start of Orders for New LD Series Autonomous Mobile Robots",
+      "urls": [
+        "https://robotics.omron.com/news/new-ld-series-amr-launch/"
+      ],
+      "references": [
+        "https://robotics.omron.com/news/new-ld-series-amr-launch/"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "เปิดรับสั่งซื้อพร้อมสเปกและกำหนดส่งมอบ เหมาะกับโรงงานที่กำลังประเมิน AMR",
+      "score": 16,
+      "mediaAudit": {
+        "images": 10,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/03/Robotic-pick-and-place-unit-transferring-bottles-into-conveyor-lanes.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2025/07/LD-6090-with-Conveyor-Top.jpg?w=674",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Multiple-OL-450S-1-1.png?w=656",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/03/Omron-MD-650-9190.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/03/Omron-HD-1500-9488.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Flow_Top_Menu.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/TM12S.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/TM5-900_OMRON_Robotics_Cobot-scaled.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Omron-TMFlow-OMRON-Robotics.png?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/OMRON_I4L-0193-1.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Packaging_application-parallel-robots.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Viper_Articulated-Robot_OMRON_Robotics-scaled.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Omron-iPF-240-Feeder-Hopper-washers-right-800x800px.png?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Robotics-Integrated-Controller-by-OMRON.png?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/ACE_PackXpert_OMRON.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Flow_Top_Menu.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/11/New-LD-Series-Open-For-Orders.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/flags/united-states-flag-icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/03/Robotic-pick-and-place-unit-transferring-bottles-into-conveyor-lanes.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/Flow_Top_Menu.jpg?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/11/New-LD-Series-Open-For-Orders.webp?w=768",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/flags/united-states-flag-icon.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-Front-View.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-150-Side-View.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-150-AMR-Side-View.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-AMR-Side-View-with-Lightswebp.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/09/OMRON-LD-300-equipped-with-ROEQ-Topper.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/09/LD-300-with-ROEQ-Cart-Solution-and-Crate-Load.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-AMR-Side-View.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/06/New-LD-Series-with-Nord-Cart-Mover.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/09/LD-150-with-Nord-Cart-Mover-Application-Render.webp?w=1024",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/themes/omron/assets/img/png/rss.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/themes/omron/assets/img/svg/form-robot.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/10/LD-250-AMR-Wireless-Charging-Moment-in-Warehouse.webp?w=1024",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/Automate-2026-OMRON-Booth-and-Innovation-Floor.webp?w=1024",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/2026/05/OL-450S-Press-Release-Hero-Website.webp?w=1024",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/XMLID_801_.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/youtube.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/XMLID_801_.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://robotics.omron.com/wp-content/uploads/youtube.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://px.ads.linkedin.com/collect/?pid=7840324&fmt=gif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agibot-g2-lens-test-line-deployment-20261122",
+      "storyKey": "agibot-g2-lens-test-line-deployment-2026",
+      "originalTitle": "AGIBOT Deploys Dozens of G2 Robots on Lens Technology’s Phone Test Lines",
+      "urls": [
+        "https://robotsbeat.com/agibot-g2-lens-technology-smartphone-test-lines-deployment/"
+      ],
+      "references": [
+        "https://robotsbeat.com/agibot-g2-lens-technology-smartphone-test-lines-deployment/",
+        "https://www.jiemian.com/article/15355685.html"
+      ],
+      "publishedAt": "2026-11-21T18:54:35+00:00",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "การใช้หลายสิบตัวในสายทดสอบจริง มีแหล่งข่าวท้องถิ่นยืนยัน แต่ยังไม่มีตัวเลขผลผลิต",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/schunk-tactilia-robotics-industrial-robot-hands-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/crabi-marine-robot-massrobotics-boston-harbor-testing-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/ottava-robotic-surgical-system-first-commercial-hospital-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-humanoid-production-line-ai-day-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ottava-memorial-hermann-first-commercial-customer-20261122",
+      "storyKey": "ottava-memorial-hermann-first-commercial-customer-2026",
+      "originalTitle": "J&J Names Memorial Hermann as OTTAVA’s First Commercial Customer",
+      "urls": [
+        "https://robotsbeat.com/jnj-ottava-first-commercial-hospital-memorial-hermann/"
+      ],
+      "references": [
+        "https://robotsbeat.com/jnj-ottava-first-commercial-hospital-memorial-hermann/",
+        "https://s203.q4cdn.com/636242992/files/doc_news/Johnson--Johnson-Announces-First-Commercial-Installation-of-the-OTTAVA-Robotic-Surgical-System-at-Memorial-Hermann-Health-System-2026.pdf"
+      ],
+      "publishedAt": "2026-11-21T17:28:42+00:00",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "ลูกค้าเชิงพาณิชย์รายแรกเป็นความคืบหน้าใหม่จากการทดลองระบบผ่าตัด",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/john-deere-orchard-ai-crop-vision-tractor-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/humyn-labs-47m-funding-robot-training-data-accel-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rockwell-agilox-acquisition-otto-autonomous-mobile-robots-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/crabi-marine-robot-massrobotics-boston-harbor-testing-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-humanoid-production-line-ai-day-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/ottava-robotic-surgical-system-first-commercial-hospital-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "deere-acquires-orchard-ai-20261122",
+      "storyKey": "deere-acquires-orchard-ai-2026",
+      "originalTitle": "John Deere Buys Orchard AI to Advance Precision Farm Automation",
+      "urls": [
+        "https://robotsbeat.com/john-deere-orchard-ai-acquisition-precision-farm-automation/"
+      ],
+      "references": [
+        "https://robotsbeat.com/john-deere-orchard-ai-acquisition-precision-farm-automation/",
+        "https://www.deere.com/en-us/john-deere-news/john-deere-acquires-orchard-ai"
+      ],
+      "publishedAt": "2026-11-20T22:06:58+00:00",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "ซื้อกิจการเทคโนโลยีมองเห็นสวนผลไม้ เชื่อมข้อมูลพืชกับงานเกษตรแม่นยำ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/rainbow-robotics-miracom-manufacturing-partnership-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/gm-autonomous-robotics-center-factory-automation-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/omron-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/un-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/crabi-marine-robot-massrobotics-boston-harbor-testing-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/ottava-robotic-surgical-system-first-commercial-hospital-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/john-deere-orchard-ai-crop-vision-tractor-1200x800-1-768x512.jpg",
+            "reason": "duplicate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mujin-green-logistics-six-cells-case-study-20261122",
+      "storyKey": "mujin-green-logistics-six-cells-case-study-2026",
+      "originalTitle": "最新情報一覧",
+      "urls": [
+        "https://media.mujin.co.jp/news/11657/"
+      ],
+      "references": [
+        "https://media.mujin.co.jp/news/11657/"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "เผยรายละเอียดหกสถานีเชื่อมคลังอัตโนมัติ เป็นกรณีศึกษาการรวมระบบ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/top_catch.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/logo.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/news/bg01.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://media.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/logo-white.svg",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "familymart-txghost-smartshelf-january-rollout-20261122",
+      "storyKey": "familymart-txghost-smartshelf-january-rollout-2026",
+      "originalTitle": "店舗従業員の業務負荷軽減と省力化に向け 飲料補充ロボットを2027年1月から導入開始 ～1日あたり約7割の業務削減を実現～",
+      "urls": [
+        "https://www.family.co.jp/company/news_releases/2026/20261119_02.html"
+      ],
+      "references": [
+        "https://www.family.co.jp/company/news_releases/2026/20261119_02.html"
+      ],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "ประกาศกำหนดขยายใช้งานพร้อมบทบาทคนและหุ่นยนต์จากร้านนำร่อง",
+      "score": 16,
+      "mediaAudit": {
+        "images": 3,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.family.co.jp/content/dam/img/logo/sp/logo_fm.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_g.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_g.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_g.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_g.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_blank_b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/etc/designs/family/component/img/icn/icn_blank.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/etc/designs/family/component/img/icn/icn_blank.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_famimaonline.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods_images/famimaru/2403_img_thumb_famimaru.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_famima.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_omusubi.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_obento.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_sushi.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_sandwich.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_bread.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_ramen.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_pasta.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_salad.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods_images/sidedishes/tmb_sidedish.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_souzai.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods_images/chilleddaily/tmb_chilleddaily.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_chicken.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_chukaman.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_oden.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_chilled.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_baked.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_famimacafe.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_processed_foods.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_kashi.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_drink.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_alcohol.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_frozen_foods.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_ice.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods_images/daily_necessities/img_thumb_daily_necessities.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/cw/img_thumb_cw.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/img_thumb_chara_kuji.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/cosmetics/img_thumb_cosmetics.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/2403_img_goods_safety.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/goods/2026_goyoyakubento_210x210.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/campaign_01.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/campaign_02.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/campaign_03.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/campaign_04.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/service_03.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/service_02.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/service_04.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/service_05.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/fami01.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/fami02.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/fami03.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/fami04.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/common/icn/icn_blank_b.svg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/2603_com01_01.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/com12.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/com06.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/com04.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/2603_sa01.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/sustainability_02.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/sustainability_03-01.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/campaign/common_pic/sustainability_04.webp",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/17002929_75_JP.gif",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/sns/icn_x.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/sns/icn_instagram.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/img/icn/icn_line.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/common_pic/icn_facebook.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/sns/icn_youtube.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.family.co.jp/content/dam/family/common_pic/icn_tiktok.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "techmagic-css-managed-food-operations-launch-20261122",
+      "storyKey": "techmagic-css-managed-food-operations-launch-2026",
+      "originalTitle": "TechMagicとCSSホールディングス、調理ロボット×運営ノウハウによる飲食オペレーション受託サービスを本格始動",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000124.000046356.html"
+      ],
+      "references": [
+        "https://prtimes.jp/main/html/rd/p/000000124.000046356.html"
+      ],
+      "publishedAt": "2026-11-20T01:00:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "เปิดบริการรวมการปฏิบัติงานกับหุ่นยนต์ ช่วยประเมินโมเดลบริการสำหรับธุรกิจอาหาร",
+      "score": 16,
+      "mediaAudit": {
+        "images": 6,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-3cb368bf928b9fb6062325cd3f408477-760x571.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-83c66e5d03a799110bc94bf1ef548499-693x516.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-38e0d34ec6a08ec788898afee2526785-472x283.png?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2642a46646f33d877be3bfcb390de137-2586x2700.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-8a40bd5fc855691c18f22c2f06ceb23b-300x216.png?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2ab761c6508a3cce92e87c433b8518f0-641x430.jpg?width=1950&height=1350&quality=85&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-3cb368bf928b9fb6062325cd3f408477-760x571.jpg?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-83c66e5d03a799110bc94bf1ef548499-693x516.jpg?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-38e0d34ec6a08ec788898afee2526785-472x283.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2642a46646f33d877be3bfcb390de137-2586x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-8a40bd5fc855691c18f22c2f06ceb23b-300x216.png?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2ab761c6508a3cce92e87c433b8518f0-641x430.jpg?format=jpeg&auto=webp&fit=bounds&width=720&height=480",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://prtimes.jp/data/corp/46356/logo/pc-ef88ea819c24f4f80d28dd31cb102692-b1421469b85ffc7e74a34a590ae15fe0.png?auto=avif",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nestle-orbe-deep-tech-centre-opening-20261122",
+      "storyKey": "nestle-orbe-deep-tech-centre-opening-2026",
+      "originalTitle": "Nestlé plans Swiss Deep Tech Centre for food industry",
+      "urls": [
+        "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/92411572"
+      ],
+      "references": [
+        "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/92411572"
+      ],
+      "publishedAt": "2026-11-20T09:50:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "เปิดศูนย์ทดสอบก่อนขยาย AI และหุ่นยนต์สู่โรงงานอาหาร",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/jti-certification.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-724547437.jpg?ver=e12dacbb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/default-opinion.png?ver=1791966850",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/©BoJo_Lac_Swissinfo-12.jpg?ver=7c4eff46",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Untitled-July-14-2026-at-17.21.58-1-8.png?ver=158e4410",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/11/ig_cover_2025.jpg?ver=24027235",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/08/Geopolitics-Newsletter.png?ver=62a86db7",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_international_geneva.jpg?ver=309124d7",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-702939405.jpg?ver=4abec501",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/075_fillon-bosniaan250213_npFOk.jpg?ver=b8046dcb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-681148189.jpg?ver=2c2c93c0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-732420667.jpg?ver=6ca85954",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/03/How-Switzerlands-political-system-of-Direct-Democracy-works.jpg?ver=b893f387",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_cc_democracy.jpg?ver=d2092ae9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-681148189.jpg?ver=2c2c93c0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/default-opinion.png?ver=1791966850",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-407569068.jpg?ver=b8150f79",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-439356973.jpg?ver=68fd2490",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/10/sc_3x2_plain.jpg?ver=c671d440",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_science.jpg?ver=f24ae7be",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/rohner.jpg?ver=2b06f101",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/gw11_0001195_2020-10-12.jpg?ver=2058b276",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/111L.jpg?ver=138d4379",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-3580238.jpg?ver=3815c822",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/07/46f69d9d18495e008dd7ab3c85487e9f-join_discussion-ger-data.jpg?ver=4174778c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_culture.jpg?ver=9cbebb09",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/quantum.jpg?ver=01094745",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-154781185.jpg?ver=0aaa2cf1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-132424697.jpg?ver=d976e578",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-407569068.jpg?ver=b8150f79",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/sc_3x2_plain.jpg?ver=8586a9ac",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/000_77RP463.jpg?ver=d1b9f36b",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/11/lc_cover_2025-eng.jpg?ver=4a778c16",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_business.jpg?ver=e5b97610",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Sebastian-Lutzen-Portrait.jpg?ver=5e0e472c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/keystone-social-417681918.jpg?ver=a8076a66",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/PAUL_WIDMER_SWISS_ABROAD.jpg?ver=642cdacb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-733374385_72b0a2.jpg?ver=c5c23453",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/SWIplus_3screens_3x2-eng.jpg?ver=c08536c9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/01/0a91bc30f455c60214cd066f810dd18d-nestle-data.jpg?ver=fad9c3dd",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2023/12/katy-romy-profileImage-42390267.png?ver=551e864a",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Teaser-Banner-business-news-NL-subscription-November-2026.png?ver=7b0b84e8",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/icon-google-gradient.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/icon-google-white.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/jti-certification.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/app-store-en.svg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/google-play-en.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/srg-ssr-small-logo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/themes/swissinfo-theme/assets/srg-ssr-small-logo.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-724547437.jpg?crop=887px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4032px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4032px&w=480&ver=e12dacbb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/default-opinion.png?crop=420px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px&w=480&ver=1791966850",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/©BoJo_Lac_Swissinfo-12.jpg?crop=1000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4000px&w=480&ver=7c4eff46",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Untitled-July-14-2026-at-17.21.58-1-8.png?crop=166px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/667px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/667px&w=480&ver=158e4410",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/11/ig_cover_2025.jpg?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3000px&w=480&ver=24027235",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/08/Geopolitics-Newsletter.png?crop=217px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/667px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/667px&w=480&ver=62a86db7",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_international_geneva.jpg?crop=147px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px&w=480&ver=309124d7",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-702939405.jpg?crop=1289px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/5152px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/5152px&w=480&ver=4abec501",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/075_fillon-bosniaan250213_npFOk.jpg?crop=979px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3695px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3695px&w=480&ver=b8046dcb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-681148189.jpg?crop=1394px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6336px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6336px&w=480&ver=2c2c93c0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-732420667.jpg?crop=1183px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4733px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/4733px&w=480&ver=6ca85954",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/03/How-Switzerlands-political-system-of-Direct-Democracy-works.jpg?crop=420px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px&w=480&ver=b893f387",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_cc_democracy.jpg?crop=147px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px&w=480&ver=d2092ae9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-681148189.jpg?crop=1394px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6336px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6336px&w=480&ver=2c2c93c0",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/default-opinion.png?crop=420px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1080px&w=480&ver=1791966850",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-407569068.jpg?crop=589px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2355px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2355px&w=480&ver=b8150f79",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-439356973.jpg?crop=758px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3266px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3266px&w=480&ver=68fd2490",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/10/sc_3x2_plain.jpg?crop=250px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1000px&w=480&ver=c671d440",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_science.jpg?crop=147px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px&w=480&ver=f24ae7be",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/rohner.jpg?crop=233px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/934px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/934px&w=480&ver=2b06f101",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/gw11_0001195_2020-10-12.jpg?crop=3766px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6885px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/6885px&w=480&ver=2058b276",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/111L.jpg?crop=603px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2214px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2214px&w=480&ver=138d4379",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-3580238.jpg?crop=342px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1365px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1365px&w=480&ver=3815c822",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/07/46f69d9d18495e008dd7ab3c85487e9f-join_discussion-ger-data.jpg?crop=141px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/567px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/567px&w=480&ver=4174778c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_culture.jpg?crop=147px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px&w=480&ver=9cbebb09",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/quantum.jpg?crop=233px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/934px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/934px&w=480&ver=01094745",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-154781185.jpg?crop=446px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2472px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2472px&w=480&ver=0aaa2cf1",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-132424697.jpg?crop=936px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3745px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3745px&w=480&ver=d976e578",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-407569068.jpg?crop=589px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2355px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2355px&w=480&ver=b8150f79",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/sc_3x2_plain.jpg?crop=250px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1000px&w=480&ver=8586a9ac",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/000_77RP463.jpg?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2403px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/2403px&w=480&ver=d1b9f36b",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/11/lc_cover_2025-eng.jpg?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3000px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/3000px&w=480&ver=4a778c16",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/04/newsletter_teaser_business.jpg?crop=147px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/587px&w=480&ver=e5b97610",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Sebastian-Lutzen-Portrait.jpg?crop=214px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1119px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1119px&w=480&ver=5e0e472c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/keystone-social-417681918.jpg?crop=178px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/619px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/619px&w=480&ver=a8076a66",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/PAUL_WIDMER_SWISS_ABROAD.jpg?crop=231px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/921px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/921px&w=480&ver=642cdacb",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/keystone-highres-733374385_72b0a2.jpg?crop=1440px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/5760px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/5760px&w=480&ver=c5c23453",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2025/12/SWIplus_3screens_3x2-eng.jpg?crop=320px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1280px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1280px&w=480&ver=c08536c9",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/6302322cf593117575d9458c5e4db325c11e35cf-92411461.jpg?crop=0px",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1400px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/934px&w=880&ver=aef56d2c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/6302322cf593117575d9458c5e4db325c11e35cf-92411461.jpg?crop=0px",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1400px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/935px&w=580&ver=aef56d2c",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/01/0a91bc30f455c60214cd066f810dd18d-nestle-data.jpg?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1300px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/866px&w=580&ver=fad9c3dd",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/01/0a91bc30f455c60214cd066f810dd18d-nestle-data.jpg?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/1300px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/864px&w=280&ver=fad9c3dd",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2023/12/katy-romy-profileImage-42390267.png?crop=0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/0px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/998px",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/998px&w=80&ver=551e864a",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Teaser-Banner-business-news-NL-subscription-November-2026.png",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Teaser-Banner-business-news-NL-subscription-November-2026.png?resize=300%2C144&ver=7b0b84e8",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/Teaser-Banner-business-news-NL-subscription-November-2026.png?resize=768%2C369&ver=7b0b84e8",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reachy-mini-ros2-lyrical-stack-release-20261122",
+      "storyKey": "reachy-mini-ros2-lyrical-stack-release-2026",
+      "originalTitle": "Full ROS2 Lyrical support for Pollen's Reachy Mini",
+      "urls": [
+        "https://discourse.openrobotics.org/t/full-ros2-lyrical-support-for-pollens-reachy-mini/59991"
+      ],
+      "references": [
+        "https://discourse.openrobotics.org/t/full-ros2-lyrical-support-for-pollens-reachy-mini/59991"
+      ],
+      "publishedAt": "2026-11-19T11:34:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "เผยซอฟต์แวร์และวิธีติดตั้งที่นักพัฒนาหุ่นยนต์นำไปตรวจสอบและใช้ต่อได้",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://gitlab.iiia.csic.es/uploads/-/system/appearance/favicon/1/favicon.ico",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/c/ecc3c25976ccf6b697e18166ac832791a5a228cd.png",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://emoji.discourse-cdn.com/noto/wink.png?v=16",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hallym-blue-robin-mock-ward-prototype-test-20261122",
+      "storyKey": "hallym-blue-robin-mock-ward-prototype-test-2026",
+      "originalTitle": "Hospital Humanoid Robots Test Narrow-Hallway Navigation, Patient Gown Delivery and Medical Equipment Transport",
+      "urls": [
+        "https://health.chosun.com/english/site/data/html_dir/2026/11/20/2026112000994.html"
+      ],
+      "references": [
+        "https://health.chosun.com/english/site/data/html_dir/2026/11/20/2026112000994.html"
+      ],
+      "publishedAt": "2026-11-20T01:18:00Z",
+      "addedAt": "2026-11-21T23:15:59.725Z",
+      "runId": "2026-11-22",
+      "reason": "ทดสอบต้นแบบในหอผู้ป่วยจำลองพร้อมข้อกำหนดจากบุคลากรทางการแพทย์",
+      "score": 16,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": []
+      }
     }
   ],
   "runs": [
@@ -27627,6 +29529,23 @@
         "motion-galbot-slush-palletizing-demo-customer-update-2026",
         "first-qualcomm-arduino-k8-platform-partnership-2026",
         "thg-omega-autostore-240000-bin-expansion-2026"
+      ]
+    },
+    {
+      "runId": "2026-11-22",
+      "batchHash": "50f7f23d0da1699a6ae38eaa9e94b2dd35b413bca0aa310e49b92ef0a039b61c",
+      "preparedAt": "2026-11-21T23:15:59.725Z",
+      "articleIds": [
+        "omron-ld150-ld300-orders-20261122",
+        "agibot-g2-lens-test-line-deployment-20261122",
+        "ottava-memorial-hermann-first-commercial-customer-20261122",
+        "deere-acquires-orchard-ai-20261122",
+        "mujin-green-logistics-six-cells-case-study-20261122",
+        "familymart-txghost-smartshelf-january-rollout-20261122",
+        "techmagic-css-managed-food-operations-launch-20261122",
+        "nestle-orbe-deep-tech-centre-opening-20261122",
+        "reachy-mini-ros2-lyrical-stack-release-20261122",
+        "hallym-blue-robin-mock-ward-prototype-test-20261122"
       ]
     }
   ]

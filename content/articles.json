@@ -3438,5 +3438,115 @@
     "url": "https://roboticsandautomationnews.com/2026/11/18/thg-fulfil-doubles-autostore-capacity-at-warrington-warehouse/107261/",
     "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/THG-Fulfil-x-AutoStore.jpg",
     "addedAt": "2026-11-20T23:15:47.510Z"
+  },
+  {
+    "id": "omron-ld150-ld300-orders-20261122",
+    "category": "industrial-robots",
+    "title": "OMRON เปิดรับคำสั่งซื้อ LD-150 และ LD-300 เตรียมส่งมอบต้นปี 2027",
+    "summary": "หุ่นยนต์ขนส่งรุ่นใหม่รองรับน้ำหนัก 150 และ 300 กก. พร้อมทำงานร่วมกับกองหุ่นยนต์เดิมผ่าน FLOW Core",
+    "source": "OMRON Robotics",
+    "date": "2026-11-19",
+    "url": "https://robotics.omron.com/news/new-ld-series-amr-launch/",
+    "image": "https://robotics.omron.com/wp-content/uploads/2026/11/New-LD-Series-Launch-Press-Release-Hero.webp",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "agibot-g2-lens-test-line-deployment-20261122",
+    "category": "industrial-robots",
+    "title": "AGIBOT นำ G2 หลายสิบตัวเข้าประจำสายทดสอบสมาร์ตโฟนของ Lens Technology",
+    "summary": "การใช้งานเน้นรับส่งชิ้นงานและทำงานร่วมกับเครื่องทดสอบ ยังไม่เปิดเผยผลผลิตต่อชั่วโมงหรืออัตราคืนทุน",
+    "source": "RobotsBeat",
+    "date": "2026-11-21",
+    "url": "https://robotsbeat.com/agibot-g2-lens-technology-smartphone-test-lines-deployment/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1.jpg",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "ottava-memorial-hermann-first-commercial-customer-20261122",
+    "category": "industry-news",
+    "title": "OTTAVA ได้ลูกค้าเชิงพาณิชย์รายแรกที่ Memorial Hermann ในฮิวสตัน",
+    "summary": "Johnson & Johnson เลือกโรงพยาบาลที่เคยร่วมทดลองระบบเป็นจุดเริ่มต้นโครงการเชิงพาณิชย์แบบจำกัดกลุ่ม",
+    "source": "RobotsBeat",
+    "date": "2026-11-21",
+    "url": "https://robotsbeat.com/jnj-ottava-first-commercial-hospital-memorial-hermann/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/ottava-robotic-surgical-system-first-commercial-hospital-1200x800-1.jpg",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "deere-acquires-orchard-ai-20261122",
+    "category": "ai-automation",
+    "title": "John Deere ซื้อ Orchard AI เพิ่มระบบมองเห็นและข้อมูลระดับต้นไม้ในสวนผลไม้",
+    "summary": "เทคโนโลยีกล้องติดยานพาหนะช่วยประเมินผลผลิตและวางแผนงานสวน โดยยังไม่เปิดเผยมูลค่าดีล",
+    "source": "RobotsBeat",
+    "date": "2026-11-20",
+    "url": "https://robotsbeat.com/john-deere-orchard-ai-acquisition-precision-farm-automation/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/john-deere-orchard-ai-crop-vision-tractor-1200x800-1.jpg",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "mujin-green-logistics-six-cells-case-study-20261122",
+    "category": "industrial-robots",
+    "title": "Mujin เปิดกรณีศึกษา Green Logistics ใช้หุ่นยนต์หกสถานีหยิบกล่องในคลัง",
+    "summary": "ระบบเชื่อมคลังอัตโนมัติกับการหยิบและเรียงกล่อง รองรับสินค้าประมาณหนึ่งพันรูปแบบตามข้อมูลผู้พัฒนา",
+    "source": "Mujin",
+    "date": "2026-11-19",
+    "url": "https://media.mujin.co.jp/news/11657/",
+    "image": "",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "familymart-txghost-smartshelf-january-rollout-20261122",
+    "category": "industrial-robots",
+    "title": "FamilyMart เตรียมทยอยใช้ TX GHOST คู่ชั้นสต็อกดิจิทัลตั้งแต่มกราคม 2027",
+    "summary": "หุ่นยนต์เติมเครื่องดื่มทำงานร่วมกับระบบสต็อก โดยร้านนำร่องรายงานลดภาระงานส่วนนี้ประมาณ 70%",
+    "source": "FamilyMart",
+    "date": "2026-11-19",
+    "url": "https://www.family.co.jp/company/news_releases/2026/20261119_02.html",
+    "image": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_KV.jpg",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "techmagic-css-managed-food-operations-launch-20261122",
+    "category": "industrial-robots",
+    "title": "TechMagic และ CSS เปิดบริการดูแลครัวที่รวมคนกับหุ่นยนต์ทำอาหาร",
+    "summary": "บริการรวมการออกแบบครัว หุ่นยนต์ และการเดินงาน โดยต่อยอดจากโรงอาหาร MAGIC CHEF ที่เปิดก่อนหน้านี้",
+    "source": "TechMagic / PR Times",
+    "date": "2026-11-20",
+    "url": "https://prtimes.jp/main/html/rd/p/000000124.000046356.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-3cb368bf928b9fb6062325cd3f408477-760x571.jpg",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "nestle-orbe-deep-tech-centre-opening-20261122",
+    "category": "ai-automation",
+    "title": "Nestlé เปิดศูนย์ Deep Tech ที่ Orbe ทดสอบ AI และหุ่นยนต์ก่อนขยายสู่โรงงาน",
+    "summary": "ศูนย์ในสวิตเซอร์แลนด์เริ่มด้วยบุคลากรราว 60 คน มุ่งทดลองเทคโนโลยีในโรงงานนำร่องก่อนใช้งานวงกว้าง",
+    "source": "SWI swissinfo.ch / Keystone-SDA",
+    "date": "2026-11-20",
+    "url": "https://www.swissinfo.ch/eng/agribusiness/nestl%C3%A9-opens-a-centre-for-food-and-factories-of-the-future/92411572",
+    "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/6302322cf593117575d9458c5e4db325c11e35cf-92411461.jpg?ver=aef56d2c",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "reachy-mini-ros2-lyrical-stack-release-20261122",
+    "category": "research",
+    "title": "SocialMinds เผยชุด ROS 2 Lyrical สำหรับ Reachy Mini พร้อมส่งวิดีโอผ่าน Wi-Fi",
+    "summary": "ชุดซอฟต์แวร์รองรับ ROS4HRI และติดตั้งคู่กับ SDK เดิมได้ โดยต้องเลือกบริการที่จะเปิดใช้งาน",
+    "source": "Open Robotics Discourse / SocialMinds",
+    "date": "2026-11-19",
+    "url": "https://discourse.openrobotics.org/t/full-ros2-lyrical-support-for-pollens-reachy-mini/59991",
+    "image": "",
+    "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "hallym-blue-robin-mock-ward-prototype-test-20261122",
+    "category": "humanoids",
+    "title": "Hallym ทดสอบหุ่นยนต์ Blue Robin ในหอผู้ป่วยจำลอง เน้นขนของช่วยเจ้าหน้าที่",
+    "summary": "ต้นแบบลำตัวคล้ายมนุษย์บนฐานล้อกำลังทดสอบทางเดินแคบและการส่งของ ยังไม่ใช่การให้บริการผู้ป่วยจริง",
+    "source": "Health Chosun",
+    "date": "2026-11-20",
+    "url": "https://health.chosun.com/english/site/data/html_dir/2026/11/20/2026112000994.html",
+    "image": "https://health.chosun.com/english/site/data/img_dir/2026/11/20/2026112000985_0.webp",
+    "addedAt": "2026-11-21T23:15:59.725Z"
   }
 ]

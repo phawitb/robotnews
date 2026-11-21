@@ -11833,5 +11833,415 @@
       }
     ],
     "videos": []
+  },
+  "omron-ld150-ld300-orders-20261122": {
+    "title": "OMRON opens LD-150 and LD-300 orders ahead of January deliveries",
+    "summary": "The new mobile robots carry 150 or 300 kg and integrate with existing fleets through FLOW Core.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "OMRON has opened orders for its LD-150 and LD-300 autonomous mobile robots in the Americas and Europe, with deliveries scheduled to begin in January 2027 subject to country-specific approvals. The milestone is order availability; it does not mean deliveries have already started in every market."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The LD-150 carries 150 kg and measures 500 mm wide, while the LD-300 carries 300 kg and measures 580 mm wide. OMRON specifies operation in one-metre aisles, speeds up to 2.1 metres per second and slopes up to five degrees. Application-specific top modules support different material-handling tasks."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "FLOW Core coordinates routes, jobs and traffic alongside LD, MD, OL and HD robots, supporting fleets of up to 100 units. OMRON states an 18-minute wireless charging time. Facilities still need to assess payloads, routes and accessories for their own processes; this announcement does not establish a Thai availability date."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/11/New-LD-Series-Launch-Press-Release-Hero.webp",
+        "alt": "New LD Series Launch Press Release Hero",
+        "caption": "New LD Series Launch Press Release Hero · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-Front-View.webp",
+        "alt": "LD-300 Front View",
+        "caption": "LD-300 Front View · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-150-Side-View.webp",
+        "alt": "LD-150 Side View",
+        "caption": "LD-150 Side View · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-150-AMR-Side-View.webp",
+        "alt": "LD-150 AMR Side View",
+        "caption": "LD-150 AMR Side View · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-AMR-Side-View-with-Lightswebp.webp",
+        "alt": "LD-300 AMR Side View with Lights",
+        "caption": "LD-300 AMR Side View with Lights · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/09/OMRON-LD-300-equipped-with-ROEQ-Topper.webp",
+        "alt": "OMRON LD-300 equipped with ROEQ Topper",
+        "caption": "OMRON LD-300 equipped with ROEQ Topper · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/09/LD-300-with-ROEQ-Cart-Solution-and-Crate-Load.webp",
+        "alt": "LD-300 with ROEQ Cart Solution and Crate Load",
+        "caption": "LD-300 with ROEQ Cart Solution and Crate Load · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/05/LD-300-AMR-Side-View.webp",
+        "alt": "LD-300 AMR Side View",
+        "caption": "LD-300 AMR Side View · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/06/New-LD-Series-with-Nord-Cart-Mover.webp",
+        "alt": "New LD Series with Nord Cart Mover",
+        "caption": "New LD Series with Nord Cart Mover · Image: OMRON Robotics"
+      },
+      {
+        "url": "https://robotics.omron.com/wp-content/uploads/2026/09/LD-150-with-Nord-Cart-Mover-Application-Render.webp",
+        "alt": "LD-150 with Nord Cart Mover Application Render",
+        "caption": "LD-150 with Nord Cart Mover Application Render · Image: OMRON Robotics"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://player.vimeo.com/video/1202952581?dnt=1&app_id=122963",
+        "title": "Introducing the new LD Series",
+        "note": "Watch the video on the original source website."
+      }
+    ]
+  },
+  "agibot-g2-lens-test-line-deployment-20261122": {
+    "title": "AGIBOT deploys dozens of G2 robots on Lens Technology test lines",
+    "summary": "The deployment targets loading, unloading and test-station interaction; throughput and payback figures remain undisclosed.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "A November 20 Jiemian report describes AGIBOT and Lens Technology deploying dozens of G2 robots on smartphone test lines. The development places robots within an existing sequence of factory operations and test equipment, making it more concrete than a stand-alone capability demonstration."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The reported tasks include loading, unloading and interaction with MMI, ANT, CAM and CAMCV test stations. Such work requires handling motions to fit equipment timing and product changeovers. Integration with the surrounding process is therefore as important as the robot’s individual manipulation capabilities."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "The available reporting does not disclose an exact installed count, throughput, human-intervention rate or financial payback. Further standardized deliveries depend on process adaptation and line integration. This deployment is evidence of a specific manufacturing application, rather than proof of economical operation across all factory environments."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1.jpg",
+        "alt": "Illustration of robotic smartphone handling",
+        "caption": "Illustration of robotic smartphone handling, not verification of the Lens production line · Image: RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "ottava-memorial-hermann-first-commercial-customer-20261122": {
+    "title": "OTTAVA names Memorial Hermann as its first commercial customer",
+    "summary": "Johnson & Johnson selects a former clinical trial site for the start of its early-access commercial program.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "Johnson & Johnson announced on November 19 that Memorial Hermann-Texas Medical Center in Houston will be the first hospital to install OTTAVA under its early-access commercial program. The hospital previously evaluated the platform in clinical trials, marking a transition from research collaboration to a commercial customer relationship."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "OTTAVA integrates four robotic arms into a standard-sized surgical table, an architecture intended to address operating-room space and workflow constraints. It received US FDA authorization in July 2026 for multiple general-surgery procedures in the upper abdomen. The announcement does not describe a robot operating independently of surgeons."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "The company plans a selective US rollout while gathering real-world evidence. Pricing and a detailed installation schedule were not disclosed. A first customer is a commercial milestone, while effects on operating-room time, costs and patient outcomes still require assessment using additional clinical and operational data."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/ottava-robotic-surgical-system-first-commercial-hospital-1200x800-1.jpg",
+        "alt": "OTTAVA robotic surgical system",
+        "caption": "OTTAVA robotic surgical system · Image: RobotsBeat"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=WgUZmfTjwcs",
+        "title": "OTTAVA platform overview (background demonstration)"
+      }
+    ]
+  },
+  "deere-acquires-orchard-ai-20261122": {
+    "title": "John Deere acquires Orchard AI for tree-level orchard intelligence",
+    "summary": "Vehicle-mounted vision supports crop assessment and orchard planning; financial terms were not disclosed.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "John Deere announced its acquisition of Orchard Robotics, operating as Orchard AI, on November 19. The purchase adds fruit-imaging capabilities to its precision-agriculture portfolio. Financial terms and a product-by-product integration timetable were not disclosed."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The technology mounts cameras on orchard vehicles such as tractors or ATVs to capture multiple views of trees. Analysis covers fruit counts, size, colour and canopy characteristics. FruitScope tools turn tree-level observations into maps, helping orchard managers understand variation within a block rather than relying solely on whole-field averages."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "These observations can inform spraying, pruning, thinning and harvest planning. The acquisition does not establish that all those operations are already automated. Important next steps include connecting measurements to practical decisions and machines, and assessing performance across different crops and orchard conditions."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/john-deere-orchard-ai-crop-vision-tractor-1200x800-1.jpg",
+        "alt": "Orchard AI orchard-imaging technology",
+        "caption": "Orchard AI orchard-imaging technology · Image: RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "mujin-green-logistics-six-cells-case-study-20261122": {
+    "title": "Mujin details six robotic case-handling cells at Green Logistics",
+    "summary": "The installation links automated storage with case picking and palletizing across roughly 1,000 case types.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "Mujin published a November 19 case study of Green Logistics’ new distribution centre, where six robotic cells connect automated storage with outbound case picking and palletizing. The news is the newly disclosed implementation detail, rather than evidence that all six robots first began operating on the announcement date."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The supplier describes support for roughly 1,000 case types and capacity of about 500 cases per hour per robot. Arm-mounted 3D vision observes the task without separate camera stands. MujinOS calculates placement and collision-avoiding motions to respond to the handling situation."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "These are supplier-reported figures, not an independently measured warehouse-wide throughput guarantee. Simply multiplying the per-robot rate can overlook upstream and downstream constraints. Installation costs and payback were not disclosed, making this a useful integration example rather than a universal business-case benchmark."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=fGxdGJj7Rfk",
+        "title": "Green Logistics deployment with Mujin robots"
+      }
+    ]
+  },
+  "familymart-txghost-smartshelf-january-rollout-20261122": {
+    "title": "FamilyMart plans TX GHOST and smart-shelf rollout from January 2027",
+    "summary": "Drink-restocking robots work with digital inventory shelves; pilot stores reported roughly 70% less work in the targeted task.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "FamilyMart announced on November 19 that it will begin progressively introducing TX GHOST drink-restocking robots and digital inventory shelves in January 2027. Development and trials with Telexistence began in 2020. The expansion targets cooler-related work, rather than describing stores that operate without staff."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The company says the robot can replenish sales shelves around the clock, handling up to approximately 1,800 bottles per day and prioritizing products using sales data. Smart Shelf starts tracking item locations and quantities when the first item is scanned, supports mixed stock and suggests replenishment quantities."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "Early stores reported roughly a 70% reduction in the targeted inventory and restocking workload. Employees still load goods onto Smart Shelf, so the figure is not a reduction in all store labour. The announcement does not specify a final store count, system price or nationwide completion date."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_KV.jpg",
+        "alt": "TX GHOST drink-restocking system",
+        "caption": "TX GHOST drink-restocking system · Image: FamilyMart / Telexistence"
+      },
+      {
+        "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_newsrelease_02.zip#20261119_newsrelease_02/20261119_TX%20GHOST_KV1.png",
+        "alt": "TX GHOST press image 1",
+        "caption": "TX GHOST press image 1 · Image: FamilyMart / Telexistence"
+      },
+      {
+        "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_newsrelease_02.zip#20261119_newsrelease_02/20261119_TX%20GHOST_KV2.jpg",
+        "alt": "TX GHOST press image 2",
+        "caption": "TX GHOST press image 2 · Image: FamilyMart / Telexistence"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://drive.google.com/file/d/1XgHOpnA9Bl4Apqlq944xyAEF5K3WCYN_/view",
+        "title": "TX GHOST drink-restocking demonstration",
+        "note": "Watch the video on the original source website."
+      }
+    ]
+  },
+  "techmagic-css-managed-food-operations-launch-20261122": {
+    "title": "TechMagic and CSS launch managed food operations with cooking robots",
+    "summary": "The service combines kitchen design, robotics and operations, building on the previously opened MAGIC CHEF cafeteria.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "TechMagic and CSS Holdings announced the full launch of a managed food-operations service on November 20, combining robotics with on-site operating expertise. This is a service-launch milestone, not a new opening of MAGIC CHEF: the demonstration cafeteria at Telecom Center opened in May 2026."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The offering spans kitchen design, equipment installation and day-to-day operation. I-Robo 2 supports stir-frying and washing, while M-Robo assists with weighing and plating. Combining equipment with an operating team aims to reduce customers’ need to coordinate multiple suppliers and align the kitchen’s working procedures."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "The companies report about 20% higher sales at the example location versus the previous year before renovation. That comparison does not isolate robotics from menu or management changes. Target settings include cafeterias, hotels, leisure facilities and elderly care, with suitability and economics still requiring site-specific assessment."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-3cb368bf928b9fb6062325cd3f408477-760x571.jpg",
+        "alt": "TechMagic and CSS Holdings executives",
+        "caption": "TechMagic and CSS Holdings executives · Image: TechMagic / PR Times"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-83c66e5d03a799110bc94bf1ef548499-693x516.jpg",
+        "alt": "MAGIC CHEF cafeteria opened in May 2026",
+        "caption": "MAGIC CHEF cafeteria opened in May 2026 · Image: TechMagic / PR Times"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-38e0d34ec6a08ec788898afee2526785-472x283.png",
+        "alt": "Automated cashless checkout",
+        "caption": "Automated cashless checkout · Image: TechMagic / PR Times"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2642a46646f33d877be3bfcb390de137-2586x2700.jpg",
+        "alt": "I-Robo 2 cooking and washing robot",
+        "caption": "I-Robo 2 cooking and washing robot · Image: TechMagic / PR Times"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-8a40bd5fc855691c18f22c2f06ceb23b-300x216.png",
+        "alt": "M-Robo plating robot",
+        "caption": "M-Robo plating robot · Image: TechMagic / PR Times"
+      },
+      {
+        "url": "https://prcdn.freetls.fastly.net/release_image/46356/124/46356-124-2ab761c6508a3cce92e87c433b8518f0-641x430.jpg",
+        "alt": "W-Robo dish-sorting robot",
+        "caption": "W-Robo dish-sorting robot · Image: TechMagic / PR Times"
+      }
+    ],
+    "videos": []
+  },
+  "nestle-orbe-deep-tech-centre-opening-20261122": {
+    "title": "Nestlé opens Orbe Deep Tech Centre to pilot AI and robotics",
+    "summary": "The Swiss centre initially brings together about 60 staff to test technologies before wider factory deployment.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "Nestlé has opened a Deep Tech Centre in Orbe, Switzerland, according to November 20 reporting. It initially brings together about 60 staff and works with partners including Microsoft and Boston Dynamics. The centre provides a place to develop and test technologies before deciding how to expand their practical use."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "Its remit includes AI, smart sensors and robotics across product development and manufacturing. Factory applications aim to improve quality checks and process efficiency while reducing repetitive or physically demanding work. Technologies will first be tested in Orbe pilot plants before potential deployment elsewhere in the company."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "The centre complements a technology hub in Shenzhen. The announcement does not provide a worldwide robot-installation count or demonstrated cost savings. It represents additional capacity for experimentation and validation, rather than proof that every project is commercially ready or has already generated financial returns."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/6302322cf593117575d9458c5e4db325c11e35cf-92411461.jpg?ver=aef56d2c",
+        "alt": "Nestlé Deep Tech Centre in Orbe",
+        "caption": "Nestlé Deep Tech Centre in Orbe · Image: Keystone-SDA / SWI swissinfo.ch"
+      }
+    ],
+    "videos": []
+  },
+  "reachy-mini-ros2-lyrical-stack-release-20261122": {
+    "title": "SocialMinds releases a ROS 2 Lyrical stack for Reachy Mini",
+    "summary": "The stack supports ROS4HRI and can coexist with the original SDK, with users selecting which service runs.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "SocialMinds researcher Séverin Lemaignan shared a ROS 2 stack for Reachy Mini on November 19 after testing and adopting it in the laboratory. It combines ROS 2 Lyrical with zenoh and provides public source code and installation instructions, enabling researchers to connect the robot to their own systems."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "A deb package pulls and updates a Lyrical Docker image. It can be installed alongside Pollen’s SDK, with users enabling or disabling the relevant systemd service. The drivers replace the supplied daemon and support ROS4HRI for human–robot interaction development."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "The developer reports hardware-compressed Full HD video at 30 frames per second over Wi-Fi, plus real-time speech recognition and synthesis on the robot’s Raspberry Pi 4. These are developer-reported capabilities, not independent latency benchmarks across all networks. The announced distribution support specifically concerns Lyrical."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "hallym-blue-robin-mock-ward-prototype-test-20261122": {
+    "title": "Hallym tests a Blue Robin prototype in a simulated hospital ward",
+    "summary": "A wheeled, human-shaped prototype is being tested for corridor navigation and deliveries, rather than live patient service.",
+    "sections": [
+      {
+        "heading": "The new development",
+        "paragraphs": [
+          "Hallym University Sacred Heart Hospital said on November 20 that it had tested an early robot prototype developed with Blue Robin at the Hallym Simulation Center. Recreated patient rooms and corridors help identify requirements before a robot enters a working hospital environment."
+        ]
+      },
+      {
+        "heading": "Technology and applications",
+        "paragraphs": [
+          "The prototype combines a human-shaped upper body with a wheeled base. Tests examine narrow-space navigation, delivery of medical supplies and patient gowns, and movement of mobile equipment. Particular attention goes to crossing paths with people and the precision needed to pick up and deliver items."
+        ]
+      },
+      {
+        "heading": "Scope and next steps",
+        "paragraphs": [
+          "Medical staff define tasks and requirements, with results feeding into hardware and software revisions. The focus is reducing walking and routine support work, not performing procedures directly on patients. No quantified success rate or commercial timetable was provided; simulated-ward testing should not be confused with live patient service."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://health.chosun.com/english/site/data/img_dir/2026/11/20/2026112000985_0.webp",
+        "alt": "Robot prototype during simulated hospital-ward testing",
+        "caption": "Robot prototype during simulated hospital-ward testing · Image: Hallym University Medical Center / Health Chosun"
+      }
+    ],
+    "videos": []
   }
 }
