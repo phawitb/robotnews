@@ -12243,5 +12243,339 @@
       }
     ],
     "videos": []
+  },
+  "ur-inbolt-native-gen7-vision-integration-20261124": {
+    "title": "Universal Robots integrates Inbolt vision directly into its Gen 7 controller",
+    "summary": "Inbolt Standard runs on CB7 Core with setup inside PolyScope X; camera and hardware compatibility still depend on the application.",
+    "sections": [
+      {
+        "heading": "Integration announced at SPS",
+        "paragraphs": [
+          "Universal Robots and Inbolt announced native integration on November 24 at SPS. Inbolt Standard runs on the CB7 Core processor, with Inbolt Studio inside PolyScope X, removing a separate industrial PC from this configuration. The development concerns vision-software integration, rather than another launch of Gen 7."
+        ]
+      },
+      {
+        "heading": "Adapting taught paths",
+        "paragraphs": [
+          "A wrist-mounted 3D camera and part CAD model locate the workpiece and adjust taught paths. The described scope covers stationary parts with repeatable orientation, including fastening, machine tending and rack handling. It does not establish support for every moving-conveyor application."
+        ]
+      },
+      {
+        "heading": "Compatibility and availability",
+        "paragraphs": [
+          "The g-Series tool flange supplies power and Ethernet; supported e-Series and UR Series configurations still require CB7 and external cabling. Native g-Series integration requires PolyScope X 10.13 or later. Ordering through UR and distributors is described as coming soon, so hardware and application compatibility need checking before installation."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1.jpg",
+        "alt": "UR arm fitted with Inbolt equipment",
+        "caption": "UR arm fitted with Inbolt equipment · Image: Universal Robots / Inbolt via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "agibot-g2-jcet-chip-testing-trial-20261123": {
+    "title": "AGIBOT G2 completes an initial chip-test line integration trial at JCET",
+    "summary": "The robot handles trays and separates tested output at an automotive-electronics plant; sustained production metrics remain undisclosed.",
+    "sections": [
+      {
+        "heading": "A trial with a different customer",
+        "paragraphs": [
+          "November 23 reporting describes an initial AGIBOT G2 production-line integration trial at JCET’s automotive-electronics facility in Shanghai’s Lingang area. This concerns a chip-handling process at a new customer, separate from the previously reported G2 deployment on Lens Technology smartphone test lines."
+        ]
+      },
+      {
+        "heading": "Handling around test equipment",
+        "paragraphs": [
+          "The wheeled, dual-arm robot loads untested trays, removes tested trays and directs passing and failing output to designated channels. That sequence requires manipulation to coordinate with test equipment. It does not mean the robot independently performs the chips’ electrical tests."
+        ]
+      },
+      {
+        "heading": "Evidence remains trial-level",
+        "paragraphs": [
+          "The partners plan further validation and process expansion. Published information does not provide a robot count, hourly throughput, sustained operating duration or human-intervention rate. These omissions prevent a reliable assessment of full-line economics from the integration trial alone."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1.jpg",
+        "alt": "AGIBOT robot illustration, not verification of the JCET line",
+        "caption": "AGIBOT robot illustration, not verification of the JCET line · Image: AGIBOT via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "xsquare-wall-oss-1-model-xr-harness-launch-20261123": {
+    "title": "X Square introduces WALL-OSS-1.0 and an XR Harness developer preview",
+    "summary": "The vision-language-action model arrives with a company-reported zero-shot evaluation and tools for multi-step robot workflows.",
+    "sections": [
+      {
+        "heading": "A new model and toolset",
+        "paragraphs": [
+          "X Square introduced WALL-OSS-1.0 on November 23, building vision-language-action capabilities on Qwen3.5. It also announced an XR Harness developer preview and WALL-API 1.0 access. This is a model and tooling release, distinct from the previously covered X2Real evaluation toolkit."
+        ]
+      },
+      {
+        "heading": "Interpreting the evaluation",
+        "paragraphs": [
+          "The company reports 55.1% zero-shot success across 377 evaluations covering 312 unique physical tasks, without task-specific demonstrations or fine-tuning. The result describes its evaluation set, not dependable performance across all household or industrial work. Comparisons require matching test conditions."
+        ]
+      },
+      {
+        "heading": "Connecting plans and actions",
+        "paragraphs": [
+          "XR Harness connects scene understanding, planning, execution and feedback so a workflow can adjust its route or retry during multi-step tasks. Deployment still requires mapping commands to compatible controllers and hardware. Developers therefore need to verify compatibility and performance on their own physical robots."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1.jpg",
+        "alt": "Robot arms and tabletop objects in WALL-OSS launch media",
+        "caption": "Robot arms and tabletop objects in WALL-OSS launch media · Image: X Square via RobotsBeat"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=TCWIQF9cfBM",
+        "title": "WALL-OSS-1.0 introduction"
+      }
+    ]
+  },
+  "coprod-6m-preseed-modular-hardware-20261123": {
+    "title": "coprod raises $6 million to develop modular robot hardware",
+    "summary": "The co:system platform combines motion, sensing and power modules, with commercial rollout targeted for 2027.",
+    "sections": [
+      {
+        "heading": "Funding the hardware platform",
+        "paragraphs": [
+          "coprod announced a $6 million pre-seed round on November 23, co-led by Founderful and PROTOTYPE, with General Catalyst participating. The company is developing co:system and operates a prototyping facility in Lausanne, aiming to let developers assemble robots from interoperable modules."
+        ]
+      },
+      {
+        "heading": "Connecting modules to software",
+        "paragraphs": [
+          "The approach covers motion, sensing and power, using EtherCAT communication with C++ and Python interfaces. Its co:dodo demonstrator is a six-degree-of-freedom biped with point feet and 1 kHz control. Tactile dual-arm systems and a full humanoid remain on the development roadmap."
+        ]
+      },
+      {
+        "heading": "A rollout target, not universal availability",
+        "paragraphs": [
+          "Commercial rollout is targeted for early 2027, with a fully qualified and certified product range planned by year-end. That is a schedule rather than confirmation that every module is shipping. Integration-time savings still need measuring in actual applications; the announcement supplies no comparative benchmark establishing those savings."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/coprod-modular-robot-hardware-funding-workshop-1200x800-1.jpg",
+        "alt": "coprod team in a hardware development workspace",
+        "caption": "coprod team in a hardware development workspace · Image: coprod via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "schneider-aws-open-software-defined-automation-20261125": {
+    "title": "Schneider connects software-defined automation with AWS while retaining local control",
+    "summary": "EcoStruxure Automation Expert connects AI and edge services to support reusable applications across machines and sites.",
+    "sections": [
+      {
+        "heading": "An SPS announcement",
+        "paragraphs": [
+          "Schneider Electric announced Open Software-Defined Automation on AWS on November 25. EcoStruxure Automation Expert connects operational data with cloud, edge, AI and security services. The stated goal is to extend analytics and AI beyond isolated pilots to multiple machines and plants."
+        ]
+      },
+      {
+        "heading": "Separating software from hardware",
+        "paragraphs": [
+          "Control applications are designed for reuse across compatible computing environments. Local function blocks connect capabilities built with Amazon Bedrock and SageMaker, while AWS IoT Greengrass supports software deployment across sites. The companies aim to reduce gateways, protocol converters and bespoke interfaces."
+        ]
+      },
+      {
+        "heading": "Time-critical work stays local",
+        "paragraphs": [
+          "The architecture retains deterministic, time-critical control on the factory floor while cloud services support broader analytics and learning. Deployment still requires compatible environments and a clear division of responsibilities. The announcement does not provide quantified customer returns or performance benchmarks for this new solution."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "bentic-nearly-100-deployed-robots-us-expansion-20261124": {
+    "title": "bentic reports nearly 100 deployed robots and prepares US deliveries",
+    "summary": "Its JUPITER platform uses industrial experience to improve manipulation of deformable materials such as textiles and cables.",
+    "sections": [
+      {
+        "heading": "A deployment count from its investor",
+        "paragraphs": [
+          "Emerald Technology Ventures said on November 24 that bentic, formerly sewts, has nearly 100 robots at customer production sites. The Munich company focuses on deformable materials including textiles, cables, carbon fiber and food. The deployment count comes from an investor announcement."
+        ]
+      },
+      {
+        "heading": "Learning from production",
+        "paragraphs": [
+          "The technology combines a model predicting material behavior with an action model translating those predictions into movement. Its robot-agnostic JUPITER platform shares operational experience across the fleet. Target applications include textile handling, returned goods and automotive cable harnesses."
+        ]
+      },
+      {
+        "heading": "US plans and remaining unknowns",
+        "paragraphs": [
+          "The company expects its first US system deliveries before the end of 2026; this is a delivery plan rather than confirmation of installations. Site counts, throughput and application-level returns are not disclosed. The aggregate robot count should therefore not be read as proof of equivalent performance across every material."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": []
+  },
+  "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125": {
+    "title": "XPENG shows a unisex IRON with VLA 3.0 and targets January 2027 production",
+    "summary": "A live demonstration confirms the planned body design and retail trial roadmap, while conversation still shows rough edges.",
+    "sections": [
+      {
+        "heading": "The planned production design",
+        "paragraphs": [
+          "At its November 25 AI Day, XPENG showed IRON and confirmed one unisex design, replacing earlier male and female options. The robot has 76 degrees of freedom and more than 1,500 tactile points. Reporting from the event describes walking, microphone handling and interaction near attendees."
+        ]
+      },
+      {
+        "heading": "Architecture and demonstration limits",
+        "paragraphs": [
+          "XPENG describes VLA 3.0 as three loops for planning, immediate response and hardware execution, supported by three Turing chips totaling 2,250 TOPS. These are company-presented specifications. Live conversation still included unexpected language switching and questions directed back at journalists, limiting conclusions about readiness for general service work."
+        ]
+      },
+      {
+        "heading": "Production and delivery targets",
+        "paragraphs": [
+          "Production is targeted for January 2027, with sales and tour-guide trials in XPENG stores during the first quarter and commercial release and external deliveries in the second. One unit every 2.5 minutes is the line’s designed full-capacity rate, not current achieved output. Pricing remains unannounced."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/595c9b8c-bdbb-4fe1-8e81-5fc658705d8d.webp",
+        "alt": "IRON holding a microphone at AI Day 2026",
+        "caption": "IRON holding a microphone at AI Day 2026 · Image: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/57b8b77e-8dc0-4884-9853-730161785036.webp",
+        "alt": "He Xiaopeng beside IRON with animated eyes on its visor",
+        "caption": "He Xiaopeng beside IRON with animated eyes on its visor · Image: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/4e729c88-d8a2-4bce-b1ea-0df7d6b5f76c.webp",
+        "alt": "IRON speaking on stage in front of a seated-pose display",
+        "caption": "IRON speaking on stage in front of a seated-pose display · Image: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/43855075-56e2-42c7-b996-a288df4d56c5.webp",
+        "alt": "Rear view of IRON with transmitter packs on stage",
+        "caption": "Rear view of IRON with transmitter packs on stage · Image: XPENG via Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://x.com/humanoidsdaily/status/2125620527628992573",
+        "title": "Humanoids Daily footage of IRON at AI Day",
+        "note": "Open the media on its original website; sign-in or provider terms may apply."
+      }
+    ]
+  },
+  "embo-110m-seed-world-model-robot-brain-20261123": {
+    "title": "Embo launches with a $110 million seed round for robot world models",
+    "summary": "a16z leads funding for an approach combining video learning and practice in imagined scenarios; standardized performance results remain absent.",
+    "sections": [
+      {
+        "heading": "Funding and investors",
+        "paragraphs": [
+          "Embo introduced itself on November 23 with a $110 million seed round led by Andreessen Horowitz, alongside Khosla Ventures, DST Global and NVIDIA. It aims to develop robot AI models that handle unfamiliar objects and situations more effectively."
+        ]
+      },
+      {
+        "heading": "Learning physics and practicing skills",
+        "paragraphs": [
+          "The approach pretrains on large amounts of video to learn physical relationships, then uses experience from a humanoid fleet and reinforcement learning. World models supply imagined scenarios for motor-skill practice, potentially extending training beyond situations covered by task-specific demonstrations."
+        ]
+      },
+      {
+        "heading": "Claims still requiring evidence",
+        "paragraphs": [
+          "The team cites experience with Dreamer, VideoGPT and Diffusion Forcing. The launch announcement, however, supplies no standardized comparisons, task-success rates or commercial availability date. Team experience and funding support development; they do not establish that reliable general-purpose robot performance has already been achieved."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://embo.com/images/posts/introducing-embo/banner.jpg",
+        "alt": "Graphic accompanying the Embo launch",
+        "caption": "Graphic accompanying the Embo launch · Image: Embo"
+      }
+    ],
+    "videos": []
+  },
+  "nuro-lucid-uber-driverless-public-road-tests-20261124": {
+    "title": "Nuro, Lucid and Uber begin driverless road testing in the Bay Area",
+    "summary": "Lucid Gravity testing moves beyond onboard safety drivers; public passenger service remains targeted for the first quarter of 2027.",
+    "sections": [
+      {
+        "heading": "A new testing phase",
+        "paragraphs": [
+          "Nuro, Lucid and Uber announced on November 24 that Lucid Gravity testing without an onboard safety driver has begun in Palo Alto, Mountain View, Los Altos and Sunnyvale. It follows supervised testing that started in December 2025. The milestone changes testing conditions rather than immediately opening public passenger service."
+        ]
+      },
+      {
+        "heading": "The readiness process",
+        "paragraphs": [
+          "Nuro describes a Safety Case Framework combining public-road testing, simulation and closed-course work in Las Vegas. Scenarios include pedestrians, hazards and right-of-way violations. The company uses this evidence to assess systems and responses before removing the safety driver, but the announcement does not publish complete safety measurements for every situation."
+        ]
+      },
+      {
+        "heading": "Delivered vehicles and future service",
+        "paragraphs": [
+          "Lucid has delivered more than 100 vehicles with hardware, software and rider-experience updates. That is not a count of vehicles operating driverlessly at the same time. Employee rides are planned next, with public Uber service in the Bay Area still targeted for the first quarter of 2027."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://nuro.imgix.net/005.jpg?w=2560&fit=max&auto=format&q=45",
+        "alt": "Interior and driving display pictured in Nuro’s announcement",
+        "caption": "Interior and driving display pictured in Nuro’s announcement · Image: Nuro"
+      }
+    ],
+    "videos": []
+  },
+  "symbotic-first-full-year-gaap-profit-fy2026": {
+    "title": "Symbotic records its first full-year GAAP profit on roughly $2.8 billion revenue",
+    "summary": "Warehouse-robotics revenue rose 25%; the company forecasts $805–825 million for the next quarter.",
+    "sections": [
+      {
+        "heading": "Results for a completed fiscal year",
+        "paragraphs": [
+          "Symbotic reported fiscal 2026 results on November 23 for the year ended September 26. Revenue was approximately $2.8 billion, up 25%, with roughly $133 million in GAAP net income. Management described this as its first profitable full year under GAAP. These figures cover the consolidated business."
+        ]
+      },
+      {
+        "heading": "The final quarter and warehouse operations",
+        "paragraphs": [
+          "Fourth-quarter revenue was approximately $778 million, up 26%, with $55 million in net income. Symbotic supplies robotic and software systems for storing and moving goods in distribution centers. Aggregate financial performance does not disclose the economics of individual robot installations."
+        ]
+      },
+      {
+        "heading": "Separate guidance from reported measures",
+        "paragraphs": [
+          "For the first quarter of fiscal 2027, the company forecasts revenue of $805–825 million; this remains guidance. Full-year adjusted EBITDA of $354 million is a non-GAAP measure with adjustments. It should not replace GAAP net income or be treated as having the same meaning."
+        ]
+      }
+    ],
+    "images": [],
+    "videos": [
+      {
+        "url": "https://edge.media-server.com/mmc/go/symbotic-q4-2026",
+        "title": "Fiscal 2026 and fourth-quarter results webcast",
+        "note": "Open the media on its original website; sign-in or provider terms may apply."
+      }
+    ]
   }
 }

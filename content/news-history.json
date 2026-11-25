@@ -29018,6 +29018,1733 @@
         "videos": 0,
         "excluded": []
       }
+    },
+    {
+      "id": "ur-inbolt-native-gen7-vision-integration-20261124",
+      "storyKey": "ur-inbolt-native-gen7-vision-integration-20261124",
+      "originalTitle": "Universal Robots Brings Inbolt 3D Vision Onto Gen 7 Controller",
+      "urls": [
+        "https://robotsbeat.com/universal-robots-inbolt-gen-7-native-3d-vision-controller/"
+      ],
+      "references": [
+        "https://robotsbeat.com/universal-robots-inbolt-gen-7-native-3d-vision-controller/",
+        "https://www.universal-robots.com/news-and-media/news-center/universal-robots-and-inbolt-make-ai-powered-3d-vision-guidance-easier-to-deploy-and-scale-with-native-gen-7-robot-integration/"
+      ],
+      "publishedAt": "2026-11-25T12:08:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "เป็นการรวมระบบมองเห็นบนคอนโทรลเลอร์โดยตรง มีข้อกำหนดรุ่นชัดเจน ต่างจากข่าวเปิดตัว Gen 7 เดิม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-fsd-v15-reality-view-rollout-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/john-deere-orchard-ai-crop-vision-tractor-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightmaster-t100-facade-painting-robot-100-meters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/embo-110m-robot-world-models-a16z-nvidia-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-768x512.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agibot-g2-jcet-chip-testing-trial-20261123",
+      "storyKey": "agibot-g2-jcet-chip-testing-trial-20261123",
+      "originalTitle": "AGIBOT G2 Robots Begin Chip-Testing Trial at JCET",
+      "urls": [
+        "https://robotsbeat.com/agibot-g2-jcet-chip-testing-robot-trial-shanghai/"
+      ],
+      "references": [
+        "https://robotsbeat.com/agibot-g2-jcet-chip-testing-robot-trial-shanghai/",
+        "https://www.nbd.com.cn/articles/2026-11-23/4655639.html"
+      ],
+      "publishedAt": "2026-11-24T13:30:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "มีลูกค้าและกระบวนการใหม่เป็นหลักฐานการใช้งานอุตสาหกรรม ต่างจากสายโทรศัพท์ Lens ที่เผยแพร่แล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightmaster-t100-facade-painting-robot-100-meters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/embo-110m-robot-world-models-a16z-nvidia-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-768x512.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xsquare-wall-oss-1-model-xr-harness-launch-20261123",
+      "storyKey": "xsquare-wall-oss-1-model-xr-harness-launch-20261123",
+      "originalTitle": "X Square Launches WALL-OSS-1.0 for General Robot Tasks",
+      "urls": [
+        "https://robotsbeat.com/x-square-wall-oss-1-0-robot-model-xr-harness/"
+      ],
+      "references": [
+        "https://robotsbeat.com/x-square-wall-oss-1-0-robot-model-xr-harness/",
+        "https://x2robot.com/en/blog/wall-oss-1"
+      ],
+      "publishedAt": "2026-11-23T19:07:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "เปิดโมเดลรุ่นใหม่และระบบควบคุมงานพร้อมข้อมูลประเมิน ต่างจากเครื่องมือ benchmark X2Real เดิม",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/tesla-optimus-musk-best-product-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightmaster-t100-facade-painting-robot-100-meters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/embo-110m-robot-world-models-a16z-nvidia-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "coprod-6m-preseed-modular-hardware-20261123",
+      "storyKey": "coprod-6m-preseed-modular-hardware-20261123",
+      "originalTitle": "coprod Raises $6M to Simplify Building Robot Hardware",
+      "urls": [
+        "https://robotsbeat.com/coprod-6m-pre-seed-modular-robot-hardware-cosystem/"
+      ],
+      "references": [
+        "https://robotsbeat.com/coprod-6m-pre-seed-modular-robot-hardware-cosystem/",
+        "https://www.prnewswire.com/news-releases/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software-302947694.html"
+      ],
+      "publishedAt": "2026-11-23T13:25:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "ทุนมีมูลค่าและผู้ลงทุนระบุชัด พร้อมรายละเอียดโมดูลและแผนจำหน่ายที่เกี่ยวกับนักพัฒนาหุ่นยนต์",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/simplexity-robotics-ix-ant-group-funding-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightai-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/megarobo-nearly-200m-funding-ai-robotic-laboratories-oman-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-300x200.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/nuro-lucid-uber-driverless-robotaxi-bay-area-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/xpeng-iron-ai-day-q2-2027-launch-1200x800-1.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/symbotic-first-annual-profit-warehouse-robotics-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/brightmaster-t100-facade-painting-robot-100-meters-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1-720x450.jpg",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://robotsbeat.com/wp-content/uploads/2026/11/coprod-modular-robot-hardware-funding-workshop-1200x800-1-768x512.jpg",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "schneider-aws-open-software-defined-automation-20261125",
+      "storyKey": "schneider-aws-open-software-defined-automation-20261125",
+      "originalTitle": "Manufacturers can scale Industrial Intelligence faster with Schneider Electric Open Software-Defined Automation on AWS",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/25/manufacturers-can-scale-industrial-intelligence-faster-with-schneider-electric-open-software-defined-automation-on-aws/27436/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/25/manufacturers-can-scale-industrial-intelligence-faster-with-schneider-electric-open-software-defined-automation-on-aws/27436/"
+      ],
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "ประกาศการเชื่อม OT กับ cloud ที่กำหนดขอบเขตการควบคุมในโรงงานชัดเจนและเกี่ยวข้องกับการขยายระบบอัตโนมัติ",
+      "score": 16,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/resindek-panels-the-flooring-solution-for-robotic-platforms.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bentic-nearly-100-deployed-robots-us-expansion-20261124",
+      "storyKey": "bentic-nearly-100-deployed-robots-us-expansion-20261124",
+      "originalTitle": "Emerald Portfolio Company bentic Advances Physical AI Capabilities with nearly 100 Robots Deployed",
+      "urls": [
+        "https://www.roboticstomorrow.com/news/2026/11/24/emerald-portfolio-company-bentic-advances-physical-ai-capabilities-with-nearly-100-robots-deployed/27434/"
+      ],
+      "references": [
+        "https://www.roboticstomorrow.com/news/2026/11/24/emerald-portfolio-company-bentic-advances-physical-ai-capabilities-with-nearly-100-robots-deployed/27434/"
+      ],
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "มีจำนวนติดตั้งในไซต์ผลิตและแนวทางจัดการวัสดุเปลี่ยนรูป พร้อมแยกแผนขยายตลาดออกจากผลที่เกิดแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://www.roboticstomorrow.com/images/site-logo.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/products/palladyne-iq-unlocking-new-frontiers-for-robotic-performance.jpg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/Newsletter_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/WhitePapers_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/EventsCalendar_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/News_Button.jpg",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/x_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/linkedin_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/newsletter_icon.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.roboticstomorrow.com/images/site icons/bth footer ad with all mags.png",
+            "reason": "site-decoration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125",
+      "storyKey": "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125",
+      "originalTitle": "XPENG Details Mass-Production IRON Humanoid at AI Day 2026, Confirms Unisex Form Factor and VLA 3.0",
+      "urls": [
+        "https://www.humanoidsdaily.com/news/xpeng-details-mass-production-iron-humanoid-at-ai-day-2026-confirms-unisex-form-factor-and-vla-3-0"
+      ],
+      "references": [
+        "https://www.humanoidsdaily.com/news/xpeng-details-mass-production-iron-humanoid-at-ai-day-2026-confirms-unisex-form-factor-and-vla-3-0"
+      ],
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "AI Day มีการสาธิตสด ยืนยันรูปแบบตัวหุ่นและ VLA 3.0 ใหม่ ต่างจากข่าวท่าทาง VLA 2 และแบตเตอรี่ล็อตเล็กเดิม",
+      "score": 18,
+      "mediaAudit": {
+        "images": 4,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "avatar"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/lockup-full-dark.svg",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fxpeng-1788712682508.webp&w=96&q=75",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=384&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=640&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=750&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=828&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1080&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1200&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Ffigure.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=384&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=640&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=750&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=828&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1080&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1200&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fapptronik.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=384&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=640&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=750&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=828&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1080&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1200&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fstandardbots.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=384&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=640&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=750&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=828&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1080&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1200&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=%2Fstatic%2Fsponsors%2Frobostrategy%2Fdyna.webp&w=1920&q=75",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fxpeng-1788712682508.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flogos%2Fxpeng-1788712682508.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Firon-7.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Ffirst-iron.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Flc-mi.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fxpeng-lineup-2026.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fneo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fbrett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fhumanoids-summit-2026-silicon-valley-poster-pD2dGEf3h9KcMSamZQUtCAVXoYlPag.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fgenki-robotics-humanoid-takaichi-kantei-f3QZ6x0ekyom2rPYpFbsOMZvVbFcRr.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=32&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=48&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=64&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=96&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=128&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=256&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=384&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=640&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=750&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=828&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=1080&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=1200&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fphd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp&w=1920&q=75",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/figure.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/apptronik.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/standardbots.h264.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.av1.mp4",
+            "reason": "advertisement"
+          },
+          {
+            "url": "https://www.humanoidsdaily.com/static/sponsors/robostrategy/dyna.h264.mp4",
+            "reason": "advertisement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "embo-110m-seed-world-model-robot-brain-20261123",
+      "storyKey": "embo-110m-seed-world-model-robot-brain-20261123",
+      "originalTitle": "Introducing Embo",
+      "urls": [
+        "https://embo.com/introducing-embo"
+      ],
+      "references": [
+        "https://embo.com/introducing-embo"
+      ],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "ทุน Seed ขนาดใหญ่และแนวทาง world model มีรายละเอียดจากประกาศบริษัท แต่แยกเป้าหมายจากผลสำเร็จแล้ว",
+      "score": 17,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": []
+      }
+    },
+    {
+      "id": "nuro-lucid-uber-driverless-public-road-tests-20261124",
+      "storyKey": "nuro-lucid-uber-driverless-public-road-tests-20261124",
+      "originalTitle": "Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area",
+      "urls": [
+        "https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads"
+      ],
+      "references": [
+        "https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads"
+      ],
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "การถอดคนขับสำรองเป็นขั้นใหม่บนถนนจริง มีพื้นที่ทดสอบระบุชัดและแยกจากบริการเชิงพาณิชย์",
+      "score": 18,
+      "mediaAudit": {
+        "images": 1,
+        "videos": 0,
+        "excluded": [
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/005.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "duplicate"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/Rajiv_Cutline.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2560&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=2240&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1920&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1680&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1440&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=1024&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=768&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=425&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          },
+          {
+            "url": "https://nuro.imgix.net/LM26-172_UberNuroHouston_NUR00855.jpg?w=210&fit=max&auto=format&q=45",
+            "reason": "related-story"
+          }
+        ]
+      }
+    },
+    {
+      "id": "symbotic-first-full-year-gaap-profit-fy2026",
+      "storyKey": "symbotic-first-full-year-gaap-profit-fy2026",
+      "originalTitle": "Symbotic Reports Fourth Quarter and Fiscal Year 2026 Results",
+      "urls": [
+        "https://markets.ft.markitdigital.com/data/announce/detail?dockey=1330-9883611en-5OB1D1EKGQGEOMK7VVOPLT175R"
+      ],
+      "references": [
+        "https://markets.ft.markitdigital.com/data/announce/detail?dockey=1330-9883611en-5OB1D1EKGQGEOMK7VVOPLT175R"
+      ],
+      "publishedAt": "2026-11-23T20:01:00Z",
+      "addedAt": "2026-11-25T23:09:45.490Z",
+      "runId": "2026-11-26",
+      "reason": "ผลประกอบการรายปีใหม่มีตัวเลขรายได้และกำไรแยกมาตรฐาน ชี้ความคืบหน้าเชิงธุรกิจหุ่นยนต์คลังสินค้า",
+      "score": 17,
+      "mediaAudit": {
+        "images": 0,
+        "videos": 1,
+        "excluded": [
+          {
+            "url": "https://www.globenewswire.com/newsroom/ti?nf=OTg4MzYxMSM3OTgyNjA2IzIyNDQ5MDI=",
+            "reason": "tracking"
+          },
+          {
+            "url": "https://ml.globenewswire.com/media/OTZlMWM5YzEtMjQ2NC00NGVlLWEzNDYtODEzZWI5ODk2ZTk4LTEyNTY0NTUtMjAyNi0xMS0yMy1lbg==/tiny/Symbotic-LLC.png",
+            "reason": "site-decoration"
+          },
+          {
+            "url": "https://markets.ft.markitdigital.com/data/images/pulse",
+            "reason": "tracking"
+          }
+        ]
+      }
     }
   ],
   "runs": [
@@ -29546,6 +31273,23 @@
         "nestle-orbe-deep-tech-centre-opening-20261122",
         "reachy-mini-ros2-lyrical-stack-release-20261122",
         "hallym-blue-robin-mock-ward-prototype-test-20261122"
+      ]
+    },
+    {
+      "runId": "2026-11-26",
+      "batchHash": "ee827c77dba8dd93c8b905f8d4699bcdf459d58ee7241887d3fc633d00a726ff",
+      "preparedAt": "2026-11-25T23:09:45.490Z",
+      "articleIds": [
+        "ur-inbolt-native-gen7-vision-integration-20261124",
+        "agibot-g2-jcet-chip-testing-trial-20261123",
+        "xsquare-wall-oss-1-model-xr-harness-launch-20261123",
+        "coprod-6m-preseed-modular-hardware-20261123",
+        "schneider-aws-open-software-defined-automation-20261125",
+        "bentic-nearly-100-deployed-robots-us-expansion-20261124",
+        "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125",
+        "embo-110m-seed-world-model-robot-brain-20261123",
+        "nuro-lucid-uber-driverless-public-road-tests-20261124",
+        "symbotic-first-full-year-gaap-profit-fy2026"
       ]
     }
   ]

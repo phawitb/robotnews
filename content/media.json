@@ -5356,5 +5356,124 @@
       }
     ],
     "videos": []
+  },
+  "ur-inbolt-native-gen7-vision-integration-20261124": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1.jpg",
+        "alt": "แขน UR พร้อมอุปกรณ์ Inbolt",
+        "caption": "แขน UR พร้อมอุปกรณ์ Inbolt · ภาพ: Universal Robots / Inbolt via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "agibot-g2-jcet-chip-testing-trial-20261123": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1.jpg",
+        "alt": "ภาพประกอบหุ่นยนต์ AGIBOT ไม่ใช่ภาพยืนยันสายผลิต JCET",
+        "caption": "ภาพประกอบหุ่นยนต์ AGIBOT ไม่ใช่ภาพยืนยันสายผลิต JCET · ภาพ: AGIBOT via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "xsquare-wall-oss-1-model-xr-harness-launch-20261123": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1.jpg",
+        "alt": "แขนหุ่นยนต์กับสิ่งของบนโต๊ะในสื่อแนะนำ WALL-OSS",
+        "caption": "แขนหุ่นยนต์กับสิ่งของบนโต๊ะในสื่อแนะนำ WALL-OSS · ภาพ: X Square via RobotsBeat"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/watch?v=TCWIQF9cfBM",
+        "title": "วิดีโอแนะนำ WALL-OSS-1.0",
+        "embed": "https://www.youtube-nocookie.com/embed/TCWIQF9cfBM",
+        "sourceUrl": "https://www.youtube.com/embed/TCWIQF9cfBM?rel=0"
+      }
+    ]
+  },
+  "coprod-6m-preseed-modular-hardware-20261123": {
+    "images": [
+      {
+        "url": "https://robotsbeat.com/wp-content/uploads/2026/11/coprod-modular-robot-hardware-funding-workshop-1200x800-1.jpg",
+        "alt": "ทีม coprod ในพื้นที่พัฒนาฮาร์ดแวร์",
+        "caption": "ทีม coprod ในพื้นที่พัฒนาฮาร์ดแวร์ · ภาพ: coprod via RobotsBeat"
+      }
+    ],
+    "videos": []
+  },
+  "schneider-aws-open-software-defined-automation-20261125": {
+    "images": [],
+    "videos": []
+  },
+  "bentic-nearly-100-deployed-robots-us-expansion-20261124": {
+    "images": [],
+    "videos": []
+  },
+  "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125": {
+    "images": [
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/595c9b8c-bdbb-4fe1-8e81-5fc658705d8d.webp",
+        "alt": "IRON ถือไมโครโฟนบนเวที AI Day 2026",
+        "caption": "IRON ถือไมโครโฟนบนเวที AI Day 2026 · ภาพ: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/57b8b77e-8dc0-4884-9853-730161785036.webp",
+        "alt": "He Xiaopeng ยืนข้าง IRON ที่แสดงดวงตาบนหน้ากาก",
+        "caption": "He Xiaopeng ยืนข้าง IRON ที่แสดงดวงตาบนหน้ากาก · ภาพ: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/4e729c88-d8a2-4bce-b1ea-0df7d6b5f76c.webp",
+        "alt": "IRON สนทนาบนเวทีหน้าภาพแสดงท่านั่ง",
+        "caption": "IRON สนทนาบนเวทีหน้าภาพแสดงท่านั่ง · ภาพ: XPENG via Humanoids Daily"
+      },
+      {
+        "url": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/43855075-56e2-42c7-b996-a288df4d56c5.webp",
+        "alt": "ด้านหลัง IRON พร้อมอุปกรณ์ส่งสัญญาณบนเวที",
+        "caption": "ด้านหลัง IRON พร้อมอุปกรณ์ส่งสัญญาณบนเวที · ภาพ: XPENG via Humanoids Daily"
+      }
+    ],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://x.com/humanoidsdaily/status/2125620527628992573",
+        "title": "คลิป IRON จากการรายงานสด AI Day ของ Humanoids Daily",
+        "note": "เปิดชมสื่อบนเว็บไซต์ต้นฉบับ อาจต้องเข้าสู่ระบบหรือยอมรับเงื่อนไขของผู้ให้บริการ"
+      }
+    ]
+  },
+  "embo-110m-seed-world-model-robot-brain-20261123": {
+    "images": [
+      {
+        "url": "https://embo.com/images/posts/introducing-embo/banner.jpg",
+        "alt": "ภาพกราฟิกประกอบการเปิดตัว Embo",
+        "caption": "ภาพกราฟิกประกอบการเปิดตัว Embo · ภาพ: Embo"
+      }
+    ],
+    "videos": []
+  },
+  "nuro-lucid-uber-driverless-public-road-tests-20261124": {
+    "images": [
+      {
+        "url": "https://nuro.imgix.net/005.jpg?w=2560&fit=max&auto=format&q=45",
+        "alt": "มุมมองภายในรถและหน้าจอระบบขับขี่ในประกาศ Nuro",
+        "caption": "มุมมองภายในรถและหน้าจอระบบขับขี่ในประกาศ Nuro · ภาพ: Nuro"
+      }
+    ],
+    "videos": []
+  },
+  "symbotic-first-full-year-gaap-profit-fy2026": {
+    "images": [],
+    "videos": [
+      {
+        "kind": "link",
+        "url": "https://edge.media-server.com/mmc/go/symbotic-q4-2026",
+        "title": "เว็บแคสต์ผลประกอบการไตรมาสสี่และปีงบประมาณ 2026",
+        "note": "เปิดชมสื่อบนเว็บไซต์ต้นฉบับ อาจต้องเข้าสู่ระบบหรือยอมรับเงื่อนไขของผู้ให้บริการ"
+      }
+    ]
   }
 }

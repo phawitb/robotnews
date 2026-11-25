@@ -3548,5 +3548,115 @@
     "url": "https://health.chosun.com/english/site/data/html_dir/2026/11/20/2026112000994.html",
     "image": "https://health.chosun.com/english/site/data/img_dir/2026/11/20/2026112000985_0.webp",
     "addedAt": "2026-11-21T23:15:59.725Z"
+  },
+  {
+    "id": "ur-inbolt-native-gen7-vision-integration-20261124",
+    "category": "industrial-robots",
+    "title": "UR รวม Inbolt บนคอนโทรลเลอร์ Gen 7 ลดคอมพิวเตอร์แยกสำหรับระบบมองเห็น",
+    "summary": "Inbolt Standard ทำงานบน CB7 Core และตั้งค่าผ่าน PolyScope X ได้ โดยยังต้องเลือกกล้องและฮาร์ดแวร์ให้ตรงกับงาน",
+    "source": "RobotsBeat",
+    "date": "2026-11-25",
+    "url": "https://robotsbeat.com/universal-robots-inbolt-gen-7-native-3d-vision-controller/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/universal-robots-inbolt-gen7-3d-vision-1200x800-1.jpg",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "agibot-g2-jcet-chip-testing-trial-20261123",
+    "category": "industrial-robots",
+    "title": "AGIBOT G2 ทดลองเชื่อมสายทดสอบชิปที่โรงงาน JCET ในเซี่ยงไฮ้",
+    "summary": "หุ่นยนต์จัดการถาดเข้า–ออกและแยกผลทดสอบในโรงงานอิเล็กทรอนิกส์ยานยนต์ ยังไม่มีตัวเลขกำลังผลิตระยะยาว",
+    "source": "RobotsBeat",
+    "date": "2026-11-24",
+    "url": "https://robotsbeat.com/agibot-g2-jcet-chip-testing-robot-trial-shanghai/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/agibot-g2-jcet-chip-testing-trial-1200x800-1.jpg",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "xsquare-wall-oss-1-model-xr-harness-launch-20261123",
+    "category": "ai-automation",
+    "title": "X Square เปิด WALL-OSS-1.0 พร้อม XR Harness สำหรับงานหุ่นยนต์หลายขั้นตอน",
+    "summary": "โมเดลเชื่อมภาพ ภาษา และการกระทำ พร้อมรายงานผล zero-shot ของบริษัทที่ต้องอ่านตามขอบเขตการทดสอบ",
+    "source": "RobotsBeat",
+    "date": "2026-11-23",
+    "url": "https://robotsbeat.com/x-square-wall-oss-1-0-robot-model-xr-harness/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/x-square-wall-oss-1-0-xr-harness-robot-demo-1200x800-1.jpg",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "coprod-6m-preseed-modular-hardware-20261123",
+    "category": "industry-news",
+    "title": "coprod ระดมทุน 6 ล้านดอลลาร์ พัฒนาชิ้นส่วนหุ่นยนต์แบบโมดูล",
+    "summary": "co:system รวมส่วนขับเคลื่อน เซนเซอร์ และพลังงาน พร้อมตั้งเป้าเริ่มขายในปี 2027",
+    "source": "RobotsBeat",
+    "date": "2026-11-23",
+    "url": "https://robotsbeat.com/coprod-6m-pre-seed-modular-robot-hardware-cosystem/",
+    "image": "https://robotsbeat.com/wp-content/uploads/2026/11/coprod-modular-robot-hardware-funding-workshop-1200x800-1.jpg",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "schneider-aws-open-software-defined-automation-20261125",
+    "category": "ai-automation",
+    "title": "Schneider เชื่อมระบบอัตโนมัติแบบซอฟต์แวร์กับ AWS โดยคงงานควบคุมเร่งด่วนไว้ในโรงงาน",
+    "summary": "EcoStruxure Automation Expert เชื่อมบริการ AI และ edge เพื่อใช้แอปพลิเคชันซ้ำข้ามเครื่องจักรและโรงงาน",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-25",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/25/manufacturers-can-scale-industrial-intelligence-faster-with-schneider-electric-open-software-defined-automation-on-aws/27436/",
+    "image": "",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "bentic-nearly-100-deployed-robots-us-expansion-20261124",
+    "category": "industrial-robots",
+    "title": "bentic รายงานหุ่นยนต์เกือบ 100 ตัวในไซต์ผลิต เตรียมส่งระบบแรกเข้าสหรัฐฯ",
+    "summary": "แพลตฟอร์ม JUPITER เรียนรู้จากงานอุตสาหกรรมเพื่อจัดการวัสดุที่เปลี่ยนรูป เช่น ผ้าและสายเคเบิล",
+    "source": "RoboticsTomorrow",
+    "date": "2026-11-24",
+    "url": "https://www.roboticstomorrow.com/news/2026/11/24/emerald-portfolio-company-bentic-advances-physical-ai-capabilities-with-nearly-100-robots-deployed/27434/",
+    "image": "",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "xpeng-iron-ai-day-vla3-unisex-production-plan-20261125",
+    "category": "humanoids",
+    "title": "XPENG เผย IRON ใน AI Day ใช้รูปแบบเดียวและ VLA 3.0 ตั้งเป้าผลิตมกราคม 2027",
+    "summary": "การสาธิตสดยืนยันแบบตัวหุ่นใหม่ พร้อมแผนทดลองในร้าน แต่ระบบสนทนายังมีจุดที่ต้องปรับ",
+    "source": "Humanoids Daily",
+    "date": "2026-11-25",
+    "url": "https://www.humanoidsdaily.com/news/xpeng-details-mass-production-iron-humanoid-at-ai-day-2026-confirms-unisex-form-factor-and-vla-3-0",
+    "image": "https://www.humanoidsdaily.com/api/article-media/2a2296de-6eef-4a22-9760-00e369fd7e4b/595c9b8c-bdbb-4fe1-8e81-5fc658705d8d.webp",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "embo-110m-seed-world-model-robot-brain-20261123",
+    "category": "ai-automation",
+    "title": "Embo เปิดตัวพร้อมทุน Seed 110 ล้านดอลลาร์ พัฒนาโมเดลโลกสำหรับหุ่นยนต์",
+    "summary": "a16z นำลงทุนในแนวทางเรียนจากวิดีโอและฝึกในสถานการณ์จำลองที่โมเดลสร้างขึ้น โดยยังไม่เปิดผลทดสอบมาตรฐาน",
+    "source": "Embo",
+    "date": "2026-11-23",
+    "url": "https://embo.com/introducing-embo",
+    "image": "https://embo.com/images/posts/introducing-embo/banner.jpg",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "nuro-lucid-uber-driverless-public-road-tests-20261124",
+    "category": "ai-automation",
+    "title": "Nuro, Lucid และ Uber เริ่มทดสอบรถไร้คนขับสำรองบนถนน Bay Area",
+    "summary": "รถ Lucid Gravity เข้าสู่ขั้นไม่มีผู้ขับสำรองในรถ โดยบริการผู้โดยสารทั่วไปยังตั้งเป้าไตรมาสแรกปี 2027",
+    "source": "Nuro",
+    "date": "2026-11-24",
+    "url": "https://www.nuro.ai/blog/nuro-lucid-uber-begin-driverless-testing-on-public-roads",
+    "image": "https://nuro.imgix.net/005.jpg?w=2560&fit=max&auto=format&q=45",
+    "addedAt": "2026-11-25T23:09:45.490Z"
+  },
+  {
+    "id": "symbotic-first-full-year-gaap-profit-fy2026",
+    "category": "industry-news",
+    "title": "Symbotic ทำกำไร GAAP เต็มปีครั้งแรก รายได้ปีงบประมาณ 2026 ราว 2.8 พันล้านดอลลาร์",
+    "summary": "ผลประกอบการระบบหุ่นยนต์คลังสินค้าเติบโต 25% โดยบริษัทคาดรายได้ไตรมาสถัดไป 805–825 ล้านดอลลาร์",
+    "source": "GlobeNewswire / Symbotic",
+    "date": "2026-11-23",
+    "url": "https://markets.ft.markitdigital.com/data/announce/detail?dockey=1330-9883611en-5OB1D1EKGQGEOMK7VVOPLT175R",
+    "image": "",
+    "addedAt": "2026-11-25T23:09:45.490Z"
   }
 ]
